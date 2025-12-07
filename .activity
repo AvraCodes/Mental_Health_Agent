@@ -3688,3 +3688,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2025-12-07T16:06:00+05:30 | style: fix formatting
 2025-12-07T16:07:00+05:30 | fix: edge case handling
 2025-12-07T16:08:00+05:30 | refactor: simplify logic
+2025-12-07T16:09:00+05:30 | docs: clarify readme
