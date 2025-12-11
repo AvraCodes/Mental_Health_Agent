@@ -3740,3 +3740,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2025-12-10T16:02:00+05:30 | chore: update dependencies
 2025-12-10T16:03:00+05:30 | refactor: simplify logic
 2025-12-11T16:01:00+05:30 | style: fix formatting
+2025-12-11T16:02:00+05:30 | docs: clarify readme
