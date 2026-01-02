@@ -326,3 +326,4 @@
 2026-01-02T12:01:00+05:30 | style: consistent quotes
 2026-01-02T12:02:00+05:30 | docs: update comments
 2026-01-02T12:03:00+05:30 | docs: fix broken link
+2026-01-02T12:04:00+05:30 | fix: null check
