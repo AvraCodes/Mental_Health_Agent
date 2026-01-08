@@ -366,3 +366,4 @@
 2026-01-07T12:05:00+05:30 | refactor: reduce nesting
 2026-01-07T12:06:00+05:30 | style: fix formatting
 2026-01-07T12:07:00+05:30 | refactor: rename variable
+2026-01-08T12:01:00+05:30 | refactor: extract helper
