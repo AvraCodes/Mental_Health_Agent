@@ -560,3 +560,4 @@
 2026-02-06T12:05:00+05:30 | style: whitespace
 2026-02-06T12:06:00+05:30 | docs: update usage notes
 2026-02-06T12:07:00+05:30 | refactor: simplify logic
+2026-02-06T12:08:00+05:30 | fix: off-by-one error
