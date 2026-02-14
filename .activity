@@ -4415,3 +4415,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-02-13T16:26:00+05:30 | chore: update dependencies
 2026-02-13T16:27:00+05:30 | style: adjust spacing
 2026-02-14T16:01:00+05:30 | refactor: clean up unused imports
+2026-02-14T16:02:00+05:30 | docs: clarify readme
