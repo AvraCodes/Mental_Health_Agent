@@ -620,3 +620,4 @@
 2026-02-16T12:01:00+05:30 | fix: null check
 2026-02-16T12:02:00+05:30 | refactor: extract helper
 2026-02-16T12:03:00+05:30 | docs: add inline docs
+2026-02-16T12:04:00+05:30 | docs: fix broken link
