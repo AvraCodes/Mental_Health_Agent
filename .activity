@@ -4477,3 +4477,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-02-19T16:06:00+05:30 | docs: clarify readme
 2026-02-19T16:07:00+05:30 | fix: minor typo
 2026-02-19T16:08:00+05:30 | fix: edge case handling
+2026-02-19T16:09:00+05:30 | style: fix formatting
