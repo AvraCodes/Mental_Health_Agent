@@ -4861,3 +4861,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-03-30T16:02:00+05:30 | refactor: clean up unused imports
 2026-03-31T16:01:00+05:30 | docs: update comments
 2026-03-31T16:02:00+05:30 | docs: clarify readme
+2026-03-31T16:03:00+05:30 | fix: edge case handling
