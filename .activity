@@ -1026,3 +1026,4 @@
 2026-04-17T12:01:00+05:30 | style: fix formatting
 2026-04-17T12:02:00+05:30 | fix: edge case handling
 2026-04-17T12:03:00+05:30 | refactor: simplify logic
+2026-04-17T12:04:00+05:30 | refactor: extract helper
