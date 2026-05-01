@@ -1113,3 +1113,4 @@
 2026-04-30T12:06:00+05:30 | docs: update usage notes
 2026-05-01T12:01:00+05:30 | fix: null check
 2026-05-01T12:02:00+05:30 | refactor: rename variable
+2026-05-01T12:03:00+05:30 | fix: off-by-one error
