@@ -2230,3 +2230,4 @@ test2
 2026-05-27T14:27:00+05:30 | fix: minor typo
 2026-05-27T14:28:00+05:30 | docs: clarify readme
 2026-05-29T14:01:00+05:30 | docs: clarify readme
+2026-05-29T14:02:00+05:30 | refactor: clean up unused imports
