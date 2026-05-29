@@ -1298,3 +1298,4 @@
 2026-05-28T12:02:00+05:30 | docs: add inline docs
 2026-05-28T12:03:00+05:30 | style: lint fixes
 2026-05-29T12:01:00+05:30 | refactor: rename variable
+2026-05-29T12:02:00+05:30 | fix: off-by-one error
