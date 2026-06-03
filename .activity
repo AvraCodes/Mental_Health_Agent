@@ -182,3 +182,4 @@
 2026-06-03T12:02:00+05:30 | docs: update comments
 2026-06-03T12:03:00+05:30 | refactor: reduce nesting
 2026-06-03T12:04:00+05:30 | chore: bump version
+2026-06-03T12:05:00+05:30 | fix: null check
