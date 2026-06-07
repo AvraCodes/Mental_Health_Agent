@@ -1358,3 +1358,4 @@
 2026-06-07T12:03:00+05:30 | refactor: reduce nesting
 2026-06-07T12:04:00+05:30 | fix: off-by-one error
 2026-06-07T12:05:00+05:30 | refactor: extract helper
+2026-06-07T12:06:00+05:30 | fix: null check
