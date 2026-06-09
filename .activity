@@ -207,3 +207,4 @@
 2026-06-08T12:02:00+05:30 | style: fix formatting
 2026-06-08T12:03:00+05:30 | fix: null check
 2026-06-09T12:01:00+05:30 | style: adjust spacing
+2026-06-09T12:02:00+05:30 | fix: off-by-one error
