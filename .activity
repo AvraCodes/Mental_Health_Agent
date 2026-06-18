@@ -252,3 +252,4 @@
 2026-06-17T12:04:00+05:30 | fix: edge case handling
 2026-06-17T12:05:00+05:30 | docs: add inline docs
 2026-06-17T12:06:00+05:30 | style: fix formatting
+2026-06-18T12:01:00+05:30 | refactor: extract helper
