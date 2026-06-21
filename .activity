@@ -1445,3 +1445,4 @@
 2026-06-20T12:07:00+05:30 | refactor: clean up unused imports
 2026-06-21T12:01:00+05:30 | docs: update usage notes
 2026-06-21T12:02:00+05:30 | docs: fix broken link
+2026-06-21T12:03:00+05:30 | refactor: extract helper
