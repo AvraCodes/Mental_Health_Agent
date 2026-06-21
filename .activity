@@ -261,3 +261,4 @@
 2026-06-20T12:01:00+05:30 | docs: add inline docs
 2026-06-20T12:02:00+05:30 | style: adjust spacing
 2026-06-20T12:03:00+05:30 | style: whitespace
+2026-06-21T12:01:00+05:30 | fix: off-by-one error
