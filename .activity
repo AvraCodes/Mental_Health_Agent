@@ -276,3 +276,4 @@
 2026-06-23T12:02:00+05:30 | docs: fix broken link
 2026-06-23T12:03:00+05:30 | docs: update usage notes
 2026-06-23T12:04:00+05:30 | chore: regenerate lockfile
+2026-06-23T12:05:00+05:30 | fix: null check
