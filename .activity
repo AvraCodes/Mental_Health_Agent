@@ -1495,3 +1495,4 @@
 2026-06-30T12:04:00+05:30 | refactor: clean up unused imports
 2026-06-30T12:05:00+05:30 | refactor: clean up unused imports
 2026-06-30T12:06:00+05:30 | style: fix formatting
+2026-06-30T12:07:00+05:30 | refactor: extract helper
