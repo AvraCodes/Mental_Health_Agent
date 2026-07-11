@@ -1560,3 +1560,4 @@
 2026-07-10T12:03:00+05:30 | style: lint fixes
 2026-07-11T12:01:00+05:30 | docs: add inline docs
 2026-07-11T12:02:00+05:30 | docs: add inline docs
+2026-07-11T12:03:00+05:30 | refactor: extract helper
