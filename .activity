@@ -1705,3 +1705,4 @@
 2026-08-03T12:02:00+05:30 | refactor: extract helper
 2026-08-03T12:03:00+05:30 | fix: null check
 2026-08-04T12:01:00+05:30 | chore: regenerate lockfile
+2026-08-04T12:02:00+05:30 | docs: update comments
