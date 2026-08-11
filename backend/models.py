@@ -46,4 +46,6 @@ class AgentResults(BaseModel):
 class ChatResponse(BaseModel):
     reply: str
     session_id: str
+    calibrated: bool = True
+    progress: int = 100
     agents: AgentResults = AgentResults()
