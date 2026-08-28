@@ -1847,3 +1847,4 @@
 2026-08-27T12:02:00+05:30 | docs: fix broken link
 2026-08-27T12:03:00+05:30 | chore: bump version
 2026-08-28T12:01:00+05:30 | chore: regenerate lockfile
+2026-08-28T12:02:00+05:30 | refactor: simplify logic
