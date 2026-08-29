@@ -1,0 +1,90 @@
+name: Daily Activity
+
+on:
+  schedule:
+    # Runs daily at a random-ish time (6:30 AM UTC = ~12:00 PM IST)
+    - cron: '30 6 * * *'
+  workflow_dispatch: # Manual trigger for testing
+
+jobs:
+  keep-alive:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Determine commit count (weighted random)
+        id: count
+        run: |
+          # Weighted distribution: ~30% high (18-26), ~50% mid (8-17), ~20% low (5-7)
+          ROLL=$(shuf -i 1-100 -n 1)
+          if [ $ROLL -le 20 ]; then
+            COMMITS=$(shuf -i 5-7 -n 1)
+          elif [ $ROLL -le 70 ]; then
+            COMMITS=$(shuf -i 8-17 -n 1)
+          else
+            COMMITS=$(shuf -i 18-26 -n 1)
+          fi
+          echo "commits=$COMMITS" >> "$GITHUB_OUTPUT"
+
+      - name: Update README timestamp
+        run: |
+          NOW=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+          sed -i "s/<!-- last-updated: .* -->/<!-- last-updated: $NOW -->/" README.md
+
+      - name: Generate commits
+        run: |
+          TOTAL=${{ steps.count.outputs.commits }}
+          echo "Will make $TOTAL commit(s)"
+
+          git config user.name "AvraCodes"
+          git config user.email "150118974+AvraCodes@users.noreply.github.com"
+
+          # First commit: README timestamp
+          git add README.md
+          git commit -m "chore: daily activity update" || echo "No README changes"
+
+          # Varied commit messages to look natural
+          MESSAGES=(
+            "refactor: clean up unused imports"
+            "style: fix formatting"
+            "chore: update dependencies"
+            "docs: update comments"
+            "fix: minor typo"
+            "refactor: simplify logic"
+            "style: adjust spacing"
+            "chore: sync config"
+            "docs: clarify readme"
+            "fix: edge case handling"
+            "refactor: extract helper"
+            "style: lint fixes"
+            "chore: bump version"
+            "docs: add inline docs"
+            "fix: null check"
+            "refactor: rename variable"
+            "style: consistent quotes"
+            "chore: cleanup"
+            "docs: update usage notes"
+            "fix: off-by-one error"
+            "refactor: reduce nesting"
+            "style: whitespace"
+            "chore: regenerate lockfile"
+            "docs: fix broken link"
+            "fix: boundary condition"
+          )
+
+          for i in $(seq 2 $TOTAL); do
+            IDX=$(( (RANDOM + i) % ${#MESSAGES[@]} ))
+            MSG="${MESSAGES[$IDX]}"
+            STAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+            echo "$STAMP | $MSG" >> .activity
+            git add .activity
+            git commit -m "$MSG"
+            sleep 1
+          done
+
+      - name: Push changes
+        run: git push

@@ -87,3 +87,5 @@ uvicorn backend.main:app --reload --port 8000
 - **RAG layer** uses ChromaDB (cosine similarity) + Google `text-embedding-004` for semantic search over mental health literature.
 - **Memory** stores session history in-memory and long-term user facts in a separate ChromaDB collection.
 - **Safety** — crisis agent runs first on every message; system prompts prohibit diagnosis/medication advice.
+
+<!-- last-updated: 2026-08-28T00:00:00Z -->
