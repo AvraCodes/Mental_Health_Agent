@@ -5206,3 +5206,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-08-30T12:08:24Z | refactor: simplify logic
 2026-08-30T12:08:25Z | fix: minor typo
 2026-08-30T12:08:26Z | chore: update dependencies
+2026-08-30T12:08:27Z | fix: null check
