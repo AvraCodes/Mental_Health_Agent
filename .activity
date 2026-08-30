@@ -5210,3 +5210,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-08-30T12:08:28Z | refactor: simplify logic
 2026-08-30T12:08:29Z | refactor: simplify logic
 2026-08-30T12:08:30Z | docs: fix broken link
+2026-08-30T12:08:31Z | fix: boundary condition
