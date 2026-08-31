@@ -5219,3 +5219,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-08-31T14:17:42Z | refactor: extract helper
 2026-08-31T14:17:43Z | docs: update usage notes
 2026-08-31T14:17:44Z | docs: clarify readme
+2026-08-31T14:17:45Z | fix: boundary condition
