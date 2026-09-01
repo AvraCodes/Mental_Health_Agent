@@ -5239,3 +5239,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-09-01T11:55:03Z | style: fix formatting
 2026-09-01T11:55:04Z | style: lint fixes
 2026-09-01T11:55:05Z | refactor: extract helper
+2026-09-01T11:55:06Z | docs: fix broken link
