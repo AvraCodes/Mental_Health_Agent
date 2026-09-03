@@ -5270,3 +5270,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-09-03T11:33:00Z | style: whitespace
 2026-09-03T11:33:01Z | refactor: extract helper
 2026-09-03T11:33:02Z | chore: bump version
+2026-09-03T11:33:03Z | style: consistent quotes
