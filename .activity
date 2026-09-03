@@ -5253,3 +5253,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-09-03T11:32:43Z | style: whitespace
 2026-09-03T11:32:44Z | refactor: extract helper
 2026-09-03T11:32:45Z | fix: off-by-one error
+2026-09-03T11:32:46Z | docs: add inline docs
