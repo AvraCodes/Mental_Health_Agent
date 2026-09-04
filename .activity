@@ -5281,3 +5281,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-09-04T11:35:18Z | style: lint fixes
 2026-09-04T11:35:19Z | docs: add inline docs
 2026-09-04T11:35:20Z | chore: regenerate lockfile
+2026-09-04T11:35:21Z | refactor: reduce nesting
