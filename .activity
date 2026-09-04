@@ -5274,3 +5274,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-09-04T11:35:11Z | refactor: clean up unused imports
 2026-09-04T11:35:12Z | fix: null check
 2026-09-04T11:35:13Z | docs: fix broken link
+2026-09-04T11:35:14Z | docs: update comments
