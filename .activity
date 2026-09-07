@@ -5328,3 +5328,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-09-07T12:55:42Z | fix: off-by-one error
 2026-09-07T12:55:43Z | fix: null check
 2026-09-07T12:55:45Z | style: whitespace
+2026-09-07T12:55:46Z | docs: update comments
