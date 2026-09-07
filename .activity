@@ -5335,3 +5335,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-09-07T12:55:50Z | fix: boundary condition
 2026-09-07T12:55:51Z | fix: boundary condition
 2026-09-07T12:55:52Z | docs: update comments
+2026-09-07T12:55:53Z | refactor: reduce nesting
