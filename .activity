@@ -5355,3 +5355,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-09-09T11:43:50Z | chore: update dependencies
 2026-09-09T11:43:51Z | fix: off-by-one error
 2026-09-09T11:43:52Z | refactor: simplify logic
+2026-09-09T11:43:53Z | docs: update usage notes
