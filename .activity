@@ -5351,3 +5351,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-09-09T11:43:46Z | style: whitespace
 2026-09-09T11:43:47Z | chore: update dependencies
 2026-09-09T11:43:48Z | docs: update comments
+2026-09-09T11:43:49Z | refactor: simplify logic
