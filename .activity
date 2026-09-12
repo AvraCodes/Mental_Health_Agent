@@ -5394,3 +5394,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-09-12T11:07:12Z | docs: fix broken link
 2026-09-12T11:07:13Z | refactor: extract helper
 2026-09-12T11:07:14Z | fix: edge case handling
+2026-09-12T11:07:15Z | docs: clarify readme
