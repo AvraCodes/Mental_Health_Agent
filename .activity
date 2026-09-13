@@ -5406,3 +5406,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-09-13T12:12:40Z | docs: add inline docs
 2026-09-13T12:12:41Z | chore: cleanup
 2026-09-13T12:12:42Z | docs: update comments
+2026-09-13T12:12:43Z | fix: edge case handling
