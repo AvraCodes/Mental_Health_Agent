@@ -5408,3 +5408,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-09-13T12:12:42Z | docs: update comments
 2026-09-13T12:12:43Z | fix: edge case handling
 2026-09-13T12:12:44Z | docs: add inline docs
+2026-09-13T12:12:45Z | refactor: extract helper
