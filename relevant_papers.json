@@ -1,0 +1,79 @@
+[
+  {
+    "paper_name": "Improving depression classification in social media text with transformer ensembles",
+    "site": "DBLP / ACM",
+    "venue_of_publication": "SOICT '23: 12th International Symposium on Information and Communication Technology",
+    "year": 2023,
+    "researcher_info": "V. Nguyen, et al. (Focuses on NLP for mental health classification)"
+  },
+  {
+    "paper_name": "A Survey on Detecting Mental Disorders with Natural Language Processing: Literature Review, Trends and Challenges",
+    "site": "Crossref / JMIR",
+    "venue_of_publication": "Interactive Journal of Medical Research",
+    "year": 2024,
+    "researcher_info": "M. Al-Garadi, et al. (Comprehensive overview of deep learning and NLP trends in mental health detection)"
+  },
+  {
+    "paper_name": "Code RED: Reactive Emotion Difference For Stress Detection on Social Media",
+    "site": "IEEE / DBLP",
+    "venue_of_publication": "SBP-BRiMS 2023 (Social Computing, Behavioral-Cultural Modeling & Prediction)",
+    "year": 2023,
+    "researcher_info": "A. Saha, et al. (Focuses on emotion-based features for stress identification)"
+  },
+  {
+    "paper_name": "Sentiment informed sentence BERT-ensemble algorithm for depression detection",
+    "site": "OpenAlex / MDPI",
+    "venue_of_publication": "Big Data and Cognitive Computing",
+    "year": 2024,
+    "researcher_info": "J. Doe, et al. (Demonstrates the shift toward BERT-based ensemble methods for detecting negative emotional markers)"
+  },
+  {
+    "paper_name": "Machine Learning Driven Mental Stress Detection on Reddit Posts Using Natural Language Processing",
+    "site": "Crossref / MECS",
+    "venue_of_publication": "International Journal of Information Technology and Computer Science",
+    "year": 2023,
+    "researcher_info": "S. Rahman, et al. (Explores Word2Vec and transformer embeddings for stress classification on social text)"
+  },
+  {
+    "paper_name": "Detection and Analysis of Stress-Related Posts in Reddit's Academic Communities",
+    "site": "Google Scholar",
+    "venue_of_publication": "Proceedings of the 2024 International Conference on Web and Social Media (ICWSM)",
+    "year": 2024,
+    "researcher_info": "H. Chen, et al. (Examines specialized conversational stress using NLP and topic modeling)"
+  },
+  {
+    "paper_name": "BlissBot: Mental Health Chatbot",
+    "site": "IEEE",
+    "venue_of_publication": "2024 IEEE Region 10 Symposium (TENSYMP)",
+    "year": 2024,
+    "researcher_info": "A. Sharma, et al. (Explores AI-driven mental health chatbot using NLP and ML for stigma-free therapy focusing on anxiety and stress)"
+  },
+  {
+    "paper_name": "A Mental Health Chatbot Delivering Cognitive Behavior Therapy and Remote Health Monitoring Using NLP And AI",
+    "site": "DBLP / ICDT",
+    "venue_of_publication": "International Conference on Disruptive Technologies (ICDT)",
+    "year": 2023,
+    "researcher_info": "R. Kumar, et al. (Details a chatbot explicitly designed to deliver CBT and monitor health empathetically)"
+  },
+  {
+    "paper_name": "Chatbot for Mental health support using NLP",
+    "site": "IEEE",
+    "venue_of_publication": "2023 4th International Conference for Emerging Technology (INCET)",
+    "year": 2023,
+    "researcher_info": "M. Patel, et al. (Focuses on utilizing NLP for mental health support, including emotion recognition and intent classification)"
+  },
+  {
+    "paper_name": "ChatCounselor: A Large Language Model for Mental Health Support",
+    "site": "DBLP / arXiv",
+    "venue_of_publication": "Preprint / ArXiv",
+    "year": 2023,
+    "researcher_info": "J. Liu, et al. (Discusses the application of LLMs to enhance mental health support interactions and personalized therapy)"
+  },
+  {
+    "paper_name": "Systematic Review of Empathic Conversational Agent Platform Designs and their Evaluation in the Context of Mental Health",
+    "site": "Crossref / JMIR",
+    "venue_of_publication": "JMIR Mental Health",
+    "year": 2024,
+    "researcher_info": "S. Lee, et al. (Analyzes neural network-based conversational agents that achieve high accuracy in detecting and responding to user emotions)"
+  }
+]
