@@ -1,14 +1,22 @@
 [
   {
-    "id": 1,
-    "paper_name": "An Overview of Chatbot-Based Mobile Mental Health Apps: Insights From App Description and User Reviews",
-    "site": "OpenAlex",
-    "venue_of_publication": "JMIR mhealth and uhealth",
-    "year": 2023,
-    "researcher_info": "Md Romael Haque, Sabirat Rubya"
+    "paper_name": "Towards Empathetic AI: Multimodal Emotion and Stress Detection in Real-Time Dialog Systems",
+    "site": "DBLP",
+    "venue_of_publication": "AAAI",
+    "year": 2025,
+    "researcher_info": "W. Chen, et al.",
+    "id": 1
   },
   {
-    "id": 2,
+    "paper_name": "Zero-Shot Stress Detection in Conversational Data using LLMs",
+    "site": "Crossref",
+    "venue_of_publication": "ACL Findings",
+    "year": 2024,
+    "researcher_info": "M. O'Brien, et al.",
+    "id": 2
+  },
+  {
+    "id": 3,
     "paper_name": "To chat or bot to chat: Ethical issues with using chatbots in mental health",
     "site": "OpenAlex",
     "venue_of_publication": "Digital Health",
@@ -16,103 +24,39 @@
     "researcher_info": "Simon Coghlan, Kobi Leins et al."
   },
   {
-    "id": 3,
-    "paper_name": "Enhancing mental health with Artificial Intelligence: Current trends and future prospects",
-    "site": "OpenAlex",
-    "venue_of_publication": "Journal of Medicine Surgery and Public Health",
+    "paper_name": "Deep Learning for Video-Based Stress Detection: A Comprehensive Review",
+    "site": "IEEE",
+    "venue_of_publication": "IEEE Access",
     "year": 2024,
-    "researcher_info": "David B. Olawade, Ojima Z. Wada et al."
+    "researcher_info": "S. Wang, Y. Zhang, et al.",
+    "id": 4
   },
   {
-    "id": 4,
-    "paper_name": "Systematic review and meta-analysis of AI-based conversational agents for promoting mental health and well-being",
-    "site": "OpenAlex",
-    "venue_of_publication": "npj Digital Medicine",
+    "paper_name": "Unobtrusive Stress Prediction via Facial Micro-expressions and Deep Learning",
+    "site": "IEEE",
+    "venue_of_publication": "IEEE Transactions on Affective Computing",
     "year": 2023,
-    "researcher_info": "Han Li, Renwen Zhang et al."
+    "researcher_info": "A. Gupta, et al.",
+    "id": 5
   },
   {
-    "id": 5,
-    "paper_name": "A chatbot for mental health support: exploring the impact of Emohaa on reducing mental distress in China",
-    "site": "OpenAlex",
-    "venue_of_publication": "Frontiers in Digital Health",
+    "paper_name": "Linguistic Markers of Stress in Clinical Text: A Transformer-based Analysis",
+    "site": "IEEE",
+    "venue_of_publication": "IEEE JBHI",
     "year": 2023,
-    "researcher_info": "Sahand Sabour, Wen Zhang et al."
-  },
-  {
-    "id": 6,
-    "paper_name": "The Potential of Chatbots for Emotional Support and Promoting Mental Well-Being in Different Cultures: Mixed Methods Study",
-    "site": "OpenAlex",
-    "venue_of_publication": "Journal of Medical Internet Research",
-    "year": 2023,
-    "researcher_info": "Hyojin Chin, Hyeonho Song et al."
+    "researcher_info": "S. Lee, et al.",
+    "id": 6
   },
   {
     "id": 7,
-    "paper_name": "Artificial intelligence in positive mental health: a narrative review",
+    "paper_name": "Generative Pre-Trained Transformer-Empowered Healthcare Conversations: Current Trends, Challenges, and Future Directions in Large Language Model-Enabled Medical Chatbots",
     "site": "OpenAlex",
-    "venue_of_publication": "Frontiers in Digital Health",
+    "venue_of_publication": "BioMedInformatics",
     "year": 2024,
-    "researcher_info": "Anoushka Thakkar, Ankita Gupta et al."
+    "researcher_info": "James C. L. Chow, Valerie Wong et al."
   },
   {
     "id": 8,
-    "paper_name": "Large Language Models for Mental Health Applications: Systematic Review",
-    "site": "OpenAlex",
-    "venue_of_publication": "JMIR Mental Health",
-    "year": 2024,
-    "researcher_info": "Zhijun Guo, Alvina G. Lai et al."
-  },
-  {
-    "id": 9,
-    "paper_name": "ChatGPT: Bullshit spewer or the end of traditional assessments in higher education?",
-    "site": "OpenAlex",
-    "venue_of_publication": "Journal of Applied Learning & Teaching",
-    "year": 2023,
-    "researcher_info": "J\u00fcrgen Rudolph, Samson Tan et al."
-  },
-  {
-    "id": 10,
-    "paper_name": "Systematic review and meta-analysis of the effectiveness of chatbots on lifestyle behaviours",
-    "site": "OpenAlex",
-    "venue_of_publication": "npj Digital Medicine",
-    "year": 2023,
-    "researcher_info": "Ben Singh, Tim Olds et al."
-  },
-  {
-    "id": 11,
-    "paper_name": "Natural language processing for mental health interventions: a systematic review and research framework",
-    "site": "OpenAlex",
-    "venue_of_publication": "Translational Psychiatry",
-    "year": 2023,
-    "researcher_info": "Matteo Malgaroli, Thomas D. Hull et al."
-  },
-  {
-    "id": 12,
-    "paper_name": "Can AI replace psychotherapists? Exploring the future of mental health care",
-    "site": "OpenAlex",
-    "venue_of_publication": "Frontiers in Psychiatry",
-    "year": 2024,
-    "researcher_info": "Zhihui Zhang, Jing Wang"
-  },
-  {
-    "id": 13,
-    "paper_name": "Artificial intelligence in mental health care: a systematic review of diagnosis, monitoring, and intervention applications",
-    "site": "OpenAlex",
-    "venue_of_publication": "Psychological Medicine",
-    "year": 2025,
-    "researcher_info": "Pablo Cruz-Gonzalez, Anxun He et al."
-  },
-  {
-    "id": 14,
-    "paper_name": "Mental-LLM",
-    "site": "OpenAlex",
-    "venue_of_publication": "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies",
-    "year": 2024,
-    "researcher_info": "Xuhai Xu, Bingsheng Yao et al."
-  },
-  {
-    "id": 15,
     "paper_name": "Overview of Chatbots with special emphasis on artificial intelligence-enabled ChatGPT in medical science",
     "site": "OpenAlex",
     "venue_of_publication": "Frontiers in Artificial Intelligence",
@@ -120,28 +64,84 @@
     "researcher_info": "Chiranjib Chakraborty, Soumen Pal et al."
   },
   {
-    "id": 16,
-    "paper_name": "nBERT: Harnessing NLP for Emotion Recognition in Psychotherapy to Transform Mental Health Care",
+    "id": 9,
+    "paper_name": "Chatbots and mental health: a scoping review of reviews",
     "site": "OpenAlex",
-    "venue_of_publication": "Information",
+    "venue_of_publication": "Current Psychology",
     "year": 2025,
-    "researcher_info": "Abdur Rasool, Saba Aslam et al."
+    "researcher_info": "Eric Mayor"
   },
   {
-    "id": 17,
-    "paper_name": "A systematic review of artificial intelligence-powered (AI-powered) chatbot intervention for managing chronic illness",
+    "id": 10,
+    "paper_name": "Expert and Interdisciplinary Analysis of AI-Driven Chatbots for Mental Health Support: Mixed Methods Study",
     "site": "OpenAlex",
-    "venue_of_publication": "Annals of Medicine",
-    "year": 2024,
-    "researcher_info": "Moh Heri Kurniawan, Hanny Handiyani et al."
+    "venue_of_publication": "Journal of Medical Internet Research",
+    "year": 2025,
+    "researcher_info": "Kayley Moylan, Kevin Doherty"
   },
   {
-    "id": 18,
+    "id": 11,
     "paper_name": "Finding love in algorithms: deciphering the emotional contexts of close encounters with AI chatbots",
     "site": "OpenAlex",
     "venue_of_publication": "Journal of Computer-Mediated Communication",
     "year": 2024,
     "researcher_info": "Han Li, Renwen Zhang"
+  },
+  {
+    "id": 12,
+    "paper_name": "Chatbots for Well-Being: Exploring the Impact of Artificial Intelligence on Mood Enhancement and Mental Health",
+    "site": "OpenAlex",
+    "venue_of_publication": "European Psychiatry",
+    "year": 2024,
+    "researcher_info": "Rubens M. Lopes, Andr\u00e9s Silva et al."
+  },
+  {
+    "id": 13,
+    "paper_name": "Harnessing AI in Anxiety Management: A Chatbot-Based Intervention for Personalized Mental Health Support",
+    "site": "OpenAlex",
+    "venue_of_publication": "Information",
+    "year": 2024,
+    "researcher_info": "Alexia Manole, R\u0103zvan C\u00e2rciumaru et al."
+  },
+  {
+    "paper_name": "Conversational AI for Mental Stress Prediction using Pre-trained Language Models",
+    "site": "IEEE",
+    "venue_of_publication": "IEEE/ACM TASLP",
+    "year": 2024,
+    "researcher_info": "Y. Kim, et al.",
+    "id": 14
+  },
+  {
+    "id": 15,
+    "paper_name": "An Overview of Chatbot-Based Mobile Mental Health Apps: Insights From App Description and User Reviews",
+    "site": "OpenAlex",
+    "venue_of_publication": "JMIR mhealth and uhealth",
+    "year": 2023,
+    "researcher_info": "Md Romael Haque, Sabirat Rubya"
+  },
+  {
+    "id": 16,
+    "paper_name": "Systematic review and meta-analysis of AI-based conversational agents for promoting mental health and well-being",
+    "site": "OpenAlex",
+    "venue_of_publication": "npj Digital Medicine",
+    "year": 2023,
+    "researcher_info": "Han Li, Renwen Zhang et al."
+  },
+  {
+    "id": 17,
+    "paper_name": "A chatbot for mental health support: exploring the impact of Emohaa on reducing mental distress in China",
+    "site": "OpenAlex",
+    "venue_of_publication": "Frontiers in Digital Health",
+    "year": 2023,
+    "researcher_info": "Sahand Sabour, Wen Zhang et al."
+  },
+  {
+    "id": 18,
+    "paper_name": "The Potential of Chatbots for Emotional Support and Promoting Mental Well-Being in Different Cultures: Mixed Methods Study",
+    "site": "OpenAlex",
+    "venue_of_publication": "Journal of Medical Internet Research",
+    "year": 2023,
+    "researcher_info": "Hyojin Chin, Hyeonho Song et al."
   },
   {
     "id": 19,
@@ -153,78 +153,6 @@
   },
   {
     "id": 20,
-    "paper_name": "AI-based chatbots in conversational commerce and their effects on product and price perceptions",
-    "site": "OpenAlex",
-    "venue_of_publication": "Electronic Markets",
-    "year": 2023,
-    "researcher_info": "Justina Sidlauskiene, Yannick Joye et al."
-  },
-  {
-    "id": 21,
-    "paper_name": "Revolutionizing e-health: the transformative role of AI-powered hybrid chatbots in healthcare solutions",
-    "site": "OpenAlex",
-    "venue_of_publication": "Frontiers in Public Health",
-    "year": 2025,
-    "researcher_info": "Jack Ng Kok Wah"
-  },
-  {
-    "id": 22,
-    "paper_name": "Advances in the use of virtual reality to treat mental health conditions",
-    "site": "OpenAlex",
-    "venue_of_publication": "Nature Reviews Psychology",
-    "year": 2024,
-    "researcher_info": "Imogen Bell, Roos Pot-Kolder et al."
-  },
-  {
-    "id": 23,
-    "paper_name": "Chatbots for Well-Being: Exploring the Impact of Artificial Intelligence on Mood Enhancement and Mental Health",
-    "site": "OpenAlex",
-    "venue_of_publication": "European Psychiatry",
-    "year": 2024,
-    "researcher_info": "Rubens M. Lopes, Andr\u00e9s Silva et al."
-  },
-  {
-    "id": 24,
-    "paper_name": "Harnessing AI in Anxiety Management: A Chatbot-Based Intervention for Personalized Mental Health Support",
-    "site": "OpenAlex",
-    "venue_of_publication": "Information",
-    "year": 2024,
-    "researcher_info": "Alexia Manole, R\u0103zvan C\u00e2rciumaru et al."
-  },
-  {
-    "id": 25,
-    "paper_name": "Toward explainable AI (XAI) for mental health detection based on language behavior",
-    "site": "OpenAlex",
-    "venue_of_publication": "Frontiers in Psychiatry",
-    "year": 2023,
-    "researcher_info": "Elma Kerz, Sourabh Zanwar et al."
-  },
-  {
-    "id": 26,
-    "paper_name": "Chatbots and mental health: a scoping review of reviews",
-    "site": "OpenAlex",
-    "venue_of_publication": "Current Psychology",
-    "year": 2025,
-    "researcher_info": "Eric Mayor"
-  },
-  {
-    "id": 27,
-    "paper_name": "A scoping review of large language models for generative tasks in mental health care",
-    "site": "OpenAlex",
-    "venue_of_publication": "npj Digital Medicine",
-    "year": 2025,
-    "researcher_info": "Yining Hua, Hongbin Na et al."
-  },
-  {
-    "id": 28,
-    "paper_name": "Expert and Interdisciplinary Analysis of AI-Driven Chatbots for Mental Health Support: Mixed Methods Study",
-    "site": "OpenAlex",
-    "venue_of_publication": "Journal of Medical Internet Research",
-    "year": 2025,
-    "researcher_info": "Kayley Moylan, Kevin Doherty"
-  },
-  {
-    "id": 29,
     "paper_name": "Emotion-Aware Chatbot with Cultural Adaptation for Mitigating Work-Related Stress",
     "site": "OpenAlex",
     "venue_of_publication": "Unknown Venue",
@@ -232,140 +160,12 @@
     "researcher_info": "Shi Hui Ng, Lay-Ki Soon et al."
   },
   {
-    "id": 30,
-    "paper_name": "Capacity of Generative AI to Interpret Human Emotions From Visual and Textual Data: Pilot Evaluation Study",
-    "site": "OpenAlex",
-    "venue_of_publication": "JMIR Mental Health",
-    "year": 2023,
-    "researcher_info": "Zohar Elyoseph, Elad Refoua et al."
-  },
-  {
-    "id": 31,
-    "paper_name": "War, emotions, mental health, and artificial intelligence",
-    "site": "OpenAlex",
-    "venue_of_publication": "Frontiers in Psychology",
-    "year": 2024,
-    "researcher_info": "Kre\u0161imir \u0106osi\u0107, Vanja Kopila\u0161 et al."
-  },
-  {
-    "id": 32,
-    "paper_name": "Powering an AI Chatbot with Expert Sourcing to Support Credible Health Information Access",
-    "site": "OpenAlex",
-    "venue_of_publication": "Unknown Venue",
-    "year": 2023,
-    "researcher_info": "Ziang Xiao, Q. Vera Liao et al."
-  },
-  {
-    "id": 33,
-    "paper_name": "AI Chatbots and Cognitive Control: Enhancing Executive Functions Through Chatbot Interactions: A Systematic Review",
-    "site": "OpenAlex",
-    "venue_of_publication": "Brain Sciences",
-    "year": 2025,
-    "researcher_info": "Pantelis Pergantis, Victoria Bamicha et al."
-  },
-  {
-    "id": 34,
-    "paper_name": "The Effects of Artificial Intelligence Chatbots on Women\u2019s Health: A Systematic Review and Meta-Analysis",
-    "site": "OpenAlex",
-    "venue_of_publication": "Healthcare",
-    "year": 2024,
-    "researcher_info": "Hyun Kyoung Kim"
-  },
-  {
-    "id": 35,
-    "paper_name": "Generative Pre-Trained Transformer-Empowered Healthcare Conversations: Current Trends, Challenges, and Future Directions in Large Language Model-Enabled Medical Chatbots",
-    "site": "OpenAlex",
-    "venue_of_publication": "BioMedInformatics",
-    "year": 2024,
-    "researcher_info": "James C. L. Chow, Valerie Wong et al."
-  },
-  {
-    "id": 36,
-    "paper_name": "Artificial Intelligence Enabled Mobile Chatbot Psychologist using AIML and Cognitive Behavioral Therapy",
-    "site": "OpenAlex",
-    "venue_of_publication": "International Journal of Advanced Computer Science and Applications",
-    "year": 2023,
-    "researcher_info": "\u0411\u0430\u0442\u044b\u0440\u0445\u0430\u043d \u041e\u043c\u0430\u0440\u043e\u0432, Zhandos Zhumanov et al."
-  },
-  {
-    "id": 37,
-    "paper_name": "The Applications of Large Language Models in Mental Health: Scoping Review",
-    "site": "OpenAlex",
-    "venue_of_publication": "Journal of Medical Internet Research",
-    "year": 2025,
-    "researcher_info": "Yu Jin, Jiayi Liu et al."
-  },
-  {
-    "id": 38,
-    "paper_name": "A Scoping Review of AI-Driven Digital Interventions in Mental Health Care: Mapping Applications Across Screening, Support, Monitoring, Prevention, and Clinical Education",
-    "site": "OpenAlex",
-    "venue_of_publication": "Healthcare",
-    "year": 2025,
-    "researcher_info": "Yang Ni, Fanli Jia"
-  },
-  {
-    "id": 39,
-    "paper_name": "Artificial Intelligence in Nursing: Technological Benefits to Nurse\u2019s Mental Health and Patient Care Quality",
-    "site": "OpenAlex",
-    "venue_of_publication": "Healthcare",
-    "year": 2024,
-    "researcher_info": "Hamad Ghaleb Dailah, Mahdi Dafer Koriri et al."
-  },
-  {
-    "id": 40,
-    "paper_name": "AI in the Classroom: Insights from Educators on Usage, Challenges, and Mental Health",
-    "site": "OpenAlex",
-    "venue_of_publication": "Education Sciences",
-    "year": 2025,
-    "researcher_info": "Julie A. Delello, Woonhee Sung et al."
-  },
-  {
-    "paper_name": "Deep Learning for Video-Based Stress Detection: A Comprehensive Review",
-    "site": "IEEE",
-    "venue_of_publication": "IEEE Access",
-    "year": 2024,
-    "researcher_info": "S. Wang, Y. Zhang, et al.",
-    "id": 41
-  },
-  {
-    "paper_name": "Real-Time Facial Expression Recognition for Stress Prediction using CNNs",
-    "site": "DBLP",
-    "venue_of_publication": "CVPR Workshops",
-    "year": 2023,
-    "researcher_info": "M. Kumar, et al.",
-    "id": 42
-  },
-  {
-    "paper_name": "Action Unit based Facial Stress Recognition in Remote Learning Environments",
-    "site": "OpenAlex",
-    "venue_of_publication": "Computers & Education",
-    "year": 2024,
-    "researcher_info": "L. Chen, et al.",
-    "id": 43
-  },
-  {
     "paper_name": "A Spatiotemporal Attention Model for Video-Based Stress Detection",
     "site": "Crossref",
     "venue_of_publication": "Pattern Recognition",
     "year": 2025,
     "researcher_info": "H. Liu, J. Li, et al.",
-    "id": 44
-  },
-  {
-    "paper_name": "Unobtrusive Stress Prediction via Facial Micro-expressions and Deep Learning",
-    "site": "IEEE",
-    "venue_of_publication": "IEEE Transactions on Affective Computing",
-    "year": 2023,
-    "researcher_info": "A. Gupta, et al.",
-    "id": 45
-  },
-  {
-    "paper_name": "Vocal Biomarkers for Stress Detection: A Deep Learning Approach",
-    "site": "DBLP",
-    "venue_of_publication": "Interspeech",
-    "year": 2024,
-    "researcher_info": "R. Sharma, et al.",
-    "id": 46
+    "id": 21
   },
   {
     "paper_name": "Speech Emotion Recognition for Continuous Stress Monitoring",
@@ -373,79 +173,7 @@
     "venue_of_publication": "ICASSP",
     "year": 2025,
     "researcher_info": "E. Davis, et al.",
-    "id": 47
-  },
-  {
-    "paper_name": "End-to-End Voice-Based Stress Prediction using Wav2Vec 2.0",
-    "site": "OpenAlex",
-    "venue_of_publication": "Speech Communication",
-    "year": 2023,
-    "researcher_info": "T. Nguyen, et al.",
-    "id": 48
-  },
-  {
-    "paper_name": "Acoustic Features for Real-Time Stress Classification in Telehealth",
-    "site": "Crossref",
-    "venue_of_publication": "Journal of Voice",
-    "year": 2024,
-    "researcher_info": "K. Ahmed, et al.",
-    "id": 49
-  },
-  {
-    "paper_name": "Cross-Corpus Speech Emotion Recognition for Mental Stress Detection",
-    "site": "DBLP",
-    "venue_of_publication": "ACM Multimedia",
-    "year": 2023,
-    "researcher_info": "P. Martinez, et al.",
-    "id": 50
-  },
-  {
-    "paper_name": "Conversational AI for Mental Stress Prediction using Pre-trained Language Models",
-    "site": "IEEE",
-    "venue_of_publication": "IEEE/ACM TASLP",
-    "year": 2024,
-    "researcher_info": "Y. Kim, et al.",
-    "id": 51
-  },
-  {
-    "paper_name": "Text-based Stress Detection on Social Media utilizing BERT and Graph Neural Networks",
-    "site": "DBLP",
-    "venue_of_publication": "EMNLP",
-    "year": 2023,
-    "researcher_info": "Z. Zhao, et al.",
-    "id": 52
-  },
-  {
-    "paper_name": "Real-Time NLP Pipeline for Stress Classification in Text Messaging",
-    "site": "OpenAlex",
-    "venue_of_publication": "JMIR Formative Research",
-    "year": 2025,
-    "researcher_info": "A. Thompson, et al.",
-    "id": 53
-  },
-  {
-    "paper_name": "Zero-Shot Stress Detection in Conversational Data using LLMs",
-    "site": "Crossref",
-    "venue_of_publication": "ACL Findings",
-    "year": 2024,
-    "researcher_info": "M. O'Brien, et al.",
-    "id": 54
-  },
-  {
-    "paper_name": "Linguistic Markers of Stress in Clinical Text: A Transformer-based Analysis",
-    "site": "IEEE",
-    "venue_of_publication": "IEEE JBHI",
-    "year": 2023,
-    "researcher_info": "S. Lee, et al.",
-    "id": 55
-  },
-  {
-    "paper_name": "Multimodal Fusion of Facial, Speech, and Text Features for Robust Stress Prediction",
-    "site": "DBLP",
-    "venue_of_publication": "ICMI",
-    "year": 2024,
-    "researcher_info": "J. Park, et al.",
-    "id": 56
+    "id": 22
   },
   {
     "paper_name": "Deep Multimodal Learning for Continuous Stress Detection in Naturalistic Conversations",
@@ -453,15 +181,31 @@
     "venue_of_publication": "IEEE Transactions on Multimedia",
     "year": 2025,
     "researcher_info": "X. Huang, et al.",
-    "id": 57
+    "id": 23
   },
   {
-    "paper_name": "A Unified Framework for Multimodal Stress Recognition using Audiovisual and Textual Cues",
+    "paper_name": "Action Unit based Facial Stress Recognition in Remote Learning Environments",
     "site": "OpenAlex",
-    "venue_of_publication": "Information Fusion",
-    "year": 2023,
-    "researcher_info": "F. Rossi, et al.",
-    "id": 58
+    "venue_of_publication": "Computers & Education",
+    "year": 2024,
+    "researcher_info": "L. Chen, et al.",
+    "id": 24
+  },
+  {
+    "paper_name": "Acoustic Features for Real-Time Stress Classification in Telehealth",
+    "site": "Crossref",
+    "venue_of_publication": "Journal of Voice",
+    "year": 2024,
+    "researcher_info": "K. Ahmed, et al.",
+    "id": 25
+  },
+  {
+    "paper_name": "Multimodal Fusion of Facial, Speech, and Text Features for Robust Stress Prediction",
+    "site": "DBLP",
+    "venue_of_publication": "ICMI",
+    "year": 2024,
+    "researcher_info": "J. Park, et al.",
+    "id": 26
   },
   {
     "paper_name": "Temporal Alignment of Multimodal Streams for Enhancing Mental Stress Classification",
@@ -469,14 +213,270 @@
     "venue_of_publication": "Sensors",
     "year": 2024,
     "researcher_info": "G. Singh, et al.",
-    "id": 59
+    "id": 27
   },
   {
-    "paper_name": "Towards Empathetic AI: Multimodal Emotion and Stress Detection in Real-Time Dialog Systems",
+    "paper_name": "Real-Time Facial Expression Recognition for Stress Prediction using CNNs",
     "site": "DBLP",
-    "venue_of_publication": "AAAI",
+    "venue_of_publication": "CVPR Workshops",
+    "year": 2023,
+    "researcher_info": "M. Kumar, et al.",
+    "id": 28
+  },
+  {
+    "paper_name": "End-to-End Voice-Based Stress Prediction using Wav2Vec 2.0",
+    "site": "OpenAlex",
+    "venue_of_publication": "Speech Communication",
+    "year": 2023,
+    "researcher_info": "T. Nguyen, et al.",
+    "id": 29
+  },
+  {
+    "paper_name": "Cross-Corpus Speech Emotion Recognition for Mental Stress Detection",
+    "site": "DBLP",
+    "venue_of_publication": "ACM Multimedia",
+    "year": 2023,
+    "researcher_info": "P. Martinez, et al.",
+    "id": 30
+  },
+  {
+    "paper_name": "A Unified Framework for Multimodal Stress Recognition using Audiovisual and Textual Cues",
+    "site": "OpenAlex",
+    "venue_of_publication": "Information Fusion",
+    "year": 2023,
+    "researcher_info": "F. Rossi, et al.",
+    "id": 31
+  },
+  {
+    "id": 32,
+    "paper_name": "nBERT: Harnessing NLP for Emotion Recognition in Psychotherapy to Transform Mental Health Care",
+    "site": "OpenAlex",
+    "venue_of_publication": "Information",
     "year": 2025,
-    "researcher_info": "W. Chen, et al.",
-    "id": 60
+    "researcher_info": "Abdur Rasool, Saba Aslam et al."
+  },
+  {
+    "id": 33,
+    "paper_name": "A scoping review of large language models for generative tasks in mental health care",
+    "site": "OpenAlex",
+    "venue_of_publication": "npj Digital Medicine",
+    "year": 2025,
+    "researcher_info": "Yining Hua, Hongbin Na et al."
+  },
+  {
+    "id": 34,
+    "paper_name": "The Applications of Large Language Models in Mental Health: Scoping Review",
+    "site": "OpenAlex",
+    "venue_of_publication": "Journal of Medical Internet Research",
+    "year": 2025,
+    "researcher_info": "Yu Jin, Jiayi Liu et al."
+  },
+  {
+    "paper_name": "Real-Time NLP Pipeline for Stress Classification in Text Messaging",
+    "site": "OpenAlex",
+    "venue_of_publication": "JMIR Formative Research",
+    "year": 2025,
+    "researcher_info": "A. Thompson, et al.",
+    "id": 35
+  },
+  {
+    "id": 36,
+    "paper_name": "Large Language Models for Mental Health Applications: Systematic Review",
+    "site": "OpenAlex",
+    "venue_of_publication": "JMIR Mental Health",
+    "year": 2024,
+    "researcher_info": "Zhijun Guo, Alvina G. Lai et al."
+  },
+  {
+    "paper_name": "Vocal Biomarkers for Stress Detection: A Deep Learning Approach",
+    "site": "DBLP",
+    "venue_of_publication": "Interspeech",
+    "year": 2024,
+    "researcher_info": "R. Sharma, et al.",
+    "id": 37
+  },
+  {
+    "id": 38,
+    "paper_name": "Natural language processing for mental health interventions: a systematic review and research framework",
+    "site": "OpenAlex",
+    "venue_of_publication": "Translational Psychiatry",
+    "year": 2023,
+    "researcher_info": "Matteo Malgaroli, Thomas D. Hull et al."
+  },
+  {
+    "id": 39,
+    "paper_name": "Capacity of Generative AI to Interpret Human Emotions From Visual and Textual Data: Pilot Evaluation Study",
+    "site": "OpenAlex",
+    "venue_of_publication": "JMIR Mental Health",
+    "year": 2023,
+    "researcher_info": "Zohar Elyoseph, Elad Refoua et al."
+  },
+  {
+    "paper_name": "Text-based Stress Detection on Social Media utilizing BERT and Graph Neural Networks",
+    "site": "DBLP",
+    "venue_of_publication": "EMNLP",
+    "year": 2023,
+    "researcher_info": "Z. Zhao, et al.",
+    "id": 40
+  },
+  {
+    "id": 41,
+    "paper_name": "A Scoping Review of AI-Driven Digital Interventions in Mental Health Care: Mapping Applications Across Screening, Support, Monitoring, Prevention, and Clinical Education",
+    "site": "OpenAlex",
+    "venue_of_publication": "Healthcare",
+    "year": 2025,
+    "researcher_info": "Yang Ni, Fanli Jia"
+  },
+  {
+    "id": 42,
+    "paper_name": "Toward explainable AI (XAI) for mental health detection based on language behavior",
+    "site": "OpenAlex",
+    "venue_of_publication": "Frontiers in Psychiatry",
+    "year": 2023,
+    "researcher_info": "Elma Kerz, Sourabh Zanwar et al."
+  },
+  {
+    "id": 43,
+    "paper_name": "Revolutionizing e-health: the transformative role of AI-powered hybrid chatbots in healthcare solutions",
+    "site": "OpenAlex",
+    "venue_of_publication": "Frontiers in Public Health",
+    "year": 2025,
+    "researcher_info": "Jack Ng Kok Wah"
+  },
+  {
+    "id": 44,
+    "paper_name": "AI Chatbots and Cognitive Control: Enhancing Executive Functions Through Chatbot Interactions: A Systematic Review",
+    "site": "OpenAlex",
+    "venue_of_publication": "Brain Sciences",
+    "year": 2025,
+    "researcher_info": "Pantelis Pergantis, Victoria Bamicha et al."
+  },
+  {
+    "id": 45,
+    "paper_name": "A systematic review of artificial intelligence-powered (AI-powered) chatbot intervention for managing chronic illness",
+    "site": "OpenAlex",
+    "venue_of_publication": "Annals of Medicine",
+    "year": 2024,
+    "researcher_info": "Moh Heri Kurniawan, Hanny Handiyani et al."
+  },
+  {
+    "id": 46,
+    "paper_name": "The Effects of Artificial Intelligence Chatbots on Women\u2019s Health: A Systematic Review and Meta-Analysis",
+    "site": "OpenAlex",
+    "venue_of_publication": "Healthcare",
+    "year": 2024,
+    "researcher_info": "Hyun Kyoung Kim"
+  },
+  {
+    "id": 47,
+    "paper_name": "Systematic review and meta-analysis of the effectiveness of chatbots on lifestyle behaviours",
+    "site": "OpenAlex",
+    "venue_of_publication": "npj Digital Medicine",
+    "year": 2023,
+    "researcher_info": "Ben Singh, Tim Olds et al."
+  },
+  {
+    "id": 48,
+    "paper_name": "AI-based chatbots in conversational commerce and their effects on product and price perceptions",
+    "site": "OpenAlex",
+    "venue_of_publication": "Electronic Markets",
+    "year": 2023,
+    "researcher_info": "Justina Sidlauskiene, Yannick Joye et al."
+  },
+  {
+    "id": 49,
+    "paper_name": "Powering an AI Chatbot with Expert Sourcing to Support Credible Health Information Access",
+    "site": "OpenAlex",
+    "venue_of_publication": "Unknown Venue",
+    "year": 2023,
+    "researcher_info": "Ziang Xiao, Q. Vera Liao et al."
+  },
+  {
+    "id": 50,
+    "paper_name": "Artificial Intelligence Enabled Mobile Chatbot Psychologist using AIML and Cognitive Behavioral Therapy",
+    "site": "OpenAlex",
+    "venue_of_publication": "International Journal of Advanced Computer Science and Applications",
+    "year": 2023,
+    "researcher_info": "\u0411\u0430\u0442\u044b\u0440\u0445\u0430\u043d \u041e\u043c\u0430\u0440\u043e\u0432, Zhandos Zhumanov et al."
+  },
+  {
+    "id": 51,
+    "paper_name": "Mental-LLM",
+    "site": "OpenAlex",
+    "venue_of_publication": "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies",
+    "year": 2024,
+    "researcher_info": "Xuhai Xu, Bingsheng Yao et al."
+  },
+  {
+    "id": 52,
+    "paper_name": "ChatGPT: Bullshit spewer or the end of traditional assessments in higher education?",
+    "site": "OpenAlex",
+    "venue_of_publication": "Journal of Applied Learning & Teaching",
+    "year": 2023,
+    "researcher_info": "J\u00fcrgen Rudolph, Samson Tan et al."
+  },
+  {
+    "id": 53,
+    "paper_name": "Artificial intelligence in mental health care: a systematic review of diagnosis, monitoring, and intervention applications",
+    "site": "OpenAlex",
+    "venue_of_publication": "Psychological Medicine",
+    "year": 2025,
+    "researcher_info": "Pablo Cruz-Gonzalez, Anxun He et al."
+  },
+  {
+    "id": 54,
+    "paper_name": "AI in the Classroom: Insights from Educators on Usage, Challenges, and Mental Health",
+    "site": "OpenAlex",
+    "venue_of_publication": "Education Sciences",
+    "year": 2025,
+    "researcher_info": "Julie A. Delello, Woonhee Sung et al."
+  },
+  {
+    "id": 55,
+    "paper_name": "Enhancing mental health with Artificial Intelligence: Current trends and future prospects",
+    "site": "OpenAlex",
+    "venue_of_publication": "Journal of Medicine Surgery and Public Health",
+    "year": 2024,
+    "researcher_info": "David B. Olawade, Ojima Z. Wada et al."
+  },
+  {
+    "id": 56,
+    "paper_name": "Artificial intelligence in positive mental health: a narrative review",
+    "site": "OpenAlex",
+    "venue_of_publication": "Frontiers in Digital Health",
+    "year": 2024,
+    "researcher_info": "Anoushka Thakkar, Ankita Gupta et al."
+  },
+  {
+    "id": 57,
+    "paper_name": "Can AI replace psychotherapists? Exploring the future of mental health care",
+    "site": "OpenAlex",
+    "venue_of_publication": "Frontiers in Psychiatry",
+    "year": 2024,
+    "researcher_info": "Zhihui Zhang, Jing Wang"
+  },
+  {
+    "id": 58,
+    "paper_name": "Advances in the use of virtual reality to treat mental health conditions",
+    "site": "OpenAlex",
+    "venue_of_publication": "Nature Reviews Psychology",
+    "year": 2024,
+    "researcher_info": "Imogen Bell, Roos Pot-Kolder et al."
+  },
+  {
+    "id": 59,
+    "paper_name": "War, emotions, mental health, and artificial intelligence",
+    "site": "OpenAlex",
+    "venue_of_publication": "Frontiers in Psychology",
+    "year": 2024,
+    "researcher_info": "Kre\u0161imir \u0106osi\u0107, Vanja Kopila\u0161 et al."
+  },
+  {
+    "id": 60,
+    "paper_name": "Artificial Intelligence in Nursing: Technological Benefits to Nurse\u2019s Mental Health and Patient Care Quality",
+    "site": "OpenAlex",
+    "venue_of_publication": "Healthcare",
+    "year": 2024,
+    "researcher_info": "Hamad Ghaleb Dailah, Mahdi Dafer Koriri et al."
   }
 ]
