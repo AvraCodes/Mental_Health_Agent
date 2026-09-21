@@ -5487,3 +5487,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-09-21T13:11:21Z | docs: clarify readme
 2026-09-21T13:11:23Z | style: fix formatting
 2026-09-21T13:11:24Z | docs: update comments
+2026-09-21T13:11:25Z | style: lint fixes
