@@ -5474,3 +5474,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-09-21T13:11:08Z | style: whitespace
 2026-09-21T13:11:09Z | style: whitespace
 2026-09-21T13:11:10Z | refactor: reduce nesting
+2026-09-21T13:11:11Z | refactor: simplify logic
