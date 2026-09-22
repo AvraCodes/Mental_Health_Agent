@@ -1,0 +1,53 @@
+{
+  "id": 26,
+  "original": {
+    "paper_name": "Multimodal Fusion of Facial, Speech, and Text Features for Robust Stress Prediction",
+    "site": "DBLP",
+    "venue_of_publication": "ICMI",
+    "year": 2024,
+    "researcher_info": "J. Park, et al.",
+    "id": 26
+  },
+  "site": "DBLP",
+  "scraped_at": "2026-09-22T10:47:55.538270+00:00",
+  "fetched": {
+    "found": false,
+    "site": "DBLP",
+    "query": "Multimodal Fusion of Facial, Speech, and Text Features for Robust Stress Prediction",
+    "method": "api",
+    "error": "Expecting value: line 1 column 1 (char 0)",
+    "playwright_fallback": {
+      "found": false,
+      "site": "DBLP",
+      "query": "Multimodal Fusion of Facial, Speech, and Text Features for Robust Stress Prediction",
+      "method": "playwright",
+      "search_url": "https://dblp.org/search?q=Multimodal%20Fusion%20of%20Facial%2C%20Speech%2C%20and%20Text%20Features",
+      "top_hits": [],
+      "top_links": [],
+      "short_query_used": "Multimodal Fusion of Facial, Speech, and Text Features"
+    },
+    "fallback_attempt": {
+      "found": false,
+      "query": "Multimodal Fusion of Facial, Speech, and Text Features for Robust Stress Prediction",
+      "method": "crossref-fallback",
+      "doi": "10.1109/icme.2010.5583086",
+      "doi_url": "https://doi.org/10.1109/icme.2010.5583086",
+      "title_matched": "Exploiting multimodal data fusion in robust speech recognition",
+      "title_similarity": 0.503,
+      "match_confidence": "low",
+      "authors": [
+        "Panikos Heracleous",
+        "Pierre Badin",
+        "Gerard Bailly",
+        "Norihiro Hagita"
+      ],
+      "year": 2010,
+      "venue": "2010 IEEE International Conference on Multimedia and Expo",
+      "publisher": "IEEE",
+      "pdf_url": null,
+      "landing_page_url": "https://doi.org/10.1109/icme.2010.5583086"
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": null
+}

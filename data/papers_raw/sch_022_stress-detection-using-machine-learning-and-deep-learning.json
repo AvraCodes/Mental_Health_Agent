@@ -1,0 +1,30 @@
+{
+  "id": "sch-022",
+  "original": {
+    "paper_name": "Stress detection using machine learning and deep learning",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "stress detection machine learning",
+  "scraped_at": "2026-09-22T11:18:58.980392+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "stress detection machine learning",
+    "title_matched": "Stress detection using machine learning and deep learning",
+    "authors": [
+      "Z Zainudin",
+      "S Hasan",
+      "SM Shamsuddin"
+    ],
+    "year": 2021,
+    "venue": "Journal of Physics …",
+    "cited_by": 79,
+    "landing_page_url": "https://iopscience.iop.org/article/10.1088/1742-6596/1997/1/012019/meta",
+    "snippet": "… Many researchers investigate stress detection in many fields. This paper will elaborate on\nstress identification based on five … Early detection can help track tension, and different machine …",
+    "pdf_url": "https://iopscience.iop.org/article/10.1088/1742-6596/1997/1/012019/pdf"
+  },
+  "pdf_file": null,
+  "pdf_url": "https://iopscience.iop.org/article/10.1088/1742-6596/1997/1/012019/pdf"
+}

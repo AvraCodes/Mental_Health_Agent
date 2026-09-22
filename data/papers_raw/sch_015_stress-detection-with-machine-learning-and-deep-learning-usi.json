@@ -1,0 +1,29 @@
+{
+  "id": "sch-015",
+  "original": {
+    "paper_name": "Stress detection with machine learning and deep learning using multimodal physiological data",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "stress detection machine learning",
+  "scraped_at": "2026-09-22T11:18:55.166187+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "stress detection machine learning",
+    "title_matched": "Stress detection with machine learning and deep learning using multimodal physiological data",
+    "authors": [
+      "P Bobade",
+      "M Vani"
+    ],
+    "year": 2020,
+    "venue": "2020 second international conference on …",
+    "cited_by": 428,
+    "landing_page_url": "https://ieeexplore.ieee.org/abstract/document/9183244/",
+    "snippet": "… using such bio-signals stress levels can be identified. This paper proposes different machine\nlearning and deep learning techniques for stress detection on individuals using multimodal …",
+    "pdf_url": "https://www.researchgate.net/profile/Pramod-Bobade/publication/344052913_Stress_Detection_with_Machine_Learning_and_Deep_Learning_using_Multimodal_Physiological_Data/links/5fce329da6fdcc697be8c5a8/Stress-Detection-with-Machine-Learning-and-Deep-Learning-using-Multimodal-Physiological-Data.pdf"
+  },
+  "pdf_file": null,
+  "pdf_url": "https://www.researchgate.net/profile/Pramod-Bobade/publication/344052913_Stress_Detection_with_Machine_Learning_and_Deep_Learning_using_Multimodal_Physiological_Data/links/5fce329da6fdcc697be8c5a8/Stress-Detection-with-Machine-Learning-and-Deep-Learning-using-Multimodal-Physiological-Data.pdf"
+}

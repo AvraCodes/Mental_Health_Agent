@@ -1,0 +1,68 @@
+{
+  "id": 22,
+  "original": {
+    "paper_name": "Speech Emotion Recognition for Continuous Stress Monitoring",
+    "site": "IEEE",
+    "venue_of_publication": "ICASSP",
+    "year": 2025,
+    "researcher_info": "E. Davis, et al.",
+    "id": 22
+  },
+  "site": "IEEE",
+  "scraped_at": "2026-09-22T11:00:01.404339+00:00",
+  "fetched": {
+    "found": true,
+    "site": "IEEE",
+    "query": "Speech Emotion Recognition for Continuous Stress Monitoring",
+    "method": "playwright-search",
+    "search_url": "https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=Speech%20Emotion%20Recognition%20for%20Continuous%20Stress%20Monitoring&highlight=true&returnType=SEARCH&matchPubs=true&rowsPerPage=10",
+    "title_matched": "Deep Learning-Based Multimodal Stress Detection Using Facial Expressions, Blink Dynamics, and Speech Emotion Analysis",
+    "authors_raw": "Darshana R S;\nHemashree M S;\nJ S Amulya;\nAnshika Verma;\nBhargavi Mokashi; Darshana R S;Hemashree M S;J S Amulya;Anshika Verma;Bhargavi Mokashi",
+    "meta_snippet": "Deep Learning-Based Multimodal Stress Detection Using Facial Expressions, Blink Dynamics, and Speech Emotion Analysis\n\nDarshana R S;\nHemashree M S;\nJ S Amulya;\nAnshika Verma;\nBhargavi Mokashi\n\n2026 11th International Conference on Machine Learning Technologies (ICMLT)\nYear: 2026 | Conference Paper | Publisher: IEEE\nAbstract\nHTML",
+    "document_url": "https://ieeexplore.ieee.org/document/11689292/",
+    "article_number": "11689292",
+    "doi": "https://doi.org/10.1109/ICMLT69916.2026.11689292",
+    "abstract": "Abstract:\nStress has emerged as a critical concern affecting cognitive performance, productivity, and overall well-being in modern academic and professional environments. Existing stress detection systems predominantly rely on invasive wearable physiological sensors or single-modality approaches, limiting their practical applicability and real-time usability. This work addresses these limitations by presenting a non-invasive, multimodal stress detection system that integrates facial expression analysis, eye-blink rate monitoring, and speech emotion analysis. The system utilizes a laptop's built-in camera and microphone to continuously capture behavioral cues without requiring external hardware. Each modality is processed through dedicated machine learning models-DenseNet-161 for facial emotions (fine-tuned on FER2013 and AffectNet datasets), MediaPipe Face Mesh with Eye Aspect Ratio computation for blink analysis, and Xception for speech emotion analysis (fine-tuned on RAVDESS dataset). A majority voting algorithm combines predictions from all three modalities to determine the final stress classification. The system operates entirely on-device, ensuring privacy and enabling real-time monitoring over extended durations. Experimental validation with 52 participants demonstrated 90.38% user-reported accuracy, confirming the system's effectiveness in real-world scenarios. This multimodal approach provides a practical, accessible solution for continuous stress monitoring in everyday environments, with potential applications in workplace wellness, mental health monitoring, and educational settings.\nPublished in: 2026 11th International Conference on Machine Learning Technologies (ICMLT)\nDate of Conference: 20-22 May 2026\nDate Added to IEEE Xplore: 18 September 2026\nISBN Information:\nDOI: 10.1109/ICMLT69916.2026.11689292\nPublisher: IEEE\nConference Location: Berlin, Germany",
+    "candidates": [
+      {
+        "title": "Deep Learning-Based Multimodal Stress Detection Using Facial Expressions, Blink Dynamics, and Speech Emotion Analysis",
+        "href": "https://ieeexplore.ieee.org/document/11689292/",
+        "authors": "Darshana R S;\nHemashree M S;\nJ S Amulya;\nAnshika Verma;\nBhargavi Mokashi; Darshana R S;Hemashree M S;J S Amulya;Anshika Verma;Bhargavi Mokashi",
+        "meta": "Deep Learning-Based Multimodal Stress Detection Using Facial Expressions, Blink Dynamics, and Speech Emotion Analysis\n\nDarshana R S;\nHemashree M S;\nJ S Amulya;\nAnshika Verma;\nBhargavi Mokashi\n\n2026 11th International Conference on Machine Learning Technologies (ICMLT)\nYear: 2026 | Conference Paper | Publisher: IEEE\nAbstract\nHTML"
+      },
+      {
+        "title": "Deep Learning-Based Multimodal Stress Detection Using Facial Expressions, Blink Dynamics, and Speech Emotion Analysis",
+        "href": "https://ieeexplore.ieee.org/document/11689292/",
+        "authors": "Darshana R S;\nHemashree M S;\nJ S Amulya;\nAnshika Verma;\nBhargavi Mokashi",
+        "meta": "Deep Learning-Based Multimodal Stress Detection Using Facial Expressions, Blink Dynamics, and Speech Emotion Analysis\n\nDarshana R S;\nHemashree M S;\nJ S Amulya;\nAnshika Verma;\nBhargavi Mokashi\n\n2026 11th International Conference on Machine Learning Technologies (ICMLT)\nYear: 2026 | Conference Paper | Publisher: IEEE"
+      },
+      {
+        "title": "Non Invasive Continuous Detection of Mental Stress via Readily Available Mobile-Based Help Parameters",
+        "href": "https://ieeexplore.ieee.org/document/9293878/",
+        "authors": "Isuru Samarasekara;\nChampani Udayangani;\nGihan Jayaweera;\nDinusha Jayawardhana;\nPradeep K. W. Abeygunawardhana; Isuru Samarasekara;Champani Udayangani;Gihan Jayaweera;Dinusha Jayawardhana;Pradeep K. W. Abeygunawardhana",
+        "meta": "Non Invasive Continuous Detection of Mental Stress via Readily Available Mobile-Based Help Parameters\n\nIsuru Samarasekara;\nChampani Udayangani;\nGihan Jayaweera;\nDinusha Jayawardhana;\nPradeep K. W. Abeygunawardhana\n\n2020 IEEE REGION 10 CONFERENCE (TENCON)\nYear: 2020 | Conference Paper | Publisher: IEEE\nCited by: Papers (11)\nAbstract\nHTML"
+      },
+      {
+        "title": "Non Invasive Continuous Detection of Mental Stress via Readily Available Mobile-Based Help Parameters",
+        "href": "https://ieeexplore.ieee.org/document/9293878/",
+        "authors": "Isuru Samarasekara;\nChampani Udayangani;\nGihan Jayaweera;\nDinusha Jayawardhana;\nPradeep K. W. Abeygunawardhana",
+        "meta": "Non Invasive Continuous Detection of Mental Stress via Readily Available Mobile-Based Help Parameters\n\nIsuru Samarasekara;\nChampani Udayangani;\nGihan Jayaweera;\nDinusha Jayawardhana;\nPradeep K. W. Abeygunawardhana\n\n2020 IEEE REGION 10 CONFERENCE (TENCON)\nYear: 2020 | Conference Paper | Publisher: IEEE\nCited by: Papers (11)"
+      },
+      {
+        "title": "AI – Based Driver Emotion Monitoring System for Enhanced Road Safety",
+        "href": "https://ieeexplore.ieee.org/document/11210313/",
+        "authors": "Rhethika S;\nSaurav Kumar Agarwal;\nVeekshana Runkana;\nMini Sujith; Rhethika S;Saurav Kumar Agarwal;Veekshana Runkana;Mini Sujith",
+        "meta": "AI – Based Driver Emotion Monitoring System for Enhanced Road Safety\n\nRhethika S;\nSaurav Kumar Agarwal;\nVeekshana Runkana;\nMini Sujith\n\n2025 International Conference on Smart & Sustainable Technology (INCSST)\nYear: 2025 | Conference Paper | Publisher: IEEE\nAbstract\nHTML"
+      }
+    ],
+    "pdf_url": null,
+    "oa_landing_page_url": null
+  },
+  "pdf_file": null,
+  "pdf_url": null,
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

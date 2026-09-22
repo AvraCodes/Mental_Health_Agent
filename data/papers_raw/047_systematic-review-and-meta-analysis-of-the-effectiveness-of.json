@@ -1,0 +1,1994 @@
+{
+  "id": 47,
+  "original": {
+    "id": 47,
+    "paper_name": "Systematic review and meta-analysis of the effectiveness of chatbots on lifestyle behaviours",
+    "site": "OpenAlex",
+    "venue_of_publication": "npj Digital Medicine",
+    "year": 2023,
+    "researcher_info": "Ben Singh, Tim Olds et al."
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T08:33:45.360464+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "Systematic review and meta-analysis of the effectiveness of chatbots on lifestyle behaviours",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W4381805620",
+    "doi": "https://doi.org/10.1038/s41746-023-00856-1",
+    "title_matched": "Systematic review and meta-analysis of the effectiveness of chatbots on lifestyle behaviours",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2023,
+    "venue": "npj Digital Medicine",
+    "authors": [
+      "Ben Singh",
+      "Tim Olds",
+      "Jacinta Brinsley",
+      "Dot Dumuid",
+      "Rosa Virgara",
+      "Lisa Matricciani",
+      "Amanda Watson",
+      "Kimberley Szeto",
+      "Emily Eglitis",
+      "Aaron Miatke",
+      "Catherine E. M. Simpson",
+      "Corneel Vandelanotte",
+      "Carol Ann Maher"
+    ],
+    "abstract": "Chatbots (also known as conversational agents and virtual assistants) offer the potential to deliver healthcare in an efficient, appealing and personalised manner. The purpose of this systematic review and meta-analysis was to evaluate the efficacy of chatbot interventions designed to improve physical activity, diet and sleep. Electronic databases were searched for randomised and non-randomised controlled trials, and pre-post trials that evaluated chatbot interventions targeting physical activity, diet and/or sleep, published before 1 September 2022. Outcomes were total physical activity, steps, moderate-to-vigorous physical activity (MVPA), fruit and vegetable consumption, sleep quality and sleep duration. Standardised mean differences (SMD) were calculated to compare intervention effects. Subgroup analyses were conducted to assess chatbot type, intervention type, duration, output and use of artificial intelligence. Risk of bias was assessed using the Effective Public Health Practice Project Quality Assessment tool. Nineteen trials were included. Sample sizes ranged between 25-958, and mean participant age ranged between 9-71 years. Most interventions (n = 15, 79%) targeted physical activity, and most trials had a low-quality rating (n = 14, 74%). Meta-analysis results showed significant effects (all p < 0.05) of chatbots for increasing total physical activity (SMD = 0.28 [95% CI = 0.16, 0.40]), daily steps (SMD = 0.28 [95% CI = 0.17, 0.39]), MVPA (SMD = 0.53 [95% CI = 0.24, 0.83]), fruit and vegetable consumption (SMD = 0.59 [95% CI = 0.25, 0.93]), sleep duration (SMD = 0.44 [95% CI = 0.32, 0.55]) and sleep quality (SMD = 0.50 [95% CI = 0.09, 0.90]). Subgroup analyses showed that text-based, and artificial intelligence chatbots were more efficacious than speech/voice chatbots for fruit and vegetable consumption, and multicomponent interventions were more efficacious than chatbot-only interventions for sleep duration and sleep quality (all p < 0.05). Findings from this systematic review and meta-analysis indicate that chatbot interventions are efficacious for increasing physical activity, fruit and vegetable consumption, sleep duration and sleep quality. Chatbot interventions were efficacious across a range of populations and age groups, with both short- and longer-term interventions, and chatbot only and multicomponent interventions being efficacious.",
+    "cited_by_count": 215,
+    "is_oa": true,
+    "pdf_url": "https://www.nature.com/articles/s41746-023-00856-1.pdf",
+    "pdf_candidates": [
+      "https://www.nature.com/articles/s41746-023-00856-1.pdf",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10290125/pdf/41746_2023_Article_856.pdf"
+    ],
+    "landing_page_url": "https://doi.org/10.1038/s41746-023-00856-1",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W4381805620",
+      "doi": "https://doi.org/10.1038/s41746-023-00856-1",
+      "title": "Systematic review and meta-analysis of the effectiveness of chatbots on lifestyle behaviours",
+      "display_name": "Systematic review and meta-analysis of the effectiveness of chatbots on lifestyle behaviours",
+      "relevance_score": 4545.9854,
+      "publication_year": 2023,
+      "publication_date": "2023-06-23",
+      "ids": {
+        "openalex": "https://openalex.org/W4381805620",
+        "doi": "https://doi.org/10.1038/s41746-023-00856-1",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/37353578"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1038/s41746-023-00856-1",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1038/s41746-023-00856-1",
+        "pdf_url": "https://www.nature.com/articles/s41746-023-00856-1.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210195431",
+          "display_name": "npj Digital Medicine",
+          "issn_l": "2398-6352",
+          "issn": [
+            "2398-6352"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "doyens",
+            "jufo-2",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319908",
+          "host_organization_name": "Nature Portfolio",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319908",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Nature Portfolio",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "npj Digital Medicine",
+        "raw_type": "journal-article"
+      },
+      "type": "review",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.nature.com/articles/s41746-023-00856-1.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5016501396",
+            "display_name": "Ben Singh",
+            "orcid": "https://orcid.org/0000-0002-7227-2406"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I170239107",
+              "display_name": "University of South Australia",
+              "ror": "https://ror.org/01p93h210",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I170239107",
+                "https://openalex.org/I4405259444"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Ben Singh",
+          "raw_affiliation_strings": [
+            "Alliance for Research in Exercise Nutrition and Activity (ARENA), University of South Australia, Adelaide, SA, Australia. Ben.Singh@unisa.edu.au",
+            "Alliance for Research in Exercise Nutrition and Activity (ARENA), University of South Australia, Adelaide, SA, Australia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-7227-2406",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Alliance for Research in Exercise Nutrition and Activity (ARENA), University of South Australia, Adelaide, SA, Australia. Ben.Singh@unisa.edu.au",
+              "institution_ids": [
+                "https://openalex.org/I170239107"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Alliance for Research in Exercise Nutrition and Activity (ARENA), University of South Australia, Adelaide, SA, Australia",
+              "institution_ids": [
+                "https://openalex.org/I170239107"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5033242809",
+            "display_name": "Tim Olds",
+            "orcid": "https://orcid.org/0000-0001-6894-5519"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I170239107",
+              "display_name": "University of South Australia",
+              "ror": "https://ror.org/01p93h210",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I170239107",
+                "https://openalex.org/I4405259444"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Timothy Olds",
+          "raw_affiliation_strings": [
+            "Alliance for Research in Exercise Nutrition and Activity (ARENA), University of South Australia, Adelaide, SA, Australia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Alliance for Research in Exercise Nutrition and Activity (ARENA), University of South Australia, Adelaide, SA, Australia",
+              "institution_ids": [
+                "https://openalex.org/I170239107"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5005704605",
+            "display_name": "Jacinta Brinsley",
+            "orcid": "https://orcid.org/0000-0002-2588-9649"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I170239107",
+              "display_name": "University of South Australia",
+              "ror": "https://ror.org/01p93h210",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I170239107",
+                "https://openalex.org/I4405259444"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jacinta Brinsley",
+          "raw_affiliation_strings": [
+            "Alliance for Research in Exercise Nutrition and Activity (ARENA), University of South Australia, Adelaide, SA, Australia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Alliance for Research in Exercise Nutrition and Activity (ARENA), University of South Australia, Adelaide, SA, Australia",
+              "institution_ids": [
+                "https://openalex.org/I170239107"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Dot Dumuid",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I170239107",
+              "display_name": "University of South Australia",
+              "ror": "https://ror.org/01p93h210",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I170239107",
+                "https://openalex.org/I4405259444"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Dot Dumuid",
+          "raw_affiliation_strings": [
+            "Alliance for Research in Exercise Nutrition and Activity (ARENA), University of South Australia, Adelaide, SA, Australia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Alliance for Research in Exercise Nutrition and Activity (ARENA), University of South Australia, Adelaide, SA, Australia",
+              "institution_ids": [
+                "https://openalex.org/I170239107"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5008861856",
+            "display_name": "Rosa Virgara",
+            "orcid": "https://orcid.org/0000-0002-7717-7715"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I170239107",
+              "display_name": "University of South Australia",
+              "ror": "https://ror.org/01p93h210",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I170239107",
+                "https://openalex.org/I4405259444"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rosa Virgara",
+          "raw_affiliation_strings": [
+            "Alliance for Research in Exercise Nutrition and Activity (ARENA), University of South Australia, Adelaide, SA, Australia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Alliance for Research in Exercise Nutrition and Activity (ARENA), University of South Australia, Adelaide, SA, Australia",
+              "institution_ids": [
+                "https://openalex.org/I170239107"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5004994525",
+            "display_name": "Lisa Matricciani",
+            "orcid": "https://orcid.org/0000-0002-4480-4188"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I170239107",
+              "display_name": "University of South Australia",
+              "ror": "https://ror.org/01p93h210",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I170239107",
+                "https://openalex.org/I4405259444"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Lisa Matricciani",
+          "raw_affiliation_strings": [
+            "Alliance for Research in Exercise Nutrition and Activity (ARENA), University of South Australia, Adelaide, SA, Australia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Alliance for Research in Exercise Nutrition and Activity (ARENA), University of South Australia, Adelaide, SA, Australia",
+              "institution_ids": [
+                "https://openalex.org/I170239107"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5018016336",
+            "display_name": "Amanda Watson",
+            "orcid": "https://orcid.org/0000-0002-9058-3435"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I170239107",
+              "display_name": "University of South Australia",
+              "ror": "https://ror.org/01p93h210",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I170239107",
+                "https://openalex.org/I4405259444"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Amanda Watson",
+          "raw_affiliation_strings": [
+            "Alliance for Research in Exercise Nutrition and Activity (ARENA), University of South Australia, Adelaide, SA, Australia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-9058-3435",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Alliance for Research in Exercise Nutrition and Activity (ARENA), University of South Australia, Adelaide, SA, Australia",
+              "institution_ids": [
+                "https://openalex.org/I170239107"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5060971615",
+            "display_name": "Kimberley Szeto",
+            "orcid": "https://orcid.org/0000-0001-9469-9139"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I170239107",
+              "display_name": "University of South Australia",
+              "ror": "https://ror.org/01p93h210",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I170239107",
+                "https://openalex.org/I4405259444"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kimberley Szeto",
+          "raw_affiliation_strings": [
+            "Alliance for Research in Exercise Nutrition and Activity (ARENA), University of South Australia, Adelaide, SA, Australia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-9469-9139",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Alliance for Research in Exercise Nutrition and Activity (ARENA), University of South Australia, Adelaide, SA, Australia",
+              "institution_ids": [
+                "https://openalex.org/I170239107"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044422502",
+            "display_name": "Emily Eglitis",
+            "orcid": "https://orcid.org/0000-0003-0586-8047"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I170239107",
+              "display_name": "University of South Australia",
+              "ror": "https://ror.org/01p93h210",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I170239107",
+                "https://openalex.org/I4405259444"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Emily Eglitis",
+          "raw_affiliation_strings": [
+            "Alliance for Research in Exercise Nutrition and Activity (ARENA), University of South Australia, Adelaide, SA, Australia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-0586-8047",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Alliance for Research in Exercise Nutrition and Activity (ARENA), University of South Australia, Adelaide, SA, Australia",
+              "institution_ids": [
+                "https://openalex.org/I170239107"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5055611176",
+            "display_name": "Aaron Miatke",
+            "orcid": "https://orcid.org/0000-0002-4329-9730"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I170239107",
+              "display_name": "University of South Australia",
+              "ror": "https://ror.org/01p93h210",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I170239107",
+                "https://openalex.org/I4405259444"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Aaron Miatke",
+          "raw_affiliation_strings": [
+            "Alliance for Research in Exercise Nutrition and Activity (ARENA), University of South Australia, Adelaide, SA, Australia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Alliance for Research in Exercise Nutrition and Activity (ARENA), University of South Australia, Adelaide, SA, Australia",
+              "institution_ids": [
+                "https://openalex.org/I170239107"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5041060603",
+            "display_name": "Catherine E. M. Simpson",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I170239107",
+              "display_name": "University of South Australia",
+              "ror": "https://ror.org/01p93h210",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I170239107",
+                "https://openalex.org/I4405259444"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Catherine E. M. Simpson",
+          "raw_affiliation_strings": [
+            "Alliance for Research in Exercise Nutrition and Activity (ARENA), University of South Australia, Adelaide, SA, Australia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Alliance for Research in Exercise Nutrition and Activity (ARENA), University of South Australia, Adelaide, SA, Australia",
+              "institution_ids": [
+                "https://openalex.org/I170239107"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039064332",
+            "display_name": "Corneel Vandelanotte",
+            "orcid": "https://orcid.org/0000-0002-4445-8094"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I74899385",
+              "display_name": "Central Queensland University",
+              "ror": "https://ror.org/023q4bk22",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I74899385"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Corneel Vandelanotte",
+          "raw_affiliation_strings": [
+            "School of Health, Medical and Applied Sciences, Central Queensland University, Rockhampton, QLD, Australia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Health, Medical and Applied Sciences, Central Queensland University, Rockhampton, QLD, Australia",
+              "institution_ids": [
+                "https://openalex.org/I74899385"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5055454567",
+            "display_name": "Carol Ann Maher",
+            "orcid": "https://orcid.org/0000-0002-8676-0224"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I170239107",
+              "display_name": "University of South Australia",
+              "ror": "https://ror.org/01p93h210",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I170239107",
+                "https://openalex.org/I4405259444"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Carol Maher",
+          "raw_affiliation_strings": [
+            "Alliance for Research in Exercise Nutrition and Activity (ARENA), University of South Australia, Adelaide, SA, Australia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Alliance for Research in Exercise Nutrition and Activity (ARENA), University of South Australia, Adelaide, SA, Australia",
+              "institution_ids": [
+                "https://openalex.org/I170239107"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5016501396"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I170239107"
+      ],
+      "apc_list": {
+        "value": 3590,
+        "currency": "USD",
+        "value_usd": 3590
+      },
+      "apc_paid": {
+        "value": 3590,
+        "currency": "USD",
+        "value_usd": 3590
+      },
+      "fwci": 12.8203,
+      "has_fulltext": true,
+      "cited_by_count": 215,
+      "citation_normalized_percentile": {
+        "value": 0.99538867,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 99,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "6",
+        "issue": "1",
+        "first_page": "118",
+        "last_page": "118"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11446",
+        "display_name": "Mobile Health and mHealth Applications",
+        "score": 0.9997000098228455,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3600",
+          "display_name": "General Health Professions"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/36",
+          "display_name": "Health Professions"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11446",
+          "display_name": "Mobile Health and mHealth Applications",
+          "score": 0.9997000098228455,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3600",
+            "display_name": "General Health Professions"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/36",
+            "display_name": "Health Professions"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11519",
+          "display_name": "Digital Mental Health Interventions",
+          "score": 0.9979000091552734,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3202",
+            "display_name": "Applied Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11977",
+          "display_name": "Technology Use by Older Adults",
+          "score": 0.9846000075340271,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3317",
+            "display_name": "Demography"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.6937487721443176
+        },
+        {
+          "id": "https://openalex.org/keywords/psychological-intervention",
+          "display_name": "Psychological intervention",
+          "score": 0.6601876020431519
+        },
+        {
+          "id": "https://openalex.org/keywords/meta-analysis",
+          "display_name": "Meta-analysis",
+          "score": 0.6390957832336426
+        },
+        {
+          "id": "https://openalex.org/keywords/physical-therapy",
+          "display_name": "Physical therapy",
+          "score": 0.5976975560188293
+        },
+        {
+          "id": "https://openalex.org/keywords/randomized-controlled-trial",
+          "display_name": "Randomized controlled trial",
+          "score": 0.48629674315452576
+        },
+        {
+          "id": "https://openalex.org/keywords/physical-activity",
+          "display_name": "Physical activity",
+          "score": 0.44825124740600586
+        },
+        {
+          "id": "https://openalex.org/keywords/chatbot",
+          "display_name": "Chatbot",
+          "score": 0.44813403487205505
+        },
+        {
+          "id": "https://openalex.org/keywords/internal-medicine",
+          "display_name": "Internal medicine",
+          "score": 0.1659148931503296
+        },
+        {
+          "id": "https://openalex.org/keywords/nursing",
+          "display_name": "Nursing",
+          "score": 0.10522359609603882
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.6937487721443176
+        },
+        {
+          "id": "https://openalex.org/C27415008",
+          "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+          "display_name": "Psychological intervention",
+          "level": 2,
+          "score": 0.6601876020431519
+        },
+        {
+          "id": "https://openalex.org/C95190672",
+          "wikidata": "https://www.wikidata.org/wiki/Q815382",
+          "display_name": "Meta-analysis",
+          "level": 2,
+          "score": 0.6390957832336426
+        },
+        {
+          "id": "https://openalex.org/C1862650",
+          "wikidata": "https://www.wikidata.org/wiki/Q186005",
+          "display_name": "Physical therapy",
+          "level": 1,
+          "score": 0.5976975560188293
+        },
+        {
+          "id": "https://openalex.org/C168563851",
+          "wikidata": "https://www.wikidata.org/wiki/Q1436668",
+          "display_name": "Randomized controlled trial",
+          "level": 2,
+          "score": 0.48629674315452576
+        },
+        {
+          "id": "https://openalex.org/C3020255362",
+          "wikidata": "https://www.wikidata.org/wiki/Q747883",
+          "display_name": "Physical activity",
+          "level": 2,
+          "score": 0.44825124740600586
+        },
+        {
+          "id": "https://openalex.org/C2779041454",
+          "wikidata": "https://www.wikidata.org/wiki/Q870780",
+          "display_name": "Chatbot",
+          "level": 2,
+          "score": 0.44813403487205505
+        },
+        {
+          "id": "https://openalex.org/C126322002",
+          "wikidata": "https://www.wikidata.org/wiki/Q11180",
+          "display_name": "Internal medicine",
+          "level": 1,
+          "score": 0.1659148931503296
+        },
+        {
+          "id": "https://openalex.org/C159110408",
+          "wikidata": "https://www.wikidata.org/wiki/Q121176",
+          "display_name": "Nursing",
+          "level": 1,
+          "score": 0.10522359609603882
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 7,
+      "locations": [
+        {
+          "id": "doi:10.1038/s41746-023-00856-1",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1038/s41746-023-00856-1",
+          "pdf_url": "https://www.nature.com/articles/s41746-023-00856-1.pdf",
+          "source": {
+            "id": "https://openalex.org/S4210195431",
+            "display_name": "npj Digital Medicine",
+            "issn_l": "2398-6352",
+            "issn": [
+              "2398-6352"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "doyens",
+              "jufo-2",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310319908",
+            "host_organization_name": "Nature Portfolio",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319908",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Nature Portfolio",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "npj Digital Medicine",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:37353578",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37353578",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "NPJ digital medicine",
+          "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:10290125",
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10290125",
+          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10290125/pdf/41746_2023_Article_856.pdf",
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "NPJ Digit Med",
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:urm_publish:9916776823501831",
+          "is_oa": true,
+          "landing_page_url": "https://find.library.unisa.edu.au/discovery/fulldisplay/alma9916776823501831/61USOUTHAUS_INST:ROR",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402528",
+            "display_name": "UniSA Research Outputs Repository (University of South Australia)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I170239107",
+            "host_organization_name": "University of South Australia",
+            "host_organization_lineage": [
+              "https://openalex.org/I170239107"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "text"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:da69bfb6ff6b486b9a354f6c1cfde7e3",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/da69bfb6ff6b486b9a354f6c1cfde7e3",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "npj Digital Medicine, Vol 6, Iss 1, Pp 1-10 (2023)",
+          "raw_type": "article"
+        },
+        {
+          "id": "pmh:oai:figshare.com:article/25649493",
+          "is_oa": true,
+          "landing_page_url": "https://figshare.com/articles/journal_contribution/Systematic_review_and_meta-analysis_of_the_effectiveness_of_chatbots_on_lifestyle_behaviours/25649493",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:figshare.com:article/28356530",
+          "is_oa": true,
+          "landing_page_url": "https://figshare.com/articles/journal_contribution/Systematic_review_and_meta-analysis_of_the_effectiveness_of_chatbots_on_lifestyle_behaviours/28356530",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Text"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1038/s41746-023-00856-1",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1038/s41746-023-00856-1",
+        "pdf_url": "https://www.nature.com/articles/s41746-023-00856-1.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210195431",
+          "display_name": "npj Digital Medicine",
+          "issn_l": "2398-6352",
+          "issn": [
+            "2398-6352"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "doyens",
+            "jufo-2",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319908",
+          "host_organization_name": "Nature Portfolio",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319908",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Nature Portfolio",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "npj Digital Medicine",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G1626461912",
+          "display_name": "Optimisation of compositional data to inform lifestyle behaviour interventions",
+          "funder_award_id": "1162166",
+          "funder_id": "https://openalex.org/F4320334705",
+          "funder_display_name": "National Health and Medical Research Council"
+        },
+        {
+          "id": "https://openalex.org/G7584073580",
+          "display_name": "Improving workplace productivity via an AI-based physical activity chatbot ",
+          "funder_award_id": "FT210100234",
+          "funder_id": "https://openalex.org/F4320334704",
+          "funder_display_name": "Australian Research Council"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320334626",
+          "display_name": "Medical Research Council",
+          "ror": "https://ror.org/03x94j517"
+        },
+        {
+          "id": "https://openalex.org/F4320334704",
+          "display_name": "Australian Research Council",
+          "ror": "https://ror.org/05mmh0f86"
+        },
+        {
+          "id": "https://openalex.org/F4320334705",
+          "display_name": "National Health and Medical Research Council",
+          "ror": "https://ror.org/011kf5r70"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4381805620.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4381805620.grobid-xml"
+      },
+      "referenced_works_count": 71,
+      "referenced_works": [
+        "https://openalex.org/W1510929924",
+        "https://openalex.org/W1537972189",
+        "https://openalex.org/W1975504213",
+        "https://openalex.org/W1976639658",
+        "https://openalex.org/W1977519940",
+        "https://openalex.org/W1989210501",
+        "https://openalex.org/W1997535568",
+        "https://openalex.org/W2017768678",
+        "https://openalex.org/W2033626657",
+        "https://openalex.org/W2037427175",
+        "https://openalex.org/W2054649768",
+        "https://openalex.org/W2061725094",
+        "https://openalex.org/W2075881498",
+        "https://openalex.org/W2103224468",
+        "https://openalex.org/W2111215813",
+        "https://openalex.org/W2111722073",
+        "https://openalex.org/W2115958239",
+        "https://openalex.org/W2117138649",
+        "https://openalex.org/W2147117340",
+        "https://openalex.org/W2271142508",
+        "https://openalex.org/W2531663067",
+        "https://openalex.org/W2533916756",
+        "https://openalex.org/W2598772200",
+        "https://openalex.org/W2603508099",
+        "https://openalex.org/W2608852370",
+        "https://openalex.org/W2612630960",
+        "https://openalex.org/W2621114807",
+        "https://openalex.org/W2724146920",
+        "https://openalex.org/W2751620495",
+        "https://openalex.org/W2778140929",
+        "https://openalex.org/W2784499415",
+        "https://openalex.org/W2789398509",
+        "https://openalex.org/W2807929371",
+        "https://openalex.org/W2843010082",
+        "https://openalex.org/W2891900163",
+        "https://openalex.org/W2893940987",
+        "https://openalex.org/W2905657479",
+        "https://openalex.org/W2922711788",
+        "https://openalex.org/W2945732805",
+        "https://openalex.org/W2946137690",
+        "https://openalex.org/W2953532875",
+        "https://openalex.org/W2954596691",
+        "https://openalex.org/W2966660127",
+        "https://openalex.org/W2969919804",
+        "https://openalex.org/W3012299117",
+        "https://openalex.org/W3012838529",
+        "https://openalex.org/W3021104312",
+        "https://openalex.org/W3022528244",
+        "https://openalex.org/W3028484854",
+        "https://openalex.org/W3031302918",
+        "https://openalex.org/W3092618407",
+        "https://openalex.org/W3093546774",
+        "https://openalex.org/W3118615836",
+        "https://openalex.org/W3124910222",
+        "https://openalex.org/W3125449964",
+        "https://openalex.org/W3155264357",
+        "https://openalex.org/W3195091316",
+        "https://openalex.org/W3197562942",
+        "https://openalex.org/W3199811663",
+        "https://openalex.org/W3200742808",
+        "https://openalex.org/W4200062772",
+        "https://openalex.org/W4200131949",
+        "https://openalex.org/W4205161666",
+        "https://openalex.org/W4206942329",
+        "https://openalex.org/W4210299011",
+        "https://openalex.org/W4223646541",
+        "https://openalex.org/W4226308818",
+        "https://openalex.org/W4281394252",
+        "https://openalex.org/W4283316447",
+        "https://openalex.org/W4288443546",
+        "https://openalex.org/W4321748146"
+      ],
+      "related_works": [
+        "https://openalex.org/W4383501580",
+        "https://openalex.org/W4214931137",
+        "https://openalex.org/W4387007686",
+        "https://openalex.org/W4313813117",
+        "https://openalex.org/W4382052417",
+        "https://openalex.org/W3192088754",
+        "https://openalex.org/W3084631705",
+        "https://openalex.org/W3176146353",
+        "https://openalex.org/W4293646425",
+        "https://openalex.org/W4379781060"
+      ],
+      "abstract_inverted_index": {
+        "Chatbots": [
+          0
+        ],
+        "(also": [
+          1
+        ],
+        "known": [
+          2
+        ],
+        "as": [
+          3
+        ],
+        "conversational": [
+          4
+        ],
+        "agents": [
+          5
+        ],
+        "and": [
+          6,
+          19,
+          28,
+          44,
+          52,
+          56,
+          85,
+          90,
+          115,
+          144,
+          161,
+          216,
+          237,
+          253,
+          265,
+          268,
+          280,
+          292,
+          305,
+          310,
+          322,
+          328,
+          331,
+          334
+        ],
+        "virtual": [
+          7
+        ],
+        "assistants)": [
+          8
+        ],
+        "offer": [
+          9
+        ],
+        "the": [
+          10,
+          33,
+          126
+        ],
+        "potential": [
+          11
+        ],
+        "to": [
+          12,
+          31,
+          39,
+          99,
+          107
+        ],
+        "deliver": [
+          13
+        ],
+        "healthcare": [
+          14
+        ],
+        "in": [
+          15
+        ],
+        "an": [
+          16
+        ],
+        "efficient,": [
+          17
+        ],
+        "appealing": [
+          18
+        ],
+        "personalised": [
+          20
+        ],
+        "manner.": [
+          21
+        ],
+        "The": [
+          22
+        ],
+        "purpose": [
+          23
+        ],
+        "of": [
+          24,
+          35,
+          117,
+          121,
+          181,
+          320
+        ],
+        "this": [
+          25,
+          289
+        ],
+        "systematic": [
+          26,
+          290
+        ],
+        "review": [
+          27,
+          291
+        ],
+        "meta-analysis": [
+          29,
+          293
+        ],
+        "was": [
+          30,
+          123
+        ],
+        "evaluate": [
+          32
+        ],
+        "efficacy": [
+          34
+        ],
+        "chatbot": [
+          36,
+          61,
+          109,
+          296,
+          332
+        ],
+        "interventions": [
+          37,
+          62,
+          153,
+          270,
+          276,
+          297,
+          314,
+          336
+        ],
+        "designed": [
+          38
+        ],
+        "improve": [
+          40
+        ],
+        "physical": [
+          41,
+          64,
+          77,
+          81,
+          159,
+          186,
+          302
+        ],
+        "activity,": [
+          42,
+          65,
+          78,
+          160,
+          303
+        ],
+        "diet": [
+          43,
+          66
+        ],
+        "sleep.": [
+          45
+        ],
+        "Electronic": [
+          46
+        ],
+        "databases": [
+          47
+        ],
+        "were": [
+          48,
+          75,
+          97,
+          105,
+          137,
+          257,
+          271,
+          315
+        ],
+        "searched": [
+          49
+        ],
+        "for": [
+          50,
+          183,
+          263,
+          277,
+          300
+        ],
+        "randomised": [
+          51
+        ],
+        "non-randomised": [
+          53
+        ],
+        "controlled": [
+          54
+        ],
+        "trials,": [
+          55
+        ],
+        "pre-post": [
+          57
+        ],
+        "trials": [
+          58,
+          136,
+          163
+        ],
+        "that": [
+          59,
+          251,
+          295
+        ],
+        "evaluated": [
+          60
+        ],
+        "targeting": [
+          63
+        ],
+        "and/or": [
+          67
+        ],
+        "sleep,": [
+          68
+        ],
+        "published": [
+          69
+        ],
+        "before": [
+          70
+        ],
+        "1": [
+          71
+        ],
+        "September": [
+          72
+        ],
+        "2022.": [
+          73
+        ],
+        "Outcomes": [
+          74
+        ],
+        "total": [
+          76,
+          185
+        ],
+        "steps,": [
+          79
+        ],
+        "moderate-to-vigorous": [
+          80
+        ],
+        "activity": [
+          82,
+          187
+        ],
+        "(MVPA),": [
+          83
+        ],
+        "fruit": [
+          84,
+          215,
+          264,
+          304
+        ],
+        "vegetable": [
+          86,
+          217,
+          266,
+          306
+        ],
+        "consumption,": [
+          87,
+          267,
+          307
+        ],
+        "sleep": [
+          88,
+          91,
+          227,
+          238,
+          278,
+          281,
+          308,
+          311
+        ],
+        "quality": [
+          89,
+          239,
+          282
+        ],
+        "duration.": [
+          92
+        ],
+        "Standardised": [
+          93
+        ],
+        "mean": [
+          94,
+          145
+        ],
+        "differences": [
+          95
+        ],
+        "(SMD)": [
+          96
+        ],
+        "calculated": [
+          98
+        ],
+        "compare": [
+          100
+        ],
+        "intervention": [
+          101,
+          111
+        ],
+        "effects.": [
+          102
+        ],
+        "Subgroup": [
+          103,
+          248
+        ],
+        "analyses": [
+          104,
+          249
+        ],
+        "conducted": [
+          106
+        ],
+        "assess": [
+          108
+        ],
+        "type,": [
+          110,
+          112
+        ],
+        "duration,": [
+          113
+        ],
+        "output": [
+          114
+        ],
+        "use": [
+          116
+        ],
+        "artificial": [
+          118,
+          254
+        ],
+        "intelligence.": [
+          119
+        ],
+        "Risk": [
+          120
+        ],
+        "bias": [
+          122
+        ],
+        "assessed": [
+          124
+        ],
+        "using": [
+          125
+        ],
+        "Effective": [
+          127
+        ],
+        "Public": [
+          128
+        ],
+        "Health": [
+          129
+        ],
+        "Practice": [
+          130
+        ],
+        "Project": [
+          131
+        ],
+        "Quality": [
+          132
+        ],
+        "Assessment": [
+          133
+        ],
+        "tool.": [
+          134
+        ],
+        "Nineteen": [
+          135
+        ],
+        "included.": [
+          138
+        ],
+        "Sample": [
+          139
+        ],
+        "sizes": [
+          140
+        ],
+        "ranged": [
+          141,
+          148
+        ],
+        "between": [
+          142,
+          149
+        ],
+        "25-958,": [
+          143
+        ],
+        "participant": [
+          146
+        ],
+        "age": [
+          147,
+          323
+        ],
+        "9-71": [
+          150
+        ],
+        "years.": [
+          151
+        ],
+        "Most": [
+          152
+        ],
+        "(n": [
+          154,
+          168
+        ],
+        "=": [
+          155,
+          169,
+          189,
+          193,
+          199,
+          203,
+          208,
+          212,
+          220,
+          224,
+          230,
+          234,
+          241,
+          245
+        ],
+        "15,": [
+          156
+        ],
+        "79%)": [
+          157
+        ],
+        "targeted": [
+          158
+        ],
+        "most": [
+          162
+        ],
+        "had": [
+          164
+        ],
+        "a": [
+          165,
+          318
+        ],
+        "low-quality": [
+          166
+        ],
+        "rating": [
+          167
+        ],
+        "14,": [
+          170
+        ],
+        "74%).": [
+          171
+        ],
+        "Meta-analysis": [
+          172
+        ],
+        "results": [
+          173
+        ],
+        "showed": [
+          174,
+          250
+        ],
+        "significant": [
+          175
+        ],
+        "effects": [
+          176
+        ],
+        "(all": [
+          177,
+          283
+        ],
+        "p": [
+          178,
+          284
+        ],
+        "<": [
+          179,
+          285
+        ],
+        "0.05)": [
+          180
+        ],
+        "chatbots": [
+          182,
+          256,
+          262
+        ],
+        "increasing": [
+          184,
+          301
+        ],
+        "(SMD": [
+          188,
+          198,
+          207,
+          219,
+          229,
+          240
+        ],
+        "0.28": [
+          190,
+          200
+        ],
+        "[95%": [
+          191,
+          201,
+          210,
+          222,
+          232,
+          243
+        ],
+        "CI": [
+          192,
+          202,
+          211,
+          223,
+          233,
+          244
+        ],
+        "0.16,": [
+          194
+        ],
+        "0.40]),": [
+          195
+        ],
+        "daily": [
+          196
+        ],
+        "steps": [
+          197
+        ],
+        "0.17,": [
+          204
+        ],
+        "0.39]),": [
+          205
+        ],
+        "MVPA": [
+          206
+        ],
+        "0.53": [
+          209
+        ],
+        "0.24,": [
+          213
+        ],
+        "0.83]),": [
+          214
+        ],
+        "consumption": [
+          218
+        ],
+        "0.59": [
+          221
+        ],
+        "0.25,": [
+          225
+        ],
+        "0.93]),": [
+          226
+        ],
+        "duration": [
+          228,
+          279,
+          309
+        ],
+        "0.44": [
+          231
+        ],
+        "0.32,": [
+          235
+        ],
+        "0.55])": [
+          236
+        ],
+        "0.50": [
+          242
+        ],
+        "0.09,": [
+          246
+        ],
+        "0.90]).": [
+          247
+        ],
+        "text-based,": [
+          252
+        ],
+        "intelligence": [
+          255
+        ],
+        "more": [
+          258,
+          272
+        ],
+        "efficacious": [
+          259,
+          273,
+          299,
+          316
+        ],
+        "than": [
+          260,
+          274
+        ],
+        "speech/voice": [
+          261
+        ],
+        "multicomponent": [
+          269,
+          335
+        ],
+        "chatbot-only": [
+          275
+        ],
+        "0.05).": [
+          286
+        ],
+        "Findings": [
+          287
+        ],
+        "from": [
+          288
+        ],
+        "indicate": [
+          294
+        ],
+        "are": [
+          298
+        ],
+        "quality.": [
+          312
+        ],
+        "Chatbot": [
+          313
+        ],
+        "across": [
+          317
+        ],
+        "range": [
+          319
+        ],
+        "populations": [
+          321
+        ],
+        "groups,": [
+          324
+        ],
+        "with": [
+          325
+        ],
+        "both": [
+          326
+        ],
+        "short-": [
+          327
+        ],
+        "longer-term": [
+          329
+        ],
+        "interventions,": [
+          330
+        ],
+        "only": [
+          333
+        ],
+        "being": [
+          337
+        ],
+        "efficacious.": [
+          338
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 63
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 86
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 51
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 15
+        }
+      ],
+      "updated_date": "2026-09-22T06:50:58.402377",
+      "created_date": "2023-06-24T00:00:00"
+    }
+  },
+  "pdf_file": "047_systematic-review-and-meta-analysis-of-the-effectiveness-of.pdf",
+  "pdf_url": "https://www.nature.com/articles/s41746-023-00856-1.pdf",
+  "pdf_verified": true
+}

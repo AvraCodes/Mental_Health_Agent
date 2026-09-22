@@ -1,0 +1,31 @@
+{
+  "id": "sch-001",
+  "original": {
+    "paper_name": "An overview of the features of chatbots in mental health: A scoping review",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "mental health chatbot",
+  "scraped_at": "2026-09-22T11:16:14.441066+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "mental health chatbot",
+    "title_matched": "An overview of the features of chatbots in mental health: A scoping review",
+    "authors": [
+      "AA Abd-Alrazaq",
+      "M Alajlani",
+      "AA Alalwan"
+    ],
+    "year": 2019,
+    "venue": "International journal of …",
+    "cited_by": 866,
+    "landing_page_url": "https://www.sciencedirect.com/science/article/pii/S1386505619307166",
+    "snippet": "… Healthcare providers should compare chatbots found in this review to help guide potential\nusers to the most appropriate chatbot to support their mental health … chatbots in mental health. …",
+    "pdf_url": "https://eprints.whiterose.ac.uk/id/eprint/151992/1/Abd-alrazaq-2019-AnoverviewofthefeaturesofchatbotsinmentalhealthAscopingreview.pdf"
+  },
+  "pdf_file": "sch_001_an-overview-of-the-features-of-chatbots-in-mental-health-a-s.pdf",
+  "pdf_url": "https://eprints.whiterose.ac.uk/id/eprint/151992/1/Abd-alrazaq-2019-AnoverviewofthefeaturesofchatbotsinmentalhealthAscopingreview.pdf",
+  "pdf_verified": true
+}

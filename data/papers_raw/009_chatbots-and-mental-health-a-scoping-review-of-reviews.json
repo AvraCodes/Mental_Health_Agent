@@ -1,0 +1,1132 @@
+{
+  "id": 9,
+  "original": {
+    "id": 9,
+    "paper_name": "Chatbots and mental health: a scoping review of reviews",
+    "site": "OpenAlex",
+    "venue_of_publication": "Current Psychology",
+    "year": 2025,
+    "researcher_info": "Eric Mayor"
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T10:58:00.051824+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "Chatbots and mental health: a scoping review of reviews",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W2977128309",
+    "doi": "https://doi.org/10.1016/j.ijmedinf.2019.103978",
+    "title_matched": "An overview of the features of chatbots in mental health: A scoping review",
+    "title_similarity": 0.646,
+    "match_confidence": "low",
+    "year": 2019,
+    "venue": "International Journal of Medical Informatics",
+    "authors": [
+      "Alaa Abd‐Alrazaq",
+      "Mohannad Alajlani",
+      "Ali Abdallah Alalwan",
+      "Bridgette M. Bewick",
+      "Peter Gardner",
+      "Mowafa Househ"
+    ],
+    "abstract": "",
+    "cited_by_count": 618,
+    "is_oa": true,
+    "pdf_url": null,
+    "pdf_candidates": [
+      "http://eprints.whiterose.ac.uk/151992/1/Abd-alrazaq-2019-AnoverviewofthefeaturesofchatbotsinmentalhealthAscopingreview.pdf"
+    ],
+    "landing_page_url": "https://wrap.warwick.ac.uk/127925/",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W2977128309",
+      "doi": "https://doi.org/10.1016/j.ijmedinf.2019.103978",
+      "title": "An overview of the features of chatbots in mental health: A scoping review",
+      "display_name": "An overview of the features of chatbots in mental health: A scoping review",
+      "relevance_score": 2566.655,
+      "publication_year": 2019,
+      "publication_date": "2019-09-25",
+      "ids": {
+        "openalex": "https://openalex.org/W2977128309",
+        "doi": "https://doi.org/10.1016/j.ijmedinf.2019.103978",
+        "mag": "2977128309",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/31622850"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.ijmedinf.2019.103978",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.ijmedinf.2019.103978",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S53142634",
+          "display_name": "International Journal of Medical Informatics",
+          "issn_l": "1386-5056",
+          "issn": [
+            "1386-5056",
+            "1872-8243"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doyens",
+            "jufo-3",
+            "medline",
+            "norway-2"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Journal of Medical Informatics",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://wrap.warwick.ac.uk/127925/",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5103070560",
+            "display_name": "Alaa Abd‐Alrazaq",
+            "orcid": "https://orcid.org/0000-0001-7695-4626"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210144839",
+              "display_name": "Hamad bin Khalifa University",
+              "ror": "https://ror.org/03eyq4y97",
+              "country_code": "QA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210144839"
+              ]
+            }
+          ],
+          "countries": [
+            "QA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Alaa A. Abd-alrazaq",
+          "raw_affiliation_strings": [
+            "College of Science and Engineering, Hamad Bin Khalifa University, Qatar"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Science and Engineering, Hamad Bin Khalifa University, Qatar",
+              "institution_ids": [
+                "https://openalex.org/I4210144839"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5067060292",
+            "display_name": "Mohannad Alajlani",
+            "orcid": "https://orcid.org/0000-0002-5691-7120"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I39555362",
+              "display_name": "University of Warwick",
+              "ror": "https://ror.org/01a77tt86",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39555362"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohannad Alajlani",
+          "raw_affiliation_strings": [
+            "Institute of Digital Health, University of Warwick, United Kingdom"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Digital Health, University of Warwick, United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I39555362"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5052418412",
+            "display_name": "Ali Abdallah Alalwan",
+            "orcid": "https://orcid.org/0000-0002-2881-2620"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I33926330",
+              "display_name": "Al-Balqa Applied University",
+              "ror": "https://ror.org/00qedmt22",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I33926330"
+              ]
+            }
+          ],
+          "countries": [
+            "JO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ali Abdallah Alalwan",
+          "raw_affiliation_strings": [
+            "Amman University College for Banking and Financial Sciences, Al-Balqa Applied University, Jordan"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Amman University College for Banking and Financial Sciences, Al-Balqa Applied University, Jordan",
+              "institution_ids": [
+                "https://openalex.org/I33926330"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072371833",
+            "display_name": "Bridgette M. Bewick",
+            "orcid": "https://orcid.org/0000-0001-5752-5623"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I130828816",
+              "display_name": "University of Leeds",
+              "ror": "https://ror.org/024mrxd33",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I130828816"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bridgette M. Bewick",
+          "raw_affiliation_strings": [
+            "Leeds Institute of Health Sciences, School of Medicine, University of Leeds, United Kingdom"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Leeds Institute of Health Sciences, School of Medicine, University of Leeds, United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I130828816"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5059663309",
+            "display_name": "Peter Gardner",
+            "orcid": "https://orcid.org/0000-0002-8799-0443"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I130828816",
+              "display_name": "University of Leeds",
+              "ror": "https://ror.org/024mrxd33",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I130828816"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Peter Gardner",
+          "raw_affiliation_strings": [
+            "School of Psychology, University of Leeds, United Kingdom"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Psychology, University of Leeds, United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I130828816"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5057926319",
+            "display_name": "Mowafa Househ",
+            "orcid": "https://orcid.org/0000-0002-3648-6271"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210144839",
+              "display_name": "Hamad bin Khalifa University",
+              "ror": "https://ror.org/03eyq4y97",
+              "country_code": "QA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210144839"
+              ]
+            }
+          ],
+          "countries": [
+            "QA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Mowafa Househ",
+          "raw_affiliation_strings": [
+            "College of Science and Engineering, Hamad Bin Khalifa University, Qatar. Electronic address: mhouseh@hbku.edu.qa",
+            "College of Science and Engineering, Hamad Bin Khalifa University, Qatar"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Science and Engineering, Hamad Bin Khalifa University, Qatar. Electronic address: mhouseh@hbku.edu.qa",
+              "institution_ids": [
+                "https://openalex.org/I4210144839"
+              ]
+            },
+            {
+              "raw_affiliation_string": "College of Science and Engineering, Hamad Bin Khalifa University, Qatar",
+              "institution_ids": [
+                "https://openalex.org/I4210144839"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5057926319"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210144839"
+      ],
+      "apc_list": {
+        "value": 3100,
+        "currency": "USD",
+        "value_usd": 3100
+      },
+      "apc_paid": null,
+      "fwci": 24.259,
+      "has_fulltext": false,
+      "cited_by_count": 618,
+      "citation_normalized_percentile": {
+        "value": 0.99724919,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "132",
+        "issue": null,
+        "first_page": "103978",
+        "last_page": "103978"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11519",
+        "display_name": "Digital Mental Health Interventions",
+        "score": 0.9358000159263611,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3202",
+          "display_name": "Applied Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11519",
+          "display_name": "Digital Mental Health Interventions",
+          "score": 0.9358000159263611,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3202",
+            "display_name": "Applied Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12128",
+          "display_name": "AI in Service Interactions",
+          "score": 0.017000000923871994,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12488",
+          "display_name": "Mental Health via Writing",
+          "score": 0.00559999980032444,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/psycinfo",
+          "display_name": "PsycINFO",
+          "score": 0.8674512505531311
+        },
+        {
+          "id": "https://openalex.org/keywords/digital-library",
+          "display_name": "Digital library",
+          "score": 0.6590214371681213
+        },
+        {
+          "id": "https://openalex.org/keywords/mental-health",
+          "display_name": "Mental health",
+          "score": 0.6433330178260803
+        },
+        {
+          "id": "https://openalex.org/keywords/medline",
+          "display_name": "MEDLINE",
+          "score": 0.6191688776016235
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.5614937543869019
+        },
+        {
+          "id": "https://openalex.org/keywords/data-extraction",
+          "display_name": "Data extraction",
+          "score": 0.5169674754142761
+        },
+        {
+          "id": "https://openalex.org/keywords/cochrane-library",
+          "display_name": "Cochrane Library",
+          "score": 0.4893621802330017
+        },
+        {
+          "id": "https://openalex.org/keywords/systematic-review",
+          "display_name": "Systematic review",
+          "score": 0.43421223759651184
+        },
+        {
+          "id": "https://openalex.org/keywords/world-wide-web",
+          "display_name": "World Wide Web",
+          "score": 0.36961880326271057
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.34723183512687683
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.3444451689720154
+        },
+        {
+          "id": "https://openalex.org/keywords/medical-education",
+          "display_name": "Medical education",
+          "score": 0.33937034010887146
+        },
+        {
+          "id": "https://openalex.org/keywords/applied-psychology",
+          "display_name": "Applied psychology",
+          "score": 0.3272852301597595
+        },
+        {
+          "id": "https://openalex.org/keywords/psychiatry",
+          "display_name": "Psychiatry",
+          "score": 0.19523724913597107
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2779549880",
+          "wikidata": "https://www.wikidata.org/wiki/Q5542226",
+          "display_name": "PsycINFO",
+          "level": 3,
+          "score": 0.8674512505531311
+        },
+        {
+          "id": "https://openalex.org/C513874922",
+          "wikidata": "https://www.wikidata.org/wiki/Q212805",
+          "display_name": "Digital library",
+          "level": 3,
+          "score": 0.6590214371681213
+        },
+        {
+          "id": "https://openalex.org/C134362201",
+          "wikidata": "https://www.wikidata.org/wiki/Q317309",
+          "display_name": "Mental health",
+          "level": 2,
+          "score": 0.6433330178260803
+        },
+        {
+          "id": "https://openalex.org/C2779473830",
+          "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+          "display_name": "MEDLINE",
+          "level": 2,
+          "score": 0.6191688776016235
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.5614937543869019
+        },
+        {
+          "id": "https://openalex.org/C2777466982",
+          "wikidata": "https://www.wikidata.org/wiki/Q5227287",
+          "display_name": "Data extraction",
+          "level": 3,
+          "score": 0.5169674754142761
+        },
+        {
+          "id": "https://openalex.org/C2776478404",
+          "wikidata": "https://www.wikidata.org/wiki/Q1105187",
+          "display_name": "Cochrane Library",
+          "level": 3,
+          "score": 0.4893621802330017
+        },
+        {
+          "id": "https://openalex.org/C189708586",
+          "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+          "display_name": "Systematic review",
+          "level": 3,
+          "score": 0.43421223759651184
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.36961880326271057
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.34723183512687683
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.3444451689720154
+        },
+        {
+          "id": "https://openalex.org/C509550671",
+          "wikidata": "https://www.wikidata.org/wiki/Q126945",
+          "display_name": "Medical education",
+          "level": 1,
+          "score": 0.33937034010887146
+        },
+        {
+          "id": "https://openalex.org/C75630572",
+          "wikidata": "https://www.wikidata.org/wiki/Q538904",
+          "display_name": "Applied psychology",
+          "level": 1,
+          "score": 0.3272852301597595
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.19523724913597107
+        },
+        {
+          "id": "https://openalex.org/C164913051",
+          "wikidata": "https://www.wikidata.org/wiki/Q482",
+          "display_name": "Poetry",
+          "level": 2,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C124952713",
+          "wikidata": "https://www.wikidata.org/wiki/Q8242",
+          "display_name": "Literature",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C142362112",
+          "wikidata": "https://www.wikidata.org/wiki/Q735",
+          "display_name": "Art",
+          "level": 0,
+          "score": 0.0
+        }
+      ],
+      "mesh": [
+        {
+          "descriptor_ui": "D001521",
+          "descriptor_name": "Behavior Therapy",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001521",
+          "descriptor_name": "Behavior Therapy",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001521",
+          "descriptor_name": "Behavior Therapy",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001521",
+          "descriptor_name": "Behavior Therapy",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001523",
+          "descriptor_name": "Mental Disorders",
+          "qualifier_ui": "Q000628",
+          "qualifier_name": "therapy",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001523",
+          "descriptor_name": "Mental Disorders",
+          "qualifier_ui": "Q000628",
+          "qualifier_name": "therapy",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001523",
+          "descriptor_name": "Mental Disorders",
+          "qualifier_ui": "Q000628",
+          "qualifier_name": "therapy",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001523",
+          "descriptor_name": "Mental Disorders",
+          "qualifier_ui": "Q000628",
+          "qualifier_name": "therapy",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D003142",
+          "descriptor_name": "Communication",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D003142",
+          "descriptor_name": "Communication",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D003142",
+          "descriptor_name": "Communication",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D003142",
+          "descriptor_name": "Communication",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008603",
+          "descriptor_name": "Mental Health",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D008603",
+          "descriptor_name": "Mental Health",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D008603",
+          "descriptor_name": "Mental Health",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D008603",
+          "descriptor_name": "Mental Health",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D017216",
+          "descriptor_name": "Telemedicine",
+          "qualifier_ui": "Q000379",
+          "qualifier_name": "methods",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D017216",
+          "descriptor_name": "Telemedicine",
+          "qualifier_ui": "Q000379",
+          "qualifier_name": "methods",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D017216",
+          "descriptor_name": "Telemedicine",
+          "qualifier_ui": "Q000379",
+          "qualifier_name": "methods",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D017216",
+          "descriptor_name": "Telemedicine",
+          "qualifier_ui": "Q000379",
+          "qualifier_name": "methods",
+          "is_major_topic": false
+        }
+      ],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.ijmedinf.2019.103978",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.ijmedinf.2019.103978",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S53142634",
+            "display_name": "International Journal of Medical Informatics",
+            "issn_l": "1386-5056",
+            "issn": [
+              "1386-5056",
+              "1872-8243"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doyens",
+              "jufo-3",
+              "medline",
+              "norway-2"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International Journal of Medical Informatics",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:31622850",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/31622850",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International journal of medical informatics",
+          "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:eprints.whiterose.ac.uk:151992",
+          "is_oa": false,
+          "landing_page_url": "http://eprints.whiterose.ac.uk/151992/1/Abd-alrazaq-2019-AnoverviewofthefeaturesofchatbotsinmentalhealthAscopingreview.pdf",
+          "pdf_url": "http://eprints.whiterose.ac.uk/151992/1/Abd-alrazaq-2019-AnoverviewofthefeaturesofchatbotsinmentalhealthAscopingreview.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306400854",
+            "display_name": "White Rose Research Online (University of Leeds, The University of Sheffield, University of York)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I2800616092",
+            "host_organization_name": "White Rose University Consortium",
+            "host_organization_lineage": [
+              "https://openalex.org/I2800616092"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Article"
+        },
+        {
+          "id": "pmh:oai:wrap.warwick.ac.uk:127925",
+          "is_oa": true,
+          "landing_page_url": "https://wrap.warwick.ac.uk/127925/",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400665",
+            "display_name": "Warwick Research Archive Portal (University of Warwick)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I39555362",
+            "host_organization_name": "University of Warwick",
+            "host_organization_lineage": [
+              "https://openalex.org/I39555362"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Journal Article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:wrap.warwick.ac.uk:127925",
+        "is_oa": true,
+        "landing_page_url": "https://wrap.warwick.ac.uk/127925/",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400665",
+          "display_name": "Warwick Research Archive Portal (University of Warwick)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I39555362",
+          "host_organization_name": "University of Warwick",
+          "host_organization_lineage": [
+            "https://openalex.org/I39555362"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "Journal Article"
+      },
+      "sustainable_development_goals": [
+        {
+          "display_name": "Quality Education",
+          "id": "https://metadata.un.org/sdg/4",
+          "score": 0.699999988079071
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 61,
+      "referenced_works": [
+        "https://openalex.org/W76136502",
+        "https://openalex.org/W560265339",
+        "https://openalex.org/W1598602811",
+        "https://openalex.org/W1598829572",
+        "https://openalex.org/W1997714051",
+        "https://openalex.org/W2000191594",
+        "https://openalex.org/W2006103193",
+        "https://openalex.org/W2016126398",
+        "https://openalex.org/W2053033463",
+        "https://openalex.org/W2059796825",
+        "https://openalex.org/W2065391964",
+        "https://openalex.org/W2072181779",
+        "https://openalex.org/W2075950485",
+        "https://openalex.org/W2079283960",
+        "https://openalex.org/W2082302018",
+        "https://openalex.org/W2088640506",
+        "https://openalex.org/W2090292248",
+        "https://openalex.org/W2097950056",
+        "https://openalex.org/W2114927386",
+        "https://openalex.org/W2117488952",
+        "https://openalex.org/W2122293883",
+        "https://openalex.org/W2135401899",
+        "https://openalex.org/W2142589250",
+        "https://openalex.org/W2160187477",
+        "https://openalex.org/W2171340584",
+        "https://openalex.org/W2172402079",
+        "https://openalex.org/W2220374841",
+        "https://openalex.org/W2287294015",
+        "https://openalex.org/W2322637108",
+        "https://openalex.org/W2330505021",
+        "https://openalex.org/W2398410084",
+        "https://openalex.org/W2503560868",
+        "https://openalex.org/W2532431875",
+        "https://openalex.org/W2562566391",
+        "https://openalex.org/W2606636926",
+        "https://openalex.org/W2612630960",
+        "https://openalex.org/W2623779865",
+        "https://openalex.org/W2743233975",
+        "https://openalex.org/W2748749258",
+        "https://openalex.org/W2755232679",
+        "https://openalex.org/W2763552934",
+        "https://openalex.org/W2783791147",
+        "https://openalex.org/W2797597138",
+        "https://openalex.org/W2843010082",
+        "https://openalex.org/W2888888812",
+        "https://openalex.org/W2891378911",
+        "https://openalex.org/W2895618390",
+        "https://openalex.org/W2895995041",
+        "https://openalex.org/W2900204340",
+        "https://openalex.org/W2922711788",
+        "https://openalex.org/W2945669523",
+        "https://openalex.org/W4211048027",
+        "https://openalex.org/W4243061457",
+        "https://openalex.org/W4297813086",
+        "https://openalex.org/W4301172471",
+        "https://openalex.org/W6672901503",
+        "https://openalex.org/W6678370261",
+        "https://openalex.org/W6688766729",
+        "https://openalex.org/W6702024286",
+        "https://openalex.org/W6731141461",
+        "https://openalex.org/W6742233428"
+      ],
+      "related_works": [
+        "https://openalex.org/W1965897301",
+        "https://openalex.org/W4200065965",
+        "https://openalex.org/W2588366848",
+        "https://openalex.org/W3039293564",
+        "https://openalex.org/W3208928737",
+        "https://openalex.org/W2129543081",
+        "https://openalex.org/W2085472103",
+        "https://openalex.org/W2992845476",
+        "https://openalex.org/W125306840",
+        "https://openalex.org/W1987742652"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 100
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 120
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 118
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 120
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 73
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 58
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 27
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-09-21T07:43:02.447757",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": null,
+  "s2_attempt": {
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s12144-025-08094-2.pdf",
+    "method": "semanticscholar",
+    "title_matched": "Chatbots and mental health: a scoping review of reviews",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2025,
+    "doi": "https://doi.org/10.1007/s12144-025-08094-2",
+    "s2_url": "https://www.semanticscholar.org/paper/864b3389b8913322655e0efd30c0ba628a3d1f41"
+  }
+}

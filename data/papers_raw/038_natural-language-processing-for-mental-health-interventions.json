@@ -1,0 +1,2200 @@
+{
+  "id": 38,
+  "original": {
+    "id": 38,
+    "paper_name": "Natural language processing for mental health interventions: a systematic review and research framework",
+    "site": "OpenAlex",
+    "venue_of_publication": "Translational Psychiatry",
+    "year": 2023,
+    "researcher_info": "Matteo Malgaroli, Thomas D. Hull et al."
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T08:32:14.794138+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "Natural language processing for mental health interventions: a systematic review and research framework",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W4387393037",
+    "doi": "https://doi.org/10.1038/s41398-023-02592-2",
+    "title_matched": "Natural language processing for mental health interventions: a systematic review and research framework",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2023,
+    "venue": "Translational Psychiatry",
+    "authors": [
+      "Matteo Malgaroli",
+      "Thomas D. Hull",
+      "James M Zech",
+      "Tim Althoff"
+    ],
+    "abstract": "Neuropsychiatric disorders pose a high societal cost, but their treatment is hindered by lack of objective outcomes and fidelity metrics. AI technologies and specifically Natural Language Processing (NLP) have emerged as tools to study mental health interventions (MHI) at the level of their constituent conversations. However, NLP's potential to address clinical and research challenges remains unclear. We therefore conducted a pre-registered systematic review of NLP-MHI studies using PRISMA guidelines (osf.io/s52jh) to evaluate their models, clinical applications, and to identify biases and gaps. Candidate studies (n = 19,756), including peer-reviewed AI conference manuscripts, were collected up to January 2023 through PubMed, PsycINFO, Scopus, Google Scholar, and ArXiv. A total of 102 articles were included to investigate their computational characteristics (NLP algorithms, audio features, machine learning pipelines, outcome metrics), clinical characteristics (clinical ground truths, study samples, clinical focus), and limitations. Results indicate a rapid growth of NLP MHI studies since 2019, characterized by increased sample sizes and use of large language models. Digital health platforms were the largest providers of MHI data. Ground truth for supervised learning models was based on clinician ratings (n = 31), patient self-report (n = 29) and annotations by raters (n = 26). Text-based features contributed more to model accuracy than audio markers. Patients' clinical presentation (n = 34), response to intervention (n = 11), intervention monitoring (n = 20), providers' characteristics (n = 12), relational dynamics (n = 14), and data preparation (n = 4) were commonly investigated clinical categories. Limitations of reviewed studies included lack of linguistic diversity, limited reproducibility, and population bias. A research framework is developed and validated (NLPxMHI) to assist computational and clinical researchers in addressing the remaining gaps in applying NLP to MHI, with the goal of improving clinical utility, data access, and fairness.",
+    "cited_by_count": 203,
+    "is_oa": true,
+    "pdf_url": "https://www.nature.com/articles/s41398-023-02592-2.pdf",
+    "pdf_candidates": [
+      "https://www.nature.com/articles/s41398-023-02592-2.pdf",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10556019/pdf/41398_2023_Article_2592.pdf"
+    ],
+    "landing_page_url": "https://doi.org/10.1038/s41398-023-02592-2",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W4387393037",
+      "doi": "https://doi.org/10.1038/s41398-023-02592-2",
+      "title": "Natural language processing for mental health interventions: a systematic review and research framework",
+      "display_name": "Natural language processing for mental health interventions: a systematic review and research framework",
+      "relevance_score": 4414.609,
+      "publication_year": 2023,
+      "publication_date": "2023-10-05",
+      "ids": {
+        "openalex": "https://openalex.org/W4387393037",
+        "doi": "https://doi.org/10.1038/s41398-023-02592-2",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/37798296"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1038/s41398-023-02592-2",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1038/s41398-023-02592-2",
+        "pdf_url": "https://www.nature.com/articles/s41398-023-02592-2.pdf",
+        "source": {
+          "id": "https://openalex.org/S163345920",
+          "display_name": "Translational Psychiatry",
+          "issn_l": "2158-3188",
+          "issn": [
+            "2158-3188"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "doyens",
+            "jufo-1",
+            "medline",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319965",
+          "host_organization_name": "Springer Nature",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Translational Psychiatry",
+        "raw_type": "journal-article"
+      },
+      "type": "review",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.nature.com/articles/s41398-023-02592-2.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5040524783",
+            "display_name": "Matteo Malgaroli",
+            "orcid": "https://orcid.org/0000-0003-4209-6939"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I57206974",
+              "display_name": "New York University",
+              "ror": "https://ror.org/0190ak572",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I57206974"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Matteo Malgaroli",
+          "raw_affiliation_strings": [
+            "Department of Psychiatry, New York University, Grossman School of Medicine, New York, NY, 10016, USA. matteo.malgaroli@nyulangone.org",
+            "Department of Psychiatry, New York University, Grossman School of Medicine, New York, NY, 10016, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-4209-6939",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Psychiatry, New York University, Grossman School of Medicine, New York, NY, 10016, USA. matteo.malgaroli@nyulangone.org",
+              "institution_ids": [
+                "https://openalex.org/I57206974"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Psychiatry, New York University, Grossman School of Medicine, New York, NY, 10016, USA",
+              "institution_ids": [
+                "https://openalex.org/I57206974"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044981630",
+            "display_name": "Thomas D. Hull",
+            "orcid": "https://orcid.org/0000-0001-8275-6765"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Thomas D. Hull",
+          "raw_affiliation_strings": [
+            "Talkspace, New York, NY, 10025, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Talkspace, New York, NY, 10025, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5060409321",
+            "display_name": "James M Zech",
+            "orcid": "https://orcid.org/0000-0001-8726-1884"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I103163165",
+              "display_name": "Florida State University",
+              "ror": "https://ror.org/05g3dte14",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I103163165"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "James M. Zech",
+          "raw_affiliation_strings": [
+            "Department of Psychology, Florida State University, Tallahassee, FL, 32306, USA",
+            "Talkspace, New York, NY, 10025, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Psychology, Florida State University, Tallahassee, FL, 32306, USA",
+              "institution_ids": [
+                "https://openalex.org/I103163165"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Talkspace, New York, NY, 10025, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5033639139",
+            "display_name": "Tim Althoff",
+            "orcid": "https://orcid.org/0000-0003-4793-2289"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I201448701",
+              "display_name": "University of Washington",
+              "ror": "https://ror.org/00cvxb145",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I201448701"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Tim Althoff",
+          "raw_affiliation_strings": [
+            "Department of Computer Science, University of Washington, Seattle, WA, 98195, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-4793-2289",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Science, University of Washington, Seattle, WA, 98195, USA",
+              "institution_ids": [
+                "https://openalex.org/I201448701"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5040524783"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I57206974"
+      ],
+      "apc_list": {
+        "value": 4790,
+        "currency": "USD",
+        "value_usd": 4790
+      },
+      "apc_paid": {
+        "value": 4790,
+        "currency": "USD",
+        "value_usd": 4790
+      },
+      "fwci": 10.0572,
+      "has_fulltext": true,
+      "cited_by_count": 203,
+      "citation_normalized_percentile": {
+        "value": 0.99593909,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 97,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "13",
+        "issue": "1",
+        "first_page": "309",
+        "last_page": "309"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12488",
+        "display_name": "Mental Health via Writing",
+        "score": 0.9997000098228455,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3207",
+          "display_name": "Social Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12488",
+          "display_name": "Mental Health via Writing",
+          "score": 0.9997000098228455,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11519",
+          "display_name": "Digital Mental Health Interventions",
+          "score": 0.9987999796867371,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3202",
+            "display_name": "Applied Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10272",
+          "display_name": "Mental Health Treatment and Access",
+          "score": 0.9944000244140625,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/psychological-intervention",
+          "display_name": "Psychological intervention",
+          "score": 0.7190483212471008
+        },
+        {
+          "id": "https://openalex.org/keywords/mental-health",
+          "display_name": "Mental health",
+          "score": 0.5650331974029541
+        },
+        {
+          "id": "https://openalex.org/keywords/schizophrenia",
+          "display_name": "Schizophrenia (object-oriented programming)",
+          "score": 0.5486463308334351
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.531003475189209
+        },
+        {
+          "id": "https://openalex.org/keywords/natural",
+          "display_name": "Natural (archaeology)",
+          "score": 0.463340163230896
+        },
+        {
+          "id": "https://openalex.org/keywords/psychotherapist",
+          "display_name": "Psychotherapist",
+          "score": 0.35945945978164673
+        },
+        {
+          "id": "https://openalex.org/keywords/psychiatry",
+          "display_name": "Psychiatry",
+          "score": 0.35209953784942627
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.3232964277267456
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C27415008",
+          "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+          "display_name": "Psychological intervention",
+          "level": 2,
+          "score": 0.7190483212471008
+        },
+        {
+          "id": "https://openalex.org/C134362201",
+          "wikidata": "https://www.wikidata.org/wiki/Q317309",
+          "display_name": "Mental health",
+          "level": 2,
+          "score": 0.5650331974029541
+        },
+        {
+          "id": "https://openalex.org/C2776412080",
+          "wikidata": "https://www.wikidata.org/wiki/Q7431605",
+          "display_name": "Schizophrenia (object-oriented programming)",
+          "level": 2,
+          "score": 0.5486463308334351
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.531003475189209
+        },
+        {
+          "id": "https://openalex.org/C2776608160",
+          "wikidata": "https://www.wikidata.org/wiki/Q4785462",
+          "display_name": "Natural (archaeology)",
+          "level": 2,
+          "score": 0.463340163230896
+        },
+        {
+          "id": "https://openalex.org/C542102704",
+          "wikidata": "https://www.wikidata.org/wiki/Q183257",
+          "display_name": "Psychotherapist",
+          "level": 1,
+          "score": 0.35945945978164673
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.35209953784942627
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.3232964277267456
+        },
+        {
+          "id": "https://openalex.org/C95457728",
+          "wikidata": "https://www.wikidata.org/wiki/Q309",
+          "display_name": "History",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [
+        {
+          "descriptor_ui": "D000465",
+          "descriptor_name": "Algorithms",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000465",
+          "descriptor_name": "Algorithms",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000465",
+          "descriptor_name": "Algorithms",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000465",
+          "descriptor_name": "Algorithms",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000465",
+          "descriptor_name": "Algorithms",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000465",
+          "descriptor_name": "Algorithms",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000465",
+          "descriptor_name": "Algorithms",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000465",
+          "descriptor_name": "Algorithms",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000465",
+          "descriptor_name": "Algorithms",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000465",
+          "descriptor_name": "Algorithms",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D003142",
+          "descriptor_name": "Communication",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D003142",
+          "descriptor_name": "Communication",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D003142",
+          "descriptor_name": "Communication",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D003142",
+          "descriptor_name": "Communication",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D003142",
+          "descriptor_name": "Communication",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D003142",
+          "descriptor_name": "Communication",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D003142",
+          "descriptor_name": "Communication",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D003142",
+          "descriptor_name": "Communication",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D003142",
+          "descriptor_name": "Communication",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D003142",
+          "descriptor_name": "Communication",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008603",
+          "descriptor_name": "Mental Health",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D008603",
+          "descriptor_name": "Mental Health",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D008603",
+          "descriptor_name": "Mental Health",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D008603",
+          "descriptor_name": "Mental Health",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D008603",
+          "descriptor_name": "Mental Health",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D008603",
+          "descriptor_name": "Mental Health",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D008603",
+          "descriptor_name": "Mental Health",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D008603",
+          "descriptor_name": "Mental Health",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D008603",
+          "descriptor_name": "Mental Health",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D008603",
+          "descriptor_name": "Mental Health",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D009323",
+          "descriptor_name": "Natural Language Processing",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D009323",
+          "descriptor_name": "Natural Language Processing",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D009323",
+          "descriptor_name": "Natural Language Processing",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D009323",
+          "descriptor_name": "Natural Language Processing",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D009323",
+          "descriptor_name": "Natural Language Processing",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D009323",
+          "descriptor_name": "Natural Language Processing",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D009323",
+          "descriptor_name": "Natural Language Processing",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D009323",
+          "descriptor_name": "Natural Language Processing",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D009323",
+          "descriptor_name": "Natural Language Processing",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D009323",
+          "descriptor_name": "Natural Language Processing",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D015203",
+          "descriptor_name": "Reproducibility of Results",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D015203",
+          "descriptor_name": "Reproducibility of Results",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D015203",
+          "descriptor_name": "Reproducibility of Results",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D015203",
+          "descriptor_name": "Reproducibility of Results",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D015203",
+          "descriptor_name": "Reproducibility of Results",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D015203",
+          "descriptor_name": "Reproducibility of Results",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D015203",
+          "descriptor_name": "Reproducibility of Results",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D015203",
+          "descriptor_name": "Reproducibility of Results",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D015203",
+          "descriptor_name": "Reproducibility of Results",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D015203",
+          "descriptor_name": "Reproducibility of Results",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        }
+      ],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.1038/s41398-023-02592-2",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1038/s41398-023-02592-2",
+          "pdf_url": "https://www.nature.com/articles/s41398-023-02592-2.pdf",
+          "source": {
+            "id": "https://openalex.org/S163345920",
+            "display_name": "Translational Psychiatry",
+            "issn_l": "2158-3188",
+            "issn": [
+              "2158-3188"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "doyens",
+              "jufo-1",
+              "medline",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310319965",
+            "host_organization_name": "Springer Nature",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Translational Psychiatry",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:37798296",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37798296",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Translational psychiatry",
+          "raw_type": "Systematic Review"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:10556019",
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10556019",
+          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10556019/pdf/41398_2023_Article_2592.pdf",
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Transl Psychiatry",
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:2f20eefb204a4468bf2376e412dcc72f",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/2f20eefb204a4468bf2376e412dcc72f",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Translational Psychiatry, Vol 13, Iss 1, Pp 1-17 (2023)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1038/s41398-023-02592-2",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1038/s41398-023-02592-2",
+        "pdf_url": "https://www.nature.com/articles/s41398-023-02592-2.pdf",
+        "source": {
+          "id": "https://openalex.org/S163345920",
+          "display_name": "Translational Psychiatry",
+          "issn_l": "2158-3188",
+          "issn": [
+            "2158-3188"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "doyens",
+            "jufo-1",
+            "medline",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319965",
+          "host_organization_name": "Springer Nature",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Translational Psychiatry",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "display_name": "Quality Education",
+          "score": 0.8100000023841858,
+          "id": "https://metadata.un.org/sdg/4"
+        }
+      ],
+      "awards": [
+        {
+          "id": "https://openalex.org/G1310300198",
+          "display_name": null,
+          "funder_award_id": "R44MH124334",
+          "funder_id": "https://openalex.org/F4320306085",
+          "funder_display_name": "U.S. Department of Health and Human Services"
+        },
+        {
+          "id": "https://openalex.org/G1393006027",
+          "display_name": "Deep Learning Based Natural Language Processing Markers of Anxiety and Depression",
+          "funder_award_id": "1k23mh134068-01",
+          "funder_id": "https://openalex.org/F4320332161",
+          "funder_display_name": "National Institutes of Health"
+        },
+        {
+          "id": "https://openalex.org/G201439963",
+          "display_name": null,
+          "funder_award_id": "KL2TR001446",
+          "funder_id": "https://openalex.org/F4320337472",
+          "funder_display_name": "National Center for Advancing Translational Sciences"
+        },
+        {
+          "id": "https://openalex.org/G274029805",
+          "display_name": null,
+          "funder_award_id": "R01MH125179-01",
+          "funder_id": "https://openalex.org/F4320306085",
+          "funder_display_name": "U.S. Department of Health and Human Services"
+        },
+        {
+          "id": "https://openalex.org/G3398026002",
+          "display_name": "EAGER: Partnering with Grab for Cross-ASEAN Regional Urban Insights",
+          "funder_award_id": "2025022",
+          "funder_id": "https://openalex.org/F4320306076",
+          "funder_display_name": "National Science Foundation"
+        },
+        {
+          "id": "https://openalex.org/G3453605045",
+          "display_name": "Institutional Career Development",
+          "funder_award_id": "2kl2tr001446-06a1",
+          "funder_id": "https://openalex.org/F4320332161",
+          "funder_display_name": "National Institutes of Health"
+        },
+        {
+          "id": "https://openalex.org/G3487303314",
+          "display_name": null,
+          "funder_award_id": "PRG-0-104-19",
+          "funder_id": "https://openalex.org/F4320306598",
+          "funder_display_name": "American Foundation for Suicide Prevention"
+        },
+        {
+          "id": "https://openalex.org/G3506071450",
+          "display_name": "University of Washington Foundation - to develop new machine learning approaches to understand human health",
+          "funder_award_id": "INV-004841",
+          "funder_id": "https://openalex.org/F4320306137",
+          "funder_display_name": "Bill and Melinda Gates Foundation"
+        },
+        {
+          "id": "https://openalex.org/G4546055025",
+          "display_name": null,
+          "funder_award_id": "R44 MH124334",
+          "funder_id": "https://openalex.org/F4320337346",
+          "funder_display_name": "National Institute of Mental Health"
+        },
+        {
+          "id": "https://openalex.org/G5268820448",
+          "display_name": "QUANTIFYING EFFECTIVE SCALABLE GOVERNANCE ACROSS THOUSANDS OF ONLINE COMMUNITIES",
+          "funder_award_id": "N000142112154",
+          "funder_id": "https://openalex.org/F4320306078",
+          "funder_display_name": "U.S. Department of Defense"
+        },
+        {
+          "id": "https://openalex.org/G5359565210",
+          "display_name": null,
+          "funder_award_id": "1K23MH134068-01",
+          "funder_id": "https://openalex.org/F4320306085",
+          "funder_display_name": "U.S. Department of Health and Human Services"
+        },
+        {
+          "id": "https://openalex.org/G5599963247",
+          "display_name": null,
+          "funder_award_id": "2KL2TR001446-06A1",
+          "funder_id": "https://openalex.org/F4320306085",
+          "funder_display_name": "U.S. Department of Health and Human Services"
+        },
+        {
+          "id": "https://openalex.org/G5692015307",
+          "display_name": null,
+          "funder_award_id": "K23 MH134068",
+          "funder_id": "https://openalex.org/F4320337346",
+          "funder_display_name": "National Institute of Mental Health"
+        },
+        {
+          "id": "https://openalex.org/G5912639349",
+          "display_name": "Message-based psychotherapy and digital treatment sequences for depression",
+          "funder_award_id": "5r44mh124334-04",
+          "funder_id": "https://openalex.org/F4320332161",
+          "funder_display_name": "National Institutes of Health"
+        },
+        {
+          "id": "https://openalex.org/G6898529896",
+          "display_name": null,
+          "funder_award_id": "1K23MH134068-01",
+          "funder_id": "https://openalex.org/F4320337346",
+          "funder_display_name": "National Institute of Mental Health"
+        },
+        {
+          "id": "https://openalex.org/G6899138251",
+          "display_name": "Enhancing Engagement with Digital Mental Health Care",
+          "funder_award_id": "5r01mh125179-04",
+          "funder_id": "https://openalex.org/F4320332161",
+          "funder_display_name": "National Institutes of Health"
+        },
+        {
+          "id": "https://openalex.org/G808836342",
+          "display_name": null,
+          "funder_award_id": "#N00014-21-1-2154",
+          "funder_id": "https://openalex.org/F4320337345",
+          "funder_display_name": "Office of Naval Research"
+        },
+        {
+          "id": "https://openalex.org/G8418725363",
+          "display_name": null,
+          "funder_award_id": "R01 MH125179",
+          "funder_id": "https://openalex.org/F4320337346",
+          "funder_display_name": "National Institute of Mental Health"
+        },
+        {
+          "id": "https://openalex.org/G8529959211",
+          "display_name": "III: Large: Collaborative Research: Analysis Engineering for Robust End-to-End Data Science",
+          "funder_award_id": "1901386",
+          "funder_id": "https://openalex.org/F4320306076",
+          "funder_display_name": "National Science Foundation"
+        },
+        {
+          "id": "https://openalex.org/G898280719",
+          "display_name": null,
+          "funder_award_id": "R01MH125179",
+          "funder_id": "https://openalex.org/F4320306085",
+          "funder_display_name": "U.S. Department of Health and Human Services"
+        },
+        {
+          "id": "https://openalex.org/G9000160212",
+          "display_name": null,
+          "funder_award_id": "R01MH125179",
+          "funder_id": "https://openalex.org/F4320332161",
+          "funder_display_name": "National Institutes of Health"
+        },
+        {
+          "id": "https://openalex.org/G9000195029",
+          "display_name": null,
+          "funder_award_id": "R44MH124334",
+          "funder_id": "https://openalex.org/F4320332161",
+          "funder_display_name": "National Institutes of Health"
+        },
+        {
+          "id": "https://openalex.org/G9000243187",
+          "display_name": null,
+          "funder_award_id": "R01MH125179-01",
+          "funder_id": "https://openalex.org/F4320332161",
+          "funder_display_name": "National Institutes of Health"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320306076",
+          "display_name": "National Science Foundation",
+          "ror": "https://ror.org/021nxhr62"
+        },
+        {
+          "id": "https://openalex.org/F4320306078",
+          "display_name": "U.S. Department of Defense",
+          "ror": "https://ror.org/0447fe631"
+        },
+        {
+          "id": "https://openalex.org/F4320306085",
+          "display_name": "U.S. Department of Health and Human Services",
+          "ror": "https://ror.org/033jnv181"
+        },
+        {
+          "id": "https://openalex.org/F4320306137",
+          "display_name": "Bill and Melinda Gates Foundation",
+          "ror": "https://ror.org/0456r8d26"
+        },
+        {
+          "id": "https://openalex.org/F4320306598",
+          "display_name": "American Foundation for Suicide Prevention",
+          "ror": "https://ror.org/01zcf4n33"
+        },
+        {
+          "id": "https://openalex.org/F4320332161",
+          "display_name": "National Institutes of Health",
+          "ror": "https://ror.org/01cwqze88"
+        },
+        {
+          "id": "https://openalex.org/F4320337345",
+          "display_name": "Office of Naval Research",
+          "ror": "https://ror.org/00rk2pe57"
+        },
+        {
+          "id": "https://openalex.org/F4320337346",
+          "display_name": "National Institute of Mental Health",
+          "ror": "https://ror.org/04xeg9z08"
+        },
+        {
+          "id": "https://openalex.org/F4320337472",
+          "display_name": "National Center for Advancing Translational Sciences",
+          "ror": "https://ror.org/04pw6fb54"
+        }
+      ],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4387393037.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4387393037.grobid-xml"
+      },
+      "referenced_works_count": 160,
+      "referenced_works": [
+        "https://openalex.org/W1824543798",
+        "https://openalex.org/W1906603290",
+        "https://openalex.org/W1973165869",
+        "https://openalex.org/W2010464927",
+        "https://openalex.org/W2027791497",
+        "https://openalex.org/W2031362790",
+        "https://openalex.org/W2038665820",
+        "https://openalex.org/W2043241911",
+        "https://openalex.org/W2047196523",
+        "https://openalex.org/W2052664705",
+        "https://openalex.org/W2065974896",
+        "https://openalex.org/W2066231855",
+        "https://openalex.org/W2084808900",
+        "https://openalex.org/W2087727383",
+        "https://openalex.org/W2113669296",
+        "https://openalex.org/W2140772986",
+        "https://openalex.org/W2140910804",
+        "https://openalex.org/W2154608152",
+        "https://openalex.org/W2154690800",
+        "https://openalex.org/W2154843494",
+        "https://openalex.org/W2157394212",
+        "https://openalex.org/W2171464520",
+        "https://openalex.org/W2181445435",
+        "https://openalex.org/W2255670592",
+        "https://openalex.org/W2265658025",
+        "https://openalex.org/W2291118760",
+        "https://openalex.org/W2314271279",
+        "https://openalex.org/W2319736527",
+        "https://openalex.org/W2339315248",
+        "https://openalex.org/W2341536223",
+        "https://openalex.org/W2345106796",
+        "https://openalex.org/W2410358407",
+        "https://openalex.org/W2504424415",
+        "https://openalex.org/W2510364177",
+        "https://openalex.org/W2516684112",
+        "https://openalex.org/W2599618731",
+        "https://openalex.org/W2735723872",
+        "https://openalex.org/W2740811869",
+        "https://openalex.org/W2741866274",
+        "https://openalex.org/W2748039753",
+        "https://openalex.org/W2753392522",
+        "https://openalex.org/W2760160110",
+        "https://openalex.org/W2762862848",
+        "https://openalex.org/W2787427645",
+        "https://openalex.org/W2790056169",
+        "https://openalex.org/W2791063712",
+        "https://openalex.org/W2791735926",
+        "https://openalex.org/W2801150160",
+        "https://openalex.org/W2803760365",
+        "https://openalex.org/W2879234625",
+        "https://openalex.org/W2884518904",
+        "https://openalex.org/W2888829152",
+        "https://openalex.org/W2889101895",
+        "https://openalex.org/W2889239091",
+        "https://openalex.org/W2889620547",
+        "https://openalex.org/W2895624192",
+        "https://openalex.org/W2905522132",
+        "https://openalex.org/W2912048951",
+        "https://openalex.org/W2912654919",
+        "https://openalex.org/W2913131978",
+        "https://openalex.org/W2919115771",
+        "https://openalex.org/W2939469531",
+        "https://openalex.org/W2944774301",
+        "https://openalex.org/W2946793373",
+        "https://openalex.org/W2948756736",
+        "https://openalex.org/W2951098724",
+        "https://openalex.org/W2951886554",
+        "https://openalex.org/W2963303106",
+        "https://openalex.org/W2963422031",
+        "https://openalex.org/W2963716420",
+        "https://openalex.org/W2964199361",
+        "https://openalex.org/W2964262738",
+        "https://openalex.org/W2964331476",
+        "https://openalex.org/W2965016654",
+        "https://openalex.org/W2969401291",
+        "https://openalex.org/W2972562960",
+        "https://openalex.org/W2972726447",
+        "https://openalex.org/W2980364910",
+        "https://openalex.org/W2996469812",
+        "https://openalex.org/W2997081473",
+        "https://openalex.org/W3000211686",
+        "https://openalex.org/W3005056912",
+        "https://openalex.org/W3005932449",
+        "https://openalex.org/W3009692632",
+        "https://openalex.org/W3010849309",
+        "https://openalex.org/W3011495304",
+        "https://openalex.org/W3013541826",
+        "https://openalex.org/W3013908145",
+        "https://openalex.org/W3021841823",
+        "https://openalex.org/W3026338371",
+        "https://openalex.org/W3030200164",
+        "https://openalex.org/W3033057983",
+        "https://openalex.org/W3034496424",
+        "https://openalex.org/W3036340576",
+        "https://openalex.org/W3037405958",
+        "https://openalex.org/W3038711424",
+        "https://openalex.org/W3040426938",
+        "https://openalex.org/W3040438665",
+        "https://openalex.org/W3047024470",
+        "https://openalex.org/W3047654255",
+        "https://openalex.org/W3059654161",
+        "https://openalex.org/W3082929259",
+        "https://openalex.org/W3088597222",
+        "https://openalex.org/W3092638447",
+        "https://openalex.org/W3093749223",
+        "https://openalex.org/W3104982372",
+        "https://openalex.org/W3119581860",
+        "https://openalex.org/W3122391984",
+        "https://openalex.org/W3123008381",
+        "https://openalex.org/W3123449715",
+        "https://openalex.org/W3125250127",
+        "https://openalex.org/W3125575123",
+        "https://openalex.org/W3131455944",
+        "https://openalex.org/W3134934671",
+        "https://openalex.org/W3136599046",
+        "https://openalex.org/W3138845560",
+        "https://openalex.org/W3147637074",
+        "https://openalex.org/W3154272574",
+        "https://openalex.org/W3167472272",
+        "https://openalex.org/W3168124778",
+        "https://openalex.org/W3168927884",
+        "https://openalex.org/W3169370268",
+        "https://openalex.org/W3172348233",
+        "https://openalex.org/W3172662410",
+        "https://openalex.org/W3174101453",
+        "https://openalex.org/W3175475730",
+        "https://openalex.org/W3182275036",
+        "https://openalex.org/W3192973451",
+        "https://openalex.org/W3194472989",
+        "https://openalex.org/W3204993626",
+        "https://openalex.org/W3212368439",
+        "https://openalex.org/W3216595028",
+        "https://openalex.org/W4206688156",
+        "https://openalex.org/W4206733158",
+        "https://openalex.org/W4211027869",
+        "https://openalex.org/W4213195521",
+        "https://openalex.org/W4214576234",
+        "https://openalex.org/W4220794986",
+        "https://openalex.org/W4220987872",
+        "https://openalex.org/W4226119767",
+        "https://openalex.org/W4226132754",
+        "https://openalex.org/W4226336469",
+        "https://openalex.org/W4255955445",
+        "https://openalex.org/W4280523169",
+        "https://openalex.org/W4283580776",
+        "https://openalex.org/W4284706140",
+        "https://openalex.org/W4287854610",
+        "https://openalex.org/W4287854674",
+        "https://openalex.org/W4287887154",
+        "https://openalex.org/W4290948184",
+        "https://openalex.org/W4295473018",
+        "https://openalex.org/W4297841579",
+        "https://openalex.org/W4310332067",
+        "https://openalex.org/W4310610239",
+        "https://openalex.org/W4311824302",
+        "https://openalex.org/W4317757464",
+        "https://openalex.org/W4322718191",
+        "https://openalex.org/W4385573319",
+        "https://openalex.org/W4391156274",
+        "https://openalex.org/W6739901393"
+      ],
+      "related_works": [
+        "https://openalex.org/W2900068172",
+        "https://openalex.org/W2238030311",
+        "https://openalex.org/W2390354001",
+        "https://openalex.org/W1982842519",
+        "https://openalex.org/W2166644286",
+        "https://openalex.org/W2590898204",
+        "https://openalex.org/W2090248941",
+        "https://openalex.org/W4404118746",
+        "https://openalex.org/W2087256839",
+        "https://openalex.org/W4396811136"
+      ],
+      "abstract_inverted_index": {
+        "Neuropsychiatric": [
+          0
+        ],
+        "disorders": [
+          1
+        ],
+        "pose": [
+          2
+        ],
+        "a": [
+          3,
+          59,
+          140
+        ],
+        "high": [
+          4
+        ],
+        "societal": [
+          5
+        ],
+        "cost,": [
+          6
+        ],
+        "but": [
+          7
+        ],
+        "their": [
+          8,
+          42,
+          72,
+          115
+        ],
+        "treatment": [
+          9
+        ],
+        "is": [
+          10,
+          261
+        ],
+        "hindered": [
+          11
+        ],
+        "by": [
+          12,
+          150,
+          191
+        ],
+        "lack": [
+          13,
+          249
+        ],
+        "of": [
+          14,
+          41,
+          63,
+          108,
+          143,
+          156,
+          167,
+          245,
+          250,
+          285
+        ],
+        "objective": [
+          15
+        ],
+        "outcomes": [
+          16
+        ],
+        "and": [
+          17,
+          22,
+          51,
+          76,
+          80,
+          104,
+          136,
+          154,
+          189,
+          233,
+          255,
+          263,
+          269,
+          291
+        ],
+        "fidelity": [
+          18
+        ],
+        "metrics.": [
+          19
+        ],
+        "AI": [
+          20,
+          89
+        ],
+        "technologies": [
+          21
+        ],
+        "specifically": [
+          23
+        ],
+        "Natural": [
+          24
+        ],
+        "Language": [
+          25
+        ],
+        "Processing": [
+          26
+        ],
+        "(NLP)": [
+          27
+        ],
+        "have": [
+          28
+        ],
+        "emerged": [
+          29
+        ],
+        "as": [
+          30
+        ],
+        "tools": [
+          31
+        ],
+        "to": [
+          32,
+          48,
+          70,
+          77,
+          95,
+          113,
+          200,
+          213,
+          266,
+          280
+        ],
+        "study": [
+          33,
+          132
+        ],
+        "mental": [
+          34
+        ],
+        "health": [
+          35,
+          161
+        ],
+        "interventions": [
+          36
+        ],
+        "(MHI)": [
+          37
+        ],
+        "at": [
+          38
+        ],
+        "the": [
+          39,
+          164,
+          274,
+          283
+        ],
+        "level": [
+          40
+        ],
+        "constituent": [
+          43
+        ],
+        "conversations.": [
+          44
+        ],
+        "However,": [
+          45
+        ],
+        "NLP's": [
+          46
+        ],
+        "potential": [
+          47
+        ],
+        "address": [
+          49
+        ],
+        "clinical": [
+          50,
+          74,
+          127,
+          134,
+          207,
+          242,
+          270,
+          287
+        ],
+        "research": [
+          52,
+          259
+        ],
+        "challenges": [
+          53
+        ],
+        "remains": [
+          54
+        ],
+        "unclear.": [
+          55
+        ],
+        "We": [
+          56
+        ],
+        "therefore": [
+          57
+        ],
+        "conducted": [
+          58
+        ],
+        "pre-registered": [
+          60
+        ],
+        "systematic": [
+          61
+        ],
+        "review": [
+          62
+        ],
+        "NLP-MHI": [
+          64
+        ],
+        "studies": [
+          65,
+          83,
+          146,
+          247
+        ],
+        "using": [
+          66
+        ],
+        "PRISMA": [
+          67
+        ],
+        "guidelines": [
+          68
+        ],
+        "(osf.io/s52jh)": [
+          69
+        ],
+        "evaluate": [
+          71
+        ],
+        "models,": [
+          73
+        ],
+        "applications,": [
+          75
+        ],
+        "identify": [
+          78
+        ],
+        "biases": [
+          79
+        ],
+        "gaps.": [
+          81
+        ],
+        "Candidate": [
+          82
+        ],
+        "(n": [
+          84,
+          181,
+          186,
+          193,
+          209,
+          215,
+          220,
+          225,
+          230,
+          236
+        ],
+        "=": [
+          85,
+          182,
+          187,
+          194,
+          210,
+          216,
+          221,
+          226,
+          231,
+          237
+        ],
+        "19,756),": [
+          86
+        ],
+        "including": [
+          87
+        ],
+        "peer-reviewed": [
+          88
+        ],
+        "conference": [
+          90
+        ],
+        "manuscripts,": [
+          91
+        ],
+        "were": [
+          92,
+          111,
+          163,
+          239
+        ],
+        "collected": [
+          93
+        ],
+        "up": [
+          94
+        ],
+        "January": [
+          96
+        ],
+        "2023": [
+          97
+        ],
+        "through": [
+          98
+        ],
+        "PubMed,": [
+          99
+        ],
+        "PsycINFO,": [
+          100
+        ],
+        "Scopus,": [
+          101
+        ],
+        "Google": [
+          102
+        ],
+        "Scholar,": [
+          103
+        ],
+        "ArXiv.": [
+          105
+        ],
+        "A": [
+          106,
+          258
+        ],
+        "total": [
+          107
+        ],
+        "102": [
+          109
+        ],
+        "articles": [
+          110
+        ],
+        "included": [
+          112,
+          248
+        ],
+        "investigate": [
+          114
+        ],
+        "computational": [
+          116,
+          268
+        ],
+        "characteristics": [
+          117,
+          128,
+          224
+        ],
+        "(NLP": [
+          118
+        ],
+        "algorithms,": [
+          119
+        ],
+        "audio": [
+          120,
+          204
+        ],
+        "features,": [
+          121
+        ],
+        "machine": [
+          122
+        ],
+        "learning": [
+          123,
+          174
+        ],
+        "pipelines,": [
+          124
+        ],
+        "outcome": [
+          125
+        ],
+        "metrics),": [
+          126
+        ],
+        "(clinical": [
+          129
+        ],
+        "ground": [
+          130
+        ],
+        "truths,": [
+          131
+        ],
+        "samples,": [
+          133
+        ],
+        "focus),": [
+          135
+        ],
+        "limitations.": [
+          137
+        ],
+        "Results": [
+          138
+        ],
+        "indicate": [
+          139
+        ],
+        "rapid": [
+          141
+        ],
+        "growth": [
+          142
+        ],
+        "NLP": [
+          144,
+          279
+        ],
+        "MHI": [
+          145,
+          168
+        ],
+        "since": [
+          147
+        ],
+        "2019,": [
+          148
+        ],
+        "characterized": [
+          149
+        ],
+        "increased": [
+          151
+        ],
+        "sample": [
+          152
+        ],
+        "sizes": [
+          153
+        ],
+        "use": [
+          155
+        ],
+        "large": [
+          157
+        ],
+        "language": [
+          158
+        ],
+        "models.": [
+          159
+        ],
+        "Digital": [
+          160
+        ],
+        "platforms": [
+          162
+        ],
+        "largest": [
+          165
+        ],
+        "providers": [
+          166
+        ],
+        "data.": [
+          169
+        ],
+        "Ground": [
+          170
+        ],
+        "truth": [
+          171
+        ],
+        "for": [
+          172
+        ],
+        "supervised": [
+          173
+        ],
+        "models": [
+          175
+        ],
+        "was": [
+          176
+        ],
+        "based": [
+          177
+        ],
+        "on": [
+          178
+        ],
+        "clinician": [
+          179
+        ],
+        "ratings": [
+          180
+        ],
+        "31),": [
+          183
+        ],
+        "patient": [
+          184
+        ],
+        "self-report": [
+          185
+        ],
+        "29)": [
+          188
+        ],
+        "annotations": [
+          190
+        ],
+        "raters": [
+          192
+        ],
+        "26).": [
+          195
+        ],
+        "Text-based": [
+          196
+        ],
+        "features": [
+          197
+        ],
+        "contributed": [
+          198
+        ],
+        "more": [
+          199
+        ],
+        "model": [
+          201
+        ],
+        "accuracy": [
+          202
+        ],
+        "than": [
+          203
+        ],
+        "markers.": [
+          205
+        ],
+        "Patients'": [
+          206
+        ],
+        "presentation": [
+          208
+        ],
+        "34),": [
+          211
+        ],
+        "response": [
+          212
+        ],
+        "intervention": [
+          214,
+          218
+        ],
+        "11),": [
+          217
+        ],
+        "monitoring": [
+          219
+        ],
+        "20),": [
+          222
+        ],
+        "providers'": [
+          223
+        ],
+        "12),": [
+          227
+        ],
+        "relational": [
+          228
+        ],
+        "dynamics": [
+          229
+        ],
+        "14),": [
+          232
+        ],
+        "data": [
+          234,
+          289
+        ],
+        "preparation": [
+          235
+        ],
+        "4)": [
+          238
+        ],
+        "commonly": [
+          240
+        ],
+        "investigated": [
+          241
+        ],
+        "categories.": [
+          243
+        ],
+        "Limitations": [
+          244
+        ],
+        "reviewed": [
+          246
+        ],
+        "linguistic": [
+          251
+        ],
+        "diversity,": [
+          252
+        ],
+        "limited": [
+          253
+        ],
+        "reproducibility,": [
+          254
+        ],
+        "population": [
+          256
+        ],
+        "bias.": [
+          257
+        ],
+        "framework": [
+          260
+        ],
+        "developed": [
+          262
+        ],
+        "validated": [
+          264
+        ],
+        "(NLPxMHI)": [
+          265
+        ],
+        "assist": [
+          267
+        ],
+        "researchers": [
+          271
+        ],
+        "in": [
+          272,
+          277
+        ],
+        "addressing": [
+          273
+        ],
+        "remaining": [
+          275
+        ],
+        "gaps": [
+          276
+        ],
+        "applying": [
+          278
+        ],
+        "MHI,": [
+          281
+        ],
+        "with": [
+          282
+        ],
+        "goal": [
+          284
+        ],
+        "improving": [
+          286
+        ],
+        "utility,": [
+          288
+        ],
+        "access,": [
+          290
+        ],
+        "fairness.": [
+          292
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 66
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 90
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 43
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 4
+        }
+      ],
+      "updated_date": "2026-09-19T00:03:45.406941",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  },
+  "pdf_file": "038_natural-language-processing-for-mental-health-interventions.pdf",
+  "pdf_url": "https://www.nature.com/articles/s41398-023-02592-2.pdf",
+  "pdf_verified": true
+}

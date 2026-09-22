@@ -1,0 +1,2099 @@
+{
+  "id": 34,
+  "original": {
+    "id": 34,
+    "paper_name": "The Applications of Large Language Models in Mental Health: Scoping Review",
+    "site": "OpenAlex",
+    "venue_of_publication": "Journal of Medical Internet Research",
+    "year": 2025,
+    "researcher_info": "Yu Jin, Jiayi Liu et al."
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T11:01:28.133425+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "The Applications of Large Language Models in Mental Health: Scoping Review",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W4408437554",
+    "doi": "https://doi.org/10.2196/69284",
+    "title_matched": "The Applications of Large Language Models in Mental Health: Scoping Review",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2025,
+    "venue": "Journal of Medical Internet Research",
+    "authors": [
+      "Yu Jin",
+      "Jiayi Liu",
+      "Pan Li",
+      "B. Wang",
+      "Yangxinyu Yan",
+      "Huilin Zhang",
+      "Chongqin Ni",
+      "Jing Wang",
+      "Yi Li",
+      "Yajun Bu",
+      "Yuan Yuan Wang"
+    ],
+    "abstract": "BACKGROUND: Mental health is emerging as an increasingly prevalent public issue globally. There is an urgent need in mental health for efficient detection methods, effective treatments, affordable privacy-focused health care solutions, and increased access to specialized psychiatrists. The emergence and rapid development of large language models (LLMs) have shown the potential to address these mental health demands. However, a comprehensive review summarizing the application areas, processes, and performance comparisons of LLMs in mental health has been lacking until now. OBJECTIVE: This review aimed to summarize the applications of LLMs in mental health, including trends, application areas, performance comparisons, challenges, and prospective future directions. METHODS: A scoping review was conducted to map the landscape of LLMs' applications in mental health, including trends, application areas, comparative performance, and future trajectories. We searched 7 electronic databases, including Web of Science, PubMed, Cochrane Library, IEEE Xplore, Weipu, CNKI, and Wanfang, from January 1, 2019, to August 31, 2024. Studies eligible for inclusion were peer-reviewed articles focused on LLMs' applications in mental health. Studies were excluded if they (1) were not peer-reviewed or did not focus on mental health or mental disorders or (2) did not use LLMs; studies that used only natural language processing or long short-term memory models were also excluded. Relevant information on application details and performance metrics was extracted during the data charting of eligible articles. RESULTS: A total of 95 articles were drawn from 4859 studies using LLMs for mental health tasks. The applications were categorized into 3 key areas: screening or detection of mental disorders (67/95, 71%), supporting clinical treatments and interventions (31/95, 33%), and assisting in mental health counseling and education (11/95, 12%). Most studies used LLMs for depression detection and classification (33/95, 35%), clinical treatment support and intervention (14/95, 15%), and suicide risk prediction (12/95, 13%). Compared with nontransformer models and humans, LLMs demonstrate higher capabilities in information acquisition and analysis and efficiently generating natural language responses. Various series of LLMs also have different advantages and disadvantages in addressing mental health tasks. CONCLUSIONS: This scoping review synthesizes the applications, processes, performance, and challenges of LLMs in the mental health field. These findings highlight the substantial potential of LLMs to augment mental health research, diagnostics, and intervention strategies, underscoring the imperative for ongoing development and ethical deliberation in clinical settings.",
+    "cited_by_count": 79,
+    "is_oa": true,
+    "pdf_url": "https://www.jmir.org/2025/1/e69284/PDF",
+    "pdf_candidates": [
+      "https://www.jmir.org/2025/1/e69284/PDF"
+    ],
+    "landing_page_url": "https://doi.org/10.2196/69284",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W4408437554",
+      "doi": "https://doi.org/10.2196/69284",
+      "title": "The Applications of Large Language Models in Mental Health: Scoping Review",
+      "display_name": "The Applications of Large Language Models in Mental Health: Scoping Review",
+      "relevance_score": 2509.7795,
+      "publication_year": 2025,
+      "publication_date": "2025-03-14",
+      "ids": {
+        "openalex": "https://openalex.org/W4408437554",
+        "doi": "https://doi.org/10.2196/69284",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/40324177"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2196/69284",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2196/69284",
+        "pdf_url": "https://www.jmir.org/2025/1/e69284/PDF",
+        "source": {
+          "id": "https://openalex.org/S17147534",
+          "display_name": "Journal of Medical Internet Research",
+          "issn_l": "1438-8871",
+          "issn": [
+            "1438-8871",
+            "1439-4456"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "doyens",
+            "jufo-2",
+            "medline",
+            "norway-2"
+          ],
+          "host_organization": "https://openalex.org/P4310320608",
+          "host_organization_name": "JMIR Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320608"
+          ],
+          "host_organization_lineage_names": [
+            "JMIR Publications"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Medical Internet Research",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.jmir.org/2025/1/e69284/PDF",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5056107013",
+            "display_name": "Yu Jin",
+            "orcid": "https://orcid.org/0000-0002-3290-3293"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I25254941",
+              "display_name": "Beijing Normal University",
+              "ror": "https://ror.org/022k4wk35",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I25254941"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yu Jin",
+          "raw_affiliation_strings": [
+            "Department of Statistics, Faculty of Arts and Sciences, Beijing Normal University, Beijing, China"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-3290-3293",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Statistics, Faculty of Arts and Sciences, Beijing Normal University, Beijing, China",
+              "institution_ids": [
+                "https://openalex.org/I25254941"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5108101484",
+            "display_name": "Jiayi Liu",
+            "orcid": "https://orcid.org/0009-0003-4824-2690"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I25254941",
+              "display_name": "Beijing Normal University",
+              "ror": "https://ror.org/022k4wk35",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I25254941"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jiayi Liu",
+          "raw_affiliation_strings": [
+            "Department of Statistics, Faculty of Arts and Sciences, Beijing Normal University, Beijing, China"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0003-4824-2690",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Statistics, Faculty of Arts and Sciences, Beijing Normal University, Beijing, China",
+              "institution_ids": [
+                "https://openalex.org/I25254941"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Pan Li",
+            "orcid": "https://orcid.org/0009-0005-1485-9515"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I25254941",
+              "display_name": "Beijing Normal University",
+              "ror": "https://ror.org/022k4wk35",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I25254941"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Pan Li",
+          "raw_affiliation_strings": [
+            "Department of Statistics, Faculty of Arts and Sciences, Beijing Normal University, Beijing, China"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0005-1485-9515",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Statistics, Faculty of Arts and Sciences, Beijing Normal University, Beijing, China",
+              "institution_ids": [
+                "https://openalex.org/I25254941"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5079639472",
+            "display_name": "B. Wang",
+            "orcid": "https://orcid.org/0009-0001-8646-2622"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I25254941",
+              "display_name": "Beijing Normal University",
+              "ror": "https://ror.org/022k4wk35",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I25254941"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Baosen Wang",
+          "raw_affiliation_strings": [
+            "Department of Statistics, Faculty of Arts and Sciences, Beijing Normal University, Beijing, China"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0001-8646-2622",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Statistics, Faculty of Arts and Sciences, Beijing Normal University, Beijing, China",
+              "institution_ids": [
+                "https://openalex.org/I25254941"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5114846642",
+            "display_name": "Yangxinyu Yan",
+            "orcid": "https://orcid.org/0009-0000-6018-2836"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I187400657",
+              "display_name": "South China Normal University",
+              "ror": "https://ror.org/01kq0pv72",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I187400657"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210090767",
+              "display_name": "Ministry of Education",
+              "ror": "https://ror.org/00b3tsf98",
+              "country_code": "RW",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210090767"
+              ]
+            }
+          ],
+          "countries": [
+            "CN",
+            "RW"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yangxinyu Yan",
+          "raw_affiliation_strings": [
+            "School of Psychology, Center for Studies of Psychological Application, and Guangdong Key Laboratory of Mental Health and Cognitive Science, Key Laboratory of Brain, Cognition and Education Sciences, Ministry of Education, South China Normal University, Guangzhou, Guangdong, China"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0000-6018-2836",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Psychology, Center for Studies of Psychological Application, and Guangdong Key Laboratory of Mental Health and Cognitive Science, Key Laboratory of Brain, Cognition and Education Sciences, Ministry of Education, South China Normal University, Guangzhou, Guangdong, China",
+              "institution_ids": [
+                "https://openalex.org/I187400657",
+                "https://openalex.org/I4210090767"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100729151",
+            "display_name": "Huilin Zhang",
+            "orcid": "https://orcid.org/0009-0005-1960-6621"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I25254941",
+              "display_name": "Beijing Normal University",
+              "ror": "https://ror.org/022k4wk35",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I25254941"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Huilin Zhang",
+          "raw_affiliation_strings": [
+            "School of Statistics, Beijing Normal University, Beijing, China"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0006-2683-3205",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Statistics, Beijing Normal University, Beijing, China",
+              "institution_ids": [
+                "https://openalex.org/I25254941"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5113865619",
+            "display_name": "Chongqin Ni",
+            "orcid": "https://orcid.org/0009-0003-7945-8814"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I25254941",
+              "display_name": "Beijing Normal University",
+              "ror": "https://ror.org/022k4wk35",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I25254941"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Chenhao Ni",
+          "raw_affiliation_strings": [
+            "School of Statistics, Beijing Normal University, Beijing, China"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0003-7945-8814",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Statistics, Beijing Normal University, Beijing, China",
+              "institution_ids": [
+                "https://openalex.org/I25254941"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5117445473",
+            "display_name": "Jing Wang",
+            "orcid": "https://orcid.org/0000-0002-1651-9099"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210122543",
+              "display_name": "Guangdong Polytechnic Normal University",
+              "ror": "https://ror.org/02pcb5m77",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210122543"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jing Wang",
+          "raw_affiliation_strings": [
+            "Faculty of Computer Science, Guangdong Polytechnic Normal University, Guangzhou, Guangdong, China"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-1651-9099",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculty of Computer Science, Guangdong Polytechnic Normal University, Guangzhou, Guangdong, China",
+              "institution_ids": [
+                "https://openalex.org/I4210122543"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Yi Li",
+            "orcid": "https://orcid.org/0009-0001-9327-9797"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210091044",
+              "display_name": "First People's Hospital of Yunnan Province",
+              "ror": "https://ror.org/00c099g34",
+              "country_code": "CN",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210091044"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yi Li",
+          "raw_affiliation_strings": [
+            "The People's Hospital of Pingbian County, Honghe, Yunnan, China"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0001-9327-9797",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "The People's Hospital of Pingbian County, Honghe, Yunnan, China",
+              "institution_ids": [
+                "https://openalex.org/I4210091044"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Yajun Bu",
+            "orcid": "https://orcid.org/0009-0004-8355-3096"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210091044",
+              "display_name": "First People's Hospital of Yunnan Province",
+              "ror": "https://ror.org/00c099g34",
+              "country_code": "CN",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210091044"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yajun Bu",
+          "raw_affiliation_strings": [
+            "The People's Hospital of Pingbian County, Honghe, Yunnan, China"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0004-8355-3096",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "The People's Hospital of Pingbian County, Honghe, Yunnan, China",
+              "institution_ids": [
+                "https://openalex.org/I4210091044"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5029818269",
+            "display_name": "Yuan Yuan Wang",
+            "orcid": "https://orcid.org/0000-0002-2141-4056"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I187400657",
+              "display_name": "South China Normal University",
+              "ror": "https://ror.org/01kq0pv72",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I187400657"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210090767",
+              "display_name": "Ministry of Education",
+              "ror": "https://ror.org/00b3tsf98",
+              "country_code": "RW",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210090767"
+              ]
+            }
+          ],
+          "countries": [
+            "CN",
+            "RW"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yuanyuan Wang",
+          "raw_affiliation_strings": [
+            "School of Psychology, Center for Studies of Psychological Application, and Guangdong Key Laboratory of Mental Health and Cognitive Science, Key Laboratory of Brain, Cognition and Education Sciences, Ministry of Education, South China Normal University, Guangzhou, Guangdong, China"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-2141-4056",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Psychology, Center for Studies of Psychological Application, and Guangdong Key Laboratory of Mental Health and Cognitive Science, Key Laboratory of Brain, Cognition and Education Sciences, Ministry of Education, South China Normal University, Guangzhou, Guangdong, China",
+              "institution_ids": [
+                "https://openalex.org/I187400657",
+                "https://openalex.org/I4210090767"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 5,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 2950,
+        "currency": "USD",
+        "value_usd": 2950
+      },
+      "apc_paid": {
+        "value": 2950,
+        "currency": "USD",
+        "value_usd": 2950
+      },
+      "fwci": 87.5021,
+      "has_fulltext": true,
+      "cited_by_count": 79,
+      "citation_normalized_percentile": {
+        "value": 0.99987393,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 99,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "27",
+        "issue": null,
+        "first_page": "e69284",
+        "last_page": "e69284"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12488",
+        "display_name": "Mental Health via Writing",
+        "score": 0.8934000134468079,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3207",
+          "display_name": "Social Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12488",
+          "display_name": "Mental Health via Writing",
+          "score": 0.8934000134468079,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11519",
+          "display_name": "Digital Mental Health Interventions",
+          "score": 0.06300000101327896,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3202",
+            "display_name": "Applied Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10272",
+          "display_name": "Mental Health Treatment and Access",
+          "score": 0.006899999920278788,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/preprint",
+          "display_name": "Preprint",
+          "score": 0.8230496644973755
+        },
+        {
+          "id": "https://openalex.org/keywords/mental-health",
+          "display_name": "Mental health",
+          "score": 0.5888808369636536
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.42303457856178284
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.3971143364906311
+        },
+        {
+          "id": "https://openalex.org/keywords/data-science",
+          "display_name": "Data science",
+          "score": 0.3625779151916504
+        },
+        {
+          "id": "https://openalex.org/keywords/world-wide-web",
+          "display_name": "World Wide Web",
+          "score": 0.26750272512435913
+        },
+        {
+          "id": "https://openalex.org/keywords/psychiatry",
+          "display_name": "Psychiatry",
+          "score": 0.16484177112579346
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C43169469",
+          "wikidata": "https://www.wikidata.org/wiki/Q580922",
+          "display_name": "Preprint",
+          "level": 2,
+          "score": 0.8230496644973755
+        },
+        {
+          "id": "https://openalex.org/C134362201",
+          "wikidata": "https://www.wikidata.org/wiki/Q317309",
+          "display_name": "Mental health",
+          "level": 2,
+          "score": 0.5888808369636536
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.42303457856178284
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.3971143364906311
+        },
+        {
+          "id": "https://openalex.org/C2522767166",
+          "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+          "display_name": "Data science",
+          "level": 1,
+          "score": 0.3625779151916504
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.26750272512435913
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.16484177112579346
+        }
+      ],
+      "mesh": [
+        {
+          "descriptor_ui": "D000098342",
+          "descriptor_name": "Large Language Models",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D000098342",
+          "descriptor_name": "Large Language Models",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D000098342",
+          "descriptor_name": "Large Language Models",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000098342",
+          "descriptor_name": "Large Language Models",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001523",
+          "descriptor_name": "Mental Disorders",
+          "qualifier_ui": "Q000175",
+          "qualifier_name": "diagnosis",
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001523",
+          "descriptor_name": "Mental Disorders",
+          "qualifier_ui": "Q000175",
+          "qualifier_name": "diagnosis",
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001523",
+          "descriptor_name": "Mental Disorders",
+          "qualifier_ui": "Q000175",
+          "qualifier_name": "diagnosis",
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001523",
+          "descriptor_name": "Mental Disorders",
+          "qualifier_ui": "Q000175",
+          "qualifier_name": "diagnosis",
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D007802",
+          "descriptor_name": "Language",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D008603",
+          "descriptor_name": "Mental Health",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D008603",
+          "descriptor_name": "Mental Health",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D008603",
+          "descriptor_name": "Mental Health",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D008603",
+          "descriptor_name": "Mental Health",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D009323",
+          "descriptor_name": "Natural Language Processing",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D009323",
+          "descriptor_name": "Natural Language Processing",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D009323",
+          "descriptor_name": "Natural Language Processing",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D009323",
+          "descriptor_name": "Natural Language Processing",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        }
+      ],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "doi:10.2196/69284",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.2196/69284",
+          "pdf_url": "https://www.jmir.org/2025/1/e69284/PDF",
+          "source": {
+            "id": "https://openalex.org/S17147534",
+            "display_name": "Journal of Medical Internet Research",
+            "issn_l": "1438-8871",
+            "issn": [
+              "1438-8871",
+              "1439-4456"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "doyens",
+              "jufo-2",
+              "medline",
+              "norway-2"
+            ],
+            "host_organization": "https://openalex.org/P4310320608",
+            "host_organization_name": "JMIR Publications",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320608"
+            ],
+            "host_organization_lineage_names": [
+              "JMIR Publications"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Medical Internet Research",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:40324177",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/40324177",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of medical Internet research",
+          "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:eb3c5f0cccb04c5287271a1444a36182",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/eb3c5f0cccb04c5287271a1444a36182",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Journal of Medical Internet Research, Vol 27, p e69284 (2025)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.2196/69284",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2196/69284",
+        "pdf_url": "https://www.jmir.org/2025/1/e69284/PDF",
+        "source": {
+          "id": "https://openalex.org/S17147534",
+          "display_name": "Journal of Medical Internet Research",
+          "issn_l": "1438-8871",
+          "issn": [
+            "1438-8871",
+            "1439-4456"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "doyens",
+            "jufo-2",
+            "medline",
+            "norway-2"
+          ],
+          "host_organization": "https://openalex.org/P4310320608",
+          "host_organization_name": "JMIR Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320608"
+          ],
+          "host_organization_lineage_names": [
+            "JMIR Publications"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Medical Internet Research",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.7200000286102295,
+          "display_name": "Quality Education",
+          "id": "https://metadata.un.org/sdg/4"
+        }
+      ],
+      "awards": [
+        {
+          "id": "https://openalex.org/G2062676112",
+          "display_name": null,
+          "funder_award_id": "72304040",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G3267248644",
+          "display_name": null,
+          "funder_award_id": "MHSK2024B24",
+          "funder_id": "https://openalex.org/F4320336231",
+          "funder_display_name": "National Center for Mental Health"
+        },
+        {
+          "id": "https://openalex.org/G3694717245",
+          "display_name": null,
+          "funder_award_id": "82201708",
+          "funder_id": "https://openalex.org/F4320321001",
+          "funder_display_name": "National Natural Science Foundation of China"
+        },
+        {
+          "id": "https://openalex.org/G6057725878",
+          "display_name": null,
+          "funder_award_id": "GD23YXL01",
+          "funder_id": "https://openalex.org/F4320326679",
+          "funder_display_name": "Guangdong Office of Philosophy and Social Science"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320321001",
+          "display_name": "National Natural Science Foundation of China",
+          "ror": "https://ror.org/01h0zpd94"
+        },
+        {
+          "id": "https://openalex.org/F4320321758",
+          "display_name": "South China Normal University",
+          "ror": "https://ror.org/01kq0pv72"
+        },
+        {
+          "id": "https://openalex.org/F4320326679",
+          "display_name": "Guangdong Office of Philosophy and Social Science",
+          "ror": "https://ror.org/05e08sj06"
+        },
+        {
+          "id": "https://openalex.org/F4320336231",
+          "display_name": "National Center for Mental Health",
+          "ror": "https://ror.org/03vrr2435"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4408437554.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4408437554.grobid-xml"
+      },
+      "referenced_works_count": 116,
+      "referenced_works": [
+        "https://openalex.org/W2073147434",
+        "https://openalex.org/W2094154655",
+        "https://openalex.org/W2126264646",
+        "https://openalex.org/W2293185259",
+        "https://openalex.org/W2804979581",
+        "https://openalex.org/W2883245677",
+        "https://openalex.org/W2901669506",
+        "https://openalex.org/W3003943678",
+        "https://openalex.org/W3033857372",
+        "https://openalex.org/W3121559951",
+        "https://openalex.org/W3124523525",
+        "https://openalex.org/W3136599046",
+        "https://openalex.org/W3173498569",
+        "https://openalex.org/W3187341546",
+        "https://openalex.org/W3211189476",
+        "https://openalex.org/W4206024178",
+        "https://openalex.org/W4206478453",
+        "https://openalex.org/W4224288001",
+        "https://openalex.org/W4280649186",
+        "https://openalex.org/W4292329909",
+        "https://openalex.org/W4294975644",
+        "https://openalex.org/W4307488663",
+        "https://openalex.org/W4310720496",
+        "https://openalex.org/W4312220150",
+        "https://openalex.org/W4313325323",
+        "https://openalex.org/W4319781791",
+        "https://openalex.org/W4321636216",
+        "https://openalex.org/W4323520148",
+        "https://openalex.org/W4360850261",
+        "https://openalex.org/W4361000349",
+        "https://openalex.org/W4361792156",
+        "https://openalex.org/W4362586953",
+        "https://openalex.org/W4366378733",
+        "https://openalex.org/W4366548761",
+        "https://openalex.org/W4377098551",
+        "https://openalex.org/W4380680685",
+        "https://openalex.org/W4380881406",
+        "https://openalex.org/W4383737134",
+        "https://openalex.org/W4386304195",
+        "https://openalex.org/W4386397123",
+        "https://openalex.org/W4386645064",
+        "https://openalex.org/W4386887838",
+        "https://openalex.org/W4386893393",
+        "https://openalex.org/W4387251677",
+        "https://openalex.org/W4387500346",
+        "https://openalex.org/W4387677901",
+        "https://openalex.org/W4387902718",
+        "https://openalex.org/W4388043541",
+        "https://openalex.org/W4388157511",
+        "https://openalex.org/W4388502894",
+        "https://openalex.org/W4388674301",
+        "https://openalex.org/W4388721744",
+        "https://openalex.org/W4388733340",
+        "https://openalex.org/W4388777264",
+        "https://openalex.org/W4388794792",
+        "https://openalex.org/W4389332338",
+        "https://openalex.org/W4389335560",
+        "https://openalex.org/W4389923012",
+        "https://openalex.org/W4389946433",
+        "https://openalex.org/W4390013840",
+        "https://openalex.org/W4390202391",
+        "https://openalex.org/W4390480823",
+        "https://openalex.org/W4390485957",
+        "https://openalex.org/W4390700529",
+        "https://openalex.org/W4390788696",
+        "https://openalex.org/W4390793099",
+        "https://openalex.org/W4390905742",
+        "https://openalex.org/W4390965895",
+        "https://openalex.org/W4390973627",
+        "https://openalex.org/W4390992209",
+        "https://openalex.org/W4390992289",
+        "https://openalex.org/W4390993543",
+        "https://openalex.org/W4391105189",
+        "https://openalex.org/W4391136507",
+        "https://openalex.org/W4391164242",
+        "https://openalex.org/W4391876881",
+        "https://openalex.org/W4391971084",
+        "https://openalex.org/W4392503764",
+        "https://openalex.org/W4392739577",
+        "https://openalex.org/W4393028575",
+        "https://openalex.org/W4393177920",
+        "https://openalex.org/W4393321981",
+        "https://openalex.org/W4393659286",
+        "https://openalex.org/W4393949820",
+        "https://openalex.org/W4394718458",
+        "https://openalex.org/W4394803733",
+        "https://openalex.org/W4395702448",
+        "https://openalex.org/W4396670785",
+        "https://openalex.org/W4396723505",
+        "https://openalex.org/W4396750566",
+        "https://openalex.org/W4396751689",
+        "https://openalex.org/W4396920249",
+        "https://openalex.org/W4399114217",
+        "https://openalex.org/W4399178056",
+        "https://openalex.org/W4399673257",
+        "https://openalex.org/W4399898969",
+        "https://openalex.org/W4400486514",
+        "https://openalex.org/W4400618127",
+        "https://openalex.org/W4400648818",
+        "https://openalex.org/W4400837480",
+        "https://openalex.org/W4400904138",
+        "https://openalex.org/W4400909709",
+        "https://openalex.org/W4400937597",
+        "https://openalex.org/W4400955820",
+        "https://openalex.org/W4401001407",
+        "https://openalex.org/W4401070453",
+        "https://openalex.org/W4401207930",
+        "https://openalex.org/W4401490995",
+        "https://openalex.org/W4401506443",
+        "https://openalex.org/W4401820448",
+        "https://openalex.org/W4401879689",
+        "https://openalex.org/W4402193006",
+        "https://openalex.org/W4402402756",
+        "https://openalex.org/W4402592919",
+        "https://openalex.org/W4402674027",
+        "https://openalex.org/W4406152291"
+      ],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2899084033",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W4229365511",
+        "https://openalex.org/W3131332557",
+        "https://openalex.org/W4211247774",
+        "https://openalex.org/W4205871143",
+        "https://openalex.org/W3045462960",
+        "https://openalex.org/W4393774512",
+        "https://openalex.org/W4393658307"
+      ],
+      "abstract_inverted_index": {
+        "BACKGROUND:": [
+          0
+        ],
+        "Mental": [
+          1
+        ],
+        "health": [
+          2,
+          19,
+          28,
+          55,
+          73,
+          183,
+          240,
+          269,
+          333,
+          351,
+          364
+        ],
+        "is": [
+          3,
+          13
+        ],
+        "emerging": [
+          4
+        ],
+        "as": [
+          5
+        ],
+        "an": [
+          6,
+          14
+        ],
+        "increasingly": [
+          7
+        ],
+        "prevalent": [
+          8
+        ],
+        "public": [
+          9
+        ],
+        "issue": [
+          10
+        ],
+        "globally.": [
+          11
+        ],
+        "There": [
+          12
+        ],
+        "urgent": [
+          15
+        ],
+        "need": [
+          16
+        ],
+        "in": [
+          17,
+          71,
+          89,
+          116,
+          165,
+          267,
+          309,
+          330,
+          348,
+          379
+        ],
+        "mental": [
+          18,
+          54,
+          72,
+          90,
+          117,
+          166,
+          182,
+          185,
+          239,
+          254,
+          268,
+          332,
+          350,
+          363
+        ],
+        "for": [
+          20,
+          156,
+          238,
+          279,
+          373
+        ],
+        "efficient": [
+          21
+        ],
+        "detection": [
+          22,
+          252,
+          281
+        ],
+        "methods,": [
+          23
+        ],
+        "effective": [
+          24
+        ],
+        "treatments,": [
+          25
+        ],
+        "affordable": [
+          26
+        ],
+        "privacy-focused": [
+          27
+        ],
+        "care": [
+          29
+        ],
+        "solutions,": [
+          30
+        ],
+        "and": [
+          31,
+          39,
+          66,
+          99,
+          125,
+          144,
+          213,
+          261,
+          265,
+          271,
+          282,
+          289,
+          293,
+          303,
+          312,
+          314,
+          328,
+          344,
+          367,
+          376
+        ],
+        "increased": [
+          32
+        ],
+        "access": [
+          33
+        ],
+        "to": [
+          34,
+          51,
+          83,
+          109,
+          150,
+          361
+        ],
+        "specialized": [
+          35
+        ],
+        "psychiatrists.": [
+          36
+        ],
+        "The": [
+          37,
+          242
+        ],
+        "emergence": [
+          38
+        ],
+        "rapid": [
+          40
+        ],
+        "development": [
+          41,
+          375
+        ],
+        "of": [
+          42,
+          69,
+          87,
+          113,
+          135,
+          222,
+          228,
+          253,
+          322,
+          346,
+          359
+        ],
+        "large": [
+          43
+        ],
+        "language": [
+          44,
+          198,
+          318
+        ],
+        "models": [
+          45,
+          204,
+          302
+        ],
+        "(LLMs)": [
+          46
+        ],
+        "have": [
+          47,
+          325
+        ],
+        "shown": [
+          48
+        ],
+        "the": [
+          49,
+          62,
+          85,
+          111,
+          219,
+          340,
+          349,
+          356,
+          371
+        ],
+        "potential": [
+          50,
+          358
+        ],
+        "address": [
+          52
+        ],
+        "these": [
+          53
+        ],
+        "demands.": [
+          56
+        ],
+        "However,": [
+          57
+        ],
+        "a": [
+          58
+        ],
+        "comprehensive": [
+          59
+        ],
+        "review": [
+          60,
+          81,
+          106,
+          338
+        ],
+        "summarizing": [
+          61
+        ],
+        "application": [
+          63,
+          94,
+          121,
+          211
+        ],
+        "areas,": [
+          64,
+          95,
+          122
+        ],
+        "processes,": [
+          65,
+          342
+        ],
+        "performance": [
+          67,
+          96,
+          214
+        ],
+        "comparisons": [
+          68
+        ],
+        "LLMs": [
+          70,
+          88,
+          237,
+          278,
+          305,
+          323,
+          347,
+          360
+        ],
+        "has": [
+          74
+        ],
+        "been": [
+          75
+        ],
+        "lacking": [
+          76
+        ],
+        "until": [
+          77
+        ],
+        "now.": [
+          78
+        ],
+        "OBJECTIVE:": [
+          79
+        ],
+        "This": [
+          80,
+          336
+        ],
+        "aimed": [
+          82
+        ],
+        "summarize": [
+          84
+        ],
+        "applications": [
+          86,
+          115,
+          164,
+          243
+        ],
+        "health,": [
+          91,
+          118
+        ],
+        "including": [
+          92,
+          119,
+          133
+        ],
+        "trends,": [
+          93,
+          120
+        ],
+        "comparisons,": [
+          97
+        ],
+        "challenges,": [
+          98
+        ],
+        "prospective": [
+          100
+        ],
+        "future": [
+          101,
+          126
+        ],
+        "directions.": [
+          102
+        ],
+        "METHODS:": [
+          103
+        ],
+        "A": [
+          104,
+          226
+        ],
+        "scoping": [
+          105,
+          337
+        ],
+        "was": [
+          107,
+          216
+        ],
+        "conducted": [
+          108
+        ],
+        "map": [
+          110
+        ],
+        "landscape": [
+          112
+        ],
+        "LLMs'": [
+          114,
+          163
+        ],
+        "comparative": [
+          123
+        ],
+        "performance,": [
+          124,
+          343
+        ],
+        "trajectories.": [
+          127
+        ],
+        "We": [
+          128
+        ],
+        "searched": [
+          129
+        ],
+        "7": [
+          130
+        ],
+        "electronic": [
+          131
+        ],
+        "databases,": [
+          132
+        ],
+        "Web": [
+          134
+        ],
+        "Science,": [
+          136
+        ],
+        "PubMed,": [
+          137
+        ],
+        "Cochrane": [
+          138
+        ],
+        "Library,": [
+          139
+        ],
+        "IEEE": [
+          140
+        ],
+        "Xplore,": [
+          141
+        ],
+        "Weipu,": [
+          142
+        ],
+        "CNKI,": [
+          143
+        ],
+        "Wanfang,": [
+          145
+        ],
+        "from": [
+          146,
+          233
+        ],
+        "January": [
+          147
+        ],
+        "1,": [
+          148
+        ],
+        "2019,": [
+          149
+        ],
+        "August": [
+          151
+        ],
+        "31,": [
+          152
+        ],
+        "2024.": [
+          153
+        ],
+        "Studies": [
+          154,
+          168
+        ],
+        "eligible": [
+          155,
+          223
+        ],
+        "inclusion": [
+          157
+        ],
+        "were": [
+          158,
+          169,
+          174,
+          205,
+          231,
+          244
+        ],
+        "peer-reviewed": [
+          159,
+          176
+        ],
+        "articles": [
+          160,
+          230
+        ],
+        "focused": [
+          161
+        ],
+        "on": [
+          162,
+          181,
+          210
+        ],
+        "health.": [
+          167
+        ],
+        "excluded": [
+          170
+        ],
+        "if": [
+          171
+        ],
+        "they": [
+          172
+        ],
+        "(1)": [
+          173
+        ],
+        "not": [
+          175,
+          179,
+          190
+        ],
+        "or": [
+          177,
+          184,
+          187,
+          200,
+          251
+        ],
+        "did": [
+          178,
+          189
+        ],
+        "focus": [
+          180
+        ],
+        "disorders": [
+          186,
+          255
+        ],
+        "(2)": [
+          188
+        ],
+        "use": [
+          191
+        ],
+        "LLMs;": [
+          192
+        ],
+        "studies": [
+          193,
+          235,
+          276
+        ],
+        "that": [
+          194
+        ],
+        "used": [
+          195,
+          277
+        ],
+        "only": [
+          196
+        ],
+        "natural": [
+          197,
+          317
+        ],
+        "processing": [
+          199
+        ],
+        "long": [
+          201
+        ],
+        "short-term": [
+          202
+        ],
+        "memory": [
+          203
+        ],
+        "also": [
+          206,
+          324
+        ],
+        "excluded.": [
+          207
+        ],
+        "Relevant": [
+          208
+        ],
+        "information": [
+          209,
+          310
+        ],
+        "details": [
+          212
+        ],
+        "metrics": [
+          215
+        ],
+        "extracted": [
+          217
+        ],
+        "during": [
+          218
+        ],
+        "data": [
+          220
+        ],
+        "charting": [
+          221
+        ],
+        "articles.": [
+          224
+        ],
+        "RESULTS:": [
+          225
+        ],
+        "total": [
+          227
+        ],
+        "95": [
+          229
+        ],
+        "drawn": [
+          232
+        ],
+        "4859": [
+          234
+        ],
+        "using": [
+          236
+        ],
+        "tasks.": [
+          241,
+          334
+        ],
+        "categorized": [
+          245
+        ],
+        "into": [
+          246
+        ],
+        "3": [
+          247
+        ],
+        "key": [
+          248
+        ],
+        "areas:": [
+          249
+        ],
+        "screening": [
+          250
+        ],
+        "(67/95,": [
+          256
+        ],
+        "71%),": [
+          257
+        ],
+        "supporting": [
+          258
+        ],
+        "clinical": [
+          259,
+          286,
+          380
+        ],
+        "treatments": [
+          260
+        ],
+        "interventions": [
+          262
+        ],
+        "(31/95,": [
+          263
+        ],
+        "33%),": [
+          264
+        ],
+        "assisting": [
+          266
+        ],
+        "counseling": [
+          270
+        ],
+        "education": [
+          272
+        ],
+        "(11/95,": [
+          273
+        ],
+        "12%).": [
+          274
+        ],
+        "Most": [
+          275
+        ],
+        "depression": [
+          280
+        ],
+        "classification": [
+          283
+        ],
+        "(33/95,": [
+          284
+        ],
+        "35%),": [
+          285
+        ],
+        "treatment": [
+          287
+        ],
+        "support": [
+          288
+        ],
+        "intervention": [
+          290,
+          368
+        ],
+        "(14/95,": [
+          291
+        ],
+        "15%),": [
+          292
+        ],
+        "suicide": [
+          294
+        ],
+        "risk": [
+          295
+        ],
+        "prediction": [
+          296
+        ],
+        "(12/95,": [
+          297
+        ],
+        "13%).": [
+          298
+        ],
+        "Compared": [
+          299
+        ],
+        "with": [
+          300
+        ],
+        "nontransformer": [
+          301
+        ],
+        "humans,": [
+          304
+        ],
+        "demonstrate": [
+          306
+        ],
+        "higher": [
+          307
+        ],
+        "capabilities": [
+          308
+        ],
+        "acquisition": [
+          311
+        ],
+        "analysis": [
+          313
+        ],
+        "efficiently": [
+          315
+        ],
+        "generating": [
+          316
+        ],
+        "responses.": [
+          319
+        ],
+        "Various": [
+          320
+        ],
+        "series": [
+          321
+        ],
+        "different": [
+          326
+        ],
+        "advantages": [
+          327
+        ],
+        "disadvantages": [
+          329
+        ],
+        "addressing": [
+          331
+        ],
+        "CONCLUSIONS:": [
+          335
+        ],
+        "synthesizes": [
+          339
+        ],
+        "applications,": [
+          341
+        ],
+        "challenges": [
+          345
+        ],
+        "field.": [
+          352
+        ],
+        "These": [
+          353
+        ],
+        "findings": [
+          354
+        ],
+        "highlight": [
+          355
+        ],
+        "substantial": [
+          357
+        ],
+        "augment": [
+          362
+        ],
+        "research,": [
+          365
+        ],
+        "diagnostics,": [
+          366
+        ],
+        "strategies,": [
+          369
+        ],
+        "underscoring": [
+          370
+        ],
+        "imperative": [
+          372
+        ],
+        "ongoing": [
+          374
+        ],
+        "ethical": [
+          377
+        ],
+        "deliberation": [
+          378
+        ],
+        "settings.": [
+          381
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 55
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 24
+        }
+      ],
+      "updated_date": "2026-09-21T07:43:02.447757",
+      "created_date": "2025-03-15T00:00:00"
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": "https://www.jmir.org/2025/1/e69284/PDF",
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

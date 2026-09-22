@@ -1,0 +1,32 @@
+{
+  "id": "sch-035",
+  "original": {
+    "paper_name": "[HTML] Large language models for mental health applications: systematic review",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "large language models mental health",
+  "scraped_at": "2026-09-22T11:20:00.731942+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "large language models mental health",
+    "title_matched": "[HTML] Large language models for mental health applications: systematic review",
+    "authors": [
+      "Z Guo",
+      "A Lai",
+      "JH Thygesen",
+      "J Farrington",
+      "T Keen"
+    ],
+    "year": 2024,
+    "venue": "… mental health",
+    "cited_by": 475,
+    "landing_page_url": "https://mental.jmir.org/2024/1/e57400/",
+    "snippet": "… (mental health OR mental illness OR mental disorder OR psychiatry) AND (large language\nmodels… , and April 30, 2024, and excluded articles published in languages other than English. …",
+    "pdf_url": "https://mental.jmir.org/2024/1/e57400/"
+  },
+  "pdf_file": null,
+  "pdf_url": "https://mental.jmir.org/2024/1/e57400/"
+}

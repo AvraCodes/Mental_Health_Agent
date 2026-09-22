@@ -1,0 +1,63 @@
+{
+  "id": 37,
+  "original": {
+    "paper_name": "Vocal Biomarkers for Stress Detection: A Deep Learning Approach",
+    "site": "DBLP",
+    "venue_of_publication": "Interspeech",
+    "year": 2024,
+    "researcher_info": "R. Sharma, et al.",
+    "id": 37
+  },
+  "site": "DBLP",
+  "scraped_at": "2026-09-22T10:49:13.310779+00:00",
+  "fetched": {
+    "found": true,
+    "query": "Vocal Biomarkers for Stress Detection: A Deep Learning Approach",
+    "method": "crossref-fallback",
+    "doi": "10.30773/pi.2024.0131",
+    "doi_url": "https://doi.org/10.30773/pi.2024.0131",
+    "title_matched": "Novel Deep Learning-Based Vocal Biomarkers for Stress Detection in Koreans",
+    "title_similarity": 0.618,
+    "match_confidence": "medium",
+    "authors": [
+      "Junghyun Namkung",
+      "Seok Min Kim",
+      "Won Ik Cho",
+      "So Young Yoo",
+      "Beomjun Min",
+      "Sang Yool Lee",
+      "Ji-Hye Lee",
+      "Heyeon Park",
+      "Soyoung Baik",
+      "Je-Yeon Yun",
+      "Nam Soo Kim",
+      "Jeong-Hyun Kim"
+    ],
+    "year": 2024,
+    "venue": "Psychiatry Investigation",
+    "publisher": "Korean Neuropsychiatric Association",
+    "pdf_url": "http://psychiatryinvestigation.org/upload/pdf/pi-2024-0131.pdf",
+    "landing_page_url": "https://doi.org/10.30773/pi.2024.0131",
+    "site": "DBLP",
+    "site_miss": {
+      "found": false,
+      "site": "DBLP",
+      "query": "Vocal Biomarkers for Stress Detection: A Deep Learning Approach",
+      "method": "api",
+      "error": "Expecting value: line 1 column 1 (char 0)",
+      "playwright_fallback": {
+        "found": false,
+        "site": "DBLP",
+        "query": "Vocal Biomarkers for Stress Detection: A Deep Learning Approach",
+        "method": "playwright",
+        "search_url": "https://dblp.org/search?q=Vocal%20Biomarkers%20for%20Stress%20Detection%3A%20A%20Deep%20Learning",
+        "top_hits": [],
+        "top_links": [],
+        "short_query_used": "Vocal Biomarkers for Stress Detection: A Deep Learning"
+      }
+    }
+  },
+  "pdf_file": "037_vocal-biomarkers-for-stress-detection-a-deep-learning-approa.pdf",
+  "pdf_url": "http://psychiatryinvestigation.org/upload/pdf/pi-2024-0131.pdf",
+  "pdf_verified": true
+}

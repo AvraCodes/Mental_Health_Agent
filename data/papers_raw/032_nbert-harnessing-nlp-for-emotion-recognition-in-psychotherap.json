@@ -1,0 +1,1238 @@
+{
+  "id": 32,
+  "original": {
+    "id": 32,
+    "paper_name": "nBERT: Harnessing NLP for Emotion Recognition in Psychotherapy to Transform Mental Health Care",
+    "site": "OpenAlex",
+    "venue_of_publication": "Information",
+    "year": 2025,
+    "researcher_info": "Abdur Rasool, Saba Aslam et al."
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T11:01:14.846275+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "nBERT: Harnessing NLP for Emotion Recognition in Psychotherapy to Transform Mental Health Care",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W4409282133",
+    "doi": "https://doi.org/10.3390/info16040301",
+    "title_matched": "nBERT: Harnessing NLP for Emotion Recognition in Psychotherapy to Transform Mental Health Care",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2025,
+    "venue": "Information",
+    "authors": [
+      "Abdur Rasool",
+      "Saba Aslam",
+      "Naeem Hussain",
+      "Sharjeel Imtiaz",
+      "Waqar Riaz"
+    ],
+    "abstract": "The rising prevalence of mental health disorders, particularly depression, highlights the need for improved approaches in therapeutic interventions. Traditional psychotherapy relies on subjective assessments, which can vary across therapists and sessions, making it challenging to track emotional progression and therapy effectiveness objectively. Leveraging the advancements in Natural Language Processing (NLP) and domain-specific Large Language Models (LLMs), this study introduces nBERT, a fine-tuned Bidirectional Encoder Representations from the Transformers (BERT) model integrated with the NRC Emotion Lexicon, to elevate emotion recognition in psychotherapy transcripts. The goal of this study is to provide a computational framework that aids in identifying emotional patterns, tracking patient-therapist emotional alignment, and assessing therapy outcomes. Addressing the challenge of emotion classification in text-based therapy sessions, where non-verbal cues are absent, nBERT demonstrates its ability to extract nuanced emotional insights from unstructured textual data, providing a data-driven approach to enhance mental health assessments. Trained on a dataset of 2021 psychotherapy transcripts, the model achieves an average precision of 91.53%, significantly outperforming baseline models. This capability not only improves diagnostic accuracy but also supports the customization of therapeutic strategies. By automating the interpretation of complex emotional dynamics in psychotherapy, nBERT exemplifies the transformative potential of NLP and LLMs in revolutionizing mental health care. Beyond psychotherapy, the framework enables broader LLM applications in the life sciences, including personalized medicine and precision healthcare.",
+    "cited_by_count": 31,
+    "is_oa": true,
+    "pdf_url": "https://www.mdpi.com/2078-2489/16/4/301/pdf?version=1744195103",
+    "pdf_candidates": [
+      "https://www.mdpi.com/2078-2489/16/4/301/pdf?version=1744195103"
+    ],
+    "landing_page_url": "https://doi.org/10.3390/info16040301",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W4409282133",
+      "doi": "https://doi.org/10.3390/info16040301",
+      "title": "nBERT: Harnessing NLP for Emotion Recognition in Psychotherapy to Transform Mental Health Care",
+      "display_name": "nBERT: Harnessing NLP for Emotion Recognition in Psychotherapy to Transform Mental Health Care",
+      "relevance_score": 2788.4705,
+      "publication_year": 2025,
+      "publication_date": "2025-04-09",
+      "ids": {
+        "openalex": "https://openalex.org/W4409282133",
+        "doi": "https://doi.org/10.3390/info16040301"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3390/info16040301",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/info16040301",
+        "pdf_url": "https://www.mdpi.com/2078-2489/16/4/301/pdf?version=1744195103",
+        "source": {
+          "id": "https://openalex.org/S4210219776",
+          "display_name": "Information",
+          "issn_l": "2078-2489",
+          "issn": [
+            "2078-2489"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Information",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2078-2489/16/4/301/pdf?version=1744195103",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5004310412",
+            "display_name": "Abdur Rasool",
+            "orcid": "https://orcid.org/0000-0001-5334-9001"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I117965899",
+              "display_name": "University of Hawaiʻi at Mānoa",
+              "ror": "https://ror.org/01wspgy28",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I117965899"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdur Rasool",
+          "raw_affiliation_strings": [
+            "Department of Information and Computer Sciences, University of Hawaii at Manoa, Honolulu, HI 96822, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-5334-9001",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Information and Computer Sciences, University of Hawaii at Manoa, Honolulu, HI 96822, USA",
+              "institution_ids": [
+                "https://openalex.org/I117965899"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5052697587",
+            "display_name": "Saba Aslam",
+            "orcid": "https://orcid.org/0000-0001-7681-4324"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I19820366",
+              "display_name": "Chinese Academy of Sciences",
+              "ror": "https://ror.org/034t30j35",
+              "country_code": "CN",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I19820366"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210145761",
+              "display_name": "Shenzhen Institutes of Advanced Technology",
+              "ror": "https://ror.org/04gh4er46",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I4210145761"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Saba Aslam",
+          "raw_affiliation_strings": [
+            "Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen 518055, China"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-7681-4324",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen 518055, China",
+              "institution_ids": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I4210145761"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5108561087",
+            "display_name": "Naeem Hussain",
+            "orcid": "https://orcid.org/0009-0001-9043-0826"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I180726961",
+              "display_name": "Shenzhen University",
+              "ror": "https://ror.org/01vy4gh70",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I180726961"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Naeem Hussain",
+          "raw_affiliation_strings": [
+            "College of Electronics and Information Engineering, Shenzhen University, Shenzhen 518060, China"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0001-9043-0826",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Electronics and Information Engineering, Shenzhen University, Shenzhen 518060, China",
+              "institution_ids": [
+                "https://openalex.org/I180726961"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5038275673",
+            "display_name": "Sharjeel Imtiaz",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Sharjeel Imtiaz",
+          "raw_affiliation_strings": [
+            "Department of Information Technology, Loadstop, Lake Forest, CA 92610, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Information Technology, Loadstop, Lake Forest, CA 92610, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5117083674",
+            "display_name": "Waqar Riaz",
+            "orcid": "https://orcid.org/0009-0001-1700-0299"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I182722699",
+              "display_name": "Shenzhen Polytechnic University",
+              "ror": "https://ror.org/00d2w9g53",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I182722699"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Waqar Riaz",
+          "raw_affiliation_strings": [
+            "Institute of Intelligent Manufacturing Technology (IIMT), Shenzhen Polytechnic University, 4089 Shahe West Road, Shenzhen 518055, China"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0001-1700-0299",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Intelligent Manufacturing Technology (IIMT), Shenzhen Polytechnic University, 4089 Shahe West Road, Shenzhen 518055, China",
+              "institution_ids": [
+                "https://openalex.org/I182722699"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 5,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5117083674"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I182722699"
+      ],
+      "apc_list": {
+        "value": 1600,
+        "currency": "CHF",
+        "value_usd": 1930
+      },
+      "apc_paid": {
+        "value": 1600,
+        "currency": "CHF",
+        "value_usd": 1930
+      },
+      "fwci": 34.3363,
+      "has_fulltext": true,
+      "cited_by_count": 31,
+      "citation_normalized_percentile": {
+        "value": 0.99844928,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 99,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "16",
+        "issue": "4",
+        "first_page": "301",
+        "last_page": "301"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12488",
+        "display_name": "Mental Health via Writing",
+        "score": 0.9995999932289124,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3207",
+          "display_name": "Social Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12488",
+          "display_name": "Mental Health via Writing",
+          "score": 0.9995999932289124,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10664",
+          "display_name": "Sentiment Analysis and Opinion Mining",
+          "score": 0.9993000030517578,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10667",
+          "display_name": "Emotion and Mood Recognition",
+          "score": 0.9957000017166138,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3205",
+            "display_name": "Experimental and Cognitive Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.5155701041221619
+        },
+        {
+          "id": "https://openalex.org/keywords/psychotherapist",
+          "display_name": "Psychotherapist",
+          "score": 0.5107171535491943
+        },
+        {
+          "id": "https://openalex.org/keywords/emotion-recognition",
+          "display_name": "Emotion recognition",
+          "score": 0.487535685300827
+        },
+        {
+          "id": "https://openalex.org/keywords/mental-health-care",
+          "display_name": "Mental health care",
+          "score": 0.4202803075313568
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.36764779686927795
+        },
+        {
+          "id": "https://openalex.org/keywords/mental-health",
+          "display_name": "Mental health",
+          "score": 0.3371916115283966
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.32477766275405884
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.5155701041221619
+        },
+        {
+          "id": "https://openalex.org/C542102704",
+          "wikidata": "https://www.wikidata.org/wiki/Q183257",
+          "display_name": "Psychotherapist",
+          "level": 1,
+          "score": 0.5107171535491943
+        },
+        {
+          "id": "https://openalex.org/C2777438025",
+          "wikidata": "https://www.wikidata.org/wiki/Q1339090",
+          "display_name": "Emotion recognition",
+          "level": 2,
+          "score": 0.487535685300827
+        },
+        {
+          "id": "https://openalex.org/C2992545881",
+          "wikidata": "https://www.wikidata.org/wiki/Q6817473",
+          "display_name": "Mental health care",
+          "level": 3,
+          "score": 0.4202803075313568
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.36764779686927795
+        },
+        {
+          "id": "https://openalex.org/C134362201",
+          "wikidata": "https://www.wikidata.org/wiki/Q317309",
+          "display_name": "Mental health",
+          "level": 2,
+          "score": 0.3371916115283966
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.32477766275405884
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.3390/info16040301",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3390/info16040301",
+          "pdf_url": "https://www.mdpi.com/2078-2489/16/4/301/pdf?version=1744195103",
+          "source": {
+            "id": "https://openalex.org/S4210219776",
+            "display_name": "Information",
+            "issn_l": "2078-2489",
+            "issn": [
+              "2078-2489"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310310987",
+            "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310310987"
+            ],
+            "host_organization_lineage_names": [
+              "Multidisciplinary Digital Publishing Institute"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Information",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:b72f8b3e5e0b4a4ea57577b719ca4438",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/b72f8b3e5e0b4a4ea57577b719ca4438",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Information, Vol 16, Iss 4, p 301 (2025)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.3390/info16040301",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/info16040301",
+        "pdf_url": "https://www.mdpi.com/2078-2489/16/4/301/pdf?version=1744195103",
+        "source": {
+          "id": "https://openalex.org/S4210219776",
+          "display_name": "Information",
+          "issn_l": "2078-2489",
+          "issn": [
+            "2078-2489"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Information",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320313851",
+          "display_name": "Shenzhen Polytechnic",
+          "ror": "https://ror.org/00d2w9g53"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4409282133.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4409282133.grobid-xml"
+      },
+      "referenced_works_count": 48,
+      "referenced_works": [
+        "https://openalex.org/W2040467972",
+        "https://openalex.org/W2099813784",
+        "https://openalex.org/W2964262738",
+        "https://openalex.org/W2997391969",
+        "https://openalex.org/W3036453174",
+        "https://openalex.org/W3082079556",
+        "https://openalex.org/W3104982372",
+        "https://openalex.org/W3137171007",
+        "https://openalex.org/W3184484104",
+        "https://openalex.org/W3185609606",
+        "https://openalex.org/W3186055314",
+        "https://openalex.org/W3186962112",
+        "https://openalex.org/W3212255623",
+        "https://openalex.org/W4206629518",
+        "https://openalex.org/W4213441134",
+        "https://openalex.org/W4220853758",
+        "https://openalex.org/W4223610593",
+        "https://openalex.org/W4281673713",
+        "https://openalex.org/W4281856433",
+        "https://openalex.org/W4283160293",
+        "https://openalex.org/W4283270069",
+        "https://openalex.org/W4293261951",
+        "https://openalex.org/W4294975644",
+        "https://openalex.org/W4295664997",
+        "https://openalex.org/W4297499142",
+        "https://openalex.org/W4298012191",
+        "https://openalex.org/W4312163383",
+        "https://openalex.org/W4312734639",
+        "https://openalex.org/W4313459200",
+        "https://openalex.org/W4318483799",
+        "https://openalex.org/W4320039977",
+        "https://openalex.org/W4320917115",
+        "https://openalex.org/W4361008252",
+        "https://openalex.org/W4365141356",
+        "https://openalex.org/W4387393037",
+        "https://openalex.org/W4387896315",
+        "https://openalex.org/W4387942811",
+        "https://openalex.org/W4388190222",
+        "https://openalex.org/W4389781142",
+        "https://openalex.org/W4389946433",
+        "https://openalex.org/W4393237946",
+        "https://openalex.org/W4393308638",
+        "https://openalex.org/W4395112952",
+        "https://openalex.org/W4403559541",
+        "https://openalex.org/W4406154649",
+        "https://openalex.org/W4408051174",
+        "https://openalex.org/W6843358160",
+        "https://openalex.org/W6875473539"
+      ],
+      "related_works": [
+        "https://openalex.org/W3139055845",
+        "https://openalex.org/W3120669673",
+        "https://openalex.org/W2783805735",
+        "https://openalex.org/W4231300084",
+        "https://openalex.org/W4388441636",
+        "https://openalex.org/W3092423562",
+        "https://openalex.org/W2913438235",
+        "https://openalex.org/W2565761864",
+        "https://openalex.org/W4402548327",
+        "https://openalex.org/W2972442929"
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0,
+          83
+        ],
+        "rising": [
+          1
+        ],
+        "prevalence": [
+          2
+        ],
+        "of": [
+          3,
+          85,
+          111,
+          149,
+          159,
+          177,
+          184,
+          195
+        ],
+        "mental": [
+          4,
+          142,
+          201
+        ],
+        "health": [
+          5,
+          143,
+          202
+        ],
+        "disorders,": [
+          6
+        ],
+        "particularly": [
+          7
+        ],
+        "depression,": [
+          8
+        ],
+        "highlights": [
+          9
+        ],
+        "the": [
+          10,
+          43,
+          66,
+          72,
+          109,
+          153,
+          175,
+          182,
+          192,
+          206,
+          213
+        ],
+        "need": [
+          11
+        ],
+        "for": [
+          12
+        ],
+        "improved": [
+          13
+        ],
+        "approaches": [
+          14
+        ],
+        "in": [
+          15,
+          45,
+          80,
+          96,
+          114,
+          188,
+          199,
+          212
+        ],
+        "therapeutic": [
+          16,
+          178
+        ],
+        "interventions.": [
+          17
+        ],
+        "Traditional": [
+          18
+        ],
+        "psychotherapy": [
+          19,
+          81,
+          151
+        ],
+        "relies": [
+          20
+        ],
+        "on": [
+          21,
+          146
+        ],
+        "subjective": [
+          22
+        ],
+        "assessments,": [
+          23
+        ],
+        "which": [
+          24
+        ],
+        "can": [
+          25
+        ],
+        "vary": [
+          26
+        ],
+        "across": [
+          27
+        ],
+        "therapists": [
+          28
+        ],
+        "and": [
+          29,
+          38,
+          50,
+          104,
+          197,
+          219
+        ],
+        "sessions,": [
+          30,
+          117
+        ],
+        "making": [
+          31
+        ],
+        "it": [
+          32
+        ],
+        "challenging": [
+          33
+        ],
+        "to": [
+          34,
+          76,
+          89,
+          127,
+          140
+        ],
+        "track": [
+          35
+        ],
+        "emotional": [
+          36,
+          98,
+          102,
+          130,
+          186
+        ],
+        "progression": [
+          37
+        ],
+        "therapy": [
+          39,
+          106,
+          116
+        ],
+        "effectiveness": [
+          40
+        ],
+        "objectively.": [
+          41
+        ],
+        "Leveraging": [
+          42
+        ],
+        "advancements": [
+          44
+        ],
+        "Natural": [
+          46
+        ],
+        "Language": [
+          47,
+          53
+        ],
+        "Processing": [
+          48
+        ],
+        "(NLP)": [
+          49
+        ],
+        "domain-specific": [
+          51
+        ],
+        "Large": [
+          52
+        ],
+        "Models": [
+          54
+        ],
+        "(LLMs),": [
+          55
+        ],
+        "this": [
+          56,
+          86
+        ],
+        "study": [
+          57,
+          87
+        ],
+        "introduces": [
+          58
+        ],
+        "nBERT,": [
+          59
+        ],
+        "a": [
+          60,
+          91,
+          137,
+          147
+        ],
+        "fine-tuned": [
+          61
+        ],
+        "Bidirectional": [
+          62
+        ],
+        "Encoder": [
+          63
+        ],
+        "Representations": [
+          64
+        ],
+        "from": [
+          65,
+          132
+        ],
+        "Transformers": [
+          67
+        ],
+        "(BERT)": [
+          68
+        ],
+        "model": [
+          69,
+          154
+        ],
+        "integrated": [
+          70
+        ],
+        "with": [
+          71
+        ],
+        "NRC": [
+          73
+        ],
+        "Emotion": [
+          74
+        ],
+        "Lexicon,": [
+          75
+        ],
+        "elevate": [
+          77
+        ],
+        "emotion": [
+          78,
+          112
+        ],
+        "recognition": [
+          79
+        ],
+        "transcripts.": [
+          82
+        ],
+        "goal": [
+          84
+        ],
+        "is": [
+          88
+        ],
+        "provide": [
+          90
+        ],
+        "computational": [
+          92
+        ],
+        "framework": [
+          93,
+          207
+        ],
+        "that": [
+          94
+        ],
+        "aids": [
+          95
+        ],
+        "identifying": [
+          97
+        ],
+        "patterns,": [
+          99
+        ],
+        "tracking": [
+          100
+        ],
+        "patient-therapist": [
+          101
+        ],
+        "alignment,": [
+          103
+        ],
+        "assessing": [
+          105
+        ],
+        "outcomes.": [
+          107
+        ],
+        "Addressing": [
+          108
+        ],
+        "challenge": [
+          110
+        ],
+        "classification": [
+          113
+        ],
+        "text-based": [
+          115
+        ],
+        "where": [
+          118
+        ],
+        "non-verbal": [
+          119
+        ],
+        "cues": [
+          120
+        ],
+        "are": [
+          121
+        ],
+        "absent,": [
+          122
+        ],
+        "nBERT": [
+          123,
+          190
+        ],
+        "demonstrates": [
+          124
+        ],
+        "its": [
+          125
+        ],
+        "ability": [
+          126
+        ],
+        "extract": [
+          128
+        ],
+        "nuanced": [
+          129
+        ],
+        "insights": [
+          131
+        ],
+        "unstructured": [
+          133
+        ],
+        "textual": [
+          134
+        ],
+        "data,": [
+          135
+        ],
+        "providing": [
+          136
+        ],
+        "data-driven": [
+          138
+        ],
+        "approach": [
+          139
+        ],
+        "enhance": [
+          141
+        ],
+        "assessments.": [
+          144
+        ],
+        "Trained": [
+          145
+        ],
+        "dataset": [
+          148
+        ],
+        "2021": [
+          150
+        ],
+        "transcripts,": [
+          152
+        ],
+        "achieves": [
+          155
+        ],
+        "an": [
+          156
+        ],
+        "average": [
+          157
+        ],
+        "precision": [
+          158,
+          220
+        ],
+        "91.53%,": [
+          160
+        ],
+        "significantly": [
+          161
+        ],
+        "outperforming": [
+          162
+        ],
+        "baseline": [
+          163
+        ],
+        "models.": [
+          164
+        ],
+        "This": [
+          165
+        ],
+        "capability": [
+          166
+        ],
+        "not": [
+          167
+        ],
+        "only": [
+          168
+        ],
+        "improves": [
+          169
+        ],
+        "diagnostic": [
+          170
+        ],
+        "accuracy": [
+          171
+        ],
+        "but": [
+          172
+        ],
+        "also": [
+          173
+        ],
+        "supports": [
+          174
+        ],
+        "customization": [
+          176
+        ],
+        "strategies.": [
+          179
+        ],
+        "By": [
+          180
+        ],
+        "automating": [
+          181
+        ],
+        "interpretation": [
+          183
+        ],
+        "complex": [
+          185
+        ],
+        "dynamics": [
+          187
+        ],
+        "psychotherapy,": [
+          189,
+          205
+        ],
+        "exemplifies": [
+          191
+        ],
+        "transformative": [
+          193
+        ],
+        "potential": [
+          194
+        ],
+        "NLP": [
+          196
+        ],
+        "LLMs": [
+          198
+        ],
+        "revolutionizing": [
+          200
+        ],
+        "care.": [
+          203
+        ],
+        "Beyond": [
+          204
+        ],
+        "enables": [
+          208
+        ],
+        "broader": [
+          209
+        ],
+        "LLM": [
+          210
+        ],
+        "applications": [
+          211
+        ],
+        "life": [
+          214
+        ],
+        "sciences,": [
+          215
+        ],
+        "including": [
+          216
+        ],
+        "personalized": [
+          217
+        ],
+        "medicine": [
+          218
+        ],
+        "healthcare.": [
+          221
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 17
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 14
+        }
+      ],
+      "updated_date": "2026-09-21T07:43:02.447757",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": "https://www.mdpi.com/2078-2489/16/4/301/pdf?version=1744195103",
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

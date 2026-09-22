@@ -1,0 +1,1586 @@
+{
+  "id": 15,
+  "original": {
+    "id": 15,
+    "paper_name": "An Overview of Chatbot-Based Mobile Mental Health Apps: Insights From App Description and User Reviews",
+    "site": "OpenAlex",
+    "venue_of_publication": "JMIR mhealth and uhealth",
+    "year": 2023,
+    "researcher_info": "Md Romael Haque, Sabirat Rubya"
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T10:58:46.472258+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "An Overview of Chatbot-Based Mobile Mental Health Apps: Insights From App Description and User Reviews",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W4366703942",
+    "doi": "https://doi.org/10.2196/44838",
+    "title_matched": "An Overview of Chatbot-Based Mobile Mental Health Apps: Insights From App Description and User Reviews",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2023,
+    "venue": "JMIR mhealth and uhealth",
+    "authors": [
+      "Md Romael Haque",
+      "Sabirat Rubya"
+    ],
+    "abstract": "BACKGROUND: Chatbots are an emerging technology that show potential for mental health care apps to enable effective and practical evidence-based therapies. As this technology is still relatively new, little is known about recently developed apps and their characteristics and effectiveness. OBJECTIVE: In this study, we aimed to provide an overview of the commercially available popular mental health chatbots and how they are perceived by users. METHODS: We conducted an exploratory observation of 10 apps that offer support and treatment for a variety of mental health concerns with a built-in chatbot feature and qualitatively analyzed 3621 consumer reviews from the Google Play Store and 2624 consumer reviews from the Apple App Store. RESULTS: We found that although chatbots' personalized, humanlike interactions were positively received by users, improper responses and assumptions about the personalities of users led to a loss of interest. As chatbots are always accessible and convenient, users can become overly attached to them and prefer them over interacting with friends and family. Furthermore, a chatbot may offer crisis care whenever the user needs it because of its 24/7 availability, but even recently developed chatbots lack the understanding of properly identifying a crisis. Chatbots considered in this study fostered a judgment-free environment and helped users feel more comfortable sharing sensitive information. CONCLUSIONS: Our findings suggest that chatbots have great potential to offer social and psychological support in situations where real-world human interaction, such as connecting to friends or family members or seeking professional support, is not preferred or possible to achieve. However, there are several restrictions and limitations that these chatbots must establish according to the level of service they offer. Too much reliance on technology can pose risks, such as isolation and insufficient assistance during times of crisis. Recommendations for customization and balanced persuasion to inform the design of effective chatbots for mental health support have been outlined based on the insights of our findings.",
+    "cited_by_count": 397,
+    "is_oa": true,
+    "pdf_url": "https://mhealth.jmir.org/2023/1/e44838/PDF",
+    "pdf_candidates": [
+      "https://mhealth.jmir.org/2023/1/e44838/PDF",
+      "https://aclanthology.org/P17-4017.pdf"
+    ],
+    "landing_page_url": "https://doi.org/10.2196/44838",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W4366703942",
+      "doi": "https://doi.org/10.2196/44838",
+      "title": "An Overview of Chatbot-Based Mobile Mental Health Apps: Insights From App Description and User Reviews",
+      "display_name": "An Overview of Chatbot-Based Mobile Mental Health Apps: Insights From App Description and User Reviews",
+      "relevance_score": 8200.608,
+      "publication_year": 2023,
+      "publication_date": "2023-04-21",
+      "ids": {
+        "openalex": "https://openalex.org/W4366703942",
+        "doi": "https://doi.org/10.2196/44838",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/37213181"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2196/44838",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2196/44838",
+        "pdf_url": "https://mhealth.jmir.org/2023/1/e44838/PDF",
+        "source": {
+          "id": "https://openalex.org/S2764493120",
+          "display_name": "JMIR mhealth and uhealth",
+          "issn_l": "2291-5222",
+          "issn": [
+            "2291-5222"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "doyens",
+            "jufo-2",
+            "medline",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320608",
+          "host_organization_name": "JMIR Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320608"
+          ],
+          "host_organization_lineage_names": [
+            "JMIR Publications"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "JMIR mHealth and uHealth",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://mhealth.jmir.org/2023/1/e44838/PDF",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5076433660",
+            "display_name": "Md Romael Haque",
+            "orcid": "https://orcid.org/0000-0003-0731-7767"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I102461120",
+              "display_name": "Marquette University",
+              "ror": "https://ror.org/04gr4te78",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I102461120"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "M D Romael Haque",
+          "raw_affiliation_strings": [
+            "Department of Computer Science, Marquette University, Milwaukee, WI, United States"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-0731-7767",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Science, Marquette University, Milwaukee, WI, United States",
+              "institution_ids": [
+                "https://openalex.org/I102461120"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5087929647",
+            "display_name": "Sabirat Rubya",
+            "orcid": "https://orcid.org/0000-0001-5878-0976"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I102461120",
+              "display_name": "Marquette University",
+              "ror": "https://ror.org/04gr4te78",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I102461120"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sabirat Rubya",
+          "raw_affiliation_strings": [
+            "Department of Computer Science, Marquette University, Milwaukee, WI, United States"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-5878-0976",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Science, Marquette University, Milwaukee, WI, United States",
+              "institution_ids": [
+                "https://openalex.org/I102461120"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5076433660"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I102461120"
+      ],
+      "apc_list": {
+        "value": 2850,
+        "currency": "USD",
+        "value_usd": 2850
+      },
+      "apc_paid": {
+        "value": 2850,
+        "currency": "USD",
+        "value_usd": 2850
+      },
+      "fwci": 59.55,
+      "has_fulltext": true,
+      "cited_by_count": 397,
+      "citation_normalized_percentile": {
+        "value": 0.99970536,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 99,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "11",
+        "issue": null,
+        "first_page": "e44838",
+        "last_page": "e44838"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11519",
+        "display_name": "Digital Mental Health Interventions",
+        "score": 0.9940000176429749,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3202",
+          "display_name": "Applied Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11519",
+          "display_name": "Digital Mental Health Interventions",
+          "score": 0.9940000176429749,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3202",
+            "display_name": "Applied Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11446",
+          "display_name": "Mobile Health and mHealth Applications",
+          "score": 0.0010000000474974513,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3600",
+            "display_name": "General Health Professions"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/36",
+            "display_name": "Health Professions"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12488",
+          "display_name": "Mental Health via Writing",
+          "score": 0.0007999999797903001,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/chatbot",
+          "display_name": "Chatbot",
+          "score": 0.9379452466964722
+        },
+        {
+          "id": "https://openalex.org/keywords/internet-privacy",
+          "display_name": "Internet privacy",
+          "score": 0.7396224737167358
+        },
+        {
+          "id": "https://openalex.org/keywords/mental-health",
+          "display_name": "Mental health",
+          "score": 0.5953714847564697
+        },
+        {
+          "id": "https://openalex.org/keywords/variety",
+          "display_name": "Variety (cybernetics)",
+          "score": 0.5067458748817444
+        },
+        {
+          "id": "https://openalex.org/keywords/mhealth",
+          "display_name": "mHealth",
+          "score": 0.4682924151420593
+        },
+        {
+          "id": "https://openalex.org/keywords/mobile-apps",
+          "display_name": "Mobile apps",
+          "score": 0.4552317261695862
+        },
+        {
+          "id": "https://openalex.org/keywords/world-wide-web",
+          "display_name": "World Wide Web",
+          "score": 0.4420391917228699
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.42416250705718994
+        },
+        {
+          "id": "https://openalex.org/keywords/health-care",
+          "display_name": "Health care",
+          "score": 0.41339921951293945
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.39873313903808594
+        },
+        {
+          "id": "https://openalex.org/keywords/psychological-intervention",
+          "display_name": "Psychological intervention",
+          "score": 0.16306307911872864
+        },
+        {
+          "id": "https://openalex.org/keywords/psychiatry",
+          "display_name": "Psychiatry",
+          "score": 0.11101052165031433
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2779041454",
+          "wikidata": "https://www.wikidata.org/wiki/Q870780",
+          "display_name": "Chatbot",
+          "level": 2,
+          "score": 0.9379452466964722
+        },
+        {
+          "id": "https://openalex.org/C108827166",
+          "wikidata": "https://www.wikidata.org/wiki/Q175975",
+          "display_name": "Internet privacy",
+          "level": 1,
+          "score": 0.7396224737167358
+        },
+        {
+          "id": "https://openalex.org/C134362201",
+          "wikidata": "https://www.wikidata.org/wiki/Q317309",
+          "display_name": "Mental health",
+          "level": 2,
+          "score": 0.5953714847564697
+        },
+        {
+          "id": "https://openalex.org/C136197465",
+          "wikidata": "https://www.wikidata.org/wiki/Q1729295",
+          "display_name": "Variety (cybernetics)",
+          "level": 2,
+          "score": 0.5067458748817444
+        },
+        {
+          "id": "https://openalex.org/C2779363104",
+          "wikidata": "https://www.wikidata.org/wiki/Q17069079",
+          "display_name": "mHealth",
+          "level": 3,
+          "score": 0.4682924151420593
+        },
+        {
+          "id": "https://openalex.org/C2988145974",
+          "wikidata": "https://www.wikidata.org/wiki/Q620615",
+          "display_name": "Mobile apps",
+          "level": 2,
+          "score": 0.4552317261695862
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.4420391917228699
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.42416250705718994
+        },
+        {
+          "id": "https://openalex.org/C160735492",
+          "wikidata": "https://www.wikidata.org/wiki/Q31207",
+          "display_name": "Health care",
+          "level": 2,
+          "score": 0.41339921951293945
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.39873313903808594
+        },
+        {
+          "id": "https://openalex.org/C27415008",
+          "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+          "display_name": "Psychological intervention",
+          "level": 2,
+          "score": 0.16306307911872864
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.11101052165031433
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C50522688",
+          "wikidata": "https://www.wikidata.org/wiki/Q189833",
+          "display_name": "Economic growth",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [
+        {
+          "descriptor_ui": "D004644",
+          "descriptor_name": "Emotions",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D004644",
+          "descriptor_name": "Emotions",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D004644",
+          "descriptor_name": "Emotions",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008603",
+          "descriptor_name": "Mental Health",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008603",
+          "descriptor_name": "Mental Health",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008603",
+          "descriptor_name": "Mental Health",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D063731",
+          "descriptor_name": "Mobile Applications",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D063731",
+          "descriptor_name": "Mobile Applications",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D063731",
+          "descriptor_name": "Mobile Applications",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        }
+      ],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.2196/44838",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.2196/44838",
+          "pdf_url": "https://mhealth.jmir.org/2023/1/e44838/PDF",
+          "source": {
+            "id": "https://openalex.org/S2764493120",
+            "display_name": "JMIR mhealth and uhealth",
+            "issn_l": "2291-5222",
+            "issn": [
+              "2291-5222"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "doyens",
+              "jufo-2",
+              "medline",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310320608",
+            "host_organization_name": "JMIR Publications",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320608"
+            ],
+            "host_organization_lineage_names": [
+              "JMIR Publications"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "JMIR mHealth and uHealth",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:37213181",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37213181",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "JMIR mHealth and uHealth",
+          "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:10242473",
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10242473",
+          "pdf_url": "https://aclanthology.org/P17-4017.pdf",
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "JMIR Mhealth Uhealth",
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:251c4dccf97a4541bfb2ccb514235855",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/251c4dccf97a4541bfb2ccb514235855",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "JMIR mHealth and uHealth, Vol 11, p e44838 (2023)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.2196/44838",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2196/44838",
+        "pdf_url": "https://mhealth.jmir.org/2023/1/e44838/PDF",
+        "source": {
+          "id": "https://openalex.org/S2764493120",
+          "display_name": "JMIR mhealth and uhealth",
+          "issn_l": "2291-5222",
+          "issn": [
+            "2291-5222"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "doyens",
+            "jufo-2",
+            "medline",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320608",
+          "host_organization_name": "JMIR Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320608"
+          ],
+          "host_organization_lineage_names": [
+            "JMIR Publications"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "JMIR mHealth and uHealth",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320309475",
+          "display_name": "Northwestern University",
+          "ror": "https://ror.org/000e0be47"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4366703942.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4366703942.grobid-xml"
+      },
+      "referenced_works_count": 74,
+      "referenced_works": [
+        "https://openalex.org/W2025328578",
+        "https://openalex.org/W2035228137",
+        "https://openalex.org/W2045049215",
+        "https://openalex.org/W2076406125",
+        "https://openalex.org/W2082747743",
+        "https://openalex.org/W2092273754",
+        "https://openalex.org/W2095118384",
+        "https://openalex.org/W2139531961",
+        "https://openalex.org/W2151000821",
+        "https://openalex.org/W2162486273",
+        "https://openalex.org/W2259766474",
+        "https://openalex.org/W2523328169",
+        "https://openalex.org/W2587766627",
+        "https://openalex.org/W2604372657",
+        "https://openalex.org/W2623779865",
+        "https://openalex.org/W2741321799",
+        "https://openalex.org/W2763766763",
+        "https://openalex.org/W2766358679",
+        "https://openalex.org/W2787897804",
+        "https://openalex.org/W2799097429",
+        "https://openalex.org/W2810071873",
+        "https://openalex.org/W2888047309",
+        "https://openalex.org/W2889335577",
+        "https://openalex.org/W2889579642",
+        "https://openalex.org/W2889612522",
+        "https://openalex.org/W2895995041",
+        "https://openalex.org/W2899261948",
+        "https://openalex.org/W2899379916",
+        "https://openalex.org/W2911123024",
+        "https://openalex.org/W2920018355",
+        "https://openalex.org/W2922711788",
+        "https://openalex.org/W2937284856",
+        "https://openalex.org/W2941394980",
+        "https://openalex.org/W2941540847",
+        "https://openalex.org/W2942903049",
+        "https://openalex.org/W2945393245",
+        "https://openalex.org/W2946121512",
+        "https://openalex.org/W2953459655",
+        "https://openalex.org/W2969468266",
+        "https://openalex.org/W2975920545",
+        "https://openalex.org/W2977128309",
+        "https://openalex.org/W2983921939",
+        "https://openalex.org/W2985719233",
+        "https://openalex.org/W2997219409",
+        "https://openalex.org/W2999181723",
+        "https://openalex.org/W3007384022",
+        "https://openalex.org/W3009936362",
+        "https://openalex.org/W3011280417",
+        "https://openalex.org/W3022535278",
+        "https://openalex.org/W3028788813",
+        "https://openalex.org/W3028999579",
+        "https://openalex.org/W3031532441",
+        "https://openalex.org/W3033211403",
+        "https://openalex.org/W3033432616",
+        "https://openalex.org/W3034383800",
+        "https://openalex.org/W3090433062",
+        "https://openalex.org/W3121213752",
+        "https://openalex.org/W3141714916",
+        "https://openalex.org/W3153608027",
+        "https://openalex.org/W3158890082",
+        "https://openalex.org/W3159036220",
+        "https://openalex.org/W3162547504",
+        "https://openalex.org/W3163342940",
+        "https://openalex.org/W3163691140",
+        "https://openalex.org/W3168885973",
+        "https://openalex.org/W3170155921",
+        "https://openalex.org/W3176281181",
+        "https://openalex.org/W3181339334",
+        "https://openalex.org/W4200131949",
+        "https://openalex.org/W4200512455",
+        "https://openalex.org/W4224982031",
+        "https://openalex.org/W4233023712",
+        "https://openalex.org/W4296520346",
+        "https://openalex.org/W4309618418"
+      ],
+      "related_works": [
+        "https://openalex.org/W4383501580",
+        "https://openalex.org/W4214931137",
+        "https://openalex.org/W4387007686",
+        "https://openalex.org/W4313813117",
+        "https://openalex.org/W4382052417",
+        "https://openalex.org/W3192088754",
+        "https://openalex.org/W3084631705",
+        "https://openalex.org/W3176146353",
+        "https://openalex.org/W4293646425",
+        "https://openalex.org/W4283789690"
+      ],
+      "abstract_inverted_index": {
+        "BACKGROUND:": [
+          0
+        ],
+        "Chatbots": [
+          1,
+          193
+        ],
+        "are": [
+          2,
+          61,
+          142,
+          253
+        ],
+        "an": [
+          3,
+          48,
+          68
+        ],
+        "emerging": [
+          4
+        ],
+        "technology": [
+          5,
+          23,
+          275
+        ],
+        "that": [
+          6,
+          74,
+          114,
+          215,
+          258
+        ],
+        "show": [
+          7
+        ],
+        "potential": [
+          8,
+          219
+        ],
+        "for": [
+          9,
+          79,
+          290,
+          302
+        ],
+        "mental": [
+          10,
+          55,
+          83,
+          303
+        ],
+        "health": [
+          11,
+          56,
+          84,
+          304
+        ],
+        "care": [
+          12,
+          169
+        ],
+        "apps": [
+          13,
+          34,
+          73
+        ],
+        "to": [
+          14,
+          46,
+          135,
+          152,
+          220,
+          235,
+          249,
+          264,
+          295
+        ],
+        "enable": [
+          15
+        ],
+        "effective": [
+          16,
+          300
+        ],
+        "and": [
+          17,
+          35,
+          38,
+          58,
+          77,
+          91,
+          102,
+          127,
+          145,
+          154,
+          161,
+          202,
+          223,
+          256,
+          282,
+          292
+        ],
+        "practical": [
+          18
+        ],
+        "evidence-based": [
+          19
+        ],
+        "therapies.": [
+          20
+        ],
+        "As": [
+          21,
+          140
+        ],
+        "this": [
+          22,
+          42,
+          196
+        ],
+        "is": [
+          24,
+          29,
+          244
+        ],
+        "still": [
+          25
+        ],
+        "relatively": [
+          26
+        ],
+        "new,": [
+          27
+        ],
+        "little": [
+          28
+        ],
+        "known": [
+          30
+        ],
+        "about": [
+          31,
+          129
+        ],
+        "recently": [
+          32,
+          182
+        ],
+        "developed": [
+          33,
+          183
+        ],
+        "their": [
+          36
+        ],
+        "characteristics": [
+          37
+        ],
+        "effectiveness.": [
+          39
+        ],
+        "OBJECTIVE:": [
+          40
+        ],
+        "In": [
+          41
+        ],
+        "study,": [
+          43
+        ],
+        "we": [
+          44
+        ],
+        "aimed": [
+          45
+        ],
+        "provide": [
+          47
+        ],
+        "overview": [
+          49
+        ],
+        "of": [
+          50,
+          71,
+          82,
+          132,
+          138,
+          176,
+          188,
+          267,
+          287,
+          299,
+          313
+        ],
+        "the": [
+          51,
+          98,
+          107,
+          130,
+          171,
+          186,
+          265,
+          297,
+          311
+        ],
+        "commercially": [
+          52
+        ],
+        "available": [
+          53
+        ],
+        "popular": [
+          54
+        ],
+        "chatbots": [
+          57,
+          141,
+          184,
+          216,
+          260,
+          301
+        ],
+        "how": [
+          59
+        ],
+        "they": [
+          60,
+          269
+        ],
+        "perceived": [
+          62
+        ],
+        "by": [
+          63,
+          123
+        ],
+        "users.": [
+          64
+        ],
+        "METHODS:": [
+          65
+        ],
+        "We": [
+          66,
+          112
+        ],
+        "conducted": [
+          67
+        ],
+        "exploratory": [
+          69
+        ],
+        "observation": [
+          70
+        ],
+        "10": [
+          72
+        ],
+        "offer": [
+          75,
+          167,
+          221
+        ],
+        "support": [
+          76,
+          225,
+          305
+        ],
+        "treatment": [
+          78
+        ],
+        "a": [
+          80,
+          87,
+          136,
+          164,
+          191,
+          199
+        ],
+        "variety": [
+          81
+        ],
+        "concerns": [
+          85
+        ],
+        "with": [
+          86,
+          159
+        ],
+        "built-in": [
+          88
+        ],
+        "chatbot": [
+          89,
+          165
+        ],
+        "feature": [
+          90
+        ],
+        "qualitatively": [
+          92
+        ],
+        "analyzed": [
+          93
+        ],
+        "3621": [
+          94
+        ],
+        "consumer": [
+          95,
+          104
+        ],
+        "reviews": [
+          96,
+          105
+        ],
+        "from": [
+          97,
+          106
+        ],
+        "Google": [
+          99
+        ],
+        "Play": [
+          100
+        ],
+        "Store": [
+          101
+        ],
+        "2624": [
+          103
+        ],
+        "Apple": [
+          108
+        ],
+        "App": [
+          109
+        ],
+        "Store.": [
+          110
+        ],
+        "RESULTS:": [
+          111
+        ],
+        "found": [
+          113
+        ],
+        "although": [
+          115
+        ],
+        "chatbots'": [
+          116
+        ],
+        "personalized,": [
+          117
+        ],
+        "humanlike": [
+          118
+        ],
+        "interactions": [
+          119
+        ],
+        "were": [
+          120
+        ],
+        "positively": [
+          121
+        ],
+        "received": [
+          122
+        ],
+        "users,": [
+          124
+        ],
+        "improper": [
+          125
+        ],
+        "responses": [
+          126
+        ],
+        "assumptions": [
+          128
+        ],
+        "personalities": [
+          131
+        ],
+        "users": [
+          133,
+          147,
+          204
+        ],
+        "led": [
+          134
+        ],
+        "loss": [
+          137
+        ],
+        "interest.": [
+          139
+        ],
+        "always": [
+          143
+        ],
+        "accessible": [
+          144
+        ],
+        "convenient,": [
+          146
+        ],
+        "can": [
+          148,
+          276
+        ],
+        "become": [
+          149
+        ],
+        "overly": [
+          150
+        ],
+        "attached": [
+          151
+        ],
+        "them": [
+          153,
+          156
+        ],
+        "prefer": [
+          155
+        ],
+        "over": [
+          157
+        ],
+        "interacting": [
+          158
+        ],
+        "friends": [
+          160,
+          236
+        ],
+        "family.": [
+          162
+        ],
+        "Furthermore,": [
+          163
+        ],
+        "may": [
+          166
+        ],
+        "crisis": [
+          168
+        ],
+        "whenever": [
+          170
+        ],
+        "user": [
+          172
+        ],
+        "needs": [
+          173
+        ],
+        "it": [
+          174
+        ],
+        "because": [
+          175
+        ],
+        "its": [
+          177
+        ],
+        "24/7": [
+          178
+        ],
+        "availability,": [
+          179
+        ],
+        "but": [
+          180
+        ],
+        "even": [
+          181
+        ],
+        "lack": [
+          185
+        ],
+        "understanding": [
+          187
+        ],
+        "properly": [
+          189
+        ],
+        "identifying": [
+          190
+        ],
+        "crisis.": [
+          192,
+          288
+        ],
+        "considered": [
+          194
+        ],
+        "in": [
+          195,
+          226
+        ],
+        "study": [
+          197
+        ],
+        "fostered": [
+          198
+        ],
+        "judgment-free": [
+          200
+        ],
+        "environment": [
+          201
+        ],
+        "helped": [
+          203
+        ],
+        "feel": [
+          205
+        ],
+        "more": [
+          206
+        ],
+        "comfortable": [
+          207
+        ],
+        "sharing": [
+          208
+        ],
+        "sensitive": [
+          209
+        ],
+        "information.": [
+          210
+        ],
+        "CONCLUSIONS:": [
+          211
+        ],
+        "Our": [
+          212
+        ],
+        "findings": [
+          213
+        ],
+        "suggest": [
+          214
+        ],
+        "have": [
+          217,
+          306
+        ],
+        "great": [
+          218
+        ],
+        "social": [
+          222
+        ],
+        "psychological": [
+          224
+        ],
+        "situations": [
+          227
+        ],
+        "where": [
+          228
+        ],
+        "real-world": [
+          229
+        ],
+        "human": [
+          230
+        ],
+        "interaction,": [
+          231
+        ],
+        "such": [
+          232,
+          279
+        ],
+        "as": [
+          233,
+          280
+        ],
+        "connecting": [
+          234
+        ],
+        "or": [
+          237,
+          240,
+          247
+        ],
+        "family": [
+          238
+        ],
+        "members": [
+          239
+        ],
+        "seeking": [
+          241
+        ],
+        "professional": [
+          242
+        ],
+        "support,": [
+          243
+        ],
+        "not": [
+          245
+        ],
+        "preferred": [
+          246
+        ],
+        "possible": [
+          248
+        ],
+        "achieve.": [
+          250
+        ],
+        "However,": [
+          251
+        ],
+        "there": [
+          252
+        ],
+        "several": [
+          254
+        ],
+        "restrictions": [
+          255
+        ],
+        "limitations": [
+          257
+        ],
+        "these": [
+          259
+        ],
+        "must": [
+          261
+        ],
+        "establish": [
+          262
+        ],
+        "according": [
+          263
+        ],
+        "level": [
+          266
+        ],
+        "service": [
+          268
+        ],
+        "offer.": [
+          270
+        ],
+        "Too": [
+          271
+        ],
+        "much": [
+          272
+        ],
+        "reliance": [
+          273
+        ],
+        "on": [
+          274,
+          310
+        ],
+        "pose": [
+          277
+        ],
+        "risks,": [
+          278
+        ],
+        "isolation": [
+          281
+        ],
+        "insufficient": [
+          283
+        ],
+        "assistance": [
+          284
+        ],
+        "during": [
+          285
+        ],
+        "times": [
+          286
+        ],
+        "Recommendations": [
+          289
+        ],
+        "customization": [
+          291
+        ],
+        "balanced": [
+          293
+        ],
+        "persuasion": [
+          294
+        ],
+        "inform": [
+          296
+        ],
+        "design": [
+          298
+        ],
+        "been": [
+          307
+        ],
+        "outlined": [
+          308
+        ],
+        "based": [
+          309
+        ],
+        "insights": [
+          312
+        ],
+        "our": [
+          314
+        ],
+        "findings.": [
+          315
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 106
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 186
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 85
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 20
+        }
+      ],
+      "updated_date": "2026-09-17T07:59:56.861425",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": "https://mhealth.jmir.org/2023/1/e44838/PDF",
+  "pdf_verified": false,
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

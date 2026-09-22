@@ -1,0 +1,1159 @@
+{
+  "id": 46,
+  "original": {
+    "id": 46,
+    "paper_name": "The Effects of Artificial Intelligence Chatbots on Women’s Health: A Systematic Review and Meta-Analysis",
+    "site": "OpenAlex",
+    "venue_of_publication": "Healthcare",
+    "year": 2024,
+    "researcher_info": "Hyun Kyoung Kim"
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T11:03:03.662764+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "The Effects of Artificial Intelligence Chatbots on Women’s Health: A Systematic Review and Meta-Analysis",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W4392101274",
+    "doi": "https://doi.org/10.3390/healthcare12050534",
+    "title_matched": "The Effects of Artificial Intelligence Chatbots on Women’s Health: A Systematic Review and Meta-Analysis",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2024,
+    "venue": "Healthcare",
+    "authors": [
+      "Hyun Kyoung Kim"
+    ],
+    "abstract": "Purpose: This systematic review and meta-analysis aimed to investigate the effects of artificial intelligence chatbot interventions on health outcomes in women. Methods: Ten relevant studies published between 2019 and 2023 were extracted from the PubMed, Cochrane Library, EMBASE, CINAHL, and RISS databases in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. This review focused on experimental studies concerning chatbot interventions in women’s health. The literature was assessed using the ROB 2 quality appraisal checklist, and the results were visualized with a risk-of-bias visualization program. Results: This review encompassed seven randomized controlled trials and three single-group experimental studies. Chatbots were effective in addressing anxiety, depression, distress, healthy relationships, cancer self-care behavior, preconception intentions, risk perception in eating disorders, and gender attitudes. Chatbot users experienced benefits in terms of internalization, acceptability, feasibility, and interaction. A meta-analysis of three studies revealed significant effects in reducing anxiety (I2 = 0%, Q = 8.10, p < 0.017), with an effect size of −0.30 (95% CI, −0.42 to −0.18). Conclusions: Artificial intelligence chatbot interventions had positive effects on physical, physiological, and cognitive health outcomes. Using chatbots may represent pivotal nursing interventions for female populations to improve health status and support women socially as a form of digital therapy.",
+    "cited_by_count": 54,
+    "is_oa": true,
+    "pdf_url": "https://www.mdpi.com/2227-9032/12/5/534/pdf?version=1708689313",
+    "pdf_candidates": [
+      "https://www.mdpi.com/2227-9032/12/5/534/pdf?version=1708689313",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10930454/pdf/healthcare-12-00534.pdf"
+    ],
+    "landing_page_url": "https://doi.org/10.3390/healthcare12050534",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W4392101274",
+      "doi": "https://doi.org/10.3390/healthcare12050534",
+      "title": "The Effects of Artificial Intelligence Chatbots on Women’s Health: A Systematic Review and Meta-Analysis",
+      "display_name": "The Effects of Artificial Intelligence Chatbots on Women’s Health: A Systematic Review and Meta-Analysis",
+      "relevance_score": 421.90326,
+      "publication_year": 2024,
+      "publication_date": "2024-02-23",
+      "ids": {
+        "openalex": "https://openalex.org/W4392101274",
+        "doi": "https://doi.org/10.3390/healthcare12050534",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/38470645"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3390/healthcare12050534",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/healthcare12050534",
+        "pdf_url": "https://www.mdpi.com/2227-9032/12/5/534/pdf?version=1708689313",
+        "source": {
+          "id": "https://openalex.org/S4210214101",
+          "display_name": "Healthcare",
+          "issn_l": "2227-9032",
+          "issn": [
+            "2227-9032"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Healthcare",
+        "raw_type": "journal-article"
+      },
+      "type": "review",
+      "indexed_in": [
+        "crossref",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2227-9032/12/5/534/pdf?version=1708689313",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5021933245",
+            "display_name": "Hyun Kyoung Kim",
+            "orcid": "https://orcid.org/0000-0003-2782-108X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I206597221",
+              "display_name": "Kongju National University",
+              "ror": "https://ror.org/0373nm262",
+              "country_code": "KR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I206597221"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I44073558",
+              "display_name": "Gongju National University of Education",
+              "ror": "https://ror.org/03sf7t726",
+              "country_code": "KR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I44073558"
+              ]
+            }
+          ],
+          "countries": [
+            "KR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Hyun-Kyoung Kim",
+          "raw_affiliation_strings": [
+            "Department of Nursing, Kongju National University, 56 Gongjudaehak-ro, Gongju 32588, Republic of Korea"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-2782-108X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Nursing, Kongju National University, 56 Gongjudaehak-ro, Gongju 32588, Republic of Korea",
+              "institution_ids": [
+                "https://openalex.org/I206597221",
+                "https://openalex.org/I44073558"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5021933245"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I206597221",
+        "https://openalex.org/I44073558"
+      ],
+      "apc_list": {
+        "value": 2700,
+        "currency": "CHF",
+        "value_usd": 3069
+      },
+      "apc_paid": {
+        "value": 2700,
+        "currency": "CHF",
+        "value_usd": 3069
+      },
+      "fwci": 4.1575,
+      "has_fulltext": true,
+      "cited_by_count": 54,
+      "citation_normalized_percentile": {
+        "value": 0.96371882,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 94,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "12",
+        "issue": "5",
+        "first_page": "534",
+        "last_page": "534"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11519",
+        "display_name": "Digital Mental Health Interventions",
+        "score": 0.510200023651123,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3202",
+          "display_name": "Applied Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11519",
+          "display_name": "Digital Mental Health Interventions",
+          "score": 0.510200023651123,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3202",
+            "display_name": "Applied Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11636",
+          "display_name": "Artificial Intelligence in Healthcare and Education",
+          "score": 0.09009999781847,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2718",
+            "display_name": "Health Informatics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12128",
+          "display_name": "AI in Service Interactions",
+          "score": 0.08479999750852585,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/meta-analysis",
+          "display_name": "Meta-analysis",
+          "score": 0.8026667833328247
+        },
+        {
+          "id": "https://openalex.org/keywords/systematic-review",
+          "display_name": "Systematic review",
+          "score": 0.42899128794670105
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.41541382670402527
+        },
+        {
+          "id": "https://openalex.org/keywords/medline",
+          "display_name": "MEDLINE",
+          "score": 0.41210564970970154
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.38311490416526794
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.3826146721839905
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.32137346267700195
+        },
+        {
+          "id": "https://openalex.org/keywords/biology",
+          "display_name": "Biology",
+          "score": 0.12596771121025085
+        },
+        {
+          "id": "https://openalex.org/keywords/internal-medicine",
+          "display_name": "Internal medicine",
+          "score": 0.08856305480003357
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C95190672",
+          "wikidata": "https://www.wikidata.org/wiki/Q815382",
+          "display_name": "Meta-analysis",
+          "level": 2,
+          "score": 0.8026667833328247
+        },
+        {
+          "id": "https://openalex.org/C189708586",
+          "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+          "display_name": "Systematic review",
+          "level": 3,
+          "score": 0.42899128794670105
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.41541382670402527
+        },
+        {
+          "id": "https://openalex.org/C2779473830",
+          "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+          "display_name": "MEDLINE",
+          "level": 2,
+          "score": 0.41210564970970154
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.38311490416526794
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.3826146721839905
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.32137346267700195
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.12596771121025085
+        },
+        {
+          "id": "https://openalex.org/C126322002",
+          "wikidata": "https://www.wikidata.org/wiki/Q11180",
+          "display_name": "Internal medicine",
+          "level": 1,
+          "score": 0.08856305480003357
+        },
+        {
+          "id": "https://openalex.org/C55493867",
+          "wikidata": "https://www.wikidata.org/wiki/Q7094",
+          "display_name": "Biochemistry",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "doi:10.3390/healthcare12050534",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3390/healthcare12050534",
+          "pdf_url": "https://www.mdpi.com/2227-9032/12/5/534/pdf?version=1708689313",
+          "source": {
+            "id": "https://openalex.org/S4210214101",
+            "display_name": "Healthcare",
+            "issn_l": "2227-9032",
+            "issn": [
+              "2227-9032"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
+            "host_organization": "https://openalex.org/P4310310987",
+            "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310310987"
+            ],
+            "host_organization_lineage_names": [
+              "Multidisciplinary Digital Publishing Institute"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Healthcare",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:38470645",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/38470645",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Healthcare (Basel, Switzerland)",
+          "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:10930454",
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10930454",
+          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10930454/pdf/healthcare-12-00534.pdf",
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Healthcare (Basel)",
+          "raw_type": "Text"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.3390/healthcare12050534",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/healthcare12050534",
+        "pdf_url": "https://www.mdpi.com/2227-9032/12/5/534/pdf?version=1708689313",
+        "source": {
+          "id": "https://openalex.org/S4210214101",
+          "display_name": "Healthcare",
+          "issn_l": "2227-9032",
+          "issn": [
+            "2227-9032"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Healthcare",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/5",
+          "display_name": "Gender equality",
+          "score": 0.550000011920929
+        }
+      ],
+      "awards": [
+        {
+          "id": "https://openalex.org/G4140699613",
+          "display_name": null,
+          "funder_award_id": "2023 Research",
+          "funder_id": "https://openalex.org/F4320321251",
+          "funder_display_name": "Kongju National University"
+        },
+        {
+          "id": "https://openalex.org/G6242697162",
+          "display_name": null,
+          "funder_award_id": "RS-2023-00239284",
+          "funder_id": "https://openalex.org/F4320322120",
+          "funder_display_name": "National Research Foundation of Korea"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320320671",
+          "display_name": "National Research Foundation",
+          "ror": "https://ror.org/05s0g1g46"
+        },
+        {
+          "id": "https://openalex.org/F4320321251",
+          "display_name": "Kongju National University",
+          "ror": "https://ror.org/0373nm262"
+        },
+        {
+          "id": "https://openalex.org/F4320322120",
+          "display_name": "National Research Foundation of Korea",
+          "ror": "https://ror.org/013aysd81"
+        }
+      ],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4392101274.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4392101274.grobid-xml"
+      },
+      "referenced_works_count": 42,
+      "referenced_works": [
+        "https://openalex.org/W1964605289",
+        "https://openalex.org/W2109887283",
+        "https://openalex.org/W2130596677",
+        "https://openalex.org/W2607083742",
+        "https://openalex.org/W2953947009",
+        "https://openalex.org/W2970684805",
+        "https://openalex.org/W2975920545",
+        "https://openalex.org/W2990464492",
+        "https://openalex.org/W3019350884",
+        "https://openalex.org/W3021999948",
+        "https://openalex.org/W3036236864",
+        "https://openalex.org/W3085190479",
+        "https://openalex.org/W3090433062",
+        "https://openalex.org/W3110719530",
+        "https://openalex.org/W3123893780",
+        "https://openalex.org/W3159362230",
+        "https://openalex.org/W3165857807",
+        "https://openalex.org/W3171455429",
+        "https://openalex.org/W3184594268",
+        "https://openalex.org/W3200742808",
+        "https://openalex.org/W3210131507",
+        "https://openalex.org/W4200074056",
+        "https://openalex.org/W4200101687",
+        "https://openalex.org/W4200131949",
+        "https://openalex.org/W4229082340",
+        "https://openalex.org/W4289539209",
+        "https://openalex.org/W4297282389",
+        "https://openalex.org/W4309768135",
+        "https://openalex.org/W4319440682",
+        "https://openalex.org/W4321748146",
+        "https://openalex.org/W4328047979",
+        "https://openalex.org/W4362611193",
+        "https://openalex.org/W4362667331",
+        "https://openalex.org/W4364363895",
+        "https://openalex.org/W4385010037",
+        "https://openalex.org/W4385759496",
+        "https://openalex.org/W4387665965",
+        "https://openalex.org/W4389148065",
+        "https://openalex.org/W4389938179",
+        "https://openalex.org/W6796114251",
+        "https://openalex.org/W6851596907",
+        "https://openalex.org/W6859612631"
+      ],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W3134325150",
+        "https://openalex.org/W3210678099",
+        "https://openalex.org/W4200025911",
+        "https://openalex.org/W4405644996",
+        "https://openalex.org/W4394486262",
+        "https://openalex.org/W4294636802",
+        "https://openalex.org/W2070311887",
+        "https://openalex.org/W2115099528"
+      ],
+      "abstract_inverted_index": {
+        "Purpose:": [
+          0
+        ],
+        "This": [
+          1,
+          55,
+          89
+        ],
+        "systematic": [
+          2
+        ],
+        "review": [
+          3,
+          56,
+          90
+        ],
+        "and": [
+          4,
+          28,
+          39,
+          52,
+          78,
+          96,
+          121,
+          134,
+          178,
+          196
+        ],
+        "meta-analysis": [
+          5,
+          137
+        ],
+        "aimed": [
+          6
+        ],
+        "to": [
+          7,
+          165,
+          192
+        ],
+        "investigate": [
+          8
+        ],
+        "the": [
+          9,
+          33,
+          45,
+          72,
+          79
+        ],
+        "effects": [
+          10,
+          143,
+          174
+        ],
+        "of": [
+          11,
+          130,
+          138,
+          160,
+          203
+        ],
+        "artificial": [
+          12
+        ],
+        "intelligence": [
+          13,
+          169
+        ],
+        "chatbot": [
+          14,
+          62,
+          170
+        ],
+        "interventions": [
+          15,
+          63,
+          171,
+          188
+        ],
+        "on": [
+          16,
+          58,
+          175
+        ],
+        "health": [
+          17,
+          180,
+          194
+        ],
+        "outcomes": [
+          18
+        ],
+        "in": [
+          19,
+          42,
+          64,
+          104,
+          118,
+          128,
+          144
+        ],
+        "women.": [
+          20
+        ],
+        "Methods:": [
+          21
+        ],
+        "Ten": [
+          22
+        ],
+        "relevant": [
+          23
+        ],
+        "studies": [
+          24,
+          60,
+          140
+        ],
+        "published": [
+          25
+        ],
+        "between": [
+          26
+        ],
+        "2019": [
+          27
+        ],
+        "2023": [
+          29
+        ],
+        "were": [
+          30,
+          81,
+          102
+        ],
+        "extracted": [
+          31
+        ],
+        "from": [
+          32
+        ],
+        "PubMed,": [
+          34
+        ],
+        "Cochrane": [
+          35
+        ],
+        "Library,": [
+          36
+        ],
+        "EMBASE,": [
+          37
+        ],
+        "CINAHL,": [
+          38
+        ],
+        "RISS": [
+          40
+        ],
+        "databases": [
+          41
+        ],
+        "accordance": [
+          43
+        ],
+        "with": [
+          44,
+          83,
+          156
+        ],
+        "Preferred": [
+          46
+        ],
+        "Reporting": [
+          47
+        ],
+        "Items": [
+          48
+        ],
+        "for": [
+          49,
+          189
+        ],
+        "Systematic": [
+          50
+        ],
+        "Reviews": [
+          51
+        ],
+        "Meta-Analyses": [
+          53
+        ],
+        "guidelines.": [
+          54
+        ],
+        "focused": [
+          57
+        ],
+        "experimental": [
+          59,
+          99
+        ],
+        "concerning": [
+          61
+        ],
+        "women’s": [
+          65
+        ],
+        "health.": [
+          66
+        ],
+        "The": [
+          67
+        ],
+        "literature": [
+          68
+        ],
+        "was": [
+          69
+        ],
+        "assessed": [
+          70
+        ],
+        "using": [
+          71
+        ],
+        "ROB": [
+          73
+        ],
+        "2": [
+          74
+        ],
+        "quality": [
+          75
+        ],
+        "appraisal": [
+          76
+        ],
+        "checklist,": [
+          77
+        ],
+        "results": [
+          80
+        ],
+        "visualized": [
+          82
+        ],
+        "a": [
+          84,
+          201
+        ],
+        "risk-of-bias": [
+          85
+        ],
+        "visualization": [
+          86
+        ],
+        "program.": [
+          87
+        ],
+        "Results:": [
+          88
+        ],
+        "encompassed": [
+          91
+        ],
+        "seven": [
+          92
+        ],
+        "randomized": [
+          93
+        ],
+        "controlled": [
+          94
+        ],
+        "trials": [
+          95
+        ],
+        "three": [
+          97,
+          139
+        ],
+        "single-group": [
+          98
+        ],
+        "studies.": [
+          100
+        ],
+        "Chatbots": [
+          101
+        ],
+        "effective": [
+          103
+        ],
+        "addressing": [
+          105
+        ],
+        "anxiety,": [
+          106
+        ],
+        "depression,": [
+          107
+        ],
+        "distress,": [
+          108
+        ],
+        "healthy": [
+          109
+        ],
+        "relationships,": [
+          110
+        ],
+        "cancer": [
+          111
+        ],
+        "self-care": [
+          112
+        ],
+        "behavior,": [
+          113
+        ],
+        "preconception": [
+          114
+        ],
+        "intentions,": [
+          115
+        ],
+        "risk": [
+          116
+        ],
+        "perception": [
+          117
+        ],
+        "eating": [
+          119
+        ],
+        "disorders,": [
+          120
+        ],
+        "gender": [
+          122
+        ],
+        "attitudes.": [
+          123
+        ],
+        "Chatbot": [
+          124
+        ],
+        "users": [
+          125
+        ],
+        "experienced": [
+          126
+        ],
+        "benefits": [
+          127
+        ],
+        "terms": [
+          129
+        ],
+        "internalization,": [
+          131
+        ],
+        "acceptability,": [
+          132
+        ],
+        "feasibility,": [
+          133
+        ],
+        "interaction.": [
+          135
+        ],
+        "A": [
+          136
+        ],
+        "revealed": [
+          141
+        ],
+        "significant": [
+          142
+        ],
+        "reducing": [
+          145
+        ],
+        "anxiety": [
+          146
+        ],
+        "(I2": [
+          147
+        ],
+        "=": [
+          148,
+          151
+        ],
+        "0%,": [
+          149
+        ],
+        "Q": [
+          150
+        ],
+        "8.10,": [
+          152
+        ],
+        "p": [
+          153
+        ],
+        "<": [
+          154
+        ],
+        "0.017),": [
+          155
+        ],
+        "an": [
+          157
+        ],
+        "effect": [
+          158
+        ],
+        "size": [
+          159
+        ],
+        "−0.30": [
+          161
+        ],
+        "(95%": [
+          162
+        ],
+        "CI,": [
+          163
+        ],
+        "−0.42": [
+          164
+        ],
+        "−0.18).": [
+          166
+        ],
+        "Conclusions:": [
+          167
+        ],
+        "Artificial": [
+          168
+        ],
+        "had": [
+          172
+        ],
+        "positive": [
+          173
+        ],
+        "physical,": [
+          176
+        ],
+        "physiological,": [
+          177
+        ],
+        "cognitive": [
+          179
+        ],
+        "outcomes.": [
+          181
+        ],
+        "Using": [
+          182
+        ],
+        "chatbots": [
+          183
+        ],
+        "may": [
+          184
+        ],
+        "represent": [
+          185
+        ],
+        "pivotal": [
+          186
+        ],
+        "nursing": [
+          187
+        ],
+        "female": [
+          190
+        ],
+        "populations": [
+          191
+        ],
+        "improve": [
+          193
+        ],
+        "status": [
+          195
+        ],
+        "support": [
+          197
+        ],
+        "women": [
+          198
+        ],
+        "socially": [
+          199
+        ],
+        "as": [
+          200
+        ],
+        "form": [
+          202
+        ],
+        "digital": [
+          204
+        ],
+        "therapy.": [
+          205
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 21
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 31
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-09-22T06:50:58.402377",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": "https://www.mdpi.com/2227-9032/12/5/534/pdf?version=1708689313",
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

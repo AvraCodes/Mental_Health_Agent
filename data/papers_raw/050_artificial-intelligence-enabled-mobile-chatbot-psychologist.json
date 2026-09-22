@@ -1,0 +1,1342 @@
+{
+  "id": 50,
+  "original": {
+    "id": 50,
+    "paper_name": "Artificial Intelligence Enabled Mobile Chatbot Psychologist using AIML and Cognitive Behavioral Therapy",
+    "site": "OpenAlex",
+    "venue_of_publication": "International Journal of Advanced Computer Science and Applications",
+    "year": 2023,
+    "researcher_info": "Батырхан Омаров, Zhandos Zhumanov et al."
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T08:33:56.767882+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "Artificial Intelligence Enabled Mobile Chatbot Psychologist using AIML and Cognitive Behavioral Therapy",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W4383426667",
+    "doi": "https://doi.org/10.14569/ijacsa.2023.0140616",
+    "title_matched": "Artificial Intelligence Enabled Mobile Chatbot Psychologist using AIML and Cognitive Behavioral Therapy",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2023,
+    "venue": "International Journal of Advanced Computer Science and Applications",
+    "authors": [
+      "Батырхан Омаров",
+      "Zhandos Zhumanov",
+      "Aidana Gumar",
+      "Leilya Kuntunova"
+    ],
+    "abstract": "In recent years, the demand for mental health services has increased exponentially, prompting the need for accessible, cost-effective, and efficient solutions. This paper introduces an Artificial Intelligence (AI) enabled mobile chatbot psychologist that leverages AIML (Artificial Intelligence Markup Language) and Cognitive Behavioral Therapy (CBT) to provide psychological support. The chatbot is designed to facilitate mental health care by offering personalized CBT interventions to individuals experiencing psychological distress. The proposed mobile chatbot psychologist employs AIML, a language created to facilitate human-computer interactions, to understand user inputs and generate contextually appropriate responses. To ensure the efficacy of the chatbot, it is equipped with a knowledge base comprising CBT principles and techniques, enabling it to provide targeted psychological interventions. The integration of CBT allows the chatbot to address a wide range of mental health issues, including anxiety, depression, stress, and phobias, by helping users identify and challenge cognitive distortions. The paper discusses the development and implementation of the mobile chatbot psychologist, detailing the AIML-based conversational engine and the incorporation of CBT techniques. The chatbot's effectiveness is evaluated through a series of user studies involving participants with varying levels of psychological distress. Results demonstrate the chatbot's ability to deliver personalized interventions, with users reporting significant improvements in their mental well-being. The AI-enabled mobile chatbot psychologist offers a promising solution to bridge the gap in mental health care, providing an easily accessible, cost-effective, and scalable platform for psychological support. This innovative approach can serve as a valuable adjunct to traditional therapy and help reduce the burden on mental health professionals, while empowering individuals to take charge of their mental well-being.",
+    "cited_by_count": 58,
+    "is_oa": true,
+    "pdf_url": "http://thesai.org/Downloads/Volume14No6/Paper_16-Artificial_Intelligence_Enabled_Mobile_Chatbot_Psychologist.pdf",
+    "pdf_candidates": [
+      "http://thesai.org/Downloads/Volume14No6/Paper_16-Artificial_Intelligence_Enabled_Mobile_Chatbot_Psychologist.pdf",
+      "https://thesai.org/Downloads/Volume14No6/Paper_16-Artificial_Intelligence_Enabled_Mobile_Chatbot_Psychologist.pdf"
+    ],
+    "landing_page_url": "https://doi.org/10.14569/ijacsa.2023.0140616",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W4383426667",
+      "doi": "https://doi.org/10.14569/ijacsa.2023.0140616",
+      "title": "Artificial Intelligence Enabled Mobile Chatbot Psychologist using AIML and Cognitive Behavioral Therapy",
+      "display_name": "Artificial Intelligence Enabled Mobile Chatbot Psychologist using AIML and Cognitive Behavioral Therapy",
+      "relevance_score": 3497.1106,
+      "publication_year": 2023,
+      "publication_date": "2023-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4383426667",
+        "doi": "https://doi.org/10.14569/ijacsa.2023.0140616"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.14569/ijacsa.2023.0140616",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.14569/ijacsa.2023.0140616",
+        "pdf_url": "http://thesai.org/Downloads/Volume14No6/Paper_16-Artificial_Intelligence_Enabled_Mobile_Chatbot_Psychologist.pdf",
+        "source": {
+          "id": "https://openalex.org/S23629721",
+          "display_name": "International Journal of Advanced Computer Science and Applications",
+          "issn_l": "2156-5570",
+          "issn": [
+            "2156-5570",
+            "2158-107X"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310311819",
+          "host_organization_name": "Science and Information Organization",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311819"
+          ],
+          "host_organization_lineage_names": [
+            "Science and Information Organization"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Journal of Advanced Computer Science and Applications",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://thesai.org/Downloads/Volume14No6/Paper_16-Artificial_Intelligence_Enabled_Mobile_Chatbot_Psychologist.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5035862001",
+            "display_name": "Батырхан Омаров",
+            "orcid": "https://orcid.org/0000-0002-8341-7113"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I105208703",
+              "display_name": "Almaty Management University",
+              "ror": "https://ror.org/00rhgqg04",
+              "country_code": "KZ",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I105208703"
+              ]
+            }
+          ],
+          "countries": [
+            "KZ"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Batyrkhan Omarov",
+          "raw_affiliation_strings": [
+            "Alem Research , Almaty , Kazakhstan",
+            "Alem Research, Almaty, Kazakhstan"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Alem Research , Almaty , Kazakhstan",
+              "institution_ids": [
+                "https://openalex.org/I105208703"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Alem Research, Almaty, Kazakhstan",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5057122725",
+            "display_name": "Zhandos Zhumanov",
+            "orcid": "https://orcid.org/0000-0002-0395-9730"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210120897",
+              "display_name": "Suleyman Demirel University",
+              "ror": "https://ror.org/02s8x5a25",
+              "country_code": "KZ",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210120897"
+              ]
+            }
+          ],
+          "countries": [
+            "KZ"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Zhandos Zhumanov",
+          "raw_affiliation_strings": [
+            ",",
+            "Suleyman Demirel University, Kaskelen, Kazakhstan"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": ",",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Suleyman Demirel University, Kaskelen, Kazakhstan",
+              "institution_ids": [
+                "https://openalex.org/I4210120897"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5088722693",
+            "display_name": "Aidana Gumar",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210132536",
+              "display_name": "Kazakh Academy of Transport and Communications named after M.Tynyshpaev",
+              "ror": "https://ror.org/03pscpn55",
+              "country_code": "KZ",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210132536",
+                "https://openalex.org/I4387930291"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4387930291",
+              "display_name": "Mukhametzhan Tynyshbayev ALT University",
+              "ror": "https://ror.org/04hasps36",
+              "country_code": "KZ",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4387930291"
+              ]
+            }
+          ],
+          "countries": [
+            "KZ"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Aidana Gumar",
+          "raw_affiliation_strings": [
+            "Academy of Logistics and Transport , Almaty , Kazakhstan",
+            "Academy of Logistics and Transport, Almaty, Kazakhstan"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Academy of Logistics and Transport , Almaty , Kazakhstan",
+              "institution_ids": [
+                "https://openalex.org/I4210132536"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Academy of Logistics and Transport, Almaty, Kazakhstan",
+              "institution_ids": [
+                "https://openalex.org/I4210132536",
+                "https://openalex.org/I4387930291"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5040834320",
+            "display_name": "Leilya Kuntunova",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210120897",
+              "display_name": "Suleyman Demirel University",
+              "ror": "https://ror.org/02s8x5a25",
+              "country_code": "KZ",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210120897"
+              ]
+            }
+          ],
+          "countries": [
+            "KZ"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Leilya Kuntunova",
+          "raw_affiliation_strings": [
+            "Suleyman Demirel University , Kaskelen , Kazakhstan",
+            "Suleyman Demirel University, Kaskelen, Kazakhstan"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Suleyman Demirel University , Kaskelen , Kazakhstan",
+              "institution_ids": [
+                "https://openalex.org/I4210120897"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Suleyman Demirel University, Kaskelen, Kazakhstan",
+              "institution_ids": [
+                "https://openalex.org/I4210120897"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 8.699,
+      "has_fulltext": true,
+      "cited_by_count": 58,
+      "citation_normalized_percentile": {
+        "value": 0.98499338,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 99,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "14",
+        "issue": "6",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11519",
+        "display_name": "Digital Mental Health Interventions",
+        "score": 0.9977999925613403,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3202",
+          "display_name": "Applied Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11519",
+          "display_name": "Digital Mental Health Interventions",
+          "score": 0.9977999925613403,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3202",
+            "display_name": "Applied Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13283",
+          "display_name": "Mental Health Research Topics",
+          "score": 0.9855999946594238,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3205",
+            "display_name": "Experimental and Cognitive Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12488",
+          "display_name": "Mental Health via Writing",
+          "score": 0.9447000026702881,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/chatbot",
+          "display_name": "Chatbot",
+          "score": 0.9495221376419067
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.6659179925918579
+        },
+        {
+          "id": "https://openalex.org/keywords/psychological-intervention",
+          "display_name": "Psychological intervention",
+          "score": 0.5476452708244324
+        },
+        {
+          "id": "https://openalex.org/keywords/mhealth",
+          "display_name": "mHealth",
+          "score": 0.4876519441604614
+        },
+        {
+          "id": "https://openalex.org/keywords/cognitive-behavioral-therapy",
+          "display_name": "Cognitive behavioral therapy",
+          "score": 0.4847085475921631
+        },
+        {
+          "id": "https://openalex.org/keywords/mental-health",
+          "display_name": "Mental health",
+          "score": 0.45868492126464844
+        },
+        {
+          "id": "https://openalex.org/keywords/cognition",
+          "display_name": "Cognition",
+          "score": 0.3395596146583557
+        },
+        {
+          "id": "https://openalex.org/keywords/world-wide-web",
+          "display_name": "World Wide Web",
+          "score": 0.28392350673675537
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.26759281754493713
+        },
+        {
+          "id": "https://openalex.org/keywords/psychotherapist",
+          "display_name": "Psychotherapist",
+          "score": 0.22721320390701294
+        },
+        {
+          "id": "https://openalex.org/keywords/psychiatry",
+          "display_name": "Psychiatry",
+          "score": 0.1738375723361969
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2779041454",
+          "wikidata": "https://www.wikidata.org/wiki/Q870780",
+          "display_name": "Chatbot",
+          "level": 2,
+          "score": 0.9495221376419067
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.6659179925918579
+        },
+        {
+          "id": "https://openalex.org/C27415008",
+          "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+          "display_name": "Psychological intervention",
+          "level": 2,
+          "score": 0.5476452708244324
+        },
+        {
+          "id": "https://openalex.org/C2779363104",
+          "wikidata": "https://www.wikidata.org/wiki/Q17069079",
+          "display_name": "mHealth",
+          "level": 3,
+          "score": 0.4876519441604614
+        },
+        {
+          "id": "https://openalex.org/C2781265626",
+          "wikidata": "https://www.wikidata.org/wiki/Q1147152",
+          "display_name": "Cognitive behavioral therapy",
+          "level": 3,
+          "score": 0.4847085475921631
+        },
+        {
+          "id": "https://openalex.org/C134362201",
+          "wikidata": "https://www.wikidata.org/wiki/Q317309",
+          "display_name": "Mental health",
+          "level": 2,
+          "score": 0.45868492126464844
+        },
+        {
+          "id": "https://openalex.org/C169900460",
+          "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+          "display_name": "Cognition",
+          "level": 2,
+          "score": 0.3395596146583557
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.28392350673675537
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.26759281754493713
+        },
+        {
+          "id": "https://openalex.org/C542102704",
+          "wikidata": "https://www.wikidata.org/wiki/Q183257",
+          "display_name": "Psychotherapist",
+          "level": 1,
+          "score": 0.22721320390701294
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.1738375723361969
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.14569/ijacsa.2023.0140616",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.14569/ijacsa.2023.0140616",
+          "pdf_url": "http://thesai.org/Downloads/Volume14No6/Paper_16-Artificial_Intelligence_Enabled_Mobile_Chatbot_Psychologist.pdf",
+          "source": {
+            "id": "https://openalex.org/S23629721",
+            "display_name": "International Journal of Advanced Computer Science and Applications",
+            "issn_l": "2156-5570",
+            "issn": [
+              "2156-5570",
+              "2158-107X"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310311819",
+            "host_organization_name": "Science and Information Organization",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310311819"
+            ],
+            "host_organization_lineage_names": [
+              "Science and Information Organization"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International Journal of Advanced Computer Science and Applications",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:thesai.org:b505d492-f4e9-4803-8cc6-9cb8385c93b8",
+          "is_oa": true,
+          "landing_page_url": "https://thesai.org/Publications/ViewPaper?Volume=14&Issue=6&Code=IJACSA&SerialNo=16",
+          "pdf_url": "https://thesai.org/Downloads/Volume14No6/Paper_16-Artificial_Intelligence_Enabled_Mobile_Chatbot_Psychologist.pdf",
+          "source": {
+            "id": "https://openalex.org/S23629721",
+            "display_name": "International Journal of Advanced Computer Science and Applications",
+            "issn_l": "2156-5570",
+            "issn": [
+              "2156-5570",
+              "2158-107X"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310311819",
+            "host_organization_name": "Science and Information Organization",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310311819"
+            ],
+            "host_organization_lineage_names": [
+              "Science and Information Organization"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "International Journal of Advanced Computer Science and Applications, Vol. 14, No. 6 (2023), ISSN 2158-107X",
+          "raw_type": "text"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.14569/ijacsa.2023.0140616",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.14569/ijacsa.2023.0140616",
+        "pdf_url": "http://thesai.org/Downloads/Volume14No6/Paper_16-Artificial_Intelligence_Enabled_Mobile_Chatbot_Psychologist.pdf",
+        "source": {
+          "id": "https://openalex.org/S23629721",
+          "display_name": "International Journal of Advanced Computer Science and Applications",
+          "issn_l": "2156-5570",
+          "issn": [
+            "2156-5570",
+            "2158-107X"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310311819",
+          "host_organization_name": "Science and Information Organization",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311819"
+          ],
+          "host_organization_lineage_names": [
+            "Science and Information Organization"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Journal of Advanced Computer Science and Applications",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4383426667.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4383426667.grobid-xml"
+      },
+      "referenced_works_count": 58,
+      "referenced_works": [
+        "https://openalex.org/W2787060219",
+        "https://openalex.org/W2889131957",
+        "https://openalex.org/W2939668102",
+        "https://openalex.org/W2972557612",
+        "https://openalex.org/W2983167591",
+        "https://openalex.org/W3003338281",
+        "https://openalex.org/W3004685696",
+        "https://openalex.org/W3024475350",
+        "https://openalex.org/W3046201587",
+        "https://openalex.org/W3091171616",
+        "https://openalex.org/W3110366091",
+        "https://openalex.org/W3191663334",
+        "https://openalex.org/W3202472344",
+        "https://openalex.org/W3205892543",
+        "https://openalex.org/W4200437297",
+        "https://openalex.org/W4205165244",
+        "https://openalex.org/W4206696791",
+        "https://openalex.org/W4210852890",
+        "https://openalex.org/W4213293189",
+        "https://openalex.org/W4213435018",
+        "https://openalex.org/W4213436504",
+        "https://openalex.org/W4214920278",
+        "https://openalex.org/W4220891433",
+        "https://openalex.org/W4223518348",
+        "https://openalex.org/W4226307455",
+        "https://openalex.org/W4229372097",
+        "https://openalex.org/W4233023712",
+        "https://openalex.org/W4255630230",
+        "https://openalex.org/W4283215679",
+        "https://openalex.org/W4284991798",
+        "https://openalex.org/W4285810273",
+        "https://openalex.org/W4285816436",
+        "https://openalex.org/W4286559696",
+        "https://openalex.org/W4288970621",
+        "https://openalex.org/W4290693821",
+        "https://openalex.org/W4292109370",
+        "https://openalex.org/W4295665710",
+        "https://openalex.org/W4296268643",
+        "https://openalex.org/W4297101305",
+        "https://openalex.org/W4309598238",
+        "https://openalex.org/W4311227946",
+        "https://openalex.org/W4311483935",
+        "https://openalex.org/W4311783252",
+        "https://openalex.org/W4313472958",
+        "https://openalex.org/W4318464466",
+        "https://openalex.org/W4318827192",
+        "https://openalex.org/W4319068826",
+        "https://openalex.org/W4319313724",
+        "https://openalex.org/W4320729945",
+        "https://openalex.org/W4321636088",
+        "https://openalex.org/W4322580788",
+        "https://openalex.org/W4360602037",
+        "https://openalex.org/W4360982413",
+        "https://openalex.org/W4366597599",
+        "https://openalex.org/W4377291971",
+        "https://openalex.org/W6783448515",
+        "https://openalex.org/W6809764696",
+        "https://openalex.org/W6850323270"
+      ],
+      "related_works": [
+        "https://openalex.org/W4383501580",
+        "https://openalex.org/W4214931137",
+        "https://openalex.org/W4387007686",
+        "https://openalex.org/W4313813117",
+        "https://openalex.org/W4382052417",
+        "https://openalex.org/W3192088754",
+        "https://openalex.org/W3084631705",
+        "https://openalex.org/W3217504343",
+        "https://openalex.org/W4364360147",
+        "https://openalex.org/W4251124243"
+      ],
+      "abstract_inverted_index": {
+        "In": [
+          0
+        ],
+        "recent": [
+          1
+        ],
+        "years,": [
+          2
+        ],
+        "the": [
+          3,
+          13,
+          92,
+          95,
+          121,
+          149,
+          154,
+          159,
+          164,
+          190,
+          217,
+          249
+        ],
+        "demand": [
+          4
+        ],
+        "for": [
+          5,
+          15,
+          231
+        ],
+        "mental": [
+          6,
+          54,
+          129,
+          204,
+          220,
+          252,
+          263
+        ],
+        "health": [
+          7,
+          55,
+          130,
+          221,
+          253
+        ],
+        "services": [
+          8
+        ],
+        "has": [
+          9
+        ],
+        "increased": [
+          10
+        ],
+        "exponentially,": [
+          11
+        ],
+        "prompting": [
+          12
+        ],
+        "need": [
+          14
+        ],
+        "accessible,": [
+          16,
+          226
+        ],
+        "cost-effective,": [
+          17,
+          227
+        ],
+        "and": [
+          18,
+          39,
+          85,
+          107,
+          136,
+          142,
+          151,
+          163,
+          228,
+          246
+        ],
+        "efficient": [
+          19
+        ],
+        "solutions.": [
+          20
+        ],
+        "This": [
+          21,
+          234
+        ],
+        "paper": [
+          22,
+          147
+        ],
+        "introduces": [
+          23
+        ],
+        "an": [
+          24,
+          224
+        ],
+        "Artificial": [
+          25
+        ],
+        "Intelligence": [
+          26,
+          36
+        ],
+        "(AI)": [
+          27
+        ],
+        "enabled": [
+          28
+        ],
+        "mobile": [
+          29,
+          69,
+          155,
+          208
+        ],
+        "chatbot": [
+          30,
+          49,
+          70,
+          122,
+          156,
+          209
+        ],
+        "psychologist": [
+          31,
+          71,
+          210
+        ],
+        "that": [
+          32
+        ],
+        "leverages": [
+          33
+        ],
+        "AIML": [
+          34
+        ],
+        "(Artificial": [
+          35
+        ],
+        "Markup": [
+          37
+        ],
+        "Language)": [
+          38
+        ],
+        "Cognitive": [
+          40
+        ],
+        "Behavioral": [
+          41
+        ],
+        "Therapy": [
+          42
+        ],
+        "(CBT)": [
+          43
+        ],
+        "to": [
+          44,
+          52,
+          62,
+          77,
+          81,
+          111,
+          123,
+          193,
+          215,
+          243,
+          258
+        ],
+        "provide": [
+          45,
+          112
+        ],
+        "psychological": [
+          46,
+          65,
+          114,
+          186,
+          232
+        ],
+        "support.": [
+          47,
+          233
+        ],
+        "The": [
+          48,
+          67,
+          116,
+          146,
+          169,
+          206
+        ],
+        "is": [
+          50,
+          98,
+          172
+        ],
+        "designed": [
+          51
+        ],
+        "facilitate": [
+          53,
+          78
+        ],
+        "care": [
+          56
+        ],
+        "by": [
+          57,
+          138
+        ],
+        "offering": [
+          58
+        ],
+        "personalized": [
+          59,
+          195
+        ],
+        "CBT": [
+          60,
+          105,
+          119,
+          167
+        ],
+        "interventions": [
+          61
+        ],
+        "individuals": [
+          63,
+          257
+        ],
+        "experiencing": [
+          64
+        ],
+        "distress.": [
+          66,
+          187
+        ],
+        "proposed": [
+          68
+        ],
+        "employs": [
+          72
+        ],
+        "AIML,": [
+          73
+        ],
+        "a": [
+          74,
+          101,
+          125,
+          175,
+          212,
+          240
+        ],
+        "language": [
+          75
+        ],
+        "created": [
+          76
+        ],
+        "human-computer": [
+          79
+        ],
+        "interactions,": [
+          80
+        ],
+        "understand": [
+          82
+        ],
+        "user": [
+          83,
+          178
+        ],
+        "inputs": [
+          84
+        ],
+        "generate": [
+          86
+        ],
+        "contextually": [
+          87
+        ],
+        "appropriate": [
+          88
+        ],
+        "responses.": [
+          89
+        ],
+        "To": [
+          90
+        ],
+        "ensure": [
+          91
+        ],
+        "efficacy": [
+          93
+        ],
+        "of": [
+          94,
+          118,
+          128,
+          153,
+          166,
+          177,
+          185,
+          261
+        ],
+        "chatbot,": [
+          96
+        ],
+        "it": [
+          97,
+          110
+        ],
+        "equipped": [
+          99
+        ],
+        "with": [
+          100,
+          182,
+          197
+        ],
+        "knowledge": [
+          102
+        ],
+        "base": [
+          103
+        ],
+        "comprising": [
+          104
+        ],
+        "principles": [
+          106
+        ],
+        "techniques,": [
+          108
+        ],
+        "enabling": [
+          109
+        ],
+        "targeted": [
+          113
+        ],
+        "interventions.": [
+          115
+        ],
+        "integration": [
+          117
+        ],
+        "allows": [
+          120
+        ],
+        "address": [
+          124
+        ],
+        "wide": [
+          126
+        ],
+        "range": [
+          127
+        ],
+        "issues,": [
+          131
+        ],
+        "including": [
+          132
+        ],
+        "anxiety,": [
+          133
+        ],
+        "depression,": [
+          134
+        ],
+        "stress,": [
+          135
+        ],
+        "phobias,": [
+          137
+        ],
+        "helping": [
+          139
+        ],
+        "users": [
+          140,
+          198
+        ],
+        "identify": [
+          141
+        ],
+        "challenge": [
+          143
+        ],
+        "cognitive": [
+          144
+        ],
+        "distortions.": [
+          145
+        ],
+        "discusses": [
+          148
+        ],
+        "development": [
+          150
+        ],
+        "implementation": [
+          152
+        ],
+        "psychologist,": [
+          157
+        ],
+        "detailing": [
+          158
+        ],
+        "AIML-based": [
+          160
+        ],
+        "conversational": [
+          161
+        ],
+        "engine": [
+          162
+        ],
+        "incorporation": [
+          165
+        ],
+        "techniques.": [
+          168
+        ],
+        "chatbot's": [
+          170,
+          191
+        ],
+        "effectiveness": [
+          171
+        ],
+        "evaluated": [
+          173
+        ],
+        "through": [
+          174
+        ],
+        "series": [
+          176
+        ],
+        "studies": [
+          179
+        ],
+        "involving": [
+          180
+        ],
+        "participants": [
+          181
+        ],
+        "varying": [
+          183
+        ],
+        "levels": [
+          184
+        ],
+        "Results": [
+          188
+        ],
+        "demonstrate": [
+          189
+        ],
+        "ability": [
+          192
+        ],
+        "deliver": [
+          194
+        ],
+        "interventions,": [
+          196
+        ],
+        "reporting": [
+          199
+        ],
+        "significant": [
+          200
+        ],
+        "improvements": [
+          201
+        ],
+        "in": [
+          202,
+          219
+        ],
+        "their": [
+          203,
+          262
+        ],
+        "well-being.": [
+          205,
+          264
+        ],
+        "AI-enabled": [
+          207
+        ],
+        "offers": [
+          211
+        ],
+        "promising": [
+          213
+        ],
+        "solution": [
+          214
+        ],
+        "bridge": [
+          216
+        ],
+        "gap": [
+          218
+        ],
+        "care,": [
+          222
+        ],
+        "providing": [
+          223
+        ],
+        "easily": [
+          225
+        ],
+        "scalable": [
+          229
+        ],
+        "platform": [
+          230
+        ],
+        "innovative": [
+          235
+        ],
+        "approach": [
+          236
+        ],
+        "can": [
+          237
+        ],
+        "serve": [
+          238
+        ],
+        "as": [
+          239
+        ],
+        "valuable": [
+          241
+        ],
+        "adjunct": [
+          242
+        ],
+        "traditional": [
+          244
+        ],
+        "therapy": [
+          245
+        ],
+        "help": [
+          247
+        ],
+        "reduce": [
+          248
+        ],
+        "burden": [
+          250
+        ],
+        "on": [
+          251
+        ],
+        "professionals,": [
+          254
+        ],
+        "while": [
+          255
+        ],
+        "empowering": [
+          256
+        ],
+        "take": [
+          259
+        ],
+        "charge": [
+          260
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 14
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 27
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 17
+        }
+      ],
+      "updated_date": "2026-09-21T07:43:02.447757",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  },
+  "pdf_file": "050_artificial-intelligence-enabled-mobile-chatbot-psychologist.pdf",
+  "pdf_url": "http://thesai.org/Downloads/Volume14No6/Paper_16-Artificial_Intelligence_Enabled_Mobile_Chatbot_Psychologist.pdf",
+  "pdf_verified": true
+}

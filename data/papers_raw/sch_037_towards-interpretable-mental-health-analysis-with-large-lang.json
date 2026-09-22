@@ -1,0 +1,33 @@
+{
+  "id": "sch-037",
+  "original": {
+    "paper_name": "Towards interpretable mental health analysis with large language models",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "large language models mental health",
+  "scraped_at": "2026-09-22T11:20:02.949377+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "large language models mental health",
+    "title_matched": "Towards interpretable mental health analysis with large language models",
+    "authors": [
+      "K Yang",
+      "S Ji",
+      "T Zhang",
+      "Q Xie",
+      "Z Kuang"
+    ],
+    "year": 2023,
+    "venue": "… in natural language …",
+    "cited_by": 294,
+    "landing_page_url": "https://aclanthology.org/2023.emnlp-main.370/",
+    "snippet": "… large language models (LLMs) such as ChatGPT, exhibit strong capabilities in automated\nmental health … We test the zero-shot mental health analysis tasks on LLaMA models with 7 …",
+    "pdf_url": "https://aclanthology.org/2023.emnlp-main.370.pdf"
+  },
+  "pdf_file": "sch_037_towards-interpretable-mental-health-analysis-with-large-lang.pdf",
+  "pdf_url": "https://aclanthology.org/2023.emnlp-main.370.pdf",
+  "pdf_verified": true
+}

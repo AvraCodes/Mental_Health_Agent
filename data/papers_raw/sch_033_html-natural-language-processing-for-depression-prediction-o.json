@@ -1,0 +1,33 @@
+{
+  "id": "sch-033",
+  "original": {
+    "paper_name": "[HTML] Natural language processing for depression prediction on sina weibo: method study and analysis",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "depression detection natural language processing",
+  "scraped_at": "2026-09-22T11:19:40.979099+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "depression detection natural language processing",
+    "title_matched": "[HTML] Natural language processing for depression prediction on sina weibo: method study and analysis",
+    "authors": [
+      "Z Zhang",
+      "J Zhu",
+      "Z Guo",
+      "Y Zhang",
+      "Z Li",
+      "B Hu"
+    ],
+    "year": 2024,
+    "venue": "JMIR mental health",
+    "cited_by": 33,
+    "landing_page_url": "https://mental.jmir.org/2024/1/e58259",
+    "snippet": "… online depression risk detection method using natural language processing technology to\n… paper achieve promising results on the constructed depression detection data set. This fully …",
+    "pdf_url": "https://mental.jmir.org/2024/1/e58259"
+  },
+  "pdf_file": null,
+  "pdf_url": "https://mental.jmir.org/2024/1/e58259"
+}

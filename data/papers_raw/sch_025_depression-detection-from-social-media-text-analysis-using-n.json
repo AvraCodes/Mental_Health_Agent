@@ -1,0 +1,30 @@
+{
+  "id": "sch-025",
+  "original": {
+    "paper_name": "Depression detection from social media text analysis using natural language processing techniques and hybrid deep learning model",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "depression detection natural language processing",
+  "scraped_at": "2026-09-22T11:19:19.754658+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "depression detection natural language processing",
+    "title_matched": "Depression detection from social media text analysis using natural language processing techniques and hybrid deep learning model",
+    "authors": [
+      "V Tejaswini",
+      "K Sathya Babu",
+      "B Sahoo"
+    ],
+    "year": 2024,
+    "venue": "… Information Processing",
+    "cited_by": 230,
+    "landing_page_url": "https://dl.acm.org/doi/abs/10.1145/3569580",
+    "snippet": "… Inspired by the works on depression detection, our motivation is to design a hybrid deep-learning\nmodel to detect depression from the expressions shared on social media with better …",
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3569580"
+  },
+  "pdf_file": null,
+  "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3569580"
+}

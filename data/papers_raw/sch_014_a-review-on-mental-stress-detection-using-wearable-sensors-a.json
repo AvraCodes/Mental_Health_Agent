@@ -1,0 +1,29 @@
+{
+  "id": "sch-014",
+  "original": {
+    "paper_name": "A review on mental stress detection using wearable sensors and machine learning techniques",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "stress detection machine learning",
+  "scraped_at": "2026-09-22T11:18:52.774607+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "stress detection machine learning",
+    "title_matched": "A review on mental stress detection using wearable sensors and machine learning techniques",
+    "authors": [
+      "S Gedam",
+      "S Paul"
+    ],
+    "year": 2021,
+    "venue": "IEEe Access",
+    "cited_by": 645,
+    "landing_page_url": "https://ieeexplore.ieee.org/abstract/document/9445082/",
+    "snippet": "… , which focuses on stress detection using wearable sensors and applied machine learning\ntechniques. This paper investigates the stress detection approaches adopted in accordance …",
+    "pdf_url": "https://ieeexplore.ieee.org/iel7/6287639/9312710/09445082.pdf"
+  },
+  "pdf_file": null,
+  "pdf_url": "https://ieeexplore.ieee.org/iel7/6287639/9312710/09445082.pdf"
+}

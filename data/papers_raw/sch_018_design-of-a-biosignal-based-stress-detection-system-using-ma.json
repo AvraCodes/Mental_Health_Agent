@@ -1,0 +1,30 @@
+{
+  "id": "sch-018",
+  "original": {
+    "paper_name": "Design of a biosignal based stress detection system using machine learning techniques",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "stress detection machine learning",
+  "scraped_at": "2026-09-22T11:18:57.278911+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "stress detection machine learning",
+    "title_matched": "Design of a biosignal based stress detection system using machine learning techniques",
+    "authors": [
+      "MF Rizwan",
+      "R Farhad",
+      "F Mashuk"
+    ],
+    "year": 2019,
+    "venue": "… on robotics, electrical …",
+    "cited_by": 91,
+    "landing_page_url": "https://ieeexplore.ieee.org/abstract/document/8644259/",
+    "snippet": "… Machine Learning has been used to detect stress. ECG features that were chosen to detect\nstress … By analyzing them, the model will decide if the subject is stressed or relaxed. As there …",
+    "pdf_url": null
+  },
+  "pdf_file": null,
+  "pdf_url": null
+}

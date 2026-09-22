@@ -1,0 +1,63 @@
+{
+  "id": 14,
+  "original": {
+    "paper_name": "Conversational AI for Mental Stress Prediction using Pre-trained Language Models",
+    "site": "IEEE",
+    "venue_of_publication": "IEEE/ACM TASLP",
+    "year": 2024,
+    "researcher_info": "Y. Kim, et al.",
+    "id": 14
+  },
+  "site": "IEEE",
+  "scraped_at": "2026-09-22T10:58:39.766112+00:00",
+  "fetched": {
+    "found": true,
+    "site": "IEEE",
+    "query": "Conversational AI for Mental Stress Prediction using Pre-trained Language Models",
+    "method": "playwright-search",
+    "search_url": "https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=Conversational%20AI%20for%20Mental%20Stress%20Prediction%20using%20Pre-trained%20Language%20Models&highlight=true&returnType=SEARCH&matchPubs=true&rowsPerPage=10",
+    "title_matched": "Adaptive Transformer Mechanisms for Identifying Mental Health Indicators in Conversations",
+    "authors_raw": "Mukesh Kumar Tripathi;\nJyoti Agarwal;\nShelly Gupta; Mukesh Kumar Tripathi;Jyoti Agarwal;Shelly Gupta",
+    "meta_snippet": "Adaptive Transformer Mechanisms for Identifying Mental Health Indicators in Conversations\n\nMukesh Kumar Tripathi;\nJyoti Agarwal;\nShelly Gupta\n\n2025 6th International Conference on IoT Based Control Networks and Intelligent Systems (ICICNIS)\nYear: 2025 | Conference Paper | Publisher: IEEE\nCited by: Papers (1)\nAbstract\nHTML",
+    "document_url": "https://ieeexplore.ieee.org/document/11315598/",
+    "article_number": "11315598",
+    "doi": "https://doi.org/10.1109/ICICNIS66685.2025.11315598",
+    "abstract": "Abstract:\nMental health illnesses affect millions of individuals globally and impede the availability of timely and efficient care. In this era of artificial intelligence (AI), there are novel avenues to detecting mental health conditions by leveraging AI, which can be used to create scalable and convenient supportive communities. The AI-based mental health detection system introduced in this work employs Mental RoBERTa to monitor user interactions and detect early signs of mental unease such as stress, anxiety and depression. The system is based on concept of a customizable modular application that consists of a report in the reporting engine, a time psychological screening module and the March Bot Controller, which is used to interact with the patient during a session. It is the feature selection that optimizes the data dimensionality within this model to achieve, for effective mental health prediction, high precision and relevancy of detected relations. Experiments show that our approach is promising, yielding stable information and achieving above 85% in classification accuracy. Some users liked the chat flow on the app as it had been described to be supportive, encourage openness and reduce stigma. That the disjuncture between people and professional mental health care can be bridged by reported feeling, applied feel, can serve as a low-cost Judgment of risk tool offering the model and first phase in early detection. For wider use in monitoring and support for mental health, research will focus on further tweaking the model, broadening the range of data it can be trained on, and addressing ethical issues. This study also demonstrates how AI is a game-changer in fulfilling unmet needs in global mental health care.\nPublished in: 2025 6th International Conference on IoT Based Control Networks and Intelligent Systems (ICICNIS)\nDate of Conference: 15-17 December 2025\nDate Added to IEEE Xplore: 01 January 2026\nISBN Information:\nDOI: 10.1109/ICICNIS66685.2025.11315598",
+    "candidates": [
+      {
+        "title": "Adaptive Transformer Mechanisms for Identifying Mental Health Indicators in Conversations",
+        "href": "https://ieeexplore.ieee.org/document/11315598/",
+        "authors": "Mukesh Kumar Tripathi;\nJyoti Agarwal;\nShelly Gupta; Mukesh Kumar Tripathi;Jyoti Agarwal;Shelly Gupta",
+        "meta": "Adaptive Transformer Mechanisms for Identifying Mental Health Indicators in Conversations\n\nMukesh Kumar Tripathi;\nJyoti Agarwal;\nShelly Gupta\n\n2025 6th International Conference on IoT Based Control Networks and Intelligent Systems (ICICNIS)\nYear: 2025 | Conference Paper | Publisher: IEEE\nCited by: Papers (1)\nAbstract\nHTML"
+      },
+      {
+        "title": "Adaptive Transformer Mechanisms for Identifying Mental Health Indicators in Conversations",
+        "href": "https://ieeexplore.ieee.org/document/11315598/",
+        "authors": "Mukesh Kumar Tripathi;\nJyoti Agarwal;\nShelly Gupta",
+        "meta": "Adaptive Transformer Mechanisms for Identifying Mental Health Indicators in Conversations\n\nMukesh Kumar Tripathi;\nJyoti Agarwal;\nShelly Gupta\n\n2025 6th International Conference on IoT Based Control Networks and Intelligent Systems (ICICNIS)\nYear: 2025 | Conference Paper | Publisher: IEEE\nCited by: Papers (1)"
+      },
+      {
+        "title": "Knowledge Discovery and Scientometric Analysis of Conversational Artificial Intelligence (CAI) for Mental Health",
+        "href": "https://ieeexplore.ieee.org/document/11082869/",
+        "authors": "Muhammad Luthfi Hidayat;\nIstiak Ahmad;\nMohammad Hasbi Assidiqi;\nTariq J. S. Khanzada;\nMaram Meccawy; Muhammad Luthfi Hidayat;Istiak Ahmad;Mohammad Hasbi Assidiqi;Tariq J. S. Khanzada;Maram Meccawy",
+        "meta": "Knowledge Discovery and Scientometric Analysis of Conversational Artificial Intelligence (CAI) for Mental Health\n\nMuhammad Luthfi Hidayat;\nIstiak Ahmad;\nMohammad Hasbi Assidiqi;\nTariq J. S. Khanzada;\nMaram Meccawy\n\n2025 International Conference on Innovation in Artificial Intelligence and Internet of Things (AIIT)\nYear: 2025 | Conference Paper | Publisher: IEEE\nCited by: Papers (1)\nAbstract\nHTML"
+      },
+      {
+        "title": "Knowledge Discovery and Scientometric Analysis of Conversational Artificial Intelligence (CAI) for Mental Health",
+        "href": "https://ieeexplore.ieee.org/document/11082869/",
+        "authors": "Muhammad Luthfi Hidayat;\nIstiak Ahmad;\nMohammad Hasbi Assidiqi;\nTariq J. S. Khanzada;\nMaram Meccawy",
+        "meta": "Knowledge Discovery and Scientometric Analysis of Conversational Artificial Intelligence (CAI) for Mental Health\n\nMuhammad Luthfi Hidayat;\nIstiak Ahmad;\nMohammad Hasbi Assidiqi;\nTariq J. S. Khanzada;\nMaram Meccawy\n\n2025 International Conference on Innovation in Artificial Intelligence and Internet of Things (AIIT)\nYear: 2025 | Conference Paper | Publisher: IEEE\nCited by: Papers (1)"
+      },
+      {
+        "title": "",
+        "href": null,
+        "authors": "",
+        "meta": ""
+      }
+    ],
+    "pdf_url": null,
+    "oa_landing_page_url": null
+  },
+  "pdf_file": null,
+  "pdf_url": null
+}

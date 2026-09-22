@@ -1,0 +1,32 @@
+{
+  "id": "sch-043",
+  "original": {
+    "paper_name": "MentaLLaMA: interpretable mental health analysis on social media with large language models",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "large language models mental health",
+  "scraped_at": "2026-09-22T11:20:23.259509+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "large language models mental health",
+    "title_matched": "MentaLLaMA: interpretable mental health analysis on social media with large language models",
+    "authors": [
+      "K Yang",
+      "T Zhang",
+      "Z Kuang",
+      "Q Xie",
+      "J Huang"
+    ],
+    "year": 2024,
+    "venue": "Proceedings of the …",
+    "cited_by": 455,
+    "landing_page_url": "https://dl.acm.org/doi/abs/10.1145/3589334.3648137",
+    "snippet": "… define the interpretable mental health analysis task in this … we model mental health analysis\nas a generation task, where a generative model, such as an autoregressive language model …",
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3589334.3648137"
+  },
+  "pdf_file": null,
+  "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3589334.3648137"
+}

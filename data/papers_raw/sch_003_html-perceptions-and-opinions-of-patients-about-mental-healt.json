@@ -1,0 +1,31 @@
+{
+  "id": "sch-003",
+  "original": {
+    "paper_name": "[HTML] Perceptions and opinions of patients about mental health chatbots: scoping review",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "mental health chatbot",
+  "scraped_at": "2026-09-22T11:16:19.317305+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "mental health chatbot",
+    "title_matched": "[HTML] Perceptions and opinions of patients about mental health chatbots: scoping review",
+    "authors": [
+      "AA Abd-Alrazaq",
+      "M Alajlani",
+      "N Ali",
+      "K Denecke"
+    ],
+    "year": 2021,
+    "venue": "Journal of medical …",
+    "cited_by": 452,
+    "landing_page_url": "https://www.jmir.org/2021/1/e17828/",
+    "snippet": "… and opinions of patients about chatbots for mental health. … about chatbots for mental health.\nImportant issues to be addressed in the future are the linguistic capabilities of the chatbots: …",
+    "pdf_url": "https://www.jmir.org/2021/1/e17828/"
+  },
+  "pdf_file": null,
+  "pdf_url": "https://www.jmir.org/2021/1/e17828/"
+}

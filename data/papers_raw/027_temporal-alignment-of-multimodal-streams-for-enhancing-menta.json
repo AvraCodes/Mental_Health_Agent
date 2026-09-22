@@ -1,0 +1,139 @@
+{
+  "id": 27,
+  "original": {
+    "paper_name": "Temporal Alignment of Multimodal Streams for Enhancing Mental Stress Classification",
+    "site": "Crossref",
+    "venue_of_publication": "Sensors",
+    "year": 2024,
+    "researcher_info": "G. Singh, et al.",
+    "id": 27
+  },
+  "site": "Crossref",
+  "scraped_at": "2026-09-22T11:00:29.753845+00:00",
+  "fetched": {
+    "found": true,
+    "site": "Crossref",
+    "query": "Temporal Alignment of Multimodal Streams for Enhancing Mental Stress Classification",
+    "method": "api",
+    "doi": "10.1007/978-3-032-19108-3_29",
+    "doi_url": "https://doi.org/10.1007/978-3-032-19108-3_29",
+    "title_matched": "Entity Alignment for Multimodal Temporal Knowledge Graph",
+    "title_similarity": 0.504,
+    "match_confidence": "low",
+    "authors": [
+      "Zhongjing Zhou",
+      "Shiqi Zhang",
+      "Runhao Zhao",
+      "Jiuyang Tang",
+      "Lizhen Wu"
+    ],
+    "year": 2026,
+    "venue": "Communications in Computer and Information Science",
+    "publisher": "Springer Nature Switzerland",
+    "abstract": null,
+    "pdf_url": null,
+    "landing_page_url": "https://doi.org/10.1007/978-3-032-19108-3_29",
+    "score": 25.00192,
+    "raw": {
+      "publisher": "Springer Nature Switzerland",
+      "DOI": "10.1007/978-3-032-19108-3_29",
+      "title": [
+        "Entity Alignment for Multimodal Temporal Knowledge Graph"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0002-9221-2520",
+          "authenticated-orcid": false,
+          "given": "Zhongjing",
+          "family": "Zhou",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0005-6140-6578",
+          "authenticated-orcid": false,
+          "given": "Shiqi",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Runhao",
+          "family": "Zhao",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Jiuyang",
+          "family": "Tang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Lizhen",
+          "family": "Wu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Communications in Computer and Information Science",
+        "Machine Learning and Principles and Practice of Knowledge Discovery in Databases"
+      ],
+      "link": [
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1007/978-3-032-19108-3_29",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "score": 25.00192,
+      "URL": "https://doi.org/10.1007/978-3-032-19108-3_29",
+      "published": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      }
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": null,
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

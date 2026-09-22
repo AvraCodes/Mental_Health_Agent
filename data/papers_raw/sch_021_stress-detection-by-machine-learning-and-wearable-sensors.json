@@ -1,0 +1,31 @@
+{
+  "id": "sch-021",
+  "original": {
+    "paper_name": "Stress detection by machine learning and wearable sensors",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "stress detection machine learning",
+  "scraped_at": "2026-09-22T11:18:58.008731+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "stress detection machine learning",
+    "title_matched": "Stress detection by machine learning and wearable sensors",
+    "authors": [
+      "P Garg",
+      "J Santhosh",
+      "A Dengel",
+      "S Ishimaru"
+    ],
+    "year": 2021,
+    "venue": "Companion proceedings of …",
+    "cited_by": 138,
+    "landing_page_url": "https://dl.acm.org/doi/abs/10.1145/3397482.3450732",
+    "snippet": "… Mental states like stress, depression, and anxiety have … work is to detect stress among\npeople, using Machine Learning … various Machine Learning models for the detection of stress on …",
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3397482.3450732"
+  },
+  "pdf_file": null,
+  "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3397482.3450732"
+}

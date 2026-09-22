@@ -1,0 +1,31 @@
+{
+  "id": "sch-011",
+  "original": {
+    "paper_name": "[HTML] AI chatbots for mental health: a scoping review of effectiveness, feasibility, and applications",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "mental health chatbot",
+  "scraped_at": "2026-09-22T11:18:29.451355+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "mental health chatbot",
+    "title_matched": "[HTML] AI chatbots for mental health: a scoping review of effectiveness, feasibility, and applications",
+    "authors": [
+      "M Casu",
+      "S Triscari",
+      "S Battiato",
+      "L Guarnera"
+    ],
+    "year": 2024,
+    "venue": "Applied Sciences",
+    "cited_by": 295,
+    "landing_page_url": "https://www.mdpi.com/2076-3417/14/13/5889",
+    "snippet": "… chatbots have emerged as a potential solution, offering accessible and scalable mental health\n… effectiveness and feasibility of AI chatbots in treating mental health conditions. A literature …",
+    "pdf_url": "https://www.mdpi.com/2076-3417/14/13/5889"
+  },
+  "pdf_file": null,
+  "pdf_url": "https://www.mdpi.com/2076-3417/14/13/5889"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sch-017",
+  "original": {
+    "paper_name": "Mental stress detection in university students using machine learning algorithms",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "stress detection machine learning",
+  "scraped_at": "2026-09-22T11:18:56.194914+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "stress detection machine learning",
+    "title_matched": "Mental stress detection in university students using machine learning algorithms",
+    "authors": [
+      "R Ahuja",
+      "A Banga"
+    ],
+    "year": 2019,
+    "venue": "Procedia Computer Science",
+    "cited_by": 319,
+    "landing_page_url": "https://www.sciencedirect.com/science/article/pii/S1877050919306581",
+    "snippet": "… In this paper, we used machine learning (ML) to identify the increasing stress level in the\nstudents and to predict the stress beforehand and be able to stop the major damage to their life …",
+    "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1877050919306581/pdf?md5=f2f8c852cfb1e4173431bbf67c7ac15f&pid=1-s2.0-S1877050919306581-main.pdf"
+  },
+  "pdf_file": null,
+  "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1877050919306581/pdf?md5=f2f8c852cfb1e4173431bbf67c7ac15f&pid=1-s2.0-S1877050919306581-main.pdf"
+}

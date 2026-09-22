@@ -1,0 +1,1781 @@
+{
+  "id": 43,
+  "original": {
+    "id": 43,
+    "paper_name": "Revolutionizing e-health: the transformative role of AI-powered hybrid chatbots in healthcare solutions",
+    "site": "OpenAlex",
+    "venue_of_publication": "Frontiers in Public Health",
+    "year": 2025,
+    "researcher_info": "Jack Ng Kok Wah"
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T08:32:58.323929+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "Revolutionizing e-health: the transformative role of AI-powered hybrid chatbots in healthcare solutions",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W4407554902",
+    "doi": "https://doi.org/10.3389/fpubh.2025.1530799",
+    "title_matched": "Revolutionizing e-health: the transformative role of AI-powered hybrid chatbots in healthcare solutions",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2025,
+    "venue": "Frontiers in Public Health",
+    "authors": [
+      "Jack Ng Kok Wah"
+    ],
+    "abstract": "Introduction: The integration of Artificial Intelligence (AI) in healthcare, particularly through hybrid chatbots, is reshaping the industry by enhancing service delivery, patient engagement, and clinical outcomes. These chatbots combine AI with human input to provide intelligent, personalized interactions in areas like diagnostics, chronic disease management, and mental health support. However, gaps remain in trust, data security, system integration, and user experience, which hinder widespread adoption. Key challenges include the hesitancy of patients to trust AI due to concerns over data privacy and the accuracy of medical advice, as well as difficulties in integrating chatbots into existing healthcare infrastructures. The review aims to assess the effectiveness of hybrid AI chatbots in improving healthcare outcomes, reducing costs, and enhancing patient engagement, while identifying barriers to adoption such as cultural adaptability and trust issues. The novelty of the review lies in its comprehensive exploration of both technological advancements and the socio-emotional factors influencing chatbot acceptance. Methods: The review follows a systematic methodology with four core components: eligibility criteria, review selection, data extraction, and data synthesis. Studies focused on AI applications and hybrid chatbots in healthcare, particularly in chronic disease management and mental health support, were included. Publications from 2022 to 2025 were prioritized, and peer-reviewed sources in English were considered. After screening 116 studies, 29 met the criteria for inclusion. Data was extracted using a structured template, capturing study objectives, methodologies, findings, and challenges. Thematic analysis was applied to identify four themes: AI applications, technical advancements, user adoption, and challenges/ethical concerns. Statistical and content analysis methods were employed to synthesize the data comprehensively, ensuring robustness in the findings. Results: Hybrid chatbots in healthcare have shown significant benefits, such as reducing hospital readmissions by up to 25%, improving patient engagement by 30%, and cutting consultation wait times by 15%. They are widely used for chronic disease management, mental health support, and patient education, demonstrating their efficiency in both developed and developing countries. Discussion: The review concludes that overcoming these barriers through infrastructure investment, training, and enhanced transparency is crucial for maximizing the potential of AI in healthcare. Future researchers should focus on long-term outcomes, addressing ethical considerations, and expanding cross-cultural adaptability. Limitations of the review include the narrow scope of some case studies and the absence of long-term data on AI's efficacy in diverse healthcare contexts. Further studies are needed to explore these challenges and the long-term impact of AI-driven healthcare solutions.",
+    "cited_by_count": 81,
+    "is_oa": true,
+    "pdf_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1530799/pdf",
+    "pdf_candidates": [
+      "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1530799/pdf",
+      "https://shdl.mmu.edu.my/13616/1/fpubh-1-1530799.pdf",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11865260/pdf/fpubh-13-1530799.pdf"
+    ],
+    "landing_page_url": "https://doi.org/10.3389/fpubh.2025.1530799",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W4407554902",
+      "doi": "https://doi.org/10.3389/fpubh.2025.1530799",
+      "title": "Revolutionizing e-health: the transformative role of AI-powered hybrid chatbots in healthcare solutions",
+      "display_name": "Revolutionizing e-health: the transformative role of AI-powered hybrid chatbots in healthcare solutions",
+      "relevance_score": 3537.759,
+      "publication_year": 2025,
+      "publication_date": "2025-02-13",
+      "ids": {
+        "openalex": "https://openalex.org/W4407554902",
+        "doi": "https://doi.org/10.3389/fpubh.2025.1530799",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/40017541"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3389/fpubh.2025.1530799",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3389/fpubh.2025.1530799",
+        "pdf_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1530799/pdf",
+        "source": {
+          "id": "https://openalex.org/S2595931848",
+          "display_name": "Frontiers in Public Health",
+          "issn_l": "2296-2565",
+          "issn": [
+            "2296-2565"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "medline",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320527",
+          "host_organization_name": "Frontiers Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320527"
+          ],
+          "host_organization_lineage_names": [
+            "Frontiers Media"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Frontiers in Public Health",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1530799/pdf",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5070422289",
+            "display_name": "Jack Ng Kok Wah",
+            "orcid": "https://orcid.org/0000-0002-3055-953X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I173029219",
+              "display_name": "Multimedia University",
+              "ror": "https://ror.org/04zrbnc33",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I173029219"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Jack Ng Kok Wah",
+          "raw_affiliation_strings": [
+            "Multimedia University, Cyberjaya, Malaysia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Multimedia University, Cyberjaya, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I173029219"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5070422289"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I173029219"
+      ],
+      "apc_list": {
+        "value": 3150,
+        "currency": "CHF",
+        "value_usd": 3801
+      },
+      "apc_paid": {
+        "value": 3150,
+        "currency": "CHF",
+        "value_usd": 3801
+      },
+      "fwci": 20.7055,
+      "has_fulltext": true,
+      "cited_by_count": 81,
+      "citation_normalized_percentile": {
+        "value": 0.99555599,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 99,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "13",
+        "issue": null,
+        "first_page": "1530799",
+        "last_page": "1530799"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11636",
+        "display_name": "Artificial Intelligence in Healthcare and Education",
+        "score": 0.4043000042438507,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2718",
+          "display_name": "Health Informatics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11636",
+          "display_name": "Artificial Intelligence in Healthcare and Education",
+          "score": 0.4043000042438507,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2718",
+            "display_name": "Health Informatics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11519",
+          "display_name": "Digital Mental Health Interventions",
+          "score": 0.2797999978065491,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3202",
+            "display_name": "Applied Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12128",
+          "display_name": "AI in Service Interactions",
+          "score": 0.06019999831914902,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/chatbot",
+          "display_name": "Chatbot",
+          "score": 0.5491186380386353
+        },
+        {
+          "id": "https://openalex.org/keywords/thematic-analysis",
+          "display_name": "Thematic analysis",
+          "score": 0.5407485961914062
+        },
+        {
+          "id": "https://openalex.org/keywords/health-care",
+          "display_name": "Health care",
+          "score": 0.5246332287788391
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.4742649793624878
+        },
+        {
+          "id": "https://openalex.org/keywords/big-data",
+          "display_name": "Big data",
+          "score": 0.44669365882873535
+        },
+        {
+          "id": "https://openalex.org/keywords/knowledge-management",
+          "display_name": "Knowledge management",
+          "score": 0.4460785388946533
+        },
+        {
+          "id": "https://openalex.org/keywords/data-science",
+          "display_name": "Data science",
+          "score": 0.34856587648391724
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.22758299112319946
+        },
+        {
+          "id": "https://openalex.org/keywords/qualitative-research",
+          "display_name": "Qualitative research",
+          "score": 0.20899802446365356
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2779041454",
+          "wikidata": "https://www.wikidata.org/wiki/Q870780",
+          "display_name": "Chatbot",
+          "level": 2,
+          "score": 0.5491186380386353
+        },
+        {
+          "id": "https://openalex.org/C74196892",
+          "wikidata": "https://www.wikidata.org/wiki/Q7781188",
+          "display_name": "Thematic analysis",
+          "level": 3,
+          "score": 0.5407485961914062
+        },
+        {
+          "id": "https://openalex.org/C160735492",
+          "wikidata": "https://www.wikidata.org/wiki/Q31207",
+          "display_name": "Health care",
+          "level": 2,
+          "score": 0.5246332287788391
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.4742649793624878
+        },
+        {
+          "id": "https://openalex.org/C75684735",
+          "wikidata": "https://www.wikidata.org/wiki/Q858810",
+          "display_name": "Big data",
+          "level": 2,
+          "score": 0.44669365882873535
+        },
+        {
+          "id": "https://openalex.org/C56739046",
+          "wikidata": "https://www.wikidata.org/wiki/Q192060",
+          "display_name": "Knowledge management",
+          "level": 1,
+          "score": 0.4460785388946533
+        },
+        {
+          "id": "https://openalex.org/C2522767166",
+          "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+          "display_name": "Data science",
+          "level": 1,
+          "score": 0.34856587648391724
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.22758299112319946
+        },
+        {
+          "id": "https://openalex.org/C190248442",
+          "wikidata": "https://www.wikidata.org/wiki/Q839486",
+          "display_name": "Qualitative research",
+          "level": 2,
+          "score": 0.20899802446365356
+        },
+        {
+          "id": "https://openalex.org/C36289849",
+          "wikidata": "https://www.wikidata.org/wiki/Q34749",
+          "display_name": "Social science",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C144024400",
+          "wikidata": "https://www.wikidata.org/wiki/Q21201",
+          "display_name": "Sociology",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C111919701",
+          "wikidata": "https://www.wikidata.org/wiki/Q9135",
+          "display_name": "Operating system",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C50522688",
+          "wikidata": "https://www.wikidata.org/wiki/Q189833",
+          "display_name": "Economic growth",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [
+        {
+          "descriptor_ui": "D000098842",
+          "descriptor_name": "Generative Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000098842",
+          "descriptor_name": "Generative Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000098842",
+          "descriptor_name": "Generative Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000098842",
+          "descriptor_name": "Generative Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001185",
+          "descriptor_name": "Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001185",
+          "descriptor_name": "Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001185",
+          "descriptor_name": "Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001185",
+          "descriptor_name": "Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001185",
+          "descriptor_name": "Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001185",
+          "descriptor_name": "Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D003695",
+          "descriptor_name": "Delivery of Health Care",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D003695",
+          "descriptor_name": "Delivery of Health Care",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D003695",
+          "descriptor_name": "Delivery of Health Care",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D003695",
+          "descriptor_name": "Delivery of Health Care",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D003695",
+          "descriptor_name": "Delivery of Health Care",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D003695",
+          "descriptor_name": "Delivery of Health Care",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D017216",
+          "descriptor_name": "Telemedicine",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D017216",
+          "descriptor_name": "Telemedicine",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D017216",
+          "descriptor_name": "Telemedicine",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D017216",
+          "descriptor_name": "Telemedicine",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D017216",
+          "descriptor_name": "Telemedicine",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D017216",
+          "descriptor_name": "Telemedicine",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        }
+      ],
+      "locations_count": 5,
+      "locations": [
+        {
+          "id": "doi:10.3389/fpubh.2025.1530799",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3389/fpubh.2025.1530799",
+          "pdf_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1530799/pdf",
+          "source": {
+            "id": "https://openalex.org/S2595931848",
+            "display_name": "Frontiers in Public Health",
+            "issn_l": "2296-2565",
+            "issn": [
+              "2296-2565"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "medline",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310320527",
+            "host_organization_name": "Frontiers Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320527"
+            ],
+            "host_organization_lineage_names": [
+              "Frontiers Media"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Frontiers in Public Health",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:40017541",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/40017541",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Frontiers in public health",
+          "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:shdl.mmu.edu.my:13616",
+          "is_oa": false,
+          "landing_page_url": "https://shdl.mmu.edu.my/13616/1/fpubh-1-1530799.pdf",
+          "pdf_url": "https://shdl.mmu.edu.my/13616/1/fpubh-1-1530799.pdf",
+          "source": {
+            "id": "https://openalex.org/S4377196753",
+            "display_name": "Siti Hasmah Digital Library-MMU Institutiona Repository (Multimedia University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I173029219",
+            "host_organization_name": "Multimedia University",
+            "host_organization_lineage": [
+              "https://openalex.org/I173029219"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Article"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:11865260",
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11865260",
+          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11865260/pdf/fpubh-13-1530799.pdf",
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Front Public Health",
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:d9a315ca80454094aabb789b1f4ee7fb",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/d9a315ca80454094aabb789b1f4ee7fb",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Frontiers in Public Health, Vol 13 (2025)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.3389/fpubh.2025.1530799",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3389/fpubh.2025.1530799",
+        "pdf_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1530799/pdf",
+        "source": {
+          "id": "https://openalex.org/S2595931848",
+          "display_name": "Frontiers in Public Health",
+          "issn_l": "2296-2565",
+          "issn": [
+            "2296-2565"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "medline",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320527",
+          "host_organization_name": "Frontiers Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320527"
+          ],
+          "host_organization_lineage_names": [
+            "Frontiers Media"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Frontiers in Public Health",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.4300000071525574,
+          "display_name": "Partnerships for the goals",
+          "id": "https://metadata.un.org/sdg/17"
+        },
+        {
+          "score": 0.4300000071525574,
+          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4407554902.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4407554902.grobid-xml"
+      },
+      "referenced_works_count": 26,
+      "referenced_works": [
+        "https://openalex.org/W3177205902",
+        "https://openalex.org/W4296232857",
+        "https://openalex.org/W4313646859",
+        "https://openalex.org/W4321748146",
+        "https://openalex.org/W4384465764",
+        "https://openalex.org/W4391007419",
+        "https://openalex.org/W4391282542",
+        "https://openalex.org/W4391930855",
+        "https://openalex.org/W4392159963",
+        "https://openalex.org/W4392592376",
+        "https://openalex.org/W4394978625",
+        "https://openalex.org/W4395463052",
+        "https://openalex.org/W4399285295",
+        "https://openalex.org/W4399603737",
+        "https://openalex.org/W4400722918",
+        "https://openalex.org/W4401992549",
+        "https://openalex.org/W4403192325",
+        "https://openalex.org/W4404184136",
+        "https://openalex.org/W4404636050",
+        "https://openalex.org/W4404775897",
+        "https://openalex.org/W4406112674",
+        "https://openalex.org/W6870138830",
+        "https://openalex.org/W6871075927",
+        "https://openalex.org/W6871421123",
+        "https://openalex.org/W6871571158",
+        "https://openalex.org/W6875511025"
+      ],
+      "related_works": [
+        "https://openalex.org/W4383501580",
+        "https://openalex.org/W4214931137",
+        "https://openalex.org/W4313813117",
+        "https://openalex.org/W4382052417",
+        "https://openalex.org/W3192088754",
+        "https://openalex.org/W4387007686",
+        "https://openalex.org/W3084631705",
+        "https://openalex.org/W3176146353",
+        "https://openalex.org/W3215038878",
+        "https://openalex.org/W4375840519"
+      ],
+      "abstract_inverted_index": {
+        "Introduction:": [
+          0
+        ],
+        "The": [
+          1,
+          98,
+          131,
+          153,
+          319
+        ],
+        "integration": [
+          2
+        ],
+        "of": [
+          3,
+          70,
+          84,
+          105,
+          133,
+          141,
+          339,
+          358,
+          365,
+          372,
+          394
+        ],
+        "Artificial": [
+          4
+        ],
+        "Intelligence": [
+          5
+        ],
+        "(AI)": [
+          6
+        ],
+        "in": [
+          7,
+          38,
+          52,
+          91,
+          109,
+          137,
+          180,
+          183,
+          203,
+          262,
+          268,
+          312,
+          341,
+          378
+        ],
+        "healthcare,": [
+          8,
+          181
+        ],
+        "particularly": [
+          9,
+          182
+        ],
+        "through": [
+          10,
+          326
+        ],
+        "hybrid": [
+          11,
+          106,
+          178
+        ],
+        "chatbots,": [
+          12
+        ],
+        "is": [
+          13,
+          333
+        ],
+        "reshaping": [
+          14
+        ],
+        "the": [
+          15,
+          68,
+          82,
+          103,
+          134,
+          146,
+          213,
+          257,
+          263,
+          337,
+          359,
+          362,
+          370,
+          391
+        ],
+        "industry": [
+          16
+        ],
+        "by": [
+          17,
+          279,
+          286,
+          293
+        ],
+        "enhancing": [
+          18,
+          116
+        ],
+        "service": [
+          19
+        ],
+        "delivery,": [
+          20
+        ],
+        "patient": [
+          21,
+          117,
+          284,
+          307
+        ],
+        "engagement,": [
+          22,
+          118
+        ],
+        "and": [
+          23,
+          45,
+          58,
+          81,
+          115,
+          128,
+          145,
+          169,
+          177,
+          187,
+          200,
+          229,
+          245,
+          249,
+          288,
+          306,
+          315,
+          330,
+          353,
+          369,
+          390
+        ],
+        "clinical": [
+          24
+        ],
+        "outcomes.": [
+          25
+        ],
+        "These": [
+          26
+        ],
+        "chatbots": [
+          27,
+          93,
+          108,
+          179,
+          267
+        ],
+        "combine": [
+          28
+        ],
+        "AI": [
+          29,
+          74,
+          107,
+          175,
+          239,
+          340
+        ],
+        "with": [
+          30,
+          159
+        ],
+        "human": [
+          31
+        ],
+        "input": [
+          32
+        ],
+        "to": [
+          33,
+          72,
+          76,
+          101,
+          122,
+          196,
+          235,
+          255,
+          281,
+          386
+        ],
+        "provide": [
+          34
+        ],
+        "intelligent,": [
+          35
+        ],
+        "personalized": [
+          36
+        ],
+        "interactions": [
+          37
+        ],
+        "areas": [
+          39
+        ],
+        "like": [
+          40
+        ],
+        "diagnostics,": [
+          41
+        ],
+        "chronic": [
+          42,
+          184,
+          300
+        ],
+        "disease": [
+          43,
+          185,
+          301
+        ],
+        "management,": [
+          44,
+          302
+        ],
+        "mental": [
+          46,
+          188,
+          303
+        ],
+        "health": [
+          47,
+          189,
+          304
+        ],
+        "support.": [
+          48
+        ],
+        "However,": [
+          49
+        ],
+        "gaps": [
+          50
+        ],
+        "remain": [
+          51
+        ],
+        "trust,": [
+          53
+        ],
+        "data": [
+          54,
+          79,
+          167,
+          170,
+          258,
+          374
+        ],
+        "security,": [
+          55
+        ],
+        "system": [
+          56
+        ],
+        "integration,": [
+          57
+        ],
+        "user": [
+          59,
+          243
+        ],
+        "experience,": [
+          60
+        ],
+        "which": [
+          61
+        ],
+        "hinder": [
+          62
+        ],
+        "widespread": [
+          63
+        ],
+        "adoption.": [
+          64
+        ],
+        "Key": [
+          65
+        ],
+        "challenges": [
+          66,
+          389
+        ],
+        "include": [
+          67,
+          361
+        ],
+        "hesitancy": [
+          69
+        ],
+        "patients": [
+          71
+        ],
+        "trust": [
+          73,
+          129
+        ],
+        "due": [
+          75
+        ],
+        "concerns": [
+          77
+        ],
+        "over": [
+          78
+        ],
+        "privacy": [
+          80
+        ],
+        "accuracy": [
+          83
+        ],
+        "medical": [
+          85
+        ],
+        "advice,": [
+          86
+        ],
+        "as": [
+          87,
+          89,
+          125,
+          275
+        ],
+        "well": [
+          88
+        ],
+        "difficulties": [
+          90
+        ],
+        "integrating": [
+          92
+        ],
+        "into": [
+          94
+        ],
+        "existing": [
+          95
+        ],
+        "healthcare": [
+          96,
+          111,
+          269,
+          380,
+          396
+        ],
+        "infrastructures.": [
+          97
+        ],
+        "review": [
+          99,
+          135,
+          154,
+          165,
+          320,
+          360
+        ],
+        "aims": [
+          100
+        ],
+        "assess": [
+          102
+        ],
+        "effectiveness": [
+          104
+        ],
+        "improving": [
+          110,
+          283
+        ],
+        "outcomes,": [
+          112,
+          349
+        ],
+        "reducing": [
+          113,
+          276
+        ],
+        "costs,": [
+          114
+        ],
+        "while": [
+          119
+        ],
+        "identifying": [
+          120
+        ],
+        "barriers": [
+          121,
+          325
+        ],
+        "adoption": [
+          123
+        ],
+        "such": [
+          124,
+          274
+        ],
+        "cultural": [
+          126
+        ],
+        "adaptability": [
+          127
+        ],
+        "issues.": [
+          130
+        ],
+        "novelty": [
+          132
+        ],
+        "lies": [
+          136
+        ],
+        "its": [
+          138
+        ],
+        "comprehensive": [
+          139
+        ],
+        "exploration": [
+          140
+        ],
+        "both": [
+          142,
+          313
+        ],
+        "technological": [
+          143
+        ],
+        "advancements": [
+          144
+        ],
+        "socio-emotional": [
+          147
+        ],
+        "factors": [
+          148
+        ],
+        "influencing": [
+          149
+        ],
+        "chatbot": [
+          150
+        ],
+        "acceptance.": [
+          151
+        ],
+        "Methods:": [
+          152
+        ],
+        "follows": [
+          155
+        ],
+        "a": [
+          156,
+          221
+        ],
+        "systematic": [
+          157
+        ],
+        "methodology": [
+          158
+        ],
+        "four": [
+          160,
+          237
+        ],
+        "core": [
+          161
+        ],
+        "components:": [
+          162
+        ],
+        "eligibility": [
+          163
+        ],
+        "criteria,": [
+          164
+        ],
+        "selection,": [
+          166
+        ],
+        "extraction,": [
+          168
+        ],
+        "synthesis.": [
+          171
+        ],
+        "Studies": [
+          172
+        ],
+        "focused": [
+          173
+        ],
+        "on": [
+          174,
+          347,
+          375
+        ],
+        "applications": [
+          176
+        ],
+        "management": [
+          186
+        ],
+        "support,": [
+          190,
+          305
+        ],
+        "were": [
+          191,
+          198,
+          205,
+          253
+        ],
+        "included.": [
+          192
+        ],
+        "Publications": [
+          193
+        ],
+        "from": [
+          194
+        ],
+        "2022": [
+          195
+        ],
+        "2025": [
+          197
+        ],
+        "prioritized,": [
+          199
+        ],
+        "peer-reviewed": [
+          201
+        ],
+        "sources": [
+          202
+        ],
+        "English": [
+          204
+        ],
+        "considered.": [
+          206
+        ],
+        "After": [
+          207
+        ],
+        "screening": [
+          208
+        ],
+        "116": [
+          209
+        ],
+        "studies,": [
+          210
+        ],
+        "29": [
+          211
+        ],
+        "met": [
+          212
+        ],
+        "criteria": [
+          214
+        ],
+        "for": [
+          215,
+          299,
+          335
+        ],
+        "inclusion.": [
+          216
+        ],
+        "Data": [
+          217
+        ],
+        "was": [
+          218,
+          233
+        ],
+        "extracted": [
+          219
+        ],
+        "using": [
+          220
+        ],
+        "structured": [
+          222
+        ],
+        "template,": [
+          223
+        ],
+        "capturing": [
+          224
+        ],
+        "study": [
+          225
+        ],
+        "objectives,": [
+          226
+        ],
+        "methodologies,": [
+          227
+        ],
+        "findings,": [
+          228
+        ],
+        "challenges.": [
+          230
+        ],
+        "Thematic": [
+          231
+        ],
+        "analysis": [
+          232,
+          251
+        ],
+        "applied": [
+          234
+        ],
+        "identify": [
+          236
+        ],
+        "themes:": [
+          238
+        ],
+        "applications,": [
+          240
+        ],
+        "technical": [
+          241
+        ],
+        "advancements,": [
+          242
+        ],
+        "adoption,": [
+          244
+        ],
+        "challenges/ethical": [
+          246
+        ],
+        "concerns.": [
+          247
+        ],
+        "Statistical": [
+          248
+        ],
+        "content": [
+          250
+        ],
+        "methods": [
+          252
+        ],
+        "employed": [
+          254
+        ],
+        "synthesize": [
+          256
+        ],
+        "comprehensively,": [
+          259
+        ],
+        "ensuring": [
+          260
+        ],
+        "robustness": [
+          261
+        ],
+        "findings.": [
+          264
+        ],
+        "Results:": [
+          265
+        ],
+        "Hybrid": [
+          266
+        ],
+        "have": [
+          270
+        ],
+        "shown": [
+          271
+        ],
+        "significant": [
+          272
+        ],
+        "benefits,": [
+          273
+        ],
+        "hospital": [
+          277
+        ],
+        "readmissions": [
+          278
+        ],
+        "up": [
+          280
+        ],
+        "25%,": [
+          282
+        ],
+        "engagement": [
+          285
+        ],
+        "30%,": [
+          287
+        ],
+        "cutting": [
+          289
+        ],
+        "consultation": [
+          290
+        ],
+        "wait": [
+          291
+        ],
+        "times": [
+          292
+        ],
+        "15%.": [
+          294
+        ],
+        "They": [
+          295
+        ],
+        "are": [
+          296,
+          384
+        ],
+        "widely": [
+          297
+        ],
+        "used": [
+          298
+        ],
+        "education,": [
+          308
+        ],
+        "demonstrating": [
+          309
+        ],
+        "their": [
+          310
+        ],
+        "efficiency": [
+          311
+        ],
+        "developed": [
+          314
+        ],
+        "developing": [
+          316
+        ],
+        "countries.": [
+          317
+        ],
+        "Discussion:": [
+          318
+        ],
+        "concludes": [
+          321
+        ],
+        "that": [
+          322
+        ],
+        "overcoming": [
+          323
+        ],
+        "these": [
+          324,
+          388
+        ],
+        "infrastructure": [
+          327
+        ],
+        "investment,": [
+          328
+        ],
+        "training,": [
+          329
+        ],
+        "enhanced": [
+          331
+        ],
+        "transparency": [
+          332
+        ],
+        "crucial": [
+          334
+        ],
+        "maximizing": [
+          336
+        ],
+        "potential": [
+          338
+        ],
+        "healthcare.": [
+          342
+        ],
+        "Future": [
+          343
+        ],
+        "researchers": [
+          344
+        ],
+        "should": [
+          345
+        ],
+        "focus": [
+          346
+        ],
+        "long-term": [
+          348,
+          373,
+          392
+        ],
+        "addressing": [
+          350
+        ],
+        "ethical": [
+          351
+        ],
+        "considerations,": [
+          352
+        ],
+        "expanding": [
+          354
+        ],
+        "cross-cultural": [
+          355
+        ],
+        "adaptability.": [
+          356
+        ],
+        "Limitations": [
+          357
+        ],
+        "narrow": [
+          363
+        ],
+        "scope": [
+          364
+        ],
+        "some": [
+          366
+        ],
+        "case": [
+          367
+        ],
+        "studies": [
+          368,
+          383
+        ],
+        "absence": [
+          371
+        ],
+        "AI's": [
+          376
+        ],
+        "efficacy": [
+          377
+        ],
+        "diverse": [
+          379
+        ],
+        "contexts.": [
+          381
+        ],
+        "Further": [
+          382
+        ],
+        "needed": [
+          385
+        ],
+        "explore": [
+          387
+        ],
+        "impact": [
+          393
+        ],
+        "AI-driven": [
+          395
+        ],
+        "solutions.": [
+          397
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 48
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 33
+        }
+      ],
+      "updated_date": "2026-09-21T07:43:02.447757",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  },
+  "pdf_file": "043_revolutionizing-e-health-the-transformative-role-of-ai-power.pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1530799/pdf",
+  "pdf_verified": true
+}

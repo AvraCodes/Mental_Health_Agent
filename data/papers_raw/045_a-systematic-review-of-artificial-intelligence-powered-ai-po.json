@@ -1,0 +1,1691 @@
+{
+  "id": 45,
+  "original": {
+    "id": 45,
+    "paper_name": "A systematic review of artificial intelligence-powered (AI-powered) chatbot intervention for managing chronic illness",
+    "site": "OpenAlex",
+    "venue_of_publication": "Annals of Medicine",
+    "year": 2024,
+    "researcher_info": "Moh Heri Kurniawan, Hanny Handiyani et al."
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T08:33:22.481878+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "A systematic review of artificial intelligence-powered (AI-powered) chatbot intervention for managing chronic illness",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W4392641652",
+    "doi": "https://doi.org/10.1080/07853890.2024.2302980",
+    "title_matched": "A systematic review of artificial intelligence-powered (AI-powered) chatbot intervention for managing chronic illness",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2024,
+    "venue": "Annals of Medicine",
+    "authors": [
+      "Moh Heri Kurniawan",
+      "Hanny Handiyani",
+      "Tuti Nuraini",
+      "Rr. Tutik Sri Hariyati",
+      "Sutrisno Sutrisno"
+    ],
+    "abstract": "BACKGROUND: Utilizing artificial intelligence (AI) in chatbots, especially for chronic diseases, has become increasingly prevalent. These AI-powered chatbots serve as crucial tools for enhancing patient communication, addressing the rising prevalence of chronic conditions, and meeting the growing demand for supportive healthcare applications. However, there is a notable gap in comprehensive reviews evaluating the impact of AI-powered chatbot interventions in healthcare within academic literature. This study aimed to assess user satisfaction, intervention efficacy, and the specific characteristics and AI architectures of chatbot systems designed for chronic diseases. METHOD: A thorough exploration of the existing literature was undertaken by employing diverse databases such as PubMed MEDLINE, CINAHL, EMBASE, PsycINFO, ACM Digital Library and Scopus. The studies incorporated in this analysis encompassed primary research that employed chatbots or other forms of AI architecture in the context of preventing, treating or rehabilitating chronic diseases. The assessment of bias risk was conducted using Risk of 2.0 Tools. RESULTS: = 1). The research provided valuable insights into the effectiveness and user-friendliness of AI-powered chatbots in handling various chronic conditions. Overall, users showed favourable acceptance of these chatbots for self-managing chronic illnesses. CONCLUSIONS: The reviewed studies suggest promising acceptance of AI-powered chatbots for self-managing chronic conditions. However, limited evidence on their efficacy due to insufficient technical documentation calls for future studies to provide detailed descriptions and prioritize patient safety. These chatbots employ natural language processing and multimodal interaction. Subsequent research should focus on evidence-based evaluations, facilitating comparisons across diverse chronic health conditions.",
+    "cited_by_count": 175,
+    "is_oa": true,
+    "pdf_url": null,
+    "pdf_candidates": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10930147/pdf/IANN_56_2302980.pdf"
+    ],
+    "landing_page_url": "https://doi.org/10.1080/07853890.2024.2302980",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W4392641652",
+      "doi": "https://doi.org/10.1080/07853890.2024.2302980",
+      "title": "A systematic review of artificial intelligence-powered (AI-powered) chatbot intervention for managing chronic illness",
+      "display_name": "A systematic review of artificial intelligence-powered (AI-powered) chatbot intervention for managing chronic illness",
+      "relevance_score": 5406.1025,
+      "publication_year": 2024,
+      "publication_date": "2024-03-11",
+      "ids": {
+        "openalex": "https://openalex.org/W4392641652",
+        "doi": "https://doi.org/10.1080/07853890.2024.2302980",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/38466897"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1080/07853890.2024.2302980",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1080/07853890.2024.2302980",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S203391715",
+          "display_name": "Annals of Medicine",
+          "issn_l": "0785-3890",
+          "issn": [
+            "0785-3890",
+            "1365-2060"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "doyens",
+            "jufo-2",
+            "medline",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320449",
+          "host_organization_name": "Informa",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320449"
+          ],
+          "host_organization_lineage_names": [
+            "Informa"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Annals of Medicine",
+        "raw_type": "journal-article"
+      },
+      "type": "review",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.1080/07853890.2024.2302980",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5008605302",
+            "display_name": "Moh Heri Kurniawan",
+            "orcid": "https://orcid.org/0000-0001-6847-6484"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I29617571",
+              "display_name": "University of Indonesia",
+              "ror": "https://ror.org/0116zj450",
+              "country_code": "ID",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I29617571"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4400573217",
+              "display_name": "Aisyah University",
+              "ror": "https://ror.org/05vwjwk52",
+              "country_code": null,
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4400573217"
+              ]
+            }
+          ],
+          "countries": [
+            "ID"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Moh Heri Kurniawan",
+          "raw_affiliation_strings": [
+            "Departement of Nursing, Faculty of Health, Universitas Aisyah Pringsewu, Kabupaten Pringsewu, Indonesia",
+            "Doctoral Student, Faculty of Nursing, Universitas Indonesia, Depok, Indonesia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-6847-6484",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Departement of Nursing, Faculty of Health, Universitas Aisyah Pringsewu, Kabupaten Pringsewu, Indonesia",
+              "institution_ids": [
+                "https://openalex.org/I4400573217"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Doctoral Student, Faculty of Nursing, Universitas Indonesia, Depok, Indonesia",
+              "institution_ids": [
+                "https://openalex.org/I29617571"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5035452647",
+            "display_name": "Hanny Handiyani",
+            "orcid": "https://orcid.org/0000-0002-1746-267X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I29617571",
+              "display_name": "University of Indonesia",
+              "ror": "https://ror.org/0116zj450",
+              "country_code": "ID",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I29617571"
+              ]
+            }
+          ],
+          "countries": [
+            "ID"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Hanny Handiyani",
+          "raw_affiliation_strings": [
+            "Department of Nursing, Faculty of Nursing, Universitas Indonesia, Depok, Indonesia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-1746-267X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Nursing, Faculty of Nursing, Universitas Indonesia, Depok, Indonesia",
+              "institution_ids": [
+                "https://openalex.org/I29617571"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5035889868",
+            "display_name": "Tuti Nuraini",
+            "orcid": "https://orcid.org/0000-0003-1170-0398"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I29617571",
+              "display_name": "University of Indonesia",
+              "ror": "https://ror.org/0116zj450",
+              "country_code": "ID",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I29617571"
+              ]
+            }
+          ],
+          "countries": [
+            "ID"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Tuti Nuraini",
+          "raw_affiliation_strings": [
+            "Department of Nursing, Faculty of Nursing, Universitas Indonesia, Depok, Indonesia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-1170-0398",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Nursing, Faculty of Nursing, Universitas Indonesia, Depok, Indonesia",
+              "institution_ids": [
+                "https://openalex.org/I29617571"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5076372522",
+            "display_name": "Rr. Tutik Sri Hariyati",
+            "orcid": "https://orcid.org/0000-0003-4496-4795"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I29617571",
+              "display_name": "University of Indonesia",
+              "ror": "https://ror.org/0116zj450",
+              "country_code": "ID",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I29617571"
+              ]
+            }
+          ],
+          "countries": [
+            "ID"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rr Tutik Sri Hariyati",
+          "raw_affiliation_strings": [
+            "Department of Nursing, Faculty of Nursing, Universitas Indonesia, Depok, Indonesia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-4496-4795",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Nursing, Faculty of Nursing, Universitas Indonesia, Depok, Indonesia",
+              "institution_ids": [
+                "https://openalex.org/I29617571"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5094113724",
+            "display_name": "Sutrisno Sutrisno",
+            "orcid": "https://orcid.org/0009-0000-8700-5864"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4400573217",
+              "display_name": "Aisyah University",
+              "ror": "https://ror.org/05vwjwk52",
+              "country_code": null,
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4400573217"
+              ]
+            }
+          ],
+          "countries": [
+            "ID"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sutrisno Sutrisno",
+          "raw_affiliation_strings": [
+            "Departement of Nursing, Faculty of Health, Universitas Aisyah Pringsewu, Kabupaten Pringsewu, Indonesia"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0000-8700-5864",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Departement of Nursing, Faculty of Health, Universitas Aisyah Pringsewu, Kabupaten Pringsewu, Indonesia",
+              "institution_ids": [
+                "https://openalex.org/I4400573217"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5035452647"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I29617571"
+      ],
+      "apc_list": {
+        "value": 2085,
+        "currency": "GBP",
+        "value_usd": 2557
+      },
+      "apc_paid": {
+        "value": 2085,
+        "currency": "GBP",
+        "value_usd": 2557
+      },
+      "fwci": 10.8609,
+      "has_fulltext": true,
+      "cited_by_count": 175,
+      "citation_normalized_percentile": {
+        "value": 0.98247322,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 99,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "56",
+        "issue": "1",
+        "first_page": "2302980",
+        "last_page": "2302980"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12128",
+        "display_name": "AI in Service Interactions",
+        "score": 0.3443000018596649,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12128",
+          "display_name": "AI in Service Interactions",
+          "score": 0.3443000018596649,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11519",
+          "display_name": "Digital Mental Health Interventions",
+          "score": 0.33079999685287476,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3202",
+            "display_name": "Applied Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11636",
+          "display_name": "Artificial Intelligence in Healthcare and Education",
+          "score": 0.20649999380111694,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2718",
+            "display_name": "Health Informatics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/chatbot",
+          "display_name": "Chatbot",
+          "score": 0.9679708480834961
+        },
+        {
+          "id": "https://openalex.org/keywords/intervention",
+          "display_name": "Intervention (counseling)",
+          "score": 0.6482663154602051
+        },
+        {
+          "id": "https://openalex.org/keywords/psychological-intervention",
+          "display_name": "Psychological intervention",
+          "score": 0.6129071712493896
+        },
+        {
+          "id": "https://openalex.org/keywords/telemedicine",
+          "display_name": "Telemedicine",
+          "score": 0.5136253237724304
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.47896674275398254
+        },
+        {
+          "id": "https://openalex.org/keywords/health-care",
+          "display_name": "Health care",
+          "score": 0.44853267073631287
+        },
+        {
+          "id": "https://openalex.org/keywords/ehealth",
+          "display_name": "eHealth",
+          "score": 0.43271079659461975
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.34824439883232117
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.3397572636604309
+        },
+        {
+          "id": "https://openalex.org/keywords/data-science",
+          "display_name": "Data science",
+          "score": 0.3257412910461426
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.24400359392166138
+        },
+        {
+          "id": "https://openalex.org/keywords/nursing",
+          "display_name": "Nursing",
+          "score": 0.2320590317249298
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2779041454",
+          "wikidata": "https://www.wikidata.org/wiki/Q870780",
+          "display_name": "Chatbot",
+          "level": 2,
+          "score": 0.9679708480834961
+        },
+        {
+          "id": "https://openalex.org/C2780665704",
+          "wikidata": "https://www.wikidata.org/wiki/Q959298",
+          "display_name": "Intervention (counseling)",
+          "level": 2,
+          "score": 0.6482663154602051
+        },
+        {
+          "id": "https://openalex.org/C27415008",
+          "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+          "display_name": "Psychological intervention",
+          "level": 2,
+          "score": 0.6129071712493896
+        },
+        {
+          "id": "https://openalex.org/C2779891985",
+          "wikidata": "https://www.wikidata.org/wiki/Q46994",
+          "display_name": "Telemedicine",
+          "level": 3,
+          "score": 0.5136253237724304
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.47896674275398254
+        },
+        {
+          "id": "https://openalex.org/C160735492",
+          "wikidata": "https://www.wikidata.org/wiki/Q31207",
+          "display_name": "Health care",
+          "level": 2,
+          "score": 0.44853267073631287
+        },
+        {
+          "id": "https://openalex.org/C202645933",
+          "wikidata": "https://www.wikidata.org/wiki/Q4930",
+          "display_name": "eHealth",
+          "level": 3,
+          "score": 0.43271079659461975
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.34824439883232117
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.3397572636604309
+        },
+        {
+          "id": "https://openalex.org/C2522767166",
+          "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+          "display_name": "Data science",
+          "level": 1,
+          "score": 0.3257412910461426
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.24400359392166138
+        },
+        {
+          "id": "https://openalex.org/C159110408",
+          "wikidata": "https://www.wikidata.org/wiki/Q121176",
+          "display_name": "Nursing",
+          "level": 1,
+          "score": 0.2320590317249298
+        },
+        {
+          "id": "https://openalex.org/C50522688",
+          "wikidata": "https://www.wikidata.org/wiki/Q189833",
+          "display_name": "Economic growth",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.0
+        }
+      ],
+      "mesh": [
+        {
+          "descriptor_ui": "D000097813",
+          "descriptor_name": "Coping Skills",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D000097813",
+          "descriptor_name": "Coping Skills",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D000097813",
+          "descriptor_name": "Coping Skills",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D000097813",
+          "descriptor_name": "Coping Skills",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001185",
+          "descriptor_name": "Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001185",
+          "descriptor_name": "Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001185",
+          "descriptor_name": "Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001185",
+          "descriptor_name": "Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001185",
+          "descriptor_name": "Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001185",
+          "descriptor_name": "Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001185",
+          "descriptor_name": "Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001185",
+          "descriptor_name": "Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D002908",
+          "descriptor_name": "Chronic Disease",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D002908",
+          "descriptor_name": "Chronic Disease",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D002908",
+          "descriptor_name": "Chronic Disease",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D002908",
+          "descriptor_name": "Chronic Disease",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D002908",
+          "descriptor_name": "Chronic Disease",
+          "qualifier_ui": "Q000628",
+          "qualifier_name": "therapy",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D002908",
+          "descriptor_name": "Chronic Disease",
+          "qualifier_ui": "Q000628",
+          "qualifier_name": "therapy",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D002908",
+          "descriptor_name": "Chronic Disease",
+          "qualifier_ui": "Q000628",
+          "qualifier_name": "therapy",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D002908",
+          "descriptor_name": "Chronic Disease",
+          "qualifier_ui": "Q000628",
+          "qualifier_name": "therapy",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D016208",
+          "descriptor_name": "Databases, Factual",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D016208",
+          "descriptor_name": "Databases, Factual",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D016208",
+          "descriptor_name": "Databases, Factual",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D016208",
+          "descriptor_name": "Databases, Factual",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D017060",
+          "descriptor_name": "Patient Satisfaction",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D017060",
+          "descriptor_name": "Patient Satisfaction",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D017060",
+          "descriptor_name": "Patient Satisfaction",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D017060",
+          "descriptor_name": "Patient Satisfaction",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        }
+      ],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.1080/07853890.2024.2302980",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1080/07853890.2024.2302980",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S203391715",
+            "display_name": "Annals of Medicine",
+            "issn_l": "0785-3890",
+            "issn": [
+              "0785-3890",
+              "1365-2060"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "doyens",
+              "jufo-2",
+              "medline",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310320449",
+            "host_organization_name": "Informa",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320449"
+            ],
+            "host_organization_lineage_names": [
+              "Informa"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Annals of Medicine",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:38466897",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/38466897",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Annals of medicine",
+          "raw_type": "Systematic Review"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:10930147",
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10930147",
+          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10930147/pdf/IANN_56_2302980.pdf",
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Ann Med",
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:29f0fe423739412f9b48165846be21d1",
+          "is_oa": false,
+          "landing_page_url": "https://doaj.org/article/29f0fe423739412f9b48165846be21d1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Annals of Medicine, Vol 56, Iss 1 (2024)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1080/07853890.2024.2302980",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1080/07853890.2024.2302980",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S203391715",
+          "display_name": "Annals of Medicine",
+          "issn_l": "0785-3890",
+          "issn": [
+            "0785-3890",
+            "1365-2060"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "doyens",
+            "jufo-2",
+            "medline",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320449",
+          "host_organization_name": "Informa",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320449"
+          ],
+          "host_organization_lineage_names": [
+            "Informa"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Annals of Medicine",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 42,
+      "referenced_works": [
+        "https://openalex.org/W1267646904",
+        "https://openalex.org/W1975244201",
+        "https://openalex.org/W2098923148",
+        "https://openalex.org/W2169205464",
+        "https://openalex.org/W2170806468",
+        "https://openalex.org/W2503560868",
+        "https://openalex.org/W2531099434",
+        "https://openalex.org/W2588681363",
+        "https://openalex.org/W2738975713",
+        "https://openalex.org/W2843010082",
+        "https://openalex.org/W2896492706",
+        "https://openalex.org/W2901396624",
+        "https://openalex.org/W2932813050",
+        "https://openalex.org/W2934309502",
+        "https://openalex.org/W2943926189",
+        "https://openalex.org/W2955088691",
+        "https://openalex.org/W2969468266",
+        "https://openalex.org/W2975359609",
+        "https://openalex.org/W2975920545",
+        "https://openalex.org/W2982643860",
+        "https://openalex.org/W2990464492",
+        "https://openalex.org/W2996664720",
+        "https://openalex.org/W3002751842",
+        "https://openalex.org/W3008401017",
+        "https://openalex.org/W3022528244",
+        "https://openalex.org/W3029938811",
+        "https://openalex.org/W3033584866",
+        "https://openalex.org/W3046201587",
+        "https://openalex.org/W3047309370",
+        "https://openalex.org/W3111402712",
+        "https://openalex.org/W3122332567",
+        "https://openalex.org/W3136783667",
+        "https://openalex.org/W3156818268",
+        "https://openalex.org/W3200742808",
+        "https://openalex.org/W4200588694",
+        "https://openalex.org/W4210276879",
+        "https://openalex.org/W4220766556",
+        "https://openalex.org/W4233023712",
+        "https://openalex.org/W4242809155",
+        "https://openalex.org/W4321748146",
+        "https://openalex.org/W4362667331",
+        "https://openalex.org/W4385759496"
+      ],
+      "related_works": [
+        "https://openalex.org/W4383501580",
+        "https://openalex.org/W4214931137",
+        "https://openalex.org/W4387007686",
+        "https://openalex.org/W4313813117",
+        "https://openalex.org/W4382052417",
+        "https://openalex.org/W3192088754",
+        "https://openalex.org/W3084631705",
+        "https://openalex.org/W3176146353",
+        "https://openalex.org/W4293646425",
+        "https://openalex.org/W2804926455"
+      ],
+      "abstract_inverted_index": {
+        "BACKGROUND:": [
+          0
+        ],
+        "Utilizing": [
+          1
+        ],
+        "artificial": [
+          2
+        ],
+        "intelligence": [
+          3
+        ],
+        "(AI)": [
+          4
+        ],
+        "in": [
+          5,
+          48,
+          58,
+          115,
+          130,
+          168
+        ],
+        "chatbots,": [
+          6
+        ],
+        "especially": [
+          7
+        ],
+        "for": [
+          8,
+          22,
+          38,
+          83,
+          181,
+          195,
+          211
+        ],
+        "chronic": [
+          9,
+          31,
+          84,
+          138,
+          171,
+          183,
+          197,
+          242
+        ],
+        "diseases,": [
+          10
+        ],
+        "has": [
+          11
+        ],
+        "become": [
+          12
+        ],
+        "increasingly": [
+          13
+        ],
+        "prevalent.": [
+          14
+        ],
+        "These": [
+          15,
+          222
+        ],
+        "AI-powered": [
+          16,
+          55,
+          166,
+          193
+        ],
+        "chatbots": [
+          17,
+          123,
+          167,
+          180,
+          194,
+          223
+        ],
+        "serve": [
+          18
+        ],
+        "as": [
+          19,
+          101
+        ],
+        "crucial": [
+          20
+        ],
+        "tools": [
+          21
+        ],
+        "enhancing": [
+          23
+        ],
+        "patient": [
+          24,
+          220
+        ],
+        "communication,": [
+          25
+        ],
+        "addressing": [
+          26
+        ],
+        "the": [
+          27,
+          35,
+          52,
+          73,
+          91,
+          131,
+          161
+        ],
+        "rising": [
+          28
+        ],
+        "prevalence": [
+          29
+        ],
+        "of": [
+          30,
+          54,
+          79,
+          90,
+          127,
+          133,
+          142,
+          149,
+          165,
+          178,
+          192
+        ],
+        "conditions,": [
+          32
+        ],
+        "and": [
+          33,
+          72,
+          76,
+          110,
+          163,
+          218,
+          228
+        ],
+        "meeting": [
+          34
+        ],
+        "growing": [
+          36
+        ],
+        "demand": [
+          37
+        ],
+        "supportive": [
+          39
+        ],
+        "healthcare": [
+          40,
+          59
+        ],
+        "applications.": [
+          41
+        ],
+        "However,": [
+          42,
+          199
+        ],
+        "there": [
+          43
+        ],
+        "is": [
+          44
+        ],
+        "a": [
+          45
+        ],
+        "notable": [
+          46
+        ],
+        "gap": [
+          47
+        ],
+        "comprehensive": [
+          49
+        ],
+        "reviews": [
+          50
+        ],
+        "evaluating": [
+          51
+        ],
+        "impact": [
+          53
+        ],
+        "chatbot": [
+          56,
+          80
+        ],
+        "interventions": [
+          57
+        ],
+        "within": [
+          60
+        ],
+        "academic": [
+          61
+        ],
+        "literature.": [
+          62
+        ],
+        "This": [
+          63
+        ],
+        "study": [
+          64
+        ],
+        "aimed": [
+          65
+        ],
+        "to": [
+          66,
+          206,
+          214
+        ],
+        "assess": [
+          67
+        ],
+        "user": [
+          68
+        ],
+        "satisfaction,": [
+          69
+        ],
+        "intervention": [
+          70
+        ],
+        "efficacy,": [
+          71
+        ],
+        "specific": [
+          74
+        ],
+        "characteristics": [
+          75
+        ],
+        "AI": [
+          77,
+          128
+        ],
+        "architectures": [
+          78
+        ],
+        "systems": [
+          81
+        ],
+        "designed": [
+          82
+        ],
+        "diseases.": [
+          85,
+          139
+        ],
+        "METHOD:": [
+          86
+        ],
+        "A": [
+          87
+        ],
+        "thorough": [
+          88
+        ],
+        "exploration": [
+          89
+        ],
+        "existing": [
+          92
+        ],
+        "literature": [
+          93
+        ],
+        "was": [
+          94,
+          145
+        ],
+        "undertaken": [
+          95
+        ],
+        "by": [
+          96
+        ],
+        "employing": [
+          97
+        ],
+        "diverse": [
+          98,
+          241
+        ],
+        "databases": [
+          99
+        ],
+        "such": [
+          100
+        ],
+        "PubMed": [
+          102
+        ],
+        "MEDLINE,": [
+          103
+        ],
+        "CINAHL,": [
+          104
+        ],
+        "EMBASE,": [
+          105
+        ],
+        "PsycINFO,": [
+          106
+        ],
+        "ACM": [
+          107
+        ],
+        "Digital": [
+          108
+        ],
+        "Library": [
+          109
+        ],
+        "Scopus.": [
+          111
+        ],
+        "The": [
+          112,
+          140,
+          155,
+          186
+        ],
+        "studies": [
+          113,
+          188,
+          213
+        ],
+        "incorporated": [
+          114
+        ],
+        "this": [
+          116
+        ],
+        "analysis": [
+          117
+        ],
+        "encompassed": [
+          118
+        ],
+        "primary": [
+          119
+        ],
+        "research": [
+          120,
+          156,
+          232
+        ],
+        "that": [
+          121
+        ],
+        "employed": [
+          122
+        ],
+        "or": [
+          124,
+          136
+        ],
+        "other": [
+          125
+        ],
+        "forms": [
+          126
+        ],
+        "architecture": [
+          129
+        ],
+        "context": [
+          132
+        ],
+        "preventing,": [
+          134
+        ],
+        "treating": [
+          135
+        ],
+        "rehabilitating": [
+          137
+        ],
+        "assessment": [
+          141
+        ],
+        "bias": [
+          143
+        ],
+        "risk": [
+          144
+        ],
+        "conducted": [
+          146
+        ],
+        "using": [
+          147
+        ],
+        "Risk": [
+          148
+        ],
+        "2.0": [
+          150
+        ],
+        "Tools.": [
+          151
+        ],
+        "RESULTS:": [
+          152
+        ],
+        "=": [
+          153
+        ],
+        "1).": [
+          154
+        ],
+        "provided": [
+          157
+        ],
+        "valuable": [
+          158
+        ],
+        "insights": [
+          159
+        ],
+        "into": [
+          160
+        ],
+        "effectiveness": [
+          162
+        ],
+        "user-friendliness": [
+          164
+        ],
+        "handling": [
+          169
+        ],
+        "various": [
+          170
+        ],
+        "conditions.": [
+          172,
+          198,
+          244
+        ],
+        "Overall,": [
+          173
+        ],
+        "users": [
+          174
+        ],
+        "showed": [
+          175
+        ],
+        "favourable": [
+          176
+        ],
+        "acceptance": [
+          177,
+          191
+        ],
+        "these": [
+          179
+        ],
+        "self-managing": [
+          182,
+          196
+        ],
+        "illnesses.": [
+          184
+        ],
+        "CONCLUSIONS:": [
+          185
+        ],
+        "reviewed": [
+          187
+        ],
+        "suggest": [
+          189
+        ],
+        "promising": [
+          190
+        ],
+        "limited": [
+          200
+        ],
+        "evidence": [
+          201
+        ],
+        "on": [
+          202,
+          235
+        ],
+        "their": [
+          203
+        ],
+        "efficacy": [
+          204
+        ],
+        "due": [
+          205
+        ],
+        "insufficient": [
+          207
+        ],
+        "technical": [
+          208
+        ],
+        "documentation": [
+          209
+        ],
+        "calls": [
+          210
+        ],
+        "future": [
+          212
+        ],
+        "provide": [
+          215
+        ],
+        "detailed": [
+          216
+        ],
+        "descriptions": [
+          217
+        ],
+        "prioritize": [
+          219
+        ],
+        "safety.": [
+          221
+        ],
+        "employ": [
+          224
+        ],
+        "natural": [
+          225
+        ],
+        "language": [
+          226
+        ],
+        "processing": [
+          227
+        ],
+        "multimodal": [
+          229
+        ],
+        "interaction.": [
+          230
+        ],
+        "Subsequent": [
+          231
+        ],
+        "should": [
+          233
+        ],
+        "focus": [
+          234
+        ],
+        "evidence-based": [
+          236
+        ],
+        "evaluations,": [
+          237
+        ],
+        "facilitating": [
+          238
+        ],
+        "comparisons": [
+          239
+        ],
+        "across": [
+          240
+        ],
+        "health": [
+          243
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 62
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 93
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 20
+        }
+      ],
+      "updated_date": "2026-09-22T06:50:58.402377",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  },
+  "pdf_file": "045_a-systematic-review-of-artificial-intelligence-powered-ai-po.pdf",
+  "pdf_url": null,
+  "pdf_verified": true
+}

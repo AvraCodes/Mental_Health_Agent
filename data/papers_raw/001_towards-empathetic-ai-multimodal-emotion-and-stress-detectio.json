@@ -1,0 +1,56 @@
+{
+  "id": 1,
+  "original": {
+    "paper_name": "Towards Empathetic AI: Multimodal Emotion and Stress Detection in Real-Time Dialog Systems",
+    "site": "DBLP",
+    "venue_of_publication": "AAAI",
+    "year": 2025,
+    "researcher_info": "W. Chen, et al.",
+    "id": 1
+  },
+  "site": "DBLP",
+  "scraped_at": "2026-09-22T11:10:49.513838+00:00",
+  "fetched": {
+    "found": true,
+    "query": "Towards Empathetic AI: Multimodal Emotion and Stress Detection in Real-Time Dialog Systems",
+    "method": "crossref-fallback",
+    "doi": "10.18653/v1/2024.yrrsds-1.22",
+    "doi_url": "https://doi.org/10.18653/v1/2024.yrrsds-1.22",
+    "title_matched": "Towards a Real-Time Multimodal Emotion Estimation Model for Dialogue Systems",
+    "title_similarity": 0.691,
+    "match_confidence": "medium",
+    "authors": [
+      "Jingjing Jiang"
+    ],
+    "year": 2024,
+    "venue": "Proceedings of the 20th Workshop of Young Researchers' Roundtable on Spoken Dialogue Systems",
+    "publisher": "Association for Computational Linguistics",
+    "pdf_url": null,
+    "landing_page_url": "https://doi.org/10.18653/v1/2024.yrrsds-1.22",
+    "site": "DBLP",
+    "site_miss": {
+      "found": false,
+      "site": "DBLP",
+      "query": "Towards Empathetic AI: Multimodal Emotion and Stress Detection in Real-Time Dialog Systems",
+      "method": "api",
+      "error": "Expecting value: line 1 column 1 (char 0)",
+      "playwright_fallback": {
+        "found": false,
+        "site": "DBLP",
+        "query": "Towards Empathetic AI: Multimodal Emotion and Stress Detection in Real-Time Dialog Systems",
+        "method": "playwright",
+        "search_url": "https://dblp.org/search?q=Towards%20Empathetic%20AI%3A%20Multimodal%20Emotion%20and%20Stress%20Detection",
+        "top_hits": [],
+        "top_links": [],
+        "short_query_used": "Towards Empathetic AI: Multimodal Emotion and Stress Detection"
+      }
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": null,
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

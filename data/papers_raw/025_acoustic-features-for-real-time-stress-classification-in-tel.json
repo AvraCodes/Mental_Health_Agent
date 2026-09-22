@@ -1,0 +1,134 @@
+{
+  "id": 25,
+  "original": {
+    "paper_name": "Acoustic Features for Real-Time Stress Classification in Telehealth",
+    "site": "Crossref",
+    "venue_of_publication": "Journal of Voice",
+    "year": 2024,
+    "researcher_info": "K. Ahmed, et al.",
+    "id": 25
+  },
+  "site": "Crossref",
+  "scraped_at": "2026-09-22T11:00:17.503254+00:00",
+  "fetched": {
+    "found": true,
+    "site": "Crossref",
+    "query": "Acoustic Features for Real-Time Stress Classification in Telehealth",
+    "method": "api",
+    "doi": "10.1109/icit.2013.6505829",
+    "doi_url": "https://doi.org/10.1109/icit.2013.6505829",
+    "title_matched": "Gabor features for real-time road environment classification",
+    "title_similarity": 0.661,
+    "match_confidence": "low",
+    "authors": [
+      "L. Mioulet",
+      "T. P. Breckon",
+      "A. Mouton",
+      "Haichao Liang",
+      "T. Morie"
+    ],
+    "year": 2013,
+    "venue": "2013 IEEE International Conference on Industrial Technology (ICIT)",
+    "publisher": "IEEE",
+    "abstract": null,
+    "pdf_url": null,
+    "landing_page_url": "https://doi.org/10.1109/icit.2013.6505829",
+    "score": 25.102507,
+    "raw": {
+      "publisher": "IEEE",
+      "DOI": "10.1109/icit.2013.6505829",
+      "title": [
+        "Gabor features for real-time road environment classification"
+      ],
+      "author": [
+        {
+          "given": "L.",
+          "family": "Mioulet",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "T. P.",
+          "family": "Breckon",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Mouton",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "family": "Haichao Liang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "T.",
+          "family": "Morie",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "2013 IEEE International Conference on Industrial Technology (ICIT)"
+      ],
+      "link": [
+        {
+          "URL": "http://xplorestaging.ieee.org/ielx7/6495638/6505636/06505829.pdf?arnumber=6505829",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "score": 25.102507,
+      "URL": "https://doi.org/10.1109/icit.2013.6505829",
+      "published": {
+        "date-parts": [
+          [
+            2013,
+            2
+          ]
+        ]
+      }
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": null,
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

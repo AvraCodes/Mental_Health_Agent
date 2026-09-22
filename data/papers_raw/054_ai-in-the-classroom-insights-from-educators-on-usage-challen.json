@@ -1,0 +1,1210 @@
+{
+  "id": 54,
+  "original": {
+    "id": 54,
+    "paper_name": "AI in the Classroom: Insights from Educators on Usage, Challenges, and Mental Health",
+    "site": "OpenAlex",
+    "venue_of_publication": "Education Sciences",
+    "year": 2025,
+    "researcher_info": "Julie A. Delello, Woonhee Sung et al."
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T11:04:13.890420+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "AI in the Classroom: Insights from Educators on Usage, Challenges, and Mental Health",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W4406686240",
+    "doi": "https://doi.org/10.3390/educsci15020113",
+    "title_matched": "AI in the Classroom: Insights from Educators on Usage, Challenges, and Mental Health",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2025,
+    "venue": "Education Sciences",
+    "authors": [
+      "Julie A. Delello",
+      "Woonhee Sung",
+      "Kouider Mokhtari",
+      "Julie Hebert",
+      "Amy Bronson",
+      "Tonia De Giuseppe"
+    ],
+    "abstract": "This study examines educators’ perceptions of artificial intelligence (AI) in educational settings, focusing on their familiarity with AI tools, integration into teaching practices, professional development needs, the influence of institutional policies, and impacts on mental health. Survey responses from 353 educators across various levels and countries revealed that 92% of respondents are familiar with AI, utilizing it to enhance teaching efficiency and streamline administrative tasks. Notably, many educators reported students using AI tools like ChatGPT for assignments, prompting adaptations in teaching methods to promote critical thinking and reduce dependency. Some educators saw AI’s potential to reduce stress through automation but others raised concerns about increased anxiety and social isolation from reduced interpersonal interactions. This study highlights a gap in institutional AI policies, leading some educators to establish their own guidelines, particularly for matters such as data privacy and plagiarism. Furthermore, respondents identified a significant need for professional development focused on AI literacy and ethical considerations. This study’s findings suggest the necessity for longitudinal studies to explore the long-term effects of AI on educational outcomes and mental health and underscore the importance of incorporating student perspectives for a thorough understanding of AI’s role in education.",
+    "cited_by_count": 81,
+    "is_oa": true,
+    "pdf_url": "https://www.mdpi.com/2227-7102/15/2/113/pdf?version=1737516579",
+    "pdf_candidates": [
+      "https://www.mdpi.com/2227-7102/15/2/113/pdf?version=1737516579"
+    ],
+    "landing_page_url": "https://doi.org/10.3390/educsci15020113",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W4406686240",
+      "doi": "https://doi.org/10.3390/educsci15020113",
+      "title": "AI in the Classroom: Insights from Educators on Usage, Challenges, and Mental Health",
+      "display_name": "AI in the Classroom: Insights from Educators on Usage, Challenges, and Mental Health",
+      "relevance_score": 3071.6777,
+      "publication_year": 2025,
+      "publication_date": "2025-01-21",
+      "ids": {
+        "openalex": "https://openalex.org/W4406686240",
+        "doi": "https://doi.org/10.3390/educsci15020113"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3390/educsci15020113",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/educsci15020113",
+        "pdf_url": "https://www.mdpi.com/2227-7102/15/2/113/pdf?version=1737516579",
+        "source": {
+          "id": "https://openalex.org/S2738008561",
+          "display_name": "Education Sciences",
+          "issn_l": "2227-7102",
+          "issn": [
+            "2227-7102"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "erih-plus",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Education Sciences",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2227-7102/15/2/113/pdf?version=1737516579",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5021523372",
+            "display_name": "Julie A. Delello",
+            "orcid": "https://orcid.org/0000-0002-4326-8096"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I221716585",
+              "display_name": "The University of Texas at Tyler",
+              "ror": "https://ror.org/01azfw069",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I221716585"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Julie A. Delello",
+          "raw_affiliation_strings": [
+            "School of Education, The University of Texas at Tyler, Tyler, TX 75799, USA",
+            "Department or Faculty, The University of Texas at Tyler, Tyler, TX 75799, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Education, The University of Texas at Tyler, Tyler, TX 75799, USA",
+              "institution_ids": [
+                "https://openalex.org/I221716585"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department or Faculty, The University of Texas at Tyler, Tyler, TX 75799, USA",
+              "institution_ids": [
+                "https://openalex.org/I221716585"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039865364",
+            "display_name": "Woonhee Sung",
+            "orcid": "https://orcid.org/0000-0002-5530-1965"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I221716585",
+              "display_name": "The University of Texas at Tyler",
+              "ror": "https://ror.org/01azfw069",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I221716585"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Woonhee Sung",
+          "raw_affiliation_strings": [
+            "School of Education, The University of Texas at Tyler, Tyler, TX 75799, USA",
+            "Department or Faculty, The University of Texas at Tyler, Tyler, TX 75799, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-5530-1965",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Education, The University of Texas at Tyler, Tyler, TX 75799, USA",
+              "institution_ids": [
+                "https://openalex.org/I221716585"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department or Faculty, The University of Texas at Tyler, Tyler, TX 75799, USA",
+              "institution_ids": [
+                "https://openalex.org/I221716585"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5031990167",
+            "display_name": "Kouider Mokhtari",
+            "orcid": "https://orcid.org/0000-0002-0794-6697"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I221716585",
+              "display_name": "The University of Texas at Tyler",
+              "ror": "https://ror.org/01azfw069",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I221716585"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kouider Mokhtari",
+          "raw_affiliation_strings": [
+            "School of Education, The University of Texas at Tyler, Tyler, TX 75799, USA",
+            "Department or Faculty, The University of Texas at Tyler, Tyler, TX 75799, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-0794-6697",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Education, The University of Texas at Tyler, Tyler, TX 75799, USA",
+              "institution_ids": [
+                "https://openalex.org/I221716585"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department or Faculty, The University of Texas at Tyler, Tyler, TX 75799, USA",
+              "institution_ids": [
+                "https://openalex.org/I221716585"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5105024987",
+            "display_name": "Julie Hebert",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2800425969",
+              "display_name": "West Coast University",
+              "ror": "https://ror.org/04jj38x11",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I2800425969"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Julie Hebert",
+          "raw_affiliation_strings": [
+            "Physician Assistant Program, West Coast University, Richardson, TX 75080, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Physician Assistant Program, West Coast University, Richardson, TX 75080, USA",
+              "institution_ids": [
+                "https://openalex.org/I2800425969"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5008261829",
+            "display_name": "Amy Bronson",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2800425969",
+              "display_name": "West Coast University",
+              "ror": "https://ror.org/04jj38x11",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I2800425969"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Amy Bronson",
+          "raw_affiliation_strings": [
+            "Physician Assistant Program, West Coast University, Richardson, TX 75080, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Physician Assistant Program, West Coast University, Richardson, TX 75080, USA",
+              "institution_ids": [
+                "https://openalex.org/I2800425969"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5090145151",
+            "display_name": "Tonia De Giuseppe",
+            "orcid": "https://orcid.org/0000-0002-3235-4482"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210165932",
+              "display_name": "Giustino Fortunato University",
+              "ror": "https://ror.org/0592q0v50",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210165932"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Tonia De Giuseppe",
+          "raw_affiliation_strings": [
+            "Department of Didactics, Special Pedagogy, and Educational Research, Giustino Fortunato University of Benevento, 82100 Benevento, Italy"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-3235-4482",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Didactics, Special Pedagogy, and Educational Research, Giustino Fortunato University of Benevento, 82100 Benevento, Italy",
+              "institution_ids": [
+                "https://openalex.org/I4210165932"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5021523372"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I221716585"
+      ],
+      "apc_list": {
+        "value": 1800,
+        "currency": "CHF",
+        "value_usd": 2172
+      },
+      "apc_paid": {
+        "value": 1800,
+        "currency": "CHF",
+        "value_usd": 2172
+      },
+      "fwci": 50.4512,
+      "has_fulltext": true,
+      "cited_by_count": 81,
+      "citation_normalized_percentile": {
+        "value": 0.99887307,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 99,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "15",
+        "issue": "2",
+        "first_page": "113",
+        "last_page": "113"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11519",
+        "display_name": "Digital Mental Health Interventions",
+        "score": 0.9889000058174133,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3202",
+          "display_name": "Applied Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11519",
+          "display_name": "Digital Mental Health Interventions",
+          "score": 0.9889000058174133,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3202",
+            "display_name": "Applied Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12128",
+          "display_name": "AI in Service Interactions",
+          "score": 0.9828000068664551,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11122",
+          "display_name": "Online Learning and Analytics",
+          "score": 0.968500018119812,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1706",
+            "display_name": "Computer Science Applications"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/mental-health",
+          "display_name": "Mental health",
+          "score": 0.697321355342865
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematics-education",
+          "display_name": "Mathematics education",
+          "score": 0.5159454941749573
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.5027554035186768
+        },
+        {
+          "id": "https://openalex.org/keywords/pedagogy",
+          "display_name": "Pedagogy",
+          "score": 0.401969313621521
+        },
+        {
+          "id": "https://openalex.org/keywords/psychotherapist",
+          "display_name": "Psychotherapist",
+          "score": 0.11391642689704895
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C134362201",
+          "wikidata": "https://www.wikidata.org/wiki/Q317309",
+          "display_name": "Mental health",
+          "level": 2,
+          "score": 0.697321355342865
+        },
+        {
+          "id": "https://openalex.org/C145420912",
+          "wikidata": "https://www.wikidata.org/wiki/Q853077",
+          "display_name": "Mathematics education",
+          "level": 1,
+          "score": 0.5159454941749573
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.5027554035186768
+        },
+        {
+          "id": "https://openalex.org/C19417346",
+          "wikidata": "https://www.wikidata.org/wiki/Q7922",
+          "display_name": "Pedagogy",
+          "level": 1,
+          "score": 0.401969313621521
+        },
+        {
+          "id": "https://openalex.org/C542102704",
+          "wikidata": "https://www.wikidata.org/wiki/Q183257",
+          "display_name": "Psychotherapist",
+          "level": 1,
+          "score": 0.11391642689704895
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.3390/educsci15020113",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3390/educsci15020113",
+          "pdf_url": "https://www.mdpi.com/2227-7102/15/2/113/pdf?version=1737516579",
+          "source": {
+            "id": "https://openalex.org/S2738008561",
+            "display_name": "Education Sciences",
+            "issn_l": "2227-7102",
+            "issn": [
+              "2227-7102"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "erih-plus",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310310987",
+            "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310310987"
+            ],
+            "host_organization_lineage_names": [
+              "Multidisciplinary Digital Publishing Institute"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Education Sciences",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:c0889a634a4b442f8b720b94f8fcdeeb",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/c0889a634a4b442f8b720b94f8fcdeeb",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Education Sciences, Vol 15, Iss 2, p 113 (2025)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.3390/educsci15020113",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/educsci15020113",
+        "pdf_url": "https://www.mdpi.com/2227-7102/15/2/113/pdf?version=1737516579",
+        "source": {
+          "id": "https://openalex.org/S2738008561",
+          "display_name": "Education Sciences",
+          "issn_l": "2227-7102",
+          "issn": [
+            "2227-7102"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "erih-plus",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Education Sciences",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4406686240.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4406686240.grobid-xml"
+      },
+      "referenced_works_count": 52,
+      "referenced_works": [
+        "https://openalex.org/W1557992034",
+        "https://openalex.org/W1791587663",
+        "https://openalex.org/W1795020324",
+        "https://openalex.org/W2001771035",
+        "https://openalex.org/W2033943395",
+        "https://openalex.org/W2048799165",
+        "https://openalex.org/W2504967082",
+        "https://openalex.org/W2564039517",
+        "https://openalex.org/W2584342347",
+        "https://openalex.org/W2795834545",
+        "https://openalex.org/W2903928216",
+        "https://openalex.org/W2937037822",
+        "https://openalex.org/W2981863007",
+        "https://openalex.org/W2985355520",
+        "https://openalex.org/W3024823444",
+        "https://openalex.org/W3025784404",
+        "https://openalex.org/W3033626851",
+        "https://openalex.org/W3044080850",
+        "https://openalex.org/W3044171224",
+        "https://openalex.org/W3121633856",
+        "https://openalex.org/W3171541559",
+        "https://openalex.org/W3181940694",
+        "https://openalex.org/W3193836989",
+        "https://openalex.org/W3214839373",
+        "https://openalex.org/W4226394265",
+        "https://openalex.org/W4282972937",
+        "https://openalex.org/W4313425238",
+        "https://openalex.org/W4315649445",
+        "https://openalex.org/W4380879558",
+        "https://openalex.org/W4383815588",
+        "https://openalex.org/W4385152040",
+        "https://openalex.org/W4385878593",
+        "https://openalex.org/W4386405611",
+        "https://openalex.org/W4386479528",
+        "https://openalex.org/W4387333138",
+        "https://openalex.org/W4387873511",
+        "https://openalex.org/W4388734690",
+        "https://openalex.org/W4389934892",
+        "https://openalex.org/W4389981147",
+        "https://openalex.org/W4390543494",
+        "https://openalex.org/W4391609543",
+        "https://openalex.org/W4392559568",
+        "https://openalex.org/W4392883902",
+        "https://openalex.org/W4394875731",
+        "https://openalex.org/W4399740715",
+        "https://openalex.org/W4399776384",
+        "https://openalex.org/W4400214481",
+        "https://openalex.org/W4400723056",
+        "https://openalex.org/W4406327081",
+        "https://openalex.org/W6638315466",
+        "https://openalex.org/W6849025862",
+        "https://openalex.org/W6856139685"
+      ],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2931662336",
+        "https://openalex.org/W2077865380",
+        "https://openalex.org/W3006817050",
+        "https://openalex.org/W4401768695",
+        "https://openalex.org/W2765597752",
+        "https://openalex.org/W2134894512",
+        "https://openalex.org/W2083375246",
+        "https://openalex.org/W2067108088"
+      ],
+      "abstract_inverted_index": {
+        "This": [
+          0,
+          113,
+          155
+        ],
+        "study": [
+          1,
+          114
+        ],
+        "examines": [
+          2
+        ],
+        "educators’": [
+          3
+        ],
+        "perceptions": [
+          4
+        ],
+        "of": [
+          5,
+          28,
+          49,
+          169,
+          181,
+          189
+        ],
+        "artificial": [
+          6
+        ],
+        "intelligence": [
+          7
+        ],
+        "(AI)": [
+          8
+        ],
+        "in": [
+          9,
+          79,
+          118,
+          192
+        ],
+        "educational": [
+          10,
+          172
+        ],
+        "settings,": [
+          11
+        ],
+        "focusing": [
+          12
+        ],
+        "on": [
+          13,
+          33,
+          149,
+          171
+        ],
+        "their": [
+          14,
+          127
+        ],
+        "familiarity": [
+          15
+        ],
+        "with": [
+          16,
+          53
+        ],
+        "AI": [
+          17,
+          71,
+          120,
+          150,
+          170
+        ],
+        "tools,": [
+          18
+        ],
+        "integration": [
+          19
+        ],
+        "into": [
+          20
+        ],
+        "teaching": [
+          21,
+          59,
+          80
+        ],
+        "practices,": [
+          22
+        ],
+        "professional": [
+          23,
+          146
+        ],
+        "development": [
+          24,
+          147
+        ],
+        "needs,": [
+          25
+        ],
+        "the": [
+          26,
+          159,
+          166,
+          179
+        ],
+        "influence": [
+          27
+        ],
+        "institutional": [
+          29,
+          119
+        ],
+        "policies,": [
+          30,
+          121
+        ],
+        "and": [
+          31,
+          44,
+          61,
+          86,
+          106,
+          137,
+          152,
+          174,
+          177
+        ],
+        "impacts": [
+          32
+        ],
+        "mental": [
+          34,
+          175
+        ],
+        "health.": [
+          35
+        ],
+        "Survey": [
+          36
+        ],
+        "responses": [
+          37
+        ],
+        "from": [
+          38,
+          109
+        ],
+        "353": [
+          39
+        ],
+        "educators": [
+          40,
+          67,
+          90,
+          124
+        ],
+        "across": [
+          41
+        ],
+        "various": [
+          42
+        ],
+        "levels": [
+          43
+        ],
+        "countries": [
+          45
+        ],
+        "revealed": [
+          46
+        ],
+        "that": [
+          47
+        ],
+        "92%": [
+          48
+        ],
+        "respondents": [
+          50,
+          140
+        ],
+        "are": [
+          51
+        ],
+        "familiar": [
+          52
+        ],
+        "AI,": [
+          54
+        ],
+        "utilizing": [
+          55
+        ],
+        "it": [
+          56
+        ],
+        "to": [
+          57,
+          82,
+          94,
+          125,
+          164
+        ],
+        "enhance": [
+          58
+        ],
+        "efficiency": [
+          60
+        ],
+        "streamline": [
+          62
+        ],
+        "administrative": [
+          63
+        ],
+        "tasks.": [
+          64
+        ],
+        "Notably,": [
+          65
+        ],
+        "many": [
+          66
+        ],
+        "reported": [
+          68
+        ],
+        "students": [
+          69
+        ],
+        "using": [
+          70
+        ],
+        "tools": [
+          72
+        ],
+        "like": [
+          73
+        ],
+        "ChatGPT": [
+          74
+        ],
+        "for": [
+          75,
+          131,
+          145,
+          161,
+          185
+        ],
+        "assignments,": [
+          76
+        ],
+        "prompting": [
+          77
+        ],
+        "adaptations": [
+          78
+        ],
+        "methods": [
+          81
+        ],
+        "promote": [
+          83
+        ],
+        "critical": [
+          84
+        ],
+        "thinking": [
+          85
+        ],
+        "reduce": [
+          87,
+          95
+        ],
+        "dependency.": [
+          88
+        ],
+        "Some": [
+          89
+        ],
+        "saw": [
+          91
+        ],
+        "AI’s": [
+          92,
+          190
+        ],
+        "potential": [
+          93
+        ],
+        "stress": [
+          96
+        ],
+        "through": [
+          97
+        ],
+        "automation": [
+          98
+        ],
+        "but": [
+          99
+        ],
+        "others": [
+          100
+        ],
+        "raised": [
+          101
+        ],
+        "concerns": [
+          102
+        ],
+        "about": [
+          103
+        ],
+        "increased": [
+          104
+        ],
+        "anxiety": [
+          105
+        ],
+        "social": [
+          107
+        ],
+        "isolation": [
+          108
+        ],
+        "reduced": [
+          110
+        ],
+        "interpersonal": [
+          111
+        ],
+        "interactions.": [
+          112
+        ],
+        "highlights": [
+          115
+        ],
+        "a": [
+          116,
+          142,
+          186
+        ],
+        "gap": [
+          117
+        ],
+        "leading": [
+          122
+        ],
+        "some": [
+          123
+        ],
+        "establish": [
+          126
+        ],
+        "own": [
+          128
+        ],
+        "guidelines,": [
+          129
+        ],
+        "particularly": [
+          130
+        ],
+        "matters": [
+          132
+        ],
+        "such": [
+          133
+        ],
+        "as": [
+          134
+        ],
+        "data": [
+          135
+        ],
+        "privacy": [
+          136
+        ],
+        "plagiarism.": [
+          138
+        ],
+        "Furthermore,": [
+          139
+        ],
+        "identified": [
+          141
+        ],
+        "significant": [
+          143
+        ],
+        "need": [
+          144
+        ],
+        "focused": [
+          148
+        ],
+        "literacy": [
+          151
+        ],
+        "ethical": [
+          153
+        ],
+        "considerations.": [
+          154
+        ],
+        "study’s": [
+          156
+        ],
+        "findings": [
+          157
+        ],
+        "suggest": [
+          158
+        ],
+        "necessity": [
+          160
+        ],
+        "longitudinal": [
+          162
+        ],
+        "studies": [
+          163
+        ],
+        "explore": [
+          165
+        ],
+        "long-term": [
+          167
+        ],
+        "effects": [
+          168
+        ],
+        "outcomes": [
+          173
+        ],
+        "health": [
+          176
+        ],
+        "underscore": [
+          178
+        ],
+        "importance": [
+          180
+        ],
+        "incorporating": [
+          182
+        ],
+        "student": [
+          183
+        ],
+        "perspectives": [
+          184
+        ],
+        "thorough": [
+          187
+        ],
+        "understanding": [
+          188
+        ],
+        "role": [
+          191
+        ],
+        "education.": [
+          193
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 40
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 41
+        }
+      ],
+      "updated_date": "2026-09-19T00:03:45.406941",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": "https://www.mdpi.com/2227-7102/15/2/113/pdf?version=1737516579",
+  "s2_attempt": {
+    "pdf_url": "https://doi.org/10.3390/educsci15020113",
+    "method": "semanticscholar",
+    "title_matched": "AI in the Classroom: Insights from Educators on Usage, Challenges, and Mental Health",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2025,
+    "doi": "https://doi.org/10.3390/educsci15020113",
+    "s2_url": "https://www.semanticscholar.org/paper/1f05c8fdee884d15eef72a469bd7c737596e603a"
+  }
+}

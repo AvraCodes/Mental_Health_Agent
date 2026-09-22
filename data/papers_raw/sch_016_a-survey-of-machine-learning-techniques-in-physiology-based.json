@@ -1,0 +1,29 @@
+{
+  "id": "sch-016",
+  "original": {
+    "paper_name": "A survey of machine learning techniques in physiology based mental stress detection systems",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "stress detection machine learning",
+  "scraped_at": "2026-09-22T11:18:56.194407+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "stress detection machine learning",
+    "title_matched": "A survey of machine learning techniques in physiology based mental stress detection systems",
+    "authors": [
+      "SS Panicker",
+      "P Gayathri"
+    ],
+    "year": 2019,
+    "venue": "Biocybernetics and Biomedical Engineering",
+    "cited_by": 288,
+    "landing_page_url": "https://www.sciencedirect.com/science/article/pii/S020852161830367X",
+    "snippet": "… on the following facets of mental stress detection systems: physiological data collection,\nrole of machine learning in Emotion Detection systems and Stress Detection systems, various …",
+    "pdf_url": null
+  },
+  "pdf_file": null,
+  "pdf_url": null
+}

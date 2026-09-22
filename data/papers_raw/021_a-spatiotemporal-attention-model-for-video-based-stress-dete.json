@@ -1,0 +1,148 @@
+{
+  "id": 21,
+  "original": {
+    "paper_name": "A Spatiotemporal Attention Model for Video-Based Stress Detection",
+    "site": "Crossref",
+    "venue_of_publication": "Pattern Recognition",
+    "year": 2025,
+    "researcher_info": "H. Liu, J. Li, et al.",
+    "id": 21
+  },
+  "site": "Crossref",
+  "scraped_at": "2026-09-22T10:59:48.287281+00:00",
+  "fetched": {
+    "found": true,
+    "site": "Crossref",
+    "query": "A Spatiotemporal Attention Model for Video-Based Stress Detection",
+    "method": "api",
+    "doi": "10.1007/s11760-024-03152-x",
+    "doi_url": "https://doi.org/10.1007/s11760-024-03152-x",
+    "title_matched": "Attention-based misaligned spatiotemporal auto-encoder for video anomaly detection",
+    "title_similarity": 0.626,
+    "match_confidence": "medium",
+    "authors": [
+      "Haiyan Yang",
+      "Shuning Liu",
+      "Mingxuan Wu",
+      "Hongbin Chen",
+      "Delu Zeng"
+    ],
+    "year": 2024,
+    "venue": "Signal, Image and Video Processing",
+    "publisher": "Springer Science and Business Media LLC",
+    "abstract": null,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11760-024-03152-x.pdf",
+    "landing_page_url": "https://doi.org/10.1007/s11760-024-03152-x",
+    "score": 30.509815,
+    "raw": {
+      "publisher": "Springer Science and Business Media LLC",
+      "DOI": "10.1007/s11760-024-03152-x",
+      "title": [
+        "Attention-based misaligned spatiotemporal auto-encoder for video anomaly detection"
+      ],
+      "author": [
+        {
+          "given": "Haiyan",
+          "family": "Yang",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Shuning",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Mingxuan",
+          "family": "Wu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Hongbin",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Delu",
+          "family": "Zeng",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Signal, Image and Video Processing"
+      ],
+      "link": [
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1007/s11760-024-03152-x.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/article/10.1007/s11760-024-03152-x/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1007/s11760-024-03152-x.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "score": 30.509815,
+      "URL": "https://doi.org/10.1007/s11760-024-03152-x",
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            13
+          ]
+        ]
+      }
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11760-024-03152-x.pdf",
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

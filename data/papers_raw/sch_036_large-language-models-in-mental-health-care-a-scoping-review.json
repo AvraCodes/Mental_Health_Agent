@@ -1,0 +1,34 @@
+{
+  "id": "sch-036",
+  "original": {
+    "paper_name": "Large language models in mental health care: a scoping review",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "large language models mental health",
+  "scraped_at": "2026-09-22T11:20:01.788419+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "large language models mental health",
+    "title_matched": "Large language models in mental health care: a scoping review",
+    "authors": [
+      "Y Hua",
+      "F Liu",
+      "K Yang",
+      "Z Li",
+      "H Na",
+      "Y Sheu"
+    ],
+    "year": 2025,
+    "venue": "… Treatment Options in …",
+    "cited_by": 232,
+    "landing_page_url": "https://link.springer.com/article/10.1007/s40501-025-00363-y",
+    "snippet": "… of Large Language Models (LLMs) utilization in mental health care, … Studies were included\nwithout language restrictions if they … research questions within mental health care settings. …",
+    "pdf_url": "https://arxiv.org/pdf/2401.02984"
+  },
+  "pdf_file": "sch_036_large-language-models-in-mental-health-care-a-scoping-review.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2401.02984",
+  "pdf_verified": true
+}

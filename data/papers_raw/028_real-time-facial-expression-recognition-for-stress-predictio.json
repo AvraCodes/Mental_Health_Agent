@@ -1,0 +1,57 @@
+{
+  "id": 28,
+  "original": {
+    "paper_name": "Real-Time Facial Expression Recognition for Stress Prediction using CNNs",
+    "site": "DBLP",
+    "venue_of_publication": "CVPR Workshops",
+    "year": 2023,
+    "researcher_info": "M. Kumar, et al.",
+    "id": 28
+  },
+  "site": "DBLP",
+  "scraped_at": "2026-09-22T11:00:42.491096+00:00",
+  "fetched": {
+    "found": true,
+    "query": "Real-Time Facial Expression Recognition for Stress Prediction using CNNs",
+    "method": "crossref-fallback",
+    "doi": "10.1201/9781003269793-46",
+    "doi_url": "https://doi.org/10.1201/9781003269793-46",
+    "title_matched": "Real-Time Facial Expression Recognition using CNN",
+    "title_similarity": 0.81,
+    "match_confidence": "medium",
+    "authors": [
+      "Praneeth Purini",
+      "Rahul Kumar Chaurasiya"
+    ],
+    "year": 2022,
+    "venue": "Applications of Machine Intelligence in Engineering",
+    "publisher": "CRC Press",
+    "pdf_url": null,
+    "landing_page_url": "https://doi.org/10.1201/9781003269793-46",
+    "site": "DBLP",
+    "site_miss": {
+      "found": false,
+      "site": "DBLP",
+      "query": "Real-Time Facial Expression Recognition for Stress Prediction using CNNs",
+      "method": "api",
+      "error": "Expecting value: line 1 column 1 (char 0)",
+      "playwright_fallback": {
+        "found": false,
+        "site": "DBLP",
+        "query": "Real-Time Facial Expression Recognition for Stress Prediction using CNNs",
+        "method": "playwright",
+        "search_url": "https://dblp.org/search?q=Real-Time%20Facial%20Expression%20Recognition%20for%20Stress%20Prediction%20using",
+        "top_hits": [],
+        "top_links": [],
+        "short_query_used": "Real-Time Facial Expression Recognition for Stress Prediction using"
+      }
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": null,
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

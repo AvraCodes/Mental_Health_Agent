@@ -1,0 +1,1769 @@
+{
+  "id": 10,
+  "original": {
+    "id": 10,
+    "paper_name": "Expert and Interdisciplinary Analysis of AI-Driven Chatbots for Mental Health Support: Mixed Methods Study",
+    "site": "OpenAlex",
+    "venue_of_publication": "Journal of Medical Internet Research",
+    "year": 2025,
+    "researcher_info": "Kayley Moylan, Kevin Doherty"
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T10:58:03.617060+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "Expert and Interdisciplinary Analysis of AI-Driven Chatbots for Mental Health Support: Mixed Methods Study",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W4409783700",
+    "doi": "https://doi.org/10.2196/67114",
+    "title_matched": "Expert and Interdisciplinary Analysis of AI-Driven Chatbots for Mental Health Support: Mixed Methods Study",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2025,
+    "venue": "Journal of Medical Internet Research",
+    "authors": [
+      "Kayley Moylan",
+      "Kevin Doherty"
+    ],
+    "abstract": "BACKGROUND: Recent years have seen an immense surge in the creation and use of chatbots as social and mental health companions. Aiming to provide empathic responses in support of the delivery of personalized support, these tools are often presented as offering immense potential. However, it is also essential that we understand the risks of their deployment, including their potential adverse impacts on the mental health of users, including those most at risk. OBJECTIVE: The study aims to assess the ethical and pragmatic clinical implications of using chatbots that claim to aid mental health. While several studies within human-computer interaction and related fields have examined users' perceptions of such systems, few studies have engaged mental health professionals in critical analysis of their conduct as mental health support tools. This paper comprises, in turn, an effort to assess the ethical and pragmatic clinical implications of using chatbots that claim to aid mental health. METHODS: This study included 8 interdisciplinary mental health professional participants (from psychology and psychotherapy to social care and crisis volunteer workers) in a mixed methods and hands-on analysis of 2 popular mental health-related chatbots' data handling, interface design, and responses. This analysis was carried out through profession-specific tasks with each chatbot, eliciting participants' perceptions through both the Trust in Automation scale and semistructured interviews. Through thematic analysis and a 2-tailed, paired t test, these chatbots' implications for mental health support were thus evaluated. RESULTS: =-0.76; P=.48), indicated medium to low trust scores for each chatbot. The findings of this work highlight that the design and development of artificial intelligence (AI)-driven mental health-related solutions must be undertaken with utmost caution. The mental health professionals in this study collectively resist these chatbots and make clear that AI-driven chatbots used for mental health by at-risk users invite several potential and specific harms. CONCLUSIONS: Through this work, we contributed insights into the mental health professional perspective on the design of chatbots used for mental health and underscore the necessity of ongoing critical assessment and iterative refinement to maximize the benefits and minimize the risks associated with integrating AI into mental health support.",
+    "cited_by_count": 39,
+    "is_oa": true,
+    "pdf_url": "https://www.jmir.org/2025/1/e67114/PDF",
+    "pdf_candidates": [
+      "https://www.jmir.org/2025/1/e67114/PDF"
+    ],
+    "landing_page_url": "https://doi.org/10.2196/67114",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W4409783700",
+      "doi": "https://doi.org/10.2196/67114",
+      "title": "Expert and Interdisciplinary Analysis of AI-Driven Chatbots for Mental Health Support: Mixed Methods Study",
+      "display_name": "Expert and Interdisciplinary Analysis of AI-Driven Chatbots for Mental Health Support: Mixed Methods Study",
+      "relevance_score": 2558.9678,
+      "publication_year": 2025,
+      "publication_date": "2025-04-25",
+      "ids": {
+        "openalex": "https://openalex.org/W4409783700",
+        "doi": "https://doi.org/10.2196/67114",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/40279575"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2196/67114",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2196/67114",
+        "pdf_url": "https://www.jmir.org/2025/1/e67114/PDF",
+        "source": {
+          "id": "https://openalex.org/S17147534",
+          "display_name": "Journal of Medical Internet Research",
+          "issn_l": "1438-8871",
+          "issn": [
+            "1438-8871",
+            "1439-4456"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "doyens",
+            "jufo-2",
+            "medline",
+            "norway-2"
+          ],
+          "host_organization": "https://openalex.org/P4310320608",
+          "host_organization_name": "JMIR Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320608"
+          ],
+          "host_organization_lineage_names": [
+            "JMIR Publications"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Medical Internet Research",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.jmir.org/2025/1/e67114/PDF",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5114637770",
+            "display_name": "Kayley Moylan",
+            "orcid": "https://orcid.org/0009-0001-4184-6913"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I100930933",
+              "display_name": "University College Dublin",
+              "ror": "https://ror.org/05m7pjf47",
+              "country_code": "IE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100930933"
+              ]
+            }
+          ],
+          "countries": [
+            "IE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kayley Moylan",
+          "raw_affiliation_strings": [
+            "School of Information and Communication Studies, University College Dublin, Dublin, Ireland"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0001-4184-6913",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Information and Communication Studies, University College Dublin, Dublin, Ireland",
+              "institution_ids": [
+                "https://openalex.org/I100930933"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5059134273",
+            "display_name": "Kevin Doherty",
+            "orcid": "https://orcid.org/0000-0002-7647-5139"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I100930933",
+              "display_name": "University College Dublin",
+              "ror": "https://ror.org/05m7pjf47",
+              "country_code": "IE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100930933"
+              ]
+            }
+          ],
+          "countries": [
+            "IE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kevin Doherty",
+          "raw_affiliation_strings": [
+            "School of Information and Communication Studies, University College Dublin, Dublin, Ireland"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-7647-5139",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Information and Communication Studies, University College Dublin, Dublin, Ireland",
+              "institution_ids": [
+                "https://openalex.org/I100930933"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I100930933"
+      ],
+      "apc_list": {
+        "value": 2950,
+        "currency": "USD",
+        "value_usd": 2950
+      },
+      "apc_paid": {
+        "value": 2950,
+        "currency": "USD",
+        "value_usd": 2950
+      },
+      "fwci": 24.1933,
+      "has_fulltext": true,
+      "cited_by_count": 39,
+      "citation_normalized_percentile": {
+        "value": 0.99632015,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 97,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "27",
+        "issue": null,
+        "first_page": "e67114",
+        "last_page": "e67114"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11519",
+        "display_name": "Digital Mental Health Interventions",
+        "score": 0.9282000064849854,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3202",
+          "display_name": "Applied Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11519",
+          "display_name": "Digital Mental Health Interventions",
+          "score": 0.9282000064849854,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3202",
+            "display_name": "Applied Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12128",
+          "display_name": "AI in Service Interactions",
+          "score": 0.021700000390410423,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12488",
+          "display_name": "Mental Health via Writing",
+          "score": 0.004399999976158142,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/mental-health",
+          "display_name": "Mental health",
+          "score": 0.7872062921524048
+        },
+        {
+          "id": "https://openalex.org/keywords/thematic-analysis",
+          "display_name": "Thematic analysis",
+          "score": 0.7629767656326294
+        },
+        {
+          "id": "https://openalex.org/keywords/chatbot",
+          "display_name": "Chatbot",
+          "score": 0.7225470542907715
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.5189499855041504
+        },
+        {
+          "id": "https://openalex.org/keywords/applied-psychology",
+          "display_name": "Applied psychology",
+          "score": 0.4969494640827179
+        },
+        {
+          "id": "https://openalex.org/keywords/social-support",
+          "display_name": "Social support",
+          "score": 0.45577147603034973
+        },
+        {
+          "id": "https://openalex.org/keywords/qualitative-research",
+          "display_name": "Qualitative research",
+          "score": 0.42381221055984497
+        },
+        {
+          "id": "https://openalex.org/keywords/medical-education",
+          "display_name": "Medical education",
+          "score": 0.38868919014930725
+        },
+        {
+          "id": "https://openalex.org/keywords/nursing",
+          "display_name": "Nursing",
+          "score": 0.3654865622520447
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.32108134031295776
+        },
+        {
+          "id": "https://openalex.org/keywords/social-psychology",
+          "display_name": "Social psychology",
+          "score": 0.2077781856060028
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.1886191964149475
+        },
+        {
+          "id": "https://openalex.org/keywords/psychiatry",
+          "display_name": "Psychiatry",
+          "score": 0.16812118887901306
+        },
+        {
+          "id": "https://openalex.org/keywords/world-wide-web",
+          "display_name": "World Wide Web",
+          "score": 0.12727630138397217
+        },
+        {
+          "id": "https://openalex.org/keywords/sociology",
+          "display_name": "Sociology",
+          "score": 0.09889993071556091
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C134362201",
+          "wikidata": "https://www.wikidata.org/wiki/Q317309",
+          "display_name": "Mental health",
+          "level": 2,
+          "score": 0.7872062921524048
+        },
+        {
+          "id": "https://openalex.org/C74196892",
+          "wikidata": "https://www.wikidata.org/wiki/Q7781188",
+          "display_name": "Thematic analysis",
+          "level": 3,
+          "score": 0.7629767656326294
+        },
+        {
+          "id": "https://openalex.org/C2779041454",
+          "wikidata": "https://www.wikidata.org/wiki/Q870780",
+          "display_name": "Chatbot",
+          "level": 2,
+          "score": 0.7225470542907715
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.5189499855041504
+        },
+        {
+          "id": "https://openalex.org/C75630572",
+          "wikidata": "https://www.wikidata.org/wiki/Q538904",
+          "display_name": "Applied psychology",
+          "level": 1,
+          "score": 0.4969494640827179
+        },
+        {
+          "id": "https://openalex.org/C2778087770",
+          "wikidata": "https://www.wikidata.org/wiki/Q2297111",
+          "display_name": "Social support",
+          "level": 2,
+          "score": 0.45577147603034973
+        },
+        {
+          "id": "https://openalex.org/C190248442",
+          "wikidata": "https://www.wikidata.org/wiki/Q839486",
+          "display_name": "Qualitative research",
+          "level": 2,
+          "score": 0.42381221055984497
+        },
+        {
+          "id": "https://openalex.org/C509550671",
+          "wikidata": "https://www.wikidata.org/wiki/Q126945",
+          "display_name": "Medical education",
+          "level": 1,
+          "score": 0.38868919014930725
+        },
+        {
+          "id": "https://openalex.org/C159110408",
+          "wikidata": "https://www.wikidata.org/wiki/Q121176",
+          "display_name": "Nursing",
+          "level": 1,
+          "score": 0.3654865622520447
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.32108134031295776
+        },
+        {
+          "id": "https://openalex.org/C77805123",
+          "wikidata": "https://www.wikidata.org/wiki/Q161272",
+          "display_name": "Social psychology",
+          "level": 1,
+          "score": 0.2077781856060028
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.1886191964149475
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.16812118887901306
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.12727630138397217
+        },
+        {
+          "id": "https://openalex.org/C144024400",
+          "wikidata": "https://www.wikidata.org/wiki/Q21201",
+          "display_name": "Sociology",
+          "level": 0,
+          "score": 0.09889993071556091
+        },
+        {
+          "id": "https://openalex.org/C36289849",
+          "wikidata": "https://www.wikidata.org/wiki/Q34749",
+          "display_name": "Social science",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [
+        {
+          "descriptor_ui": "D000098842",
+          "descriptor_name": "Generative Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000098842",
+          "descriptor_name": "Generative Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000098842",
+          "descriptor_name": "Generative Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000098842",
+          "descriptor_name": "Generative Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000328",
+          "descriptor_name": "Adult",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000328",
+          "descriptor_name": "Adult",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000328",
+          "descriptor_name": "Adult",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000328",
+          "descriptor_name": "Adult",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D001185",
+          "descriptor_name": "Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001185",
+          "descriptor_name": "Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001185",
+          "descriptor_name": "Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001185",
+          "descriptor_name": "Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D005260",
+          "descriptor_name": "Female",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D005260",
+          "descriptor_name": "Female",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D005260",
+          "descriptor_name": "Female",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D005260",
+          "descriptor_name": "Female",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008297",
+          "descriptor_name": "Male",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008297",
+          "descriptor_name": "Male",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008297",
+          "descriptor_name": "Male",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008297",
+          "descriptor_name": "Male",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008603",
+          "descriptor_name": "Mental Health",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D008603",
+          "descriptor_name": "Mental Health",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D008603",
+          "descriptor_name": "Mental Health",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D008603",
+          "descriptor_name": "Mental Health",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D008605",
+          "descriptor_name": "Mental Health Services",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D008605",
+          "descriptor_name": "Mental Health Services",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D008605",
+          "descriptor_name": "Mental Health Services",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D008605",
+          "descriptor_name": "Mental Health Services",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        }
+      ],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.2196/67114",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.2196/67114",
+          "pdf_url": "https://www.jmir.org/2025/1/e67114/PDF",
+          "source": {
+            "id": "https://openalex.org/S17147534",
+            "display_name": "Journal of Medical Internet Research",
+            "issn_l": "1438-8871",
+            "issn": [
+              "1438-8871",
+              "1439-4456"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "doyens",
+              "jufo-2",
+              "medline",
+              "norway-2"
+            ],
+            "host_organization": "https://openalex.org/P4310320608",
+            "host_organization_name": "JMIR Publications",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320608"
+            ],
+            "host_organization_lineage_names": [
+              "JMIR Publications"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Medical Internet Research",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:40279575",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/40279575",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of medical Internet research",
+          "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:12064976",
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/12064976",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "J Med Internet Res",
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:6e72a011c1a84196878aa12ee6b723a5",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/6e72a011c1a84196878aa12ee6b723a5",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Journal of Medical Internet Research, Vol 27, p e67114 (2025)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.2196/67114",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2196/67114",
+        "pdf_url": "https://www.jmir.org/2025/1/e67114/PDF",
+        "source": {
+          "id": "https://openalex.org/S17147534",
+          "display_name": "Journal of Medical Internet Research",
+          "issn_l": "1438-8871",
+          "issn": [
+            "1438-8871",
+            "1439-4456"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "doyens",
+            "jufo-2",
+            "medline",
+            "norway-2"
+          ],
+          "host_organization": "https://openalex.org/P4310320608",
+          "host_organization_name": "JMIR Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320608"
+          ],
+          "host_organization_lineage_names": [
+            "JMIR Publications"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Medical Internet Research",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4409783700.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4409783700.grobid-xml"
+      },
+      "referenced_works_count": 83,
+      "referenced_works": [
+        "https://openalex.org/W80602417",
+        "https://openalex.org/W174934509",
+        "https://openalex.org/W1969828573",
+        "https://openalex.org/W1979290264",
+        "https://openalex.org/W1998517900",
+        "https://openalex.org/W2074005038",
+        "https://openalex.org/W2075204594",
+        "https://openalex.org/W2095090233",
+        "https://openalex.org/W2107970900",
+        "https://openalex.org/W2118239967",
+        "https://openalex.org/W2129660502",
+        "https://openalex.org/W2142420226",
+        "https://openalex.org/W2144803897",
+        "https://openalex.org/W2145862745",
+        "https://openalex.org/W2155607967",
+        "https://openalex.org/W2155981922",
+        "https://openalex.org/W2289545039",
+        "https://openalex.org/W2566460633",
+        "https://openalex.org/W2623779865",
+        "https://openalex.org/W2788619189",
+        "https://openalex.org/W2802635027",
+        "https://openalex.org/W2889355901",
+        "https://openalex.org/W2901843047",
+        "https://openalex.org/W2919984708",
+        "https://openalex.org/W2920018355",
+        "https://openalex.org/W2924286512",
+        "https://openalex.org/W2940924130",
+        "https://openalex.org/W2950504429",
+        "https://openalex.org/W2990299464",
+        "https://openalex.org/W3007384022",
+        "https://openalex.org/W3007934595",
+        "https://openalex.org/W3013555264",
+        "https://openalex.org/W3016416279",
+        "https://openalex.org/W3029949376",
+        "https://openalex.org/W3036236864",
+        "https://openalex.org/W3084163594",
+        "https://openalex.org/W3112655805",
+        "https://openalex.org/W3118839645",
+        "https://openalex.org/W3125770638",
+        "https://openalex.org/W3128157571",
+        "https://openalex.org/W3160865828",
+        "https://openalex.org/W3166781883",
+        "https://openalex.org/W3197599582",
+        "https://openalex.org/W3200388269",
+        "https://openalex.org/W3206297794",
+        "https://openalex.org/W3207275675",
+        "https://openalex.org/W3208012737",
+        "https://openalex.org/W4200039013",
+        "https://openalex.org/W4205828084",
+        "https://openalex.org/W4206127228",
+        "https://openalex.org/W4206481777",
+        "https://openalex.org/W4224987852",
+        "https://openalex.org/W4225153223",
+        "https://openalex.org/W4242721106",
+        "https://openalex.org/W4249631610",
+        "https://openalex.org/W4281568997",
+        "https://openalex.org/W4286273835",
+        "https://openalex.org/W4286273951",
+        "https://openalex.org/W4289597199",
+        "https://openalex.org/W4293745145",
+        "https://openalex.org/W4295350320",
+        "https://openalex.org/W4300690854",
+        "https://openalex.org/W4306318736",
+        "https://openalex.org/W4308514785",
+        "https://openalex.org/W4312179235",
+        "https://openalex.org/W4312204748",
+        "https://openalex.org/W4313728180",
+        "https://openalex.org/W4316143353",
+        "https://openalex.org/W4321435922",
+        "https://openalex.org/W4323352050",
+        "https://openalex.org/W4323352096",
+        "https://openalex.org/W4327621592",
+        "https://openalex.org/W4366703942",
+        "https://openalex.org/W4377565325",
+        "https://openalex.org/W4381996422",
+        "https://openalex.org/W4387976239",
+        "https://openalex.org/W4391542646",
+        "https://openalex.org/W4396637476",
+        "https://openalex.org/W4399660798",
+        "https://openalex.org/W4400397475",
+        "https://openalex.org/W4402046903",
+        "https://openalex.org/W4404353240",
+        "https://openalex.org/W4405171814"
+      ],
+      "related_works": [
+        "https://openalex.org/W4383501580",
+        "https://openalex.org/W4214931137",
+        "https://openalex.org/W4313813117",
+        "https://openalex.org/W4382052417",
+        "https://openalex.org/W3192088754",
+        "https://openalex.org/W4387007686",
+        "https://openalex.org/W3084631705",
+        "https://openalex.org/W3176146353",
+        "https://openalex.org/W4293646425",
+        "https://openalex.org/W3150216605"
+      ],
+      "abstract_inverted_index": {
+        "BACKGROUND:": [
+          0
+        ],
+        "Recent": [
+          1
+        ],
+        "years": [
+          2
+        ],
+        "have": [
+          3,
+          102,
+          111
+        ],
+        "seen": [
+          4
+        ],
+        "an": [
+          5,
+          132
+        ],
+        "immense": [
+          6,
+          41
+        ],
+        "surge": [
+          7
+        ],
+        "in": [
+          8,
+          26,
+          116,
+          130,
+          172,
+          209,
+          274
+        ],
+        "the": [
+          9,
+          29,
+          51,
+          62,
+          78,
+          136,
+          207,
+          253,
+          308,
+          314,
+          324,
+          335,
+          339
+        ],
+        "creation": [
+          10
+        ],
+        "and": [
+          11,
+          17,
+          80,
+          99,
+          138,
+          163,
+          168,
+          176,
+          189,
+          212,
+          218,
+          255,
+          281,
+          297,
+          322,
+          330,
+          337
+        ],
+        "use": [
+          12
+        ],
+        "of": [
+          13,
+          28,
+          31,
+          53,
+          65,
+          84,
+          106,
+          119,
+          142,
+          179,
+          248,
+          257,
+          316,
+          326
+        ],
+        "chatbots": [
+          14,
+          86,
+          144,
+          280,
+          286,
+          317
+        ],
+        "as": [
+          15,
+          39,
+          122
+        ],
+        "social": [
+          16,
+          166
+        ],
+        "mental": [
+          18,
+          63,
+          91,
+          113,
+          123,
+          149,
+          157,
+          182,
+          228,
+          261,
+          271,
+          289,
+          309,
+          320,
+          346
+        ],
+        "health": [
+          19,
+          64,
+          114,
+          124,
+          158,
+          229,
+          272,
+          290,
+          310,
+          321,
+          347
+        ],
+        "companions.": [
+          20
+        ],
+        "Aiming": [
+          21
+        ],
+        "to": [
+          22,
+          76,
+          89,
+          134,
+          147,
+          165,
+          239,
+          333
+        ],
+        "provide": [
+          23
+        ],
+        "empathic": [
+          24
+        ],
+        "responses": [
+          25
+        ],
+        "support": [
+          27,
+          125,
+          230
+        ],
+        "delivery": [
+          30
+        ],
+        "personalized": [
+          32
+        ],
+        "support,": [
+          33
+        ],
+        "these": [
+          34,
+          224,
+          279
+        ],
+        "tools": [
+          35
+        ],
+        "are": [
+          36
+        ],
+        "often": [
+          37
+        ],
+        "presented": [
+          38
+        ],
+        "offering": [
+          40
+        ],
+        "potential.": [
+          42
+        ],
+        "However,": [
+          43
+        ],
+        "it": [
+          44
+        ],
+        "is": [
+          45
+        ],
+        "also": [
+          46
+        ],
+        "essential": [
+          47
+        ],
+        "that": [
+          48,
+          87,
+          145,
+          252,
+          284
+        ],
+        "we": [
+          49,
+          304
+        ],
+        "understand": [
+          50
+        ],
+        "risks": [
+          52,
+          340
+        ],
+        "their": [
+          54,
+          57,
+          120
+        ],
+        "deployment,": [
+          55
+        ],
+        "including": [
+          56,
+          67
+        ],
+        "potential": [
+          58,
+          296
+        ],
+        "adverse": [
+          59
+        ],
+        "impacts": [
+          60
+        ],
+        "on": [
+          61,
+          313
+        ],
+        "users,": [
+          66
+        ],
+        "those": [
+          68
+        ],
+        "most": [
+          69
+        ],
+        "at": [
+          70
+        ],
+        "risk.": [
+          71
+        ],
+        "OBJECTIVE:": [
+          72
+        ],
+        "The": [
+          73,
+          246,
+          270
+        ],
+        "study": [
+          74,
+          153,
+          276
+        ],
+        "aims": [
+          75
+        ],
+        "assess": [
+          77,
+          135
+        ],
+        "ethical": [
+          79,
+          137
+        ],
+        "pragmatic": [
+          81,
+          139
+        ],
+        "clinical": [
+          82,
+          140
+        ],
+        "implications": [
+          83,
+          141,
+          226
+        ],
+        "using": [
+          85,
+          143
+        ],
+        "claim": [
+          88,
+          146
+        ],
+        "aid": [
+          90,
+          148
+        ],
+        "health.": [
+          92,
+          150
+        ],
+        "While": [
+          93
+        ],
+        "several": [
+          94,
+          295
+        ],
+        "studies": [
+          95,
+          110
+        ],
+        "within": [
+          96
+        ],
+        "human-computer": [
+          97
+        ],
+        "interaction": [
+          98
+        ],
+        "related": [
+          100
+        ],
+        "fields": [
+          101
+        ],
+        "examined": [
+          103
+        ],
+        "users'": [
+          104
+        ],
+        "perceptions": [
+          105,
+          204
+        ],
+        "such": [
+          107
+        ],
+        "systems,": [
+          108
+        ],
+        "few": [
+          109
+        ],
+        "engaged": [
+          112
+        ],
+        "professionals": [
+          115,
+          273
+        ],
+        "critical": [
+          117,
+          328
+        ],
+        "analysis": [
+          118,
+          178,
+          192,
+          217
+        ],
+        "conduct": [
+          121
+        ],
+        "tools.": [
+          126
+        ],
+        "This": [
+          127,
+          152,
+          191
+        ],
+        "paper": [
+          128
+        ],
+        "comprises,": [
+          129
+        ],
+        "turn,": [
+          131
+        ],
+        "effort": [
+          133
+        ],
+        "METHODS:": [
+          151
+        ],
+        "included": [
+          154
+        ],
+        "8": [
+          155
+        ],
+        "interdisciplinary": [
+          156
+        ],
+        "professional": [
+          159,
+          311
+        ],
+        "participants": [
+          160
+        ],
+        "(from": [
+          161
+        ],
+        "psychology": [
+          162
+        ],
+        "psychotherapy": [
+          164
+        ],
+        "care": [
+          167
+        ],
+        "crisis": [
+          169
+        ],
+        "volunteer": [
+          170
+        ],
+        "workers)": [
+          171
+        ],
+        "a": [
+          173,
+          219
+        ],
+        "mixed": [
+          174
+        ],
+        "methods": [
+          175
+        ],
+        "hands-on": [
+          177
+        ],
+        "2": [
+          180
+        ],
+        "popular": [
+          181
+        ],
+        "health-related": [
+          183,
+          262
+        ],
+        "chatbots'": [
+          184,
+          225
+        ],
+        "data": [
+          185
+        ],
+        "handling,": [
+          186
+        ],
+        "interface": [
+          187
+        ],
+        "design,": [
+          188
+        ],
+        "responses.": [
+          190
+        ],
+        "was": [
+          193
+        ],
+        "carried": [
+          194
+        ],
+        "out": [
+          195
+        ],
+        "through": [
+          196,
+          205
+        ],
+        "profession-specific": [
+          197
+        ],
+        "tasks": [
+          198
+        ],
+        "with": [
+          199,
+          267,
+          342
+        ],
+        "each": [
+          200,
+          244
+        ],
+        "chatbot,": [
+          201
+        ],
+        "eliciting": [
+          202
+        ],
+        "participants'": [
+          203
+        ],
+        "both": [
+          206
+        ],
+        "Trust": [
+          208
+        ],
+        "Automation": [
+          210
+        ],
+        "scale": [
+          211
+        ],
+        "semistructured": [
+          213
+        ],
+        "interviews.": [
+          214
+        ],
+        "Through": [
+          215,
+          301
+        ],
+        "thematic": [
+          216
+        ],
+        "2-tailed,": [
+          220
+        ],
+        "paired": [
+          221
+        ],
+        "t": [
+          222
+        ],
+        "test,": [
+          223
+        ],
+        "for": [
+          227,
+          243,
+          288,
+          319
+        ],
+        "were": [
+          231
+        ],
+        "thus": [
+          232
+        ],
+        "evaluated.": [
+          233
+        ],
+        "RESULTS:": [
+          234
+        ],
+        "=-0.76;": [
+          235
+        ],
+        "P=.48),": [
+          236
+        ],
+        "indicated": [
+          237
+        ],
+        "medium": [
+          238
+        ],
+        "low": [
+          240
+        ],
+        "trust": [
+          241
+        ],
+        "scores": [
+          242
+        ],
+        "chatbot.": [
+          245
+        ],
+        "findings": [
+          247
+        ],
+        "this": [
+          249,
+          275,
+          302
+        ],
+        "work": [
+          250
+        ],
+        "highlight": [
+          251
+        ],
+        "design": [
+          254,
+          315
+        ],
+        "development": [
+          256
+        ],
+        "artificial": [
+          258
+        ],
+        "intelligence": [
+          259
+        ],
+        "(AI)-driven": [
+          260
+        ],
+        "solutions": [
+          263
+        ],
+        "must": [
+          264
+        ],
+        "be": [
+          265
+        ],
+        "undertaken": [
+          266
+        ],
+        "utmost": [
+          268
+        ],
+        "caution.": [
+          269
+        ],
+        "collectively": [
+          277
+        ],
+        "resist": [
+          278
+        ],
+        "make": [
+          282
+        ],
+        "clear": [
+          283
+        ],
+        "AI-driven": [
+          285
+        ],
+        "used": [
+          287,
+          318
+        ],
+        "by": [
+          291
+        ],
+        "at-risk": [
+          292
+        ],
+        "users": [
+          293
+        ],
+        "invite": [
+          294
+        ],
+        "specific": [
+          298
+        ],
+        "harms.": [
+          299
+        ],
+        "CONCLUSIONS:": [
+          300
+        ],
+        "work,": [
+          303
+        ],
+        "contributed": [
+          305
+        ],
+        "insights": [
+          306
+        ],
+        "into": [
+          307,
+          345
+        ],
+        "perspective": [
+          312
+        ],
+        "underscore": [
+          323
+        ],
+        "necessity": [
+          325
+        ],
+        "ongoing": [
+          327
+        ],
+        "assessment": [
+          329
+        ],
+        "iterative": [
+          331
+        ],
+        "refinement": [
+          332
+        ],
+        "maximize": [
+          334
+        ],
+        "benefits": [
+          336
+        ],
+        "minimize": [
+          338
+        ],
+        "associated": [
+          341
+        ],
+        "integrating": [
+          343
+        ],
+        "AI": [
+          344
+        ],
+        "support.": [
+          348
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 35
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 4
+        }
+      ],
+      "updated_date": "2026-09-22T06:50:58.402377",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": "https://www.jmir.org/2025/1/e67114/PDF",
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

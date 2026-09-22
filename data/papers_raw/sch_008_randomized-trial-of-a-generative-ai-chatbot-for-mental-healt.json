@@ -1,0 +1,31 @@
+{
+  "id": "sch-008",
+  "original": {
+    "paper_name": "Randomized trial of a generative AI chatbot for mental health treatment",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "mental health chatbot",
+  "scraped_at": "2026-09-22T11:18:28.462936+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "mental health chatbot",
+    "title_matched": "Randomized trial of a generative AI chatbot for mental health treatment",
+    "authors": [
+      "MV Heinz",
+      "DM Mackin",
+      "BM Trudeau",
+      "S Bhattacharya"
+    ],
+    "year": 2025,
+    "venue": "Nejm Ai",
+    "cited_by": 496,
+    "landing_page_url": "https://ai.nejm.org/doi/abs/10.1056/AIoa2400802",
+    "snippet": "… , and personalization in mental health care, to our knowledge, … chatbot for the treatment of\nmental health symptoms. Beginning in 2019, we started developing Therabot, a Gen-AI chatbot …",
+    "pdf_url": null
+  },
+  "pdf_file": null,
+  "pdf_url": null
+}

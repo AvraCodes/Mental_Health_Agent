@@ -1,0 +1,1494 @@
+{
+  "id": 16,
+  "original": {
+    "id": 16,
+    "paper_name": "Systematic review and meta-analysis of AI-based conversational agents for promoting mental health and well-being",
+    "site": "OpenAlex",
+    "venue_of_publication": "npj Digital Medicine",
+    "year": 2023,
+    "researcher_info": "Han Li, Renwen Zhang et al."
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T08:31:05.839921+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "Systematic review and meta-analysis of AI-based conversational agents for promoting mental health and well-being",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W4389934892",
+    "doi": "https://doi.org/10.1038/s41746-023-00979-5",
+    "title_matched": "Systematic review and meta-analysis of AI-based conversational agents for promoting mental health and well-being",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2023,
+    "venue": "npj Digital Medicine",
+    "authors": [
+      "Han Li",
+      "Renwen Zhang",
+      "Yi‐Chieh Lee",
+      "Robert E. Kraut",
+      "David C. Mohr"
+    ],
+    "abstract": "Conversational artificial intelligence (AI), particularly AI-based conversational agents (CAs), is gaining traction in mental health care. Despite their growing usage, there is a scarcity of comprehensive evaluations of their impact on mental health and well-being. This systematic review and meta-analysis aims to fill this gap by synthesizing evidence on the effectiveness of AI-based CAs in improving mental health and factors influencing their effectiveness and user experience. Twelve databases were searched for experimental studies of AI-based CAs' effects on mental illnesses and psychological well-being published before May 26, 2023. Out of 7834 records, 35 eligible studies were identified for systematic review, out of which 15 randomized controlled trials were included for meta-analysis. The meta-analysis revealed that AI-based CAs significantly reduce symptoms of depression (Hedge's g 0.64 [95% CI 0.17-1.12]) and distress (Hedge's g 0.7 [95% CI 0.18-1.22]). These effects were more pronounced in CAs that are multimodal, generative AI-based, integrated with mobile/instant messaging apps, and targeting clinical/subclinical and elderly populations. However, CA-based interventions showed no significant improvement in overall psychological well-being (Hedge's g 0.32 [95% CI -0.13 to 0.78]). User experience with AI-based CAs was largely shaped by the quality of human-AI therapeutic relationships, content engagement, and effective communication. These findings underscore the potential of AI-based CAs in addressing mental health issues. Future research should investigate the underlying mechanisms of their effectiveness, assess long-term effects across various mental health outcomes, and evaluate the safe integration of large language models (LLMs) in mental health care.",
+    "cited_by_count": 573,
+    "is_oa": true,
+    "pdf_url": "https://www.nature.com/articles/s41746-023-00979-5.pdf",
+    "pdf_candidates": [
+      "https://www.nature.com/articles/s41746-023-00979-5.pdf",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10730549/pdf/41746_2023_Article_979.pdf"
+    ],
+    "landing_page_url": "https://doi.org/10.1038/s41746-023-00979-5",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W4389934892",
+      "doi": "https://doi.org/10.1038/s41746-023-00979-5",
+      "title": "Systematic review and meta-analysis of AI-based conversational agents for promoting mental health and well-being",
+      "display_name": "Systematic review and meta-analysis of AI-based conversational agents for promoting mental health and well-being",
+      "relevance_score": 8750.559,
+      "publication_year": 2023,
+      "publication_date": "2023-12-19",
+      "ids": {
+        "openalex": "https://openalex.org/W4389934892",
+        "doi": "https://doi.org/10.1038/s41746-023-00979-5",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/38114588"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1038/s41746-023-00979-5",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1038/s41746-023-00979-5",
+        "pdf_url": "https://www.nature.com/articles/s41746-023-00979-5.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210195431",
+          "display_name": "npj Digital Medicine",
+          "issn_l": "2398-6352",
+          "issn": [
+            "2398-6352"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "doyens",
+            "jufo-2",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319908",
+          "host_organization_name": "Nature Portfolio",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319908",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Nature Portfolio",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "npj Digital Medicine",
+        "raw_type": "journal-article"
+      },
+      "type": "review",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.nature.com/articles/s41746-023-00979-5.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5100452606",
+            "display_name": "Han Li",
+            "orcid": "https://orcid.org/0000-0002-9050-715X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I165932596",
+              "display_name": "National University of Singapore",
+              "ror": "https://ror.org/01tgyzw49",
+              "country_code": "SG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I165932596"
+              ]
+            }
+          ],
+          "countries": [
+            "SG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Han Li",
+          "raw_affiliation_strings": [
+            "Department of Communications and New Media, National University of Singapore, Singapore, 117416, Singapore"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Communications and New Media, National University of Singapore, Singapore, 117416, Singapore",
+              "institution_ids": [
+                "https://openalex.org/I165932596"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5001987077",
+            "display_name": "Renwen Zhang",
+            "orcid": "https://orcid.org/0000-0002-7636-9598"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I165932596",
+              "display_name": "National University of Singapore",
+              "ror": "https://ror.org/01tgyzw49",
+              "country_code": "SG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I165932596"
+              ]
+            }
+          ],
+          "countries": [
+            "SG"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Renwen Zhang",
+          "raw_affiliation_strings": [
+            "Department of Communications and New Media, National University of Singapore, Singapore, 117416, Singapore. r.zhang@nus.edu.sg",
+            "Department of Communications and New Media, National University of Singapore, Singapore, 117416, Singapore"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-7636-9598",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Communications and New Media, National University of Singapore, Singapore, 117416, Singapore. r.zhang@nus.edu.sg",
+              "institution_ids": [
+                "https://openalex.org/I165932596"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Communications and New Media, National University of Singapore, Singapore, 117416, Singapore",
+              "institution_ids": [
+                "https://openalex.org/I165932596"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5054435118",
+            "display_name": "Yi‐Chieh Lee",
+            "orcid": "https://orcid.org/0000-0002-5484-6066"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I165932596",
+              "display_name": "National University of Singapore",
+              "ror": "https://ror.org/01tgyzw49",
+              "country_code": "SG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I165932596"
+              ]
+            }
+          ],
+          "countries": [
+            "SG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yi-Chieh Lee",
+          "raw_affiliation_strings": [
+            "Department of Computer Science, National University of Singapore, Singapore, 117416, Singapore"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Science, National University of Singapore, Singapore, 117416, Singapore",
+              "institution_ids": [
+                "https://openalex.org/I165932596"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5084649058",
+            "display_name": "Robert E. Kraut",
+            "orcid": "https://orcid.org/0000-0002-8554-2137"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I74973139",
+              "display_name": "Carnegie Mellon University",
+              "ror": "https://ror.org/05x2bcf33",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I74973139"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Robert E. Kraut",
+          "raw_affiliation_strings": [
+            "Human-Computer Interaction Institute Carnegie Mellon University, Pittsburgh, PA, 15213, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Human-Computer Interaction Institute Carnegie Mellon University, Pittsburgh, PA, 15213, USA",
+              "institution_ids": [
+                "https://openalex.org/I74973139"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5051245888",
+            "display_name": "David C. Mohr",
+            "orcid": "https://orcid.org/0000-0002-5443-7596"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I111979921",
+              "display_name": "Northwestern University",
+              "ror": "https://ror.org/000e0be47",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I111979921"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210163195",
+              "display_name": "Behavioral Tech",
+              "ror": "https://ror.org/0531hmb77",
+              "country_code": "US",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I4210163195"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "David C. Mohr",
+          "raw_affiliation_strings": [
+            "Center for Behavioral Intervention Technologies, Department of Preventive Medicine, Northwestern University, Chicago, IL, 60611, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-5443-7596",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Behavioral Intervention Technologies, Department of Preventive Medicine, Northwestern University, Chicago, IL, 60611, USA",
+              "institution_ids": [
+                "https://openalex.org/I111979921",
+                "https://openalex.org/I4210163195"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5001987077"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I165932596"
+      ],
+      "apc_list": {
+        "value": 3590,
+        "currency": "USD",
+        "value_usd": 3590
+      },
+      "apc_paid": {
+        "value": 3590,
+        "currency": "USD",
+        "value_usd": 3590
+      },
+      "fwci": 15.0599,
+      "has_fulltext": true,
+      "cited_by_count": 573,
+      "citation_normalized_percentile": {
+        "value": 0.98884758,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "6",
+        "issue": "1",
+        "first_page": "236",
+        "last_page": "236"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11519",
+        "display_name": "Digital Mental Health Interventions",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3202",
+          "display_name": "Applied Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11519",
+          "display_name": "Digital Mental Health Interventions",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3202",
+            "display_name": "Applied Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12488",
+          "display_name": "Mental Health via Writing",
+          "score": 0.9983000159263611,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13283",
+          "display_name": "Mental Health Research Topics",
+          "score": 0.9933000206947327,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3205",
+            "display_name": "Experimental and Cognitive Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/mental-health",
+          "display_name": "Mental health",
+          "score": 0.7191288471221924
+        },
+        {
+          "id": "https://openalex.org/keywords/psychological-intervention",
+          "display_name": "Psychological intervention",
+          "score": 0.5919331312179565
+        },
+        {
+          "id": "https://openalex.org/keywords/systematic-review",
+          "display_name": "Systematic review",
+          "score": 0.4956127405166626
+        },
+        {
+          "id": "https://openalex.org/keywords/meta-analysis",
+          "display_name": "Meta-analysis",
+          "score": 0.4930834472179413
+        },
+        {
+          "id": "https://openalex.org/keywords/randomized-controlled-trial",
+          "display_name": "Randomized controlled trial",
+          "score": 0.48355624079704285
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.4598655700683594
+        },
+        {
+          "id": "https://openalex.org/keywords/distress",
+          "display_name": "Distress",
+          "score": 0.4334977865219116
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.3745654821395874
+        },
+        {
+          "id": "https://openalex.org/keywords/clinical-psychology",
+          "display_name": "Clinical psychology",
+          "score": 0.3475981056690216
+        },
+        {
+          "id": "https://openalex.org/keywords/medline",
+          "display_name": "MEDLINE",
+          "score": 0.34577614068984985
+        },
+        {
+          "id": "https://openalex.org/keywords/psychiatry",
+          "display_name": "Psychiatry",
+          "score": 0.24635270237922668
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C134362201",
+          "wikidata": "https://www.wikidata.org/wiki/Q317309",
+          "display_name": "Mental health",
+          "level": 2,
+          "score": 0.7191288471221924
+        },
+        {
+          "id": "https://openalex.org/C27415008",
+          "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+          "display_name": "Psychological intervention",
+          "level": 2,
+          "score": 0.5919331312179565
+        },
+        {
+          "id": "https://openalex.org/C189708586",
+          "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+          "display_name": "Systematic review",
+          "level": 3,
+          "score": 0.4956127405166626
+        },
+        {
+          "id": "https://openalex.org/C95190672",
+          "wikidata": "https://www.wikidata.org/wiki/Q815382",
+          "display_name": "Meta-analysis",
+          "level": 2,
+          "score": 0.4930834472179413
+        },
+        {
+          "id": "https://openalex.org/C168563851",
+          "wikidata": "https://www.wikidata.org/wiki/Q1436668",
+          "display_name": "Randomized controlled trial",
+          "level": 2,
+          "score": 0.48355624079704285
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.4598655700683594
+        },
+        {
+          "id": "https://openalex.org/C139265228",
+          "wikidata": "https://www.wikidata.org/wiki/Q5283089",
+          "display_name": "Distress",
+          "level": 2,
+          "score": 0.4334977865219116
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.3745654821395874
+        },
+        {
+          "id": "https://openalex.org/C70410870",
+          "wikidata": "https://www.wikidata.org/wiki/Q199906",
+          "display_name": "Clinical psychology",
+          "level": 1,
+          "score": 0.3475981056690216
+        },
+        {
+          "id": "https://openalex.org/C2779473830",
+          "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+          "display_name": "MEDLINE",
+          "level": 2,
+          "score": 0.34577614068984985
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.24635270237922668
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C141071460",
+          "wikidata": "https://www.wikidata.org/wiki/Q40821",
+          "display_name": "Surgery",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C126322002",
+          "wikidata": "https://www.wikidata.org/wiki/Q11180",
+          "display_name": "Internal medicine",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.1038/s41746-023-00979-5",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1038/s41746-023-00979-5",
+          "pdf_url": "https://www.nature.com/articles/s41746-023-00979-5.pdf",
+          "source": {
+            "id": "https://openalex.org/S4210195431",
+            "display_name": "npj Digital Medicine",
+            "issn_l": "2398-6352",
+            "issn": [
+              "2398-6352"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "doyens",
+              "jufo-2",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310319908",
+            "host_organization_name": "Nature Portfolio",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319908",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Nature Portfolio",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "npj Digital Medicine",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:38114588",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/38114588",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "NPJ digital medicine",
+          "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:10730549",
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10730549",
+          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10730549/pdf/41746_2023_Article_979.pdf",
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "NPJ Digit Med",
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:f17df3045e7249698659f7fcaae4adad",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/f17df3045e7249698659f7fcaae4adad",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "npj Digital Medicine, Vol 6, Iss 1, Pp 1-14 (2023)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1038/s41746-023-00979-5",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1038/s41746-023-00979-5",
+        "pdf_url": "https://www.nature.com/articles/s41746-023-00979-5.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210195431",
+          "display_name": "npj Digital Medicine",
+          "issn_l": "2398-6352",
+          "issn": [
+            "2398-6352"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "doyens",
+            "jufo-2",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319908",
+          "host_organization_name": "Nature Portfolio",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319908",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Nature Portfolio",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "npj Digital Medicine",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "score": 0.6800000071525574,
+          "display_name": "Quality Education"
+        }
+      ],
+      "awards": [
+        {
+          "id": "https://openalex.org/G2099330986",
+          "display_name": null,
+          "funder_award_id": "A-8000936-01-00",
+          "funder_id": "https://openalex.org/F4320320698",
+          "funder_display_name": "National University of Singapore"
+        },
+        {
+          "id": "https://openalex.org/G272050701",
+          "display_name": null,
+          "funder_award_id": "P50MH119029",
+          "funder_id": "https://openalex.org/F4320337346",
+          "funder_display_name": "National Institute of Mental Health"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320320698",
+          "display_name": "National University of Singapore",
+          "ror": "https://ror.org/01tgyzw49"
+        },
+        {
+          "id": "https://openalex.org/F4320337346",
+          "display_name": "National Institute of Mental Health",
+          "ror": "https://ror.org/04xeg9z08"
+        }
+      ],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4389934892.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4389934892.grobid-xml"
+      },
+      "referenced_works_count": 77,
+      "referenced_works": [
+        "https://openalex.org/W1766812542",
+        "https://openalex.org/W1966976587",
+        "https://openalex.org/W2007872832",
+        "https://openalex.org/W2037557484",
+        "https://openalex.org/W2062645441",
+        "https://openalex.org/W2098923148",
+        "https://openalex.org/W2165010366",
+        "https://openalex.org/W2532414435",
+        "https://openalex.org/W2567362164",
+        "https://openalex.org/W2588681363",
+        "https://openalex.org/W2623779865",
+        "https://openalex.org/W2654569425",
+        "https://openalex.org/W2750377858",
+        "https://openalex.org/W2760160110",
+        "https://openalex.org/W2771925981",
+        "https://openalex.org/W2792708398",
+        "https://openalex.org/W2889335577",
+        "https://openalex.org/W2895995041",
+        "https://openalex.org/W2937940701",
+        "https://openalex.org/W2941708730",
+        "https://openalex.org/W2950709739",
+        "https://openalex.org/W2962948182",
+        "https://openalex.org/W2972598474",
+        "https://openalex.org/W2977128309",
+        "https://openalex.org/W2999403486",
+        "https://openalex.org/W3010903994",
+        "https://openalex.org/W3012444575",
+        "https://openalex.org/W3014634077",
+        "https://openalex.org/W3022528244",
+        "https://openalex.org/W3028999579",
+        "https://openalex.org/W3089273598",
+        "https://openalex.org/W3092757811",
+        "https://openalex.org/W3098002373",
+        "https://openalex.org/W3110570584",
+        "https://openalex.org/W3126938010",
+        "https://openalex.org/W3128157571",
+        "https://openalex.org/W3136897485",
+        "https://openalex.org/W3150372151",
+        "https://openalex.org/W3153837393",
+        "https://openalex.org/W3159926416",
+        "https://openalex.org/W3168346183",
+        "https://openalex.org/W3171455429",
+        "https://openalex.org/W3183473388",
+        "https://openalex.org/W3190938315",
+        "https://openalex.org/W3196926390",
+        "https://openalex.org/W3197232629",
+        "https://openalex.org/W3198359754",
+        "https://openalex.org/W3202472344",
+        "https://openalex.org/W3213035528",
+        "https://openalex.org/W3213790166",
+        "https://openalex.org/W4205207624",
+        "https://openalex.org/W4205956657",
+        "https://openalex.org/W4206687394",
+        "https://openalex.org/W4206793304",
+        "https://openalex.org/W4226502953",
+        "https://openalex.org/W4229029590",
+        "https://openalex.org/W4229082340",
+        "https://openalex.org/W4229372097",
+        "https://openalex.org/W4243177274",
+        "https://openalex.org/W4246277771",
+        "https://openalex.org/W4280539423",
+        "https://openalex.org/W4294214983",
+        "https://openalex.org/W4304112197",
+        "https://openalex.org/W4308687068",
+        "https://openalex.org/W4309659478",
+        "https://openalex.org/W4313728180",
+        "https://openalex.org/W4319789552",
+        "https://openalex.org/W4321512037",
+        "https://openalex.org/W4321606060",
+        "https://openalex.org/W4323900694",
+        "https://openalex.org/W4361994630",
+        "https://openalex.org/W4362667331",
+        "https://openalex.org/W4377565325",
+        "https://openalex.org/W4381805620",
+        "https://openalex.org/W4384923078",
+        "https://openalex.org/W4391359837",
+        "https://openalex.org/W6604107555"
+      ],
+      "related_works": [
+        "https://openalex.org/W3210678099",
+        "https://openalex.org/W4200025911",
+        "https://openalex.org/W3088977003",
+        "https://openalex.org/W4246615163",
+        "https://openalex.org/W4360943417",
+        "https://openalex.org/W4206095708",
+        "https://openalex.org/W2611523470",
+        "https://openalex.org/W4294636802",
+        "https://openalex.org/W2070311887",
+        "https://openalex.org/W2115099528"
+      ],
+      "abstract_inverted_index": {
+        "Conversational": [
+          0
+        ],
+        "artificial": [
+          1
+        ],
+        "intelligence": [
+          2
+        ],
+        "(AI),": [
+          3
+        ],
+        "particularly": [
+          4
+        ],
+        "AI-based": [
+          5,
+          52,
+          74,
+          115,
+          181,
+          204
+        ],
+        "conversational": [
+          6
+        ],
+        "agents": [
+          7
+        ],
+        "(CAs),": [
+          8
+        ],
+        "is": [
+          9,
+          21
+        ],
+        "gaining": [
+          10
+        ],
+        "traction": [
+          11
+        ],
+        "in": [
+          12,
+          54,
+          141,
+          166,
+          206,
+          239
+        ],
+        "mental": [
+          13,
+          31,
+          56,
+          78,
+          208,
+          226,
+          240
+        ],
+        "health": [
+          14,
+          32,
+          57,
+          209,
+          227,
+          241
+        ],
+        "care.": [
+          15,
+          242
+        ],
+        "Despite": [
+          16
+        ],
+        "their": [
+          17,
+          28,
+          61,
+          219
+        ],
+        "growing": [
+          18
+        ],
+        "usage,": [
+          19
+        ],
+        "there": [
+          20
+        ],
+        "a": [
+          22
+        ],
+        "scarcity": [
+          23
+        ],
+        "of": [
+          24,
+          27,
+          51,
+          73,
+          89,
+          101,
+          120,
+          189,
+          203,
+          218,
+          234
+        ],
+        "comprehensive": [
+          25
+        ],
+        "evaluations": [
+          26
+        ],
+        "impact": [
+          29
+        ],
+        "on": [
+          30,
+          48,
+          77
+        ],
+        "and": [
+          33,
+          38,
+          58,
+          63,
+          80,
+          128,
+          153,
+          156,
+          195,
+          229
+        ],
+        "well-being.": [
+          34
+        ],
+        "This": [
+          35
+        ],
+        "systematic": [
+          36,
+          98
+        ],
+        "review": [
+          37
+        ],
+        "meta-analysis": [
+          39,
+          112
+        ],
+        "aims": [
+          40
+        ],
+        "to": [
+          41,
+          176
+        ],
+        "fill": [
+          42
+        ],
+        "this": [
+          43
+        ],
+        "gap": [
+          44
+        ],
+        "by": [
+          45,
+          186
+        ],
+        "synthesizing": [
+          46
+        ],
+        "evidence": [
+          47
+        ],
+        "the": [
+          49,
+          187,
+          201,
+          215,
+          231
+        ],
+        "effectiveness": [
+          50,
+          62
+        ],
+        "CAs": [
+          53,
+          116,
+          142,
+          182,
+          205
+        ],
+        "improving": [
+          55
+        ],
+        "factors": [
+          59
+        ],
+        "influencing": [
+          60
+        ],
+        "user": [
+          64
+        ],
+        "experience.": [
+          65
+        ],
+        "Twelve": [
+          66
+        ],
+        "databases": [
+          67
+        ],
+        "were": [
+          68,
+          95,
+          107,
+          138
+        ],
+        "searched": [
+          69
+        ],
+        "for": [
+          70,
+          97,
+          109
+        ],
+        "experimental": [
+          71
+        ],
+        "studies": [
+          72,
+          94
+        ],
+        "CAs'": [
+          75
+        ],
+        "effects": [
+          76,
+          137,
+          223
+        ],
+        "illnesses": [
+          79
+        ],
+        "psychological": [
+          81,
+          168
+        ],
+        "well-being": [
+          82,
+          169
+        ],
+        "published": [
+          83
+        ],
+        "before": [
+          84
+        ],
+        "May": [
+          85
+        ],
+        "26,": [
+          86
+        ],
+        "2023.": [
+          87
+        ],
+        "Out": [
+          88
+        ],
+        "7834": [
+          90
+        ],
+        "records,": [
+          91
+        ],
+        "35": [
+          92
+        ],
+        "eligible": [
+          93
+        ],
+        "identified": [
+          96
+        ],
+        "review,": [
+          99
+        ],
+        "out": [
+          100
+        ],
+        "which": [
+          102
+        ],
+        "15": [
+          103
+        ],
+        "randomized": [
+          104
+        ],
+        "controlled": [
+          105
+        ],
+        "trials": [
+          106
+        ],
+        "included": [
+          108
+        ],
+        "meta-analysis.": [
+          110
+        ],
+        "The": [
+          111
+        ],
+        "revealed": [
+          113
+        ],
+        "that": [
+          114,
+          143
+        ],
+        "significantly": [
+          117
+        ],
+        "reduce": [
+          118
+        ],
+        "symptoms": [
+          119
+        ],
+        "depression": [
+          121
+        ],
+        "(Hedge's": [
+          122,
+          130,
+          170
+        ],
+        "g": [
+          123,
+          131,
+          171
+        ],
+        "0.64": [
+          124
+        ],
+        "[95%": [
+          125,
+          133,
+          173
+        ],
+        "CI": [
+          126,
+          134,
+          174
+        ],
+        "0.17-1.12])": [
+          127
+        ],
+        "distress": [
+          129
+        ],
+        "0.7": [
+          132
+        ],
+        "0.18-1.22]).": [
+          135
+        ],
+        "These": [
+          136,
+          198
+        ],
+        "more": [
+          139
+        ],
+        "pronounced": [
+          140
+        ],
+        "are": [
+          144
+        ],
+        "multimodal,": [
+          145
+        ],
+        "generative": [
+          146
+        ],
+        "AI-based,": [
+          147
+        ],
+        "integrated": [
+          148
+        ],
+        "with": [
+          149,
+          180
+        ],
+        "mobile/instant": [
+          150
+        ],
+        "messaging": [
+          151
+        ],
+        "apps,": [
+          152
+        ],
+        "targeting": [
+          154
+        ],
+        "clinical/subclinical": [
+          155
+        ],
+        "elderly": [
+          157
+        ],
+        "populations.": [
+          158
+        ],
+        "However,": [
+          159
+        ],
+        "CA-based": [
+          160
+        ],
+        "interventions": [
+          161
+        ],
+        "showed": [
+          162
+        ],
+        "no": [
+          163
+        ],
+        "significant": [
+          164
+        ],
+        "improvement": [
+          165
+        ],
+        "overall": [
+          167
+        ],
+        "0.32": [
+          172
+        ],
+        "-0.13": [
+          175
+        ],
+        "0.78]).": [
+          177
+        ],
+        "User": [
+          178
+        ],
+        "experience": [
+          179
+        ],
+        "was": [
+          183
+        ],
+        "largely": [
+          184
+        ],
+        "shaped": [
+          185
+        ],
+        "quality": [
+          188
+        ],
+        "human-AI": [
+          190
+        ],
+        "therapeutic": [
+          191
+        ],
+        "relationships,": [
+          192
+        ],
+        "content": [
+          193
+        ],
+        "engagement,": [
+          194
+        ],
+        "effective": [
+          196
+        ],
+        "communication.": [
+          197
+        ],
+        "findings": [
+          199
+        ],
+        "underscore": [
+          200
+        ],
+        "potential": [
+          202
+        ],
+        "addressing": [
+          207
+        ],
+        "issues.": [
+          210
+        ],
+        "Future": [
+          211
+        ],
+        "research": [
+          212
+        ],
+        "should": [
+          213
+        ],
+        "investigate": [
+          214
+        ],
+        "underlying": [
+          216
+        ],
+        "mechanisms": [
+          217
+        ],
+        "effectiveness,": [
+          220
+        ],
+        "assess": [
+          221
+        ],
+        "long-term": [
+          222
+        ],
+        "across": [
+          224
+        ],
+        "various": [
+          225
+        ],
+        "outcomes,": [
+          228
+        ],
+        "evaluate": [
+          230
+        ],
+        "safe": [
+          232
+        ],
+        "integration": [
+          233
+        ],
+        "large": [
+          235
+        ],
+        "language": [
+          236
+        ],
+        "models": [
+          237
+        ],
+        "(LLMs)": [
+          238
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 272
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 223
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 77
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-09-19T00:03:45.406941",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  },
+  "pdf_file": "016_systematic-review-and-meta-analysis-of-ai-based-conversation.pdf",
+  "pdf_url": "https://www.nature.com/articles/s41746-023-00979-5.pdf",
+  "pdf_verified": true
+}

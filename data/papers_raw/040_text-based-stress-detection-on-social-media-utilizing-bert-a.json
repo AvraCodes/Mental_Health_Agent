@@ -1,0 +1,59 @@
+{
+  "id": 40,
+  "original": {
+    "paper_name": "Text-based Stress Detection on Social Media utilizing BERT and Graph Neural Networks",
+    "site": "DBLP",
+    "venue_of_publication": "EMNLP",
+    "year": 2023,
+    "researcher_info": "Z. Zhao, et al.",
+    "id": 40
+  },
+  "site": "DBLP",
+  "scraped_at": "2026-09-22T11:02:27.291911+00:00",
+  "fetched": {
+    "found": true,
+    "query": "Text-based Stress Detection on Social Media utilizing BERT and Graph Neural Networks",
+    "method": "crossref-fallback",
+    "doi": "10.1109/aisp68263.2025.11396302",
+    "doi_url": "https://doi.org/10.1109/aisp68263.2025.11396302",
+    "title_matched": "Graph-Based Suicide Ideation Detection in Social Media using Text Convolutional Networks",
+    "title_similarity": 0.651,
+    "match_confidence": "medium",
+    "authors": [
+      "Sunil Sharanappa",
+      "Bharath Kumar Bolla",
+      "Vivek Burada",
+      "Ganesh Prasad Rao"
+    ],
+    "year": 2025,
+    "venue": "2025 5th International Conference on Artificial Intelligence and Signal Processing (AISP)",
+    "publisher": "IEEE",
+    "pdf_url": null,
+    "landing_page_url": "https://doi.org/10.1109/aisp68263.2025.11396302",
+    "site": "DBLP",
+    "site_miss": {
+      "found": false,
+      "site": "DBLP",
+      "query": "Text-based Stress Detection on Social Media utilizing BERT and Graph Neural Networks",
+      "method": "api",
+      "error": "Expecting value: line 1 column 1 (char 0)",
+      "playwright_fallback": {
+        "found": false,
+        "site": "DBLP",
+        "query": "Text-based Stress Detection on Social Media utilizing BERT and Graph Neural Networks",
+        "method": "playwright",
+        "search_url": "https://dblp.org/search?q=Text-based%20Stress%20Detection%20on%20Social%20Media%20utilizing%20BERT",
+        "top_hits": [],
+        "top_links": [],
+        "short_query_used": "Text-based Stress Detection on Social Media utilizing BERT"
+      }
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": null,
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

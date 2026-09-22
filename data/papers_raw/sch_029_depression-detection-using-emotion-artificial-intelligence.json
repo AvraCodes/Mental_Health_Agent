@@ -1,0 +1,29 @@
+{
+  "id": "sch-029",
+  "original": {
+    "paper_name": "Depression detection using emotion artificial intelligence",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "depression detection natural language processing",
+  "scraped_at": "2026-09-22T11:19:32.157286+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "depression detection natural language processing",
+    "title_matched": "Depression detection using emotion artificial intelligence",
+    "authors": [
+      "M Deshpande",
+      "V Rao"
+    ],
+    "year": 2017,
+    "venue": "2017 international conference on …",
+    "cited_by": 364,
+    "landing_page_url": "https://ieeexplore.ieee.org/abstract/document/8389299/",
+    "snippet": "… natural language processing on Twitter feeds for conducting emotion analysis focusing on\ndepression. … or negative, based on a curated word-list to detect depression tendencies. In the …",
+    "pdf_url": null
+  },
+  "pdf_file": null,
+  "pdf_url": null
+}

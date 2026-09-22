@@ -1,0 +1,114 @@
+{
+  "id": 2,
+  "original": {
+    "paper_name": "Zero-Shot Stress Detection in Conversational Data using LLMs",
+    "site": "Crossref",
+    "venue_of_publication": "ACL Findings",
+    "year": 2024,
+    "researcher_info": "M. O'Brien, et al.",
+    "id": 2
+  },
+  "site": "Crossref",
+  "scraped_at": "2026-09-22T10:57:09.082340+00:00",
+  "fetched": {
+    "found": true,
+    "site": "Crossref",
+    "query": "Zero-Shot Stress Detection in Conversational Data using LLMs",
+    "method": "api",
+    "doi": "10.1016/j.procs.2026.01.081",
+    "doi_url": "https://doi.org/10.1016/j.procs.2026.01.081",
+    "title_matched": "Zero-Shot Stance Detection using Contextual Data Generation with LLMs",
+    "title_similarity": 0.729,
+    "match_confidence": "medium",
+    "authors": [
+      "Ghazaleh Mahmoudi",
+      "Babak Behkamkia",
+      "Sauleh Eetemadi"
+    ],
+    "year": 2026,
+    "venue": "Procedia Computer Science",
+    "publisher": "Elsevier BV",
+    "abstract": null,
+    "pdf_url": null,
+    "landing_page_url": "https://doi.org/10.1016/j.procs.2026.01.081",
+    "score": 39.286842,
+    "raw": {
+      "publisher": "Elsevier BV",
+      "DOI": "10.1016/j.procs.2026.01.081",
+      "title": [
+        "Zero-Shot Stance Detection using Contextual Data Generation with LLMs"
+      ],
+      "author": [
+        {
+          "given": "Ghazaleh",
+          "family": "Mahmoudi",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Babak",
+          "family": "Behkamkia",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sauleh",
+          "family": "Eetemadi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Procedia Computer Science"
+      ],
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1877050926000815?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1877050926000815?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "score": 39.286842,
+      "URL": "https://doi.org/10.1016/j.procs.2026.01.081",
+      "published": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      }
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": null,
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

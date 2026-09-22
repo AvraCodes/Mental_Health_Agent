@@ -1,0 +1,50 @@
+{
+  "id": 5,
+  "original": {
+    "paper_name": "Unobtrusive Stress Prediction via Facial Micro-expressions and Deep Learning",
+    "site": "IEEE",
+    "venue_of_publication": "IEEE Transactions on Affective Computing",
+    "year": 2023,
+    "researcher_info": "A. Gupta, et al.",
+    "id": 5
+  },
+  "site": "IEEE",
+  "scraped_at": "2026-09-22T10:57:34.647369+00:00",
+  "fetched": {
+    "found": true,
+    "query": "Unobtrusive Stress Prediction via Facial Micro-expressions and Deep Learning",
+    "method": "crossref-fallback",
+    "doi": "10.1109/mysurucon59703.2023.10396864",
+    "doi_url": "https://doi.org/10.1109/mysurucon59703.2023.10396864",
+    "title_matched": "Emotion Prediction for Recognition of Facial Expressions using Deep Learning",
+    "title_similarity": 0.645,
+    "match_confidence": "medium",
+    "authors": [
+      "Bhoomika S S"
+    ],
+    "year": 2023,
+    "venue": "2023 IEEE 3rd Mysore Sub Section International Conference (MysuruCon)",
+    "publisher": "IEEE",
+    "pdf_url": null,
+    "landing_page_url": "https://doi.org/10.1109/mysurucon59703.2023.10396864",
+    "site": "IEEE",
+    "site_miss": {
+      "found": false,
+      "site": "IEEE",
+      "query": "Unobtrusive Stress Prediction via Facial Micro-expressions and Deep Learning",
+      "method": "playwright-search",
+      "search_url": "https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=Unobtrusive%20Stress%20Prediction%20via%20Facial%20Micro-expressions%20and%20Deep%20Learning&highlight=true&returnType=SEARCH&matchPubs=true&rowsPerPage=10",
+      "top_links": [],
+      "note": "No structured result cards parsed; raw document links returned.",
+      "pdf_url": null,
+      "oa_landing_page_url": null
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": null,
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

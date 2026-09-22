@@ -1,0 +1,30 @@
+{
+  "id": "sch-034",
+  "original": {
+    "paper_name": "[HTML] The opportunities and risks of large language models in mental health",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "large language models mental health",
+  "scraped_at": "2026-09-22T11:19:59.518498+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "large language models mental health",
+    "title_matched": "[HTML] The opportunities and risks of large language models in mental health",
+    "authors": [
+      "HR Lawrence",
+      "RA Schneider",
+      "SB Rubin"
+    ],
+    "year": 2024,
+    "venue": "… Mental Health",
+    "cited_by": 355,
+    "landing_page_url": "https://mental.jmir.org/2024/1/e59479/",
+    "snippet": "… that existing models of mental health care … large language models (LLMs) has come great\noptimism regarding their promise to create novel, large-scale solutions to support mental health…",
+    "pdf_url": "https://mental.jmir.org/2024/1/e59479/"
+  },
+  "pdf_file": null,
+  "pdf_url": "https://mental.jmir.org/2024/1/e59479/"
+}

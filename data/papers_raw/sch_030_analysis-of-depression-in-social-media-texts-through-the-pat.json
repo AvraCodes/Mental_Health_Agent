@@ -1,0 +1,32 @@
+{
+  "id": "sch-030",
+  "original": {
+    "paper_name": "Analysis of depression in social media texts through the Patient Health Questionnaire-9 and natural language processing",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "depression detection natural language processing",
+  "scraped_at": "2026-09-22T11:19:32.157865+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "depression detection natural language processing",
+    "title_matched": "Analysis of depression in social media texts through the Patient Health Questionnaire-9 and natural language processing",
+    "authors": [
+      "NH Kim",
+      "JM Kim",
+      "DM Park",
+      "SR Ji",
+      "JW Kim"
+    ],
+    "year": 2022,
+    "venue": "Digital health",
+    "cited_by": 35,
+    "landing_page_url": "https://journals.sagepub.com/doi/abs/10.1177/20552076221114204",
+    "snippet": "… This study contributes to early depression identification, which is a significant step in the\ntreatment of depression. And the methodology described here can be applied without the …",
+    "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/20552076221114204"
+  },
+  "pdf_file": null,
+  "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/20552076221114204"
+}

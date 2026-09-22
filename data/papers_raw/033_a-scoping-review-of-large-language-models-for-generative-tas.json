@@ -1,0 +1,1274 @@
+{
+  "id": 33,
+  "original": {
+    "id": 33,
+    "paper_name": "A scoping review of large language models for generative tasks in mental health care",
+    "site": "OpenAlex",
+    "venue_of_publication": "npj Digital Medicine",
+    "year": 2025,
+    "researcher_info": "Yining Hua, Hongbin Na et al."
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T08:31:44.825512+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "A scoping review of large language models for generative tasks in mental health care",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W4409967501",
+    "doi": "https://doi.org/10.1038/s41746-025-01611-4",
+    "title_matched": "A scoping review of large language models for generative tasks in mental health care",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2025,
+    "venue": "npj Digital Medicine",
+    "authors": [
+      "Yining Hua",
+      "Hongbin Na",
+      "Zehan Li",
+      "Fenglin Liu",
+      "Xiao Yang Fang",
+      "David Andrew Clifton",
+      "John Blake Torous"
+    ],
+    "abstract": "Large language models (LLMs) show promise in mental health care for handling human-like conversations, but their effectiveness remains uncertain. This scoping review synthesizes existing research on LLM applications in mental health care, reviews model performance and clinical effectiveness, identifies gaps in current evaluation methods following a structured evaluation framework, and provides recommendations for future development. A systematic search identified 726 unique articles, of which 16 met the inclusion criteria. These studies, encompassing applications such as clinical assistance, counseling, therapy, and emotional support, show initial promises. However, the evaluation methods were often non-standardized, with most studies relying on ad-hoc scales that limit comparability and robustness. A reliance on prompt-tuning proprietary models, such as OpenAI's GPT series, also raises concerns about transparency and reproducibility. As current evidence does not fully support their use as standalone interventions, more rigorous development and evaluation guidelines are needed for safe, effective clinical integration.",
+    "cited_by_count": 130,
+    "is_oa": true,
+    "pdf_url": "https://www.nature.com/articles/s41746-025-01611-4.pdf",
+    "pdf_candidates": [
+      "https://www.nature.com/articles/s41746-025-01611-4.pdf"
+    ],
+    "landing_page_url": "https://doi.org/10.1038/s41746-025-01611-4",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W4409967501",
+      "doi": "https://doi.org/10.1038/s41746-025-01611-4",
+      "title": "A scoping review of large language models for generative tasks in mental health care",
+      "display_name": "A scoping review of large language models for generative tasks in mental health care",
+      "relevance_score": 3710.9282,
+      "publication_year": 2025,
+      "publication_date": "2025-04-30",
+      "ids": {
+        "openalex": "https://openalex.org/W4409967501",
+        "doi": "https://doi.org/10.1038/s41746-025-01611-4",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/40307331"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1038/s41746-025-01611-4",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1038/s41746-025-01611-4",
+        "pdf_url": "https://www.nature.com/articles/s41746-025-01611-4.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210195431",
+          "display_name": "npj Digital Medicine",
+          "issn_l": "2398-6352",
+          "issn": [
+            "2398-6352"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "doyens",
+            "jufo-2",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319908",
+          "host_organization_name": "Nature Portfolio",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319908",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Nature Portfolio",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "npj Digital Medicine",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.nature.com/articles/s41746-025-01611-4.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5090235962",
+            "display_name": "Yining Hua",
+            "orcid": "https://orcid.org/0000-0002-3377-6943"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1316535847",
+              "display_name": "Beth Israel Deaconess Medical Center",
+              "ror": "https://ror.org/04drvxt59",
+              "country_code": "US",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I1316535847"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I136199984",
+              "display_name": "Harvard University",
+              "ror": "https://ror.org/03vek6s52",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I136199984"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yining Hua",
+          "raw_affiliation_strings": [
+            "Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA",
+            "Department of Psychiatry, Beth Israel Deaconess Medical Center, Boston, MA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA",
+              "institution_ids": [
+                "https://openalex.org/I136199984"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Psychiatry, Beth Israel Deaconess Medical Center, Boston, MA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1316535847"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5108911992",
+            "display_name": "Hongbin Na",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I114017466",
+              "display_name": "University of Technology Sydney",
+              "ror": "https://ror.org/03f0f6041",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114017466"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Hongbin Na",
+          "raw_affiliation_strings": [
+            "Australian Artificial Intelligence Institute, University of Technology Sydney, Sydney, NSW, Australia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Australian Artificial Intelligence Institute, University of Technology Sydney, Sydney, NSW, Australia",
+              "institution_ids": [
+                "https://openalex.org/I114017466"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5076041866",
+            "display_name": "Zehan Li",
+            "orcid": "https://orcid.org/0000-0002-4996-8480"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210159031",
+              "display_name": "The University of Texas Health Science Center",
+              "ror": "https://ror.org/05cwbxa29",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210159031"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Zehan Li",
+          "raw_affiliation_strings": [
+            "McWilliams School of Biomedical Informatics, UTHealth Houston, Houston, TX, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-4996-8480",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "McWilliams School of Biomedical Informatics, UTHealth Houston, Houston, TX, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210159031"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100632772",
+            "display_name": "Fenglin Liu",
+            "orcid": "https://orcid.org/0000-0001-7715-5228"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Fenglin Liu",
+          "raw_affiliation_strings": [
+            "Institute of Biomedical Engineering, Department of Engineering Science, University of Oxford, Oxford, UK"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-7715-5228",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Biomedical Engineering, Department of Engineering Science, University of Oxford, Oxford, UK",
+              "institution_ids": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5102817508",
+            "display_name": "Xiao Yang Fang",
+            "orcid": "https://orcid.org/0000-0003-3022-370X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Xiao Fang",
+          "raw_affiliation_strings": [
+            "MIT Media Lab, Massachusetts Institute of Technology, Cambridge, MA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Media Lab, Massachusetts Institute of Technology, Cambridge, MA, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5040302008",
+            "display_name": "David Andrew Clifton",
+            "orcid": "https://orcid.org/0000-0002-9848-8555"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210125878",
+              "display_name": "Suzhou Research Institute",
+              "ror": "https://ror.org/03ebk0c60",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210125878"
+              ]
+            }
+          ],
+          "countries": [
+            "CN",
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "David Clifton",
+          "raw_affiliation_strings": [
+            "Institute of Biomedical Engineering, Department of Engineering Science, University of Oxford, Oxford, UK",
+            "Oxford-Suzhou Centre for Advanced Research, Suzhou, China"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-9848-8555",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Biomedical Engineering, Department of Engineering Science, University of Oxford, Oxford, UK",
+              "institution_ids": [
+                "https://openalex.org/I40120149"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Oxford-Suzhou Centre for Advanced Research, Suzhou, China",
+              "institution_ids": [
+                "https://openalex.org/I4210125878"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5026523515",
+            "display_name": "John Blake Torous",
+            "orcid": "https://orcid.org/0000-0002-5362-7937"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1316535847",
+              "display_name": "Beth Israel Deaconess Medical Center",
+              "ror": "https://ror.org/04drvxt59",
+              "country_code": "US",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I1316535847"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I136199984",
+              "display_name": "Harvard University",
+              "ror": "https://ror.org/03vek6s52",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I136199984"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "John Torous",
+          "raw_affiliation_strings": [
+            "Department of Psychiatry, Beth Israel Deaconess Medical Center, Boston, MA, USA. jtorous@bidmc.harvard.edu",
+            "Department of Psychiatry, Harvard Medical School, Boston, MA, USA. jtorous@bidmc.harvard.edu"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-5362-7937",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Psychiatry, Beth Israel Deaconess Medical Center, Boston, MA, USA. jtorous@bidmc.harvard.edu",
+              "institution_ids": [
+                "https://openalex.org/I1316535847"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Psychiatry, Harvard Medical School, Boston, MA, USA. jtorous@bidmc.harvard.edu",
+              "institution_ids": [
+                "https://openalex.org/I136199984"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 4,
+      "institutions_distinct_count": 7,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5026523515"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I1316535847",
+        "https://openalex.org/I136199984"
+      ],
+      "apc_list": {
+        "value": 4090,
+        "currency": "USD",
+        "value_usd": 4090
+      },
+      "apc_paid": {
+        "value": 4090,
+        "currency": "USD",
+        "value_usd": 4090
+      },
+      "fwci": 80.6442,
+      "has_fulltext": true,
+      "cited_by_count": 130,
+      "citation_normalized_percentile": {
+        "value": 0.99959113,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 99,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "8",
+        "issue": "1",
+        "first_page": "230",
+        "last_page": "230"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11519",
+        "display_name": "Digital Mental Health Interventions",
+        "score": 0.9934999942779541,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3202",
+          "display_name": "Applied Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11519",
+          "display_name": "Digital Mental Health Interventions",
+          "score": 0.9934999942779541,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3202",
+            "display_name": "Applied Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12488",
+          "display_name": "Mental Health via Writing",
+          "score": 0.9901999831199646,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11983",
+          "display_name": "Identity, Memory, and Therapy",
+          "score": 0.9857000112533569,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3204",
+            "display_name": "Developmental and Educational Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/generative-grammar",
+          "display_name": "Generative grammar",
+          "score": 0.7231442928314209
+        },
+        {
+          "id": "https://openalex.org/keywords/mental-health",
+          "display_name": "Mental health",
+          "score": 0.5633050203323364
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.5507583618164062
+        },
+        {
+          "id": "https://openalex.org/keywords/mental-health-care",
+          "display_name": "Mental health care",
+          "score": 0.44230595231056213
+        },
+        {
+          "id": "https://openalex.org/keywords/linguistics",
+          "display_name": "Linguistics",
+          "score": 0.38878393173217773
+        },
+        {
+          "id": "https://openalex.org/keywords/psychotherapist",
+          "display_name": "Psychotherapist",
+          "score": 0.24269047379493713
+        },
+        {
+          "id": "https://openalex.org/keywords/philosophy",
+          "display_name": "Philosophy",
+          "score": 0.06532308459281921
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C39890363",
+          "wikidata": "https://www.wikidata.org/wiki/Q36108",
+          "display_name": "Generative grammar",
+          "level": 2,
+          "score": 0.7231442928314209
+        },
+        {
+          "id": "https://openalex.org/C134362201",
+          "wikidata": "https://www.wikidata.org/wiki/Q317309",
+          "display_name": "Mental health",
+          "level": 2,
+          "score": 0.5633050203323364
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.5507583618164062
+        },
+        {
+          "id": "https://openalex.org/C2992545881",
+          "wikidata": "https://www.wikidata.org/wiki/Q6817473",
+          "display_name": "Mental health care",
+          "level": 3,
+          "score": 0.44230595231056213
+        },
+        {
+          "id": "https://openalex.org/C41895202",
+          "wikidata": "https://www.wikidata.org/wiki/Q8162",
+          "display_name": "Linguistics",
+          "level": 1,
+          "score": 0.38878393173217773
+        },
+        {
+          "id": "https://openalex.org/C542102704",
+          "wikidata": "https://www.wikidata.org/wiki/Q183257",
+          "display_name": "Psychotherapist",
+          "level": 1,
+          "score": 0.24269047379493713
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0.06532308459281921
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.1038/s41746-025-01611-4",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1038/s41746-025-01611-4",
+          "pdf_url": "https://www.nature.com/articles/s41746-025-01611-4.pdf",
+          "source": {
+            "id": "https://openalex.org/S4210195431",
+            "display_name": "npj Digital Medicine",
+            "issn_l": "2398-6352",
+            "issn": [
+              "2398-6352"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "doyens",
+              "jufo-2",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310319908",
+            "host_organization_name": "Nature Portfolio",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319908",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Nature Portfolio",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "npj Digital Medicine",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:40307331",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/40307331",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "NPJ digital medicine",
+          "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:12043943",
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/12043943",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "NPJ Digit Med",
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:3c0d13862ac2495ebcb67405fc2602e4",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/3c0d13862ac2495ebcb67405fc2602e4",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "npj Digital Medicine, Vol 8, Iss 1, Pp 1-10 (2025)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1038/s41746-025-01611-4",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1038/s41746-025-01611-4",
+        "pdf_url": "https://www.nature.com/articles/s41746-025-01611-4.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210195431",
+          "display_name": "npj Digital Medicine",
+          "issn_l": "2398-6352",
+          "issn": [
+            "2398-6352"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "doyens",
+            "jufo-2",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319908",
+          "host_organization_name": "Nature Portfolio",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319908",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Nature Portfolio",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "npj Digital Medicine",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4409967501.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4409967501.grobid-xml"
+      },
+      "referenced_works_count": 45,
+      "referenced_works": [
+        "https://openalex.org/W187459603",
+        "https://openalex.org/W1901333491",
+        "https://openalex.org/W1980602541",
+        "https://openalex.org/W2122447448",
+        "https://openalex.org/W2132322340",
+        "https://openalex.org/W2156690253",
+        "https://openalex.org/W2790767553",
+        "https://openalex.org/W2791681585",
+        "https://openalex.org/W2988937804",
+        "https://openalex.org/W3001662993",
+        "https://openalex.org/W3118615836",
+        "https://openalex.org/W3197232629",
+        "https://openalex.org/W4247665917",
+        "https://openalex.org/W4292994367",
+        "https://openalex.org/W4310779131",
+        "https://openalex.org/W4317757464",
+        "https://openalex.org/W4327810158",
+        "https://openalex.org/W4362515116",
+        "https://openalex.org/W4385572158",
+        "https://openalex.org/W4385729929",
+        "https://openalex.org/W4386893393",
+        "https://openalex.org/W4387846962",
+        "https://openalex.org/W4388157511",
+        "https://openalex.org/W4389435613",
+        "https://openalex.org/W4389518904",
+        "https://openalex.org/W4390102952",
+        "https://openalex.org/W4390535718",
+        "https://openalex.org/W4390581979",
+        "https://openalex.org/W4390668567",
+        "https://openalex.org/W4390722663",
+        "https://openalex.org/W4390918905",
+        "https://openalex.org/W4390965895",
+        "https://openalex.org/W4392739577",
+        "https://openalex.org/W4392970427",
+        "https://openalex.org/W4393870714",
+        "https://openalex.org/W4396736209",
+        "https://openalex.org/W4396750566",
+        "https://openalex.org/W4396832979",
+        "https://openalex.org/W4396833227",
+        "https://openalex.org/W4399523537",
+        "https://openalex.org/W4400895263",
+        "https://openalex.org/W4400909709",
+        "https://openalex.org/W4402369854",
+        "https://openalex.org/W4402439339",
+        "https://openalex.org/W4404783621"
+      ],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2380075625",
+        "https://openalex.org/W4390718435",
+        "https://openalex.org/W4390549206",
+        "https://openalex.org/W2931662336",
+        "https://openalex.org/W2913438235",
+        "https://openalex.org/W2565761864",
+        "https://openalex.org/W4402548327",
+        "https://openalex.org/W2972442929"
+      ],
+      "abstract_inverted_index": {
+        "Large": [
+          0
+        ],
+        "language": [
+          1
+        ],
+        "models": [
+          2
+        ],
+        "(LLMs)": [
+          3
+        ],
+        "show": [
+          4,
+          82
+        ],
+        "promise": [
+          5
+        ],
+        "in": [
+          6,
+          28,
+          40
+        ],
+        "mental": [
+          7,
+          29
+        ],
+        "health": [
+          8,
+          30
+        ],
+        "care": [
+          9
+        ],
+        "for": [
+          10,
+          52,
+          142
+        ],
+        "handling": [
+          11
+        ],
+        "human-like": [
+          12
+        ],
+        "conversations,": [
+          13
+        ],
+        "but": [
+          14
+        ],
+        "their": [
+          15,
+          129
+        ],
+        "effectiveness": [
+          16
+        ],
+        "remains": [
+          17
+        ],
+        "uncertain.": [
+          18
+        ],
+        "This": [
+          19
+        ],
+        "scoping": [
+          20
+        ],
+        "review": [
+          21
+        ],
+        "synthesizes": [
+          22
+        ],
+        "existing": [
+          23
+        ],
+        "research": [
+          24
+        ],
+        "on": [
+          25,
+          96,
+          106
+        ],
+        "LLM": [
+          26
+        ],
+        "applications": [
+          27,
+          72
+        ],
+        "care,": [
+          31
+        ],
+        "reviews": [
+          32
+        ],
+        "model": [
+          33
+        ],
+        "performance": [
+          34
+        ],
+        "and": [
+          35,
+          49,
+          79,
+          102,
+          120,
+          137
+        ],
+        "clinical": [
+          36,
+          75,
+          145
+        ],
+        "effectiveness,": [
+          37
+        ],
+        "identifies": [
+          38
+        ],
+        "gaps": [
+          39
+        ],
+        "current": [
+          41,
+          123
+        ],
+        "evaluation": [
+          42,
+          47,
+          87,
+          138
+        ],
+        "methods": [
+          43,
+          88
+        ],
+        "following": [
+          44
+        ],
+        "a": [
+          45
+        ],
+        "structured": [
+          46
+        ],
+        "framework,": [
+          48
+        ],
+        "provides": [
+          50
+        ],
+        "recommendations": [
+          51
+        ],
+        "future": [
+          53
+        ],
+        "development.": [
+          54
+        ],
+        "A": [
+          55,
+          104
+        ],
+        "systematic": [
+          56
+        ],
+        "search": [
+          57
+        ],
+        "identified": [
+          58
+        ],
+        "726": [
+          59
+        ],
+        "unique": [
+          60
+        ],
+        "articles,": [
+          61
+        ],
+        "of": [
+          62
+        ],
+        "which": [
+          63
+        ],
+        "16": [
+          64
+        ],
+        "met": [
+          65
+        ],
+        "the": [
+          66,
+          86
+        ],
+        "inclusion": [
+          67
+        ],
+        "criteria.": [
+          68
+        ],
+        "These": [
+          69
+        ],
+        "studies,": [
+          70
+        ],
+        "encompassing": [
+          71
+        ],
+        "such": [
+          73,
+          110
+        ],
+        "as": [
+          74,
+          111,
+          131
+        ],
+        "assistance,": [
+          76
+        ],
+        "counseling,": [
+          77
+        ],
+        "therapy,": [
+          78
+        ],
+        "emotional": [
+          80
+        ],
+        "support,": [
+          81
+        ],
+        "initial": [
+          83
+        ],
+        "promises.": [
+          84
+        ],
+        "However,": [
+          85
+        ],
+        "were": [
+          89
+        ],
+        "often": [
+          90
+        ],
+        "non-standardized,": [
+          91
+        ],
+        "with": [
+          92
+        ],
+        "most": [
+          93
+        ],
+        "studies": [
+          94
+        ],
+        "relying": [
+          95
+        ],
+        "ad-hoc": [
+          97
+        ],
+        "scales": [
+          98
+        ],
+        "that": [
+          99
+        ],
+        "limit": [
+          100
+        ],
+        "comparability": [
+          101
+        ],
+        "robustness.": [
+          103
+        ],
+        "reliance": [
+          105
+        ],
+        "prompt-tuning": [
+          107
+        ],
+        "proprietary": [
+          108
+        ],
+        "models,": [
+          109
+        ],
+        "OpenAI's": [
+          112
+        ],
+        "GPT": [
+          113
+        ],
+        "series,": [
+          114
+        ],
+        "also": [
+          115
+        ],
+        "raises": [
+          116
+        ],
+        "concerns": [
+          117
+        ],
+        "about": [
+          118
+        ],
+        "transparency": [
+          119
+        ],
+        "reproducibility.": [
+          121
+        ],
+        "As": [
+          122
+        ],
+        "evidence": [
+          124
+        ],
+        "does": [
+          125
+        ],
+        "not": [
+          126
+        ],
+        "fully": [
+          127
+        ],
+        "support": [
+          128
+        ],
+        "use": [
+          130
+        ],
+        "standalone": [
+          132
+        ],
+        "interventions,": [
+          133
+        ],
+        "more": [
+          134
+        ],
+        "rigorous": [
+          135
+        ],
+        "development": [
+          136
+        ],
+        "guidelines": [
+          139
+        ],
+        "are": [
+          140
+        ],
+        "needed": [
+          141
+        ],
+        "safe,": [
+          143
+        ],
+        "effective": [
+          144
+        ],
+        "integration.": [
+          146
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 101
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 29
+        }
+      ],
+      "updated_date": "2026-09-22T06:50:58.402377",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  },
+  "pdf_file": "033_a-scoping-review-of-large-language-models-for-generative-tas.pdf",
+  "pdf_url": "https://www.nature.com/articles/s41746-025-01611-4.pdf",
+  "pdf_verified": true
+}

@@ -1,0 +1,1530 @@
+{
+  "id": 59,
+  "original": {
+    "id": 59,
+    "paper_name": "War, emotions, mental health, and artificial intelligence",
+    "site": "OpenAlex",
+    "venue_of_publication": "Frontiers in Psychology",
+    "year": 2024,
+    "researcher_info": "Krešimir Ćosić, Vanja Kopilaš et al."
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T11:04:34.847291+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "War, emotions, mental health, and artificial intelligence",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W4401277725",
+    "doi": "https://doi.org/10.3389/fpsyg.2024.1394045",
+    "title_matched": "War, emotions, mental health, and artificial intelligence",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2024,
+    "venue": "Frontiers in Psychology",
+    "authors": [
+      "Krešimir Ćosić",
+      "Vanja Kopilaš",
+      "Tanja Jovanović"
+    ],
+    "abstract": "During the war time dysregulation of negative emotions such as fear, anger, hatred, frustration, sadness, humiliation, and hopelessness can overrule normal societal values, culture, and endanger global peace and security, and mental health in affected societies. Therefore, it is understandable that the range and power of negative emotions may play important roles in consideration of human behavior in any armed conflict. The estimation and assessment of dominant negative emotions during war time are crucial but are challenged by the complexity of emotions' neuro-psycho-physiology. Currently available natural language processing (NLP) tools have comprehensive computational methods to analyze and understand the emotional content of related textual data in war-inflicted societies. Innovative AI-driven technologies incorporating machine learning, neuro-linguistic programming, cloud infrastructure, and novel digital therapeutic tools and applications present an immense potential to enhance mental health care worldwide. This advancement could make mental health services more cost-effective and readily accessible. Due to the inadequate number of psychiatrists and limited psychiatric resources in coping with mental health consequences of war and traumas, new digital therapeutic wearable devices supported by AI tools and means might be promising approach in psychiatry of future. Transformation of negative dominant emotional maps might be undertaken by the simultaneous combination of online cognitive behavioral therapy (CBT) on individual level, as well as usage of emotionally based strategic communications (EBSC) on a public level. The proposed positive emotional transformation by means of CBT and EBSC may provide important leverage in efforts to protect mental health of civil population in war-inflicted societies. AI-based tools that can be applied in design of EBSC stimuli, like Open AI Chat GPT or Google Gemini may have great potential to significantly enhance emotionally based strategic communications by more comprehensive understanding of semantic and linguistic analysis of available text datasets of war-traumatized society. Human in the loop enhanced by Chat GPT and Gemini can aid in design and development of emotionally annotated messages that resonate among targeted population, amplifying the impact of strategic communications in shaping human dominant emotional maps into a more positive by CBT and EBCS.",
+    "cited_by_count": 27,
+    "is_oa": true,
+    "pdf_url": null,
+    "pdf_candidates": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11327060/pdf/fpsyg-15-1394045.pdf"
+    ],
+    "landing_page_url": "https://doi.org/10.3389/fpsyg.2024.1394045",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W4401277725",
+      "doi": "https://doi.org/10.3389/fpsyg.2024.1394045",
+      "title": "War, emotions, mental health, and artificial intelligence",
+      "display_name": "War, emotions, mental health, and artificial intelligence",
+      "relevance_score": 1496.7101,
+      "publication_year": 2024,
+      "publication_date": "2024-08-02",
+      "ids": {
+        "openalex": "https://openalex.org/W4401277725",
+        "doi": "https://doi.org/10.3389/fpsyg.2024.1394045",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/39156807"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3389/fpsyg.2024.1394045",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3389/fpsyg.2024.1394045",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S9692511",
+          "display_name": "Frontiers in Psychology",
+          "issn_l": "1664-1078",
+          "issn": [
+            "1664-1078"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "erih-plus",
+            "jufo-1",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320527",
+          "host_organization_name": "Frontiers Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320527"
+          ],
+          "host_organization_lineage_names": [
+            "Frontiers Media"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Frontiers in Psychology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.3389/fpsyg.2024.1394045",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5048338204",
+            "display_name": "Krešimir Ćosić",
+            "orcid": "https://orcid.org/0000-0002-6356-743X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I181343428",
+              "display_name": "University of Zagreb",
+              "ror": "https://ror.org/00mv6sv71",
+              "country_code": "HR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I181343428"
+              ]
+            }
+          ],
+          "countries": [
+            "HR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kresimir Cosic",
+          "raw_affiliation_strings": [
+            "Faculty of Electrical Engineering and Computing, University of Zagreb, Zagreb, Croatia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculty of Electrical Engineering and Computing, University of Zagreb, Zagreb, Croatia",
+              "institution_ids": [
+                "https://openalex.org/I181343428"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5060033247",
+            "display_name": "Vanja Kopilaš",
+            "orcid": "https://orcid.org/0000-0002-8614-9505"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I181343428",
+              "display_name": "University of Zagreb",
+              "ror": "https://ror.org/00mv6sv71",
+              "country_code": "HR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I181343428"
+              ]
+            }
+          ],
+          "countries": [
+            "HR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Vanja Kopilas",
+          "raw_affiliation_strings": [
+            "University of Zagreb Faculty of Croatian Studies, Zagreb, Croatia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Zagreb Faculty of Croatian Studies, Zagreb, Croatia",
+              "institution_ids": [
+                "https://openalex.org/I181343428"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5016572077",
+            "display_name": "Tanja Jovanović",
+            "orcid": "https://orcid.org/0000-0002-6456-0053"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I185443292",
+              "display_name": "Wayne State University",
+              "ror": "https://ror.org/01070mq45",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I185443292"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Tanja Jovanovic",
+          "raw_affiliation_strings": [
+            "Department of Psychiatry and Behavioral Neurosciences, Wayne State University School of Medicine, Detroit, MI, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Psychiatry and Behavioral Neurosciences, Wayne State University School of Medicine, Detroit, MI, United States",
+              "institution_ids": [
+                "https://openalex.org/I185443292"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5060033247"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I181343428"
+      ],
+      "apc_list": {
+        "value": 3295,
+        "currency": "USD",
+        "value_usd": 3295
+      },
+      "apc_paid": {
+        "value": 3295,
+        "currency": "USD",
+        "value_usd": 3295
+      },
+      "fwci": 12.5748,
+      "has_fulltext": true,
+      "cited_by_count": 27,
+      "citation_normalized_percentile": {
+        "value": 0.99215601,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "15",
+        "issue": null,
+        "first_page": "1394045",
+        "last_page": "1394045"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10762",
+        "display_name": "Migration, Health and Trauma",
+        "score": 0.9710000157356262,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3203",
+          "display_name": "Clinical Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10762",
+          "display_name": "Migration, Health and Trauma",
+          "score": 0.9710000157356262,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3203",
+            "display_name": "Clinical Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11999",
+          "display_name": "Empathy and Medical Education",
+          "score": 0.970300018787384,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2738",
+            "display_name": "Psychiatry and Mental health"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10242",
+          "display_name": "Posttraumatic Stress Disorder Research",
+          "score": 0.9587000012397766,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3203",
+            "display_name": "Clinical Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/mental-health",
+          "display_name": "Mental health",
+          "score": 0.6906079649925232
+        },
+        {
+          "id": "https://openalex.org/keywords/anger",
+          "display_name": "Anger",
+          "score": 0.5630366206169128
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.5573742985725403
+        },
+        {
+          "id": "https://openalex.org/keywords/hatred",
+          "display_name": "Hatred",
+          "score": 0.45897406339645386
+        },
+        {
+          "id": "https://openalex.org/keywords/sadness",
+          "display_name": "Sadness",
+          "score": 0.43744656443595886
+        },
+        {
+          "id": "https://openalex.org/keywords/population",
+          "display_name": "Population",
+          "score": 0.4109709858894348
+        },
+        {
+          "id": "https://openalex.org/keywords/social-psychology",
+          "display_name": "Social psychology",
+          "score": 0.284728467464447
+        },
+        {
+          "id": "https://openalex.org/keywords/psychiatry",
+          "display_name": "Psychiatry",
+          "score": 0.2538734972476959
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.2128395140171051
+        },
+        {
+          "id": "https://openalex.org/keywords/politics",
+          "display_name": "Politics",
+          "score": 0.2112785279750824
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C134362201",
+          "wikidata": "https://www.wikidata.org/wiki/Q317309",
+          "display_name": "Mental health",
+          "level": 2,
+          "score": 0.6906079649925232
+        },
+        {
+          "id": "https://openalex.org/C2779302386",
+          "wikidata": "https://www.wikidata.org/wiki/Q79871",
+          "display_name": "Anger",
+          "level": 2,
+          "score": 0.5630366206169128
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.5573742985725403
+        },
+        {
+          "id": "https://openalex.org/C2780617971",
+          "wikidata": "https://www.wikidata.org/wiki/Q160232",
+          "display_name": "Hatred",
+          "level": 3,
+          "score": 0.45897406339645386
+        },
+        {
+          "id": "https://openalex.org/C2779812673",
+          "wikidata": "https://www.wikidata.org/wiki/Q169251",
+          "display_name": "Sadness",
+          "level": 3,
+          "score": 0.43744656443595886
+        },
+        {
+          "id": "https://openalex.org/C2908647359",
+          "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+          "display_name": "Population",
+          "level": 2,
+          "score": 0.4109709858894348
+        },
+        {
+          "id": "https://openalex.org/C77805123",
+          "wikidata": "https://www.wikidata.org/wiki/Q161272",
+          "display_name": "Social psychology",
+          "level": 1,
+          "score": 0.284728467464447
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.2538734972476959
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.2128395140171051
+        },
+        {
+          "id": "https://openalex.org/C94625758",
+          "wikidata": "https://www.wikidata.org/wiki/Q7163",
+          "display_name": "Politics",
+          "level": 2,
+          "score": 0.2112785279750824
+        },
+        {
+          "id": "https://openalex.org/C99454951",
+          "wikidata": "https://www.wikidata.org/wiki/Q932068",
+          "display_name": "Environmental health",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.3389/fpsyg.2024.1394045",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3389/fpsyg.2024.1394045",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S9692511",
+            "display_name": "Frontiers in Psychology",
+            "issn_l": "1664-1078",
+            "issn": [
+              "1664-1078"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "erih-plus",
+              "jufo-1",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310320527",
+            "host_organization_name": "Frontiers Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320527"
+            ],
+            "host_organization_lineage_names": [
+              "Frontiers Media"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Frontiers in Psychology",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:39156807",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39156807",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Frontiers in psychology",
+          "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:11327060",
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11327060",
+          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11327060/pdf/fpsyg-15-1394045.pdf",
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Front Psychol",
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:227ba626dd2245ec9737a3ba67695190",
+          "is_oa": false,
+          "landing_page_url": "https://doaj.org/article/227ba626dd2245ec9737a3ba67695190",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Frontiers in Psychology, Vol 15 (2024)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.3389/fpsyg.2024.1394045",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3389/fpsyg.2024.1394045",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S9692511",
+          "display_name": "Frontiers in Psychology",
+          "issn_l": "1664-1078",
+          "issn": [
+            "1664-1078"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "erih-plus",
+            "jufo-1",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320527",
+          "host_organization_name": "Frontiers Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320527"
+          ],
+          "host_organization_lineage_names": [
+            "Frontiers Media"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Frontiers in Psychology",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 80,
+      "referenced_works": [
+        "https://openalex.org/W1583889366",
+        "https://openalex.org/W1790719788",
+        "https://openalex.org/W1976070235",
+        "https://openalex.org/W1985760163",
+        "https://openalex.org/W2025140999",
+        "https://openalex.org/W2048890143",
+        "https://openalex.org/W2086768769",
+        "https://openalex.org/W2088054486",
+        "https://openalex.org/W2094076932",
+        "https://openalex.org/W2108845151",
+        "https://openalex.org/W2163512969",
+        "https://openalex.org/W2748454491",
+        "https://openalex.org/W2768349150",
+        "https://openalex.org/W2790556762",
+        "https://openalex.org/W2793444189",
+        "https://openalex.org/W2799216213",
+        "https://openalex.org/W2821347305",
+        "https://openalex.org/W2955789039",
+        "https://openalex.org/W2969000953",
+        "https://openalex.org/W3016829760",
+        "https://openalex.org/W3017385444",
+        "https://openalex.org/W3018892856",
+        "https://openalex.org/W3023997891",
+        "https://openalex.org/W3041062794",
+        "https://openalex.org/W3042578835",
+        "https://openalex.org/W3089862415",
+        "https://openalex.org/W3094858016",
+        "https://openalex.org/W3095390596",
+        "https://openalex.org/W3112976803",
+        "https://openalex.org/W3128750036",
+        "https://openalex.org/W3135028703",
+        "https://openalex.org/W3148413521",
+        "https://openalex.org/W3159334686",
+        "https://openalex.org/W3162032117",
+        "https://openalex.org/W3176919247",
+        "https://openalex.org/W4200047015",
+        "https://openalex.org/W4205203951",
+        "https://openalex.org/W4210470036",
+        "https://openalex.org/W4213195521",
+        "https://openalex.org/W4223610593",
+        "https://openalex.org/W4224242327",
+        "https://openalex.org/W4280536523",
+        "https://openalex.org/W4280618669",
+        "https://openalex.org/W4281627170",
+        "https://openalex.org/W4283277614",
+        "https://openalex.org/W4283369044",
+        "https://openalex.org/W4286560842",
+        "https://openalex.org/W4292429875",
+        "https://openalex.org/W4292452320",
+        "https://openalex.org/W4293740889",
+        "https://openalex.org/W4296061600",
+        "https://openalex.org/W4297999720",
+        "https://openalex.org/W4304112197",
+        "https://openalex.org/W4308482086",
+        "https://openalex.org/W4308806761",
+        "https://openalex.org/W4310720906",
+        "https://openalex.org/W4310949701",
+        "https://openalex.org/W4316371441",
+        "https://openalex.org/W4324077762",
+        "https://openalex.org/W4366262984",
+        "https://openalex.org/W4378348270",
+        "https://openalex.org/W4378470708",
+        "https://openalex.org/W4378576117",
+        "https://openalex.org/W4379010346",
+        "https://openalex.org/W4379911400",
+        "https://openalex.org/W4382600573",
+        "https://openalex.org/W4384934179",
+        "https://openalex.org/W4385383529",
+        "https://openalex.org/W4385427520",
+        "https://openalex.org/W4387448862",
+        "https://openalex.org/W4387500055",
+        "https://openalex.org/W4388524014",
+        "https://openalex.org/W4388705935",
+        "https://openalex.org/W4389203612",
+        "https://openalex.org/W4389438760",
+        "https://openalex.org/W4390584487",
+        "https://openalex.org/W4394718458",
+        "https://openalex.org/W4400004858",
+        "https://openalex.org/W4400010520",
+        "https://openalex.org/W6638079483"
+      ],
+      "related_works": [
+        "https://openalex.org/W4365519294",
+        "https://openalex.org/W3031187173",
+        "https://openalex.org/W3135436127",
+        "https://openalex.org/W2805647211",
+        "https://openalex.org/W3179181153",
+        "https://openalex.org/W2100930849",
+        "https://openalex.org/W2557139663",
+        "https://openalex.org/W2073249509",
+        "https://openalex.org/W2481378124",
+        "https://openalex.org/W1980267738"
+      ],
+      "abstract_inverted_index": {
+        "During": [
+          0
+        ],
+        "the": [
+          1,
+          41,
+          78,
+          98,
+          149,
+          197,
+          298,
+          322
+        ],
+        "war": [
+          2,
+          70,
+          165
+        ],
+        "time": [
+          3,
+          71
+        ],
+        "dysregulation": [
+          4
+        ],
+        "of": [
+          5,
+          45,
+          54,
+          65,
+          80,
+          101,
+          152,
+          164,
+          185,
+          188,
+          200,
+          213,
+          230,
+          244,
+          258,
+          284,
+          289,
+          293,
+          312,
+          324
+        ],
+        "negative": [
+          6,
+          46,
+          67,
+          189
+        ],
+        "emotions": [
+          7,
+          47,
+          68
+        ],
+        "such": [
+          8
+        ],
+        "as": [
+          9,
+          209,
+          211
+        ],
+        "fear,": [
+          10
+        ],
+        "anger,": [
+          11
+        ],
+        "hatred,": [
+          12
+        ],
+        "frustration,": [
+          13
+        ],
+        "sadness,": [
+          14
+        ],
+        "humiliation,": [
+          15
+        ],
+        "and": [
+          16,
+          24,
+          28,
+          30,
+          43,
+          63,
+          96,
+          118,
+          123,
+          144,
+          154,
+          166,
+          177,
+          232,
+          286,
+          304,
+          310,
+          339
+        ],
+        "hopelessness": [
+          17
+        ],
+        "can": [
+          18,
+          253,
+          306
+        ],
+        "overrule": [
+          19
+        ],
+        "normal": [
+          20
+        ],
+        "societal": [
+          21
+        ],
+        "values,": [
+          22
+        ],
+        "culture,": [
+          23
+        ],
+        "endanger": [
+          25
+        ],
+        "global": [
+          26
+        ],
+        "peace": [
+          27
+        ],
+        "security,": [
+          29
+        ],
+        "mental": [
+          31,
+          131,
+          139,
+          161,
+          242
+        ],
+        "health": [
+          32,
+          132,
+          140,
+          162,
+          243
+        ],
+        "in": [
+          33,
+          52,
+          57,
+          105,
+          158,
+          183,
+          238,
+          247,
+          256,
+          297,
+          308,
+          327
+        ],
+        "affected": [
+          34
+        ],
+        "societies.": [
+          35,
+          107,
+          249
+        ],
+        "Therefore,": [
+          36
+        ],
+        "it": [
+          37
+        ],
+        "is": [
+          38
+        ],
+        "understandable": [
+          39
+        ],
+        "that": [
+          40,
+          252,
+          316
+        ],
+        "range": [
+          42
+        ],
+        "power": [
+          44
+        ],
+        "may": [
+          48,
+          234,
+          269
+        ],
+        "play": [
+          49
+        ],
+        "important": [
+          50,
+          236
+        ],
+        "roles": [
+          51
+        ],
+        "consideration": [
+          53
+        ],
+        "human": [
+          55,
+          329
+        ],
+        "behavior": [
+          56
+        ],
+        "any": [
+          58
+        ],
+        "armed": [
+          59
+        ],
+        "conflict.": [
+          60
+        ],
+        "The": [
+          61,
+          223
+        ],
+        "estimation": [
+          62
+        ],
+        "assessment": [
+          64
+        ],
+        "dominant": [
+          66,
+          190,
+          330
+        ],
+        "during": [
+          69
+        ],
+        "are": [
+          72,
+          75
+        ],
+        "crucial": [
+          73
+        ],
+        "but": [
+          74
+        ],
+        "challenged": [
+          76
+        ],
+        "by": [
+          77,
+          174,
+          196,
+          228,
+          280,
+          301,
+          337
+        ],
+        "complexity": [
+          79
+        ],
+        "emotions'": [
+          81
+        ],
+        "neuro-psycho-physiology.": [
+          82
+        ],
+        "Currently": [
+          83
+        ],
+        "available": [
+          84,
+          290
+        ],
+        "natural": [
+          85
+        ],
+        "language": [
+          86
+        ],
+        "processing": [
+          87
+        ],
+        "(NLP)": [
+          88
+        ],
+        "tools": [
+          89,
+          122,
+          176,
+          251
+        ],
+        "have": [
+          90,
+          270
+        ],
+        "comprehensive": [
+          91,
+          282
+        ],
+        "computational": [
+          92
+        ],
+        "methods": [
+          93
+        ],
+        "to": [
+          94,
+          129,
+          148,
+          240,
+          273
+        ],
+        "analyze": [
+          95
+        ],
+        "understand": [
+          97
+        ],
+        "emotional": [
+          99,
+          191,
+          226,
+          331
+        ],
+        "content": [
+          100
+        ],
+        "related": [
+          102
+        ],
+        "textual": [
+          103
+        ],
+        "data": [
+          104
+        ],
+        "war-inflicted": [
+          106,
+          248
+        ],
+        "Innovative": [
+          108
+        ],
+        "AI-driven": [
+          109
+        ],
+        "technologies": [
+          110
+        ],
+        "incorporating": [
+          111
+        ],
+        "machine": [
+          112
+        ],
+        "learning,": [
+          113
+        ],
+        "neuro-linguistic": [
+          114
+        ],
+        "programming,": [
+          115
+        ],
+        "cloud": [
+          116
+        ],
+        "infrastructure,": [
+          117
+        ],
+        "novel": [
+          119
+        ],
+        "digital": [
+          120,
+          169
+        ],
+        "therapeutic": [
+          121,
+          170
+        ],
+        "applications": [
+          124
+        ],
+        "present": [
+          125
+        ],
+        "an": [
+          126
+        ],
+        "immense": [
+          127
+        ],
+        "potential": [
+          128,
+          272
+        ],
+        "enhance": [
+          130,
+          275
+        ],
+        "care": [
+          133
+        ],
+        "worldwide.": [
+          134
+        ],
+        "This": [
+          135
+        ],
+        "advancement": [
+          136
+        ],
+        "could": [
+          137
+        ],
+        "make": [
+          138
+        ],
+        "services": [
+          141
+        ],
+        "more": [
+          142,
+          281,
+          335
+        ],
+        "cost-effective": [
+          143
+        ],
+        "readily": [
+          145
+        ],
+        "accessible.": [
+          146
+        ],
+        "Due": [
+          147
+        ],
+        "inadequate": [
+          150
+        ],
+        "number": [
+          151
+        ],
+        "psychiatrists": [
+          153
+        ],
+        "limited": [
+          155
+        ],
+        "psychiatric": [
+          156
+        ],
+        "resources": [
+          157
+        ],
+        "coping": [
+          159
+        ],
+        "with": [
+          160
+        ],
+        "consequences": [
+          163
+        ],
+        "traumas,": [
+          167
+        ],
+        "new": [
+          168
+        ],
+        "wearable": [
+          171
+        ],
+        "devices": [
+          172
+        ],
+        "supported": [
+          173
+        ],
+        "AI": [
+          175,
+          263
+        ],
+        "means": [
+          178,
+          229
+        ],
+        "might": [
+          179,
+          193
+        ],
+        "be": [
+          180,
+          194,
+          254
+        ],
+        "promising": [
+          181
+        ],
+        "approach": [
+          182
+        ],
+        "psychiatry": [
+          184
+        ],
+        "future.": [
+          186
+        ],
+        "Transformation": [
+          187
+        ],
+        "maps": [
+          192,
+          332
+        ],
+        "undertaken": [
+          195
+        ],
+        "simultaneous": [
+          198
+        ],
+        "combination": [
+          199
+        ],
+        "online": [
+          201
+        ],
+        "cognitive": [
+          202
+        ],
+        "behavioral": [
+          203
+        ],
+        "therapy": [
+          204
+        ],
+        "(CBT)": [
+          205
+        ],
+        "on": [
+          206,
+          219
+        ],
+        "individual": [
+          207
+        ],
+        "level,": [
+          208
+        ],
+        "well": [
+          210
+        ],
+        "usage": [
+          212
+        ],
+        "emotionally": [
+          214,
+          276,
+          313
+        ],
+        "based": [
+          215,
+          277
+        ],
+        "strategic": [
+          216,
+          278,
+          325
+        ],
+        "communications": [
+          217,
+          279,
+          326
+        ],
+        "(EBSC)": [
+          218
+        ],
+        "a": [
+          220,
+          334
+        ],
+        "public": [
+          221
+        ],
+        "level.": [
+          222
+        ],
+        "proposed": [
+          224
+        ],
+        "positive": [
+          225,
+          336
+        ],
+        "transformation": [
+          227
+        ],
+        "CBT": [
+          231,
+          338
+        ],
+        "EBSC": [
+          233,
+          259
+        ],
+        "provide": [
+          235
+        ],
+        "leverage": [
+          237
+        ],
+        "efforts": [
+          239
+        ],
+        "protect": [
+          241
+        ],
+        "civil": [
+          245
+        ],
+        "population": [
+          246
+        ],
+        "AI-based": [
+          250
+        ],
+        "applied": [
+          255
+        ],
+        "design": [
+          257,
+          309
+        ],
+        "stimuli,": [
+          260
+        ],
+        "like": [
+          261
+        ],
+        "Open": [
+          262
+        ],
+        "Chat": [
+          264,
+          302
+        ],
+        "GPT": [
+          265,
+          303
+        ],
+        "or": [
+          266
+        ],
+        "Google": [
+          267
+        ],
+        "Gemini": [
+          268,
+          305
+        ],
+        "great": [
+          271
+        ],
+        "significantly": [
+          274
+        ],
+        "understanding": [
+          283
+        ],
+        "semantic": [
+          285
+        ],
+        "linguistic": [
+          287
+        ],
+        "analysis": [
+          288
+        ],
+        "text": [
+          291
+        ],
+        "datasets": [
+          292
+        ],
+        "war-traumatized": [
+          294
+        ],
+        "society.": [
+          295
+        ],
+        "Human": [
+          296
+        ],
+        "loop": [
+          299
+        ],
+        "enhanced": [
+          300
+        ],
+        "aid": [
+          307
+        ],
+        "development": [
+          311
+        ],
+        "annotated": [
+          314
+        ],
+        "messages": [
+          315
+        ],
+        "resonate": [
+          317
+        ],
+        "among": [
+          318
+        ],
+        "targeted": [
+          319
+        ],
+        "population,": [
+          320
+        ],
+        "amplifying": [
+          321
+        ],
+        "impact": [
+          323
+        ],
+        "shaping": [
+          328
+        ],
+        "into": [
+          333
+        ],
+        "EBCS.": [
+          340
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 16
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-08-29T07:29:34.045763",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11327060/pdf/fpsyg-15-1394045.pdf",
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

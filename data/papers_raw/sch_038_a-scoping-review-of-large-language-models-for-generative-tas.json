@@ -1,0 +1,34 @@
+{
+  "id": "sch-038",
+  "original": {
+    "paper_name": "A scoping review of large language models for generative tasks in mental health care",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "large language models mental health",
+  "scraped_at": "2026-09-22T11:20:06.503910+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "large language models mental health",
+    "title_matched": "A scoping review of large language models for generative tasks in mental health care",
+    "authors": [
+      "Y Hua",
+      "H Na",
+      "Z Li",
+      "F Liu",
+      "X Fang",
+      "D Clifton"
+    ],
+    "year": 2025,
+    "venue": "NPJ digital …",
+    "cited_by": 153,
+    "landing_page_url": "https://www.nature.com/articles/s41746-025-01611-4",
+    "snippet": "… The introduction of large language models (LLMs) like OpenAI’s ChatGPT9, Google’s … mental\nhealth care, offering capabilities far beyond those of earlier AI tools. Unlike previous models…",
+    "pdf_url": "https://www.nature.com/articles/s41746-025-01611-4.pdf"
+  },
+  "pdf_file": "sch_038_a-scoping-review-of-large-language-models-for-generative-tas.pdf",
+  "pdf_url": "https://www.nature.com/articles/s41746-025-01611-4.pdf",
+  "pdf_verified": true
+}

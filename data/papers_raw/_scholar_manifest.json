@@ -1,0 +1,369 @@
+{
+  "scraped_at": "2026-09-22T11:20:32.180833+00:00",
+  "queries": 4,
+  "results": 40,
+  "pdfs": 10,
+  "blocked": false,
+  "papers": [
+    {
+      "id": "sch-004",
+      "site": "GoogleScholar",
+      "query": "mental health chatbot",
+      "title": "An overview of the features of chatbots in mental health: A scoping review",
+      "year": 2019,
+      "cited_by": 866,
+      "pdf_file": "sch_004_an-overview-of-the-features-of-chatbots-in-mental-health-a-s.pdf"
+    },
+    {
+      "id": "sch-005",
+      "site": "GoogleScholar",
+      "query": "mental health chatbot",
+      "title": "[HTML] Effectiveness and safety of using chatbots to improve mental health: systematic review and meta-analysis",
+      "year": 2020,
+      "cited_by": 725,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-006",
+      "site": "GoogleScholar",
+      "query": "mental health chatbot",
+      "title": "[HTML] Perceptions and opinions of patients about mental health chatbots: scoping review",
+      "year": 2021,
+      "cited_by": 452,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-007",
+      "site": "GoogleScholar",
+      "query": "mental health chatbot",
+      "title": "[HTML] An overview of chatbot-based mobile mental health apps: insights from app description and user reviews",
+      "year": 2023,
+      "cited_by": 583,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-008",
+      "site": "GoogleScholar",
+      "query": "mental health chatbot",
+      "title": "Randomized trial of a generative AI chatbot for mental health treatment",
+      "year": 2025,
+      "cited_by": 496,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-009",
+      "site": "GoogleScholar",
+      "query": "mental health chatbot",
+      "title": "A mental health chatbot for regulating emotions (SERMO)-concept and usability test",
+      "year": 2020,
+      "cited_by": 306,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-010",
+      "site": "GoogleScholar",
+      "query": "mental health chatbot",
+      "title": "Artificial intelligence for chatbots in mental health: opportunities and challenges",
+      "year": 2021,
+      "cited_by": 252,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-011",
+      "site": "GoogleScholar",
+      "query": "mental health chatbot",
+      "title": "[HTML] AI chatbots for mental health: a scoping review of effectiveness, feasibility, and applications",
+      "year": 2024,
+      "cited_by": 295,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-012",
+      "site": "GoogleScholar",
+      "query": "mental health chatbot",
+      "title": "A chatbot for mental health support: exploring the impact of Emohaa on reducing mental distress in China",
+      "year": 2023,
+      "cited_by": 154,
+      "pdf_file": "sch_012_a-chatbot-for-mental-health-support-exploring-the-impact-of.pdf"
+    },
+    {
+      "id": "sch-013",
+      "site": "GoogleScholar",
+      "query": "mental health chatbot",
+      "title": "Preliminary evaluation of the engagement and effectiveness of a mental health chatbot",
+      "year": 2020,
+      "cited_by": 156,
+      "pdf_file": "sch_013_preliminary-evaluation-of-the-engagement-and-effectiveness-o.pdf"
+    },
+    {
+      "id": "sch-014",
+      "site": "GoogleScholar",
+      "query": "stress detection machine learning",
+      "title": "A review on mental stress detection using wearable sensors and machine learning techniques",
+      "year": 2021,
+      "cited_by": 645,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-015",
+      "site": "GoogleScholar",
+      "query": "stress detection machine learning",
+      "title": "Stress detection with machine learning and deep learning using multimodal physiological data",
+      "year": 2020,
+      "cited_by": 428,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-016",
+      "site": "GoogleScholar",
+      "query": "stress detection machine learning",
+      "title": "A survey of machine learning techniques in physiology based mental stress detection systems",
+      "year": 2019,
+      "cited_by": 288,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-017",
+      "site": "GoogleScholar",
+      "query": "stress detection machine learning",
+      "title": "Mental stress detection in university students using machine learning algorithms",
+      "year": 2019,
+      "cited_by": 319,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-018",
+      "site": "GoogleScholar",
+      "query": "stress detection machine learning",
+      "title": "Design of a biosignal based stress detection system using machine learning techniques",
+      "year": 2019,
+      "cited_by": 91,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-019",
+      "site": "GoogleScholar",
+      "query": "stress detection machine learning",
+      "title": "[HTML] A method for stress detection using empatica E4 bracelet and machine-learning techniques",
+      "year": 2023,
+      "cited_by": 143,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-020",
+      "site": "GoogleScholar",
+      "query": "stress detection machine learning",
+      "title": "Machine learning approaches to automatic stress detection: A review",
+      "year": 2018,
+      "cited_by": 70,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-021",
+      "site": "GoogleScholar",
+      "query": "stress detection machine learning",
+      "title": "Stress detection by machine learning and wearable sensors",
+      "year": 2021,
+      "cited_by": 138,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-022",
+      "site": "GoogleScholar",
+      "query": "stress detection machine learning",
+      "title": "Stress detection using machine learning and deep learning",
+      "year": 2021,
+      "cited_by": 79,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-023",
+      "site": "GoogleScholar",
+      "query": "stress detection machine learning",
+      "title": "Stress detection using natural language processing and machine learning over social interactions",
+      "year": 2022,
+      "cited_by": 239,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-024",
+      "site": "GoogleScholar",
+      "query": "depression detection natural language processing",
+      "title": "[HTML] Screening for depression using natural language processing: literature review",
+      "year": 2024,
+      "cited_by": 81,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-025",
+      "site": "GoogleScholar",
+      "query": "depression detection natural language processing",
+      "title": "Depression detection from social media text analysis using natural language processing techniques and hybrid deep learning model",
+      "year": 2024,
+      "cited_by": 230,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-026",
+      "site": "GoogleScholar",
+      "query": "depression detection natural language processing",
+      "title": "Natural language processing as an emerging tool to detect late-life depression",
+      "year": 2021,
+      "cited_by": 94,
+      "pdf_file": "sch_026_natural-language-processing-as-an-emerging-tool-to-detect-la.pdf"
+    },
+    {
+      "id": "sch-027",
+      "site": "GoogleScholar",
+      "query": "depression detection natural language processing",
+      "title": "Explainable AI-driven depression detection from social media using natural language processing and black box machine learning models",
+      "year": 2025,
+      "cited_by": 47,
+      "pdf_file": "sch_027_explainable-ai-driven-depression-detection-from-social-media.pdf"
+    },
+    {
+      "id": "sch-028",
+      "site": "GoogleScholar",
+      "query": "depression detection natural language processing",
+      "title": "[HTML] Detection of depression severity using Bengali social media posts on mental health: study using natural language processing techniques",
+      "year": 2022,
+      "cited_by": 66,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-029",
+      "site": "GoogleScholar",
+      "query": "depression detection natural language processing",
+      "title": "Depression detection using emotion artificial intelligence",
+      "year": 2017,
+      "cited_by": 364,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-030",
+      "site": "GoogleScholar",
+      "query": "depression detection natural language processing",
+      "title": "Analysis of depression in social media texts through the Patient Health Questionnaire-9 and natural language processing",
+      "year": 2022,
+      "cited_by": 35,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-031",
+      "site": "GoogleScholar",
+      "query": "depression detection natural language processing",
+      "title": "[HTML] Investigating machine learning & natural language processing techniques applied for predicting depression disorder from online support forums: A systematic …",
+      "year": 2021,
+      "cited_by": 54,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-032",
+      "site": "GoogleScholar",
+      "query": "depression detection natural language processing",
+      "title": "Natural language processing applied to mental illness detection: a narrative review",
+      "year": 2022,
+      "cited_by": 615,
+      "pdf_file": "sch_032_natural-language-processing-applied-to-mental-illness-detect.pdf"
+    },
+    {
+      "id": "sch-033",
+      "site": "GoogleScholar",
+      "query": "depression detection natural language processing",
+      "title": "[HTML] Natural language processing for depression prediction on sina weibo: method study and analysis",
+      "year": 2024,
+      "cited_by": 33,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-034",
+      "site": "GoogleScholar",
+      "query": "large language models mental health",
+      "title": "[HTML] The opportunities and risks of large language models in mental health",
+      "year": 2024,
+      "cited_by": 355,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-035",
+      "site": "GoogleScholar",
+      "query": "large language models mental health",
+      "title": "[HTML] Large language models for mental health applications: systematic review",
+      "year": 2024,
+      "cited_by": 475,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-036",
+      "site": "GoogleScholar",
+      "query": "large language models mental health",
+      "title": "Large language models in mental health care: a scoping review",
+      "year": 2025,
+      "cited_by": 232,
+      "pdf_file": "sch_036_large-language-models-in-mental-health-care-a-scoping-review.pdf"
+    },
+    {
+      "id": "sch-037",
+      "site": "GoogleScholar",
+      "query": "large language models mental health",
+      "title": "Towards interpretable mental health analysis with large language models",
+      "year": 2023,
+      "cited_by": 294,
+      "pdf_file": "sch_037_towards-interpretable-mental-health-analysis-with-large-lang.pdf"
+    },
+    {
+      "id": "sch-038",
+      "site": "GoogleScholar",
+      "query": "large language models mental health",
+      "title": "A scoping review of large language models for generative tasks in mental health care",
+      "year": 2025,
+      "cited_by": 153,
+      "pdf_file": "sch_038_a-scoping-review-of-large-language-models-for-generative-tas.pdf"
+    },
+    {
+      "id": "sch-039",
+      "site": "GoogleScholar",
+      "query": "large language models mental health",
+      "title": "Mental-llm: Leveraging large language models for mental health prediction via online text data",
+      "year": 2024,
+      "cited_by": 656,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-040",
+      "site": "GoogleScholar",
+      "query": "large language models mental health",
+      "title": "[HTML] The applications of large language models in mental health: scoping review",
+      "year": 2025,
+      "cited_by": 128,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-041",
+      "site": "GoogleScholar",
+      "query": "large language models mental health",
+      "title": "Chatcounselor: A large language models for mental health support",
+      "year": 2023,
+      "cited_by": 245,
+      "pdf_file": "sch_041_chatcounselor-a-large-language-models-for-mental-health-supp.pdf"
+    },
+    {
+      "id": "sch-042",
+      "site": "GoogleScholar",
+      "query": "large language models mental health",
+      "title": "Large language models for the mental health community: framework for translating code to care",
+      "year": 2025,
+      "cited_by": 76,
+      "pdf_file": null
+    },
+    {
+      "id": "sch-043",
+      "site": "GoogleScholar",
+      "query": "large language models mental health",
+      "title": "MentaLLaMA: interpretable mental health analysis on social media with large language models",
+      "year": 2024,
+      "cited_by": 455,
+      "pdf_file": null
+    }
+  ]
+}

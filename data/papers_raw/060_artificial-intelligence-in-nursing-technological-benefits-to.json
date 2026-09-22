@@ -1,0 +1,1836 @@
+{
+  "id": 60,
+  "original": {
+    "id": 60,
+    "paper_name": "Artificial Intelligence in Nursing: Technological Benefits to Nurse’s Mental Health and Patient Care Quality",
+    "site": "OpenAlex",
+    "venue_of_publication": "Healthcare",
+    "year": 2024,
+    "researcher_info": "Hamad Ghaleb Dailah, Mahdi Dafer Koriri et al."
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T11:04:48.609653+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "Artificial Intelligence in Nursing: Technological Benefits to Nurse’s Mental Health and Patient Care Quality",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W3118983571",
+    "doi": "https://doi.org/10.2196/23933",
+    "title_matched": "Predicted Influences of Artificial Intelligence on Nursing Education: Scoping Review",
+    "title_similarity": 0.474,
+    "match_confidence": "low",
+    "year": 2021,
+    "venue": "JMIR Nursing",
+    "authors": [
+      "Christine Buchanan",
+      "M Lyndsay Howitt",
+      "Rita Wilson",
+      "Richard Booth",
+      "Tracie Risling",
+      "Megan Bamford"
+    ],
+    "abstract": "BACKGROUND: It is predicted that artificial intelligence (AI) will transform nursing across all domains of nursing practice, including administration, clinical care, education, policy, and research. Increasingly, researchers are exploring the potential influences of AI health technologies (AIHTs) on nursing in general and on nursing education more specifically. However, little emphasis has been placed on synthesizing this body of literature. OBJECTIVE: A scoping review was conducted to summarize the current and predicted influences of AIHTs on nursing education over the next 10 years and beyond. METHODS: This scoping review followed a previously published protocol from April 2020. Using an established scoping review methodology, the databases of MEDLINE, Cumulative Index to Nursing and Allied Health Literature, Embase, PsycINFO, Cochrane Database of Systematic Reviews, Cochrane Central, Education Resources Information Centre, Scopus, Web of Science, and Proquest were searched. In addition to the use of these electronic databases, a targeted website search was performed to access relevant grey literature. Abstracts and full-text studies were independently screened by two reviewers using prespecified inclusion and exclusion criteria. Included literature focused on nursing education and digital health technologies that incorporate AI. Data were charted using a structured form and narratively summarized into categories. RESULTS: A total of 27 articles were identified (20 expository papers, six studies with quantitative or prototyping methods, and one qualitative study). The population included nurses, nurse educators, and nursing students at the entry-to-practice, undergraduate, graduate, and doctoral levels. A variety of AIHTs were discussed, including virtual avatar apps, smart homes, predictive analytics, virtual or augmented reality, and robots. The two key categories derived from the literature were (1) influences of AI on nursing education in academic institutions and (2) influences of AI on nursing education in clinical practice. CONCLUSIONS: Curricular reform is urgently needed within nursing education programs in academic institutions and clinical practice settings to prepare nurses and nursing students to practice safely and efficiently in the age of AI. Additionally, nurse educators need to adopt new and evolving pedagogies that incorporate AI to better support students at all levels of education. Finally, nursing students and practicing nurses must be equipped with the requisite knowledge and skills to effectively assess AIHTs and safely integrate those deemed appropriate to support person-centered compassionate nursing care in practice settings. INTERNATIONAL REGISTERED REPORT IDENTIFIER IRRID: RR2-10.2196/17490.",
+    "cited_by_count": 317,
+    "is_oa": true,
+    "pdf_url": "https://nursing.jmir.org/2021/1/e23933/PDF",
+    "pdf_candidates": [
+      "https://nursing.jmir.org/2021/1/e23933/PDF"
+    ],
+    "landing_page_url": "https://doi.org/10.2196/23933",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W3118983571",
+      "doi": "https://doi.org/10.2196/23933",
+      "title": "Predicted Influences of Artificial Intelligence on Nursing Education: Scoping Review",
+      "display_name": "Predicted Influences of Artificial Intelligence on Nursing Education: Scoping Review",
+      "relevance_score": 496.06854,
+      "publication_year": 2021,
+      "publication_date": "2021-01-12",
+      "ids": {
+        "openalex": "https://openalex.org/W3118983571",
+        "doi": "https://doi.org/10.2196/23933",
+        "mag": "3118983571",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/34345794"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2196/23933",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2196/23933",
+        "pdf_url": "https://nursing.jmir.org/2021/1/e23933/PDF",
+        "source": {
+          "id": "https://openalex.org/S4210237349",
+          "display_name": "JMIR Nursing",
+          "issn_l": "2562-7600",
+          "issn": [
+            "2562-7600"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "jufo-2",
+            "medline",
+            "norway-1"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "JMIR Nursing",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://nursing.jmir.org/2021/1/e23933/PDF",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5034321399",
+            "display_name": "Christine Buchanan",
+            "orcid": "https://orcid.org/0000-0001-5053-0737"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I173537496",
+              "display_name": "Registered Nurses' Association of Ontario",
+              "ror": "https://ror.org/00w33ze35",
+              "country_code": "CA",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I173537496"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Christine Buchanan",
+          "raw_affiliation_strings": [
+            "Registered Nurses' Association of Ontario Toronto, ON Canada",
+            "Registered Nurses' Association of Ontario, Toronto, ON, Canada"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-5053-0737",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Registered Nurses' Association of Ontario Toronto, ON Canada",
+              "institution_ids": [
+                "https://openalex.org/I173537496"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Registered Nurses' Association of Ontario, Toronto, ON, Canada",
+              "institution_ids": [
+                "https://openalex.org/I173537496"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5078815116",
+            "display_name": "M Lyndsay Howitt",
+            "orcid": "https://orcid.org/0000-0002-6424-2290"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I173537496",
+              "display_name": "Registered Nurses' Association of Ontario",
+              "ror": "https://ror.org/00w33ze35",
+              "country_code": "CA",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I173537496"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M Lyndsay Howitt",
+          "raw_affiliation_strings": [
+            "Registered Nurses' Association of Ontario Toronto, ON Canada",
+            "Registered Nurses' Association of Ontario, Toronto, ON, Canada"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-6424-2290",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Registered Nurses' Association of Ontario Toronto, ON Canada",
+              "institution_ids": [
+                "https://openalex.org/I173537496"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Registered Nurses' Association of Ontario, Toronto, ON, Canada",
+              "institution_ids": [
+                "https://openalex.org/I173537496"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5078884290",
+            "display_name": "Rita Wilson",
+            "orcid": "https://orcid.org/0000-0003-3461-736X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I173537496",
+              "display_name": "Registered Nurses' Association of Ontario",
+              "ror": "https://ror.org/00w33ze35",
+              "country_code": "CA",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I173537496"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rita Wilson",
+          "raw_affiliation_strings": [
+            "Registered Nurses' Association of Ontario Toronto, ON Canada",
+            "Registered Nurses' Association of Ontario, Toronto, ON, Canada"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-3461-736X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Registered Nurses' Association of Ontario Toronto, ON Canada",
+              "institution_ids": [
+                "https://openalex.org/I173537496"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Registered Nurses' Association of Ontario, Toronto, ON, Canada",
+              "institution_ids": [
+                "https://openalex.org/I173537496"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5013404727",
+            "display_name": "Richard Booth",
+            "orcid": "https://orcid.org/0000-0002-0300-9954"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I125749732",
+              "display_name": "Western University",
+              "ror": "https://ror.org/02grkyz14",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I125749732"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Richard G Booth",
+          "raw_affiliation_strings": [
+            "Arthur Labatt Family School of Nursing Western University London, ON Canada",
+            "Arthur Labatt Family School of Nursing, Western University, London, ON, Canada"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-0300-9954",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Arthur Labatt Family School of Nursing Western University London, ON Canada",
+              "institution_ids": [
+                "https://openalex.org/I125749732"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Arthur Labatt Family School of Nursing, Western University, London, ON, Canada",
+              "institution_ids": [
+                "https://openalex.org/I125749732"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5016486494",
+            "display_name": "Tracie Risling",
+            "orcid": "https://orcid.org/0000-0002-4235-4785"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I32625721",
+              "display_name": "University of Saskatchewan",
+              "ror": "https://ror.org/010x8gc63",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I32625721"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Tracie Risling",
+          "raw_affiliation_strings": [
+            "College of Nursing University of Saskatchewan Saskatoon, SK Canada",
+            "College of Nursing, University of Saskatchewan, Saskatoon, SK, Canada"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-4235-4785",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Nursing University of Saskatchewan Saskatoon, SK Canada",
+              "institution_ids": [
+                "https://openalex.org/I32625721"
+              ]
+            },
+            {
+              "raw_affiliation_string": "College of Nursing, University of Saskatchewan, Saskatoon, SK, Canada",
+              "institution_ids": [
+                "https://openalex.org/I32625721"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5084692832",
+            "display_name": "Megan Bamford",
+            "orcid": "https://orcid.org/0000-0002-2346-1606"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I173537496",
+              "display_name": "Registered Nurses' Association of Ontario",
+              "ror": "https://ror.org/00w33ze35",
+              "country_code": "CA",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I173537496"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Megan Bamford",
+          "raw_affiliation_strings": [
+            "Registered Nurses' Association of Ontario Toronto, ON Canada",
+            "Registered Nurses' Association of Ontario, Toronto, ON, Canada"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-2346-1606",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Registered Nurses' Association of Ontario Toronto, ON Canada",
+              "institution_ids": [
+                "https://openalex.org/I173537496"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Registered Nurses' Association of Ontario, Toronto, ON, Canada",
+              "institution_ids": [
+                "https://openalex.org/I173537496"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5034321399"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I173537496"
+      ],
+      "apc_list": {
+        "value": 1500,
+        "currency": "USD",
+        "value_usd": 1500
+      },
+      "apc_paid": {
+        "value": 1500,
+        "currency": "USD",
+        "value_usd": 1500
+      },
+      "fwci": 6.028,
+      "has_fulltext": true,
+      "cited_by_count": 317,
+      "citation_normalized_percentile": {
+        "value": 0.96661531,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 97,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "4",
+        "issue": "1",
+        "first_page": "e23933",
+        "last_page": "e23933"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11636",
+        "display_name": "Artificial Intelligence in Healthcare and Education",
+        "score": 0.4837000072002411,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2718",
+          "display_name": "Health Informatics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11636",
+          "display_name": "Artificial Intelligence in Healthcare and Education",
+          "score": 0.4837000072002411,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2718",
+            "display_name": "Health Informatics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11238",
+          "display_name": "Simulation-Based Education in Healthcare",
+          "score": 0.3894999921321869,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2737",
+            "display_name": "Physiology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12128",
+          "display_name": "AI in Service Interactions",
+          "score": 0.01080000028014183,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/cinahl",
+          "display_name": "CINAHL",
+          "score": 0.6497225165367126
+        },
+        {
+          "id": "https://openalex.org/keywords/psycinfo",
+          "display_name": "PsycINFO",
+          "score": 0.645174503326416
+        },
+        {
+          "id": "https://openalex.org/keywords/medline",
+          "display_name": "MEDLINE",
+          "score": 0.5950589776039124
+        },
+        {
+          "id": "https://openalex.org/keywords/nursing",
+          "display_name": "Nursing",
+          "score": 0.5445771813392639
+        },
+        {
+          "id": "https://openalex.org/keywords/grey-literature",
+          "display_name": "Grey literature",
+          "score": 0.543205976486206
+        },
+        {
+          "id": "https://openalex.org/keywords/nurse-education",
+          "display_name": "Nurse education",
+          "score": 0.5093861222267151
+        },
+        {
+          "id": "https://openalex.org/keywords/population",
+          "display_name": "Population",
+          "score": 0.44383159279823303
+        },
+        {
+          "id": "https://openalex.org/keywords/systematic-review",
+          "display_name": "Systematic review",
+          "score": 0.44247180223464966
+        },
+        {
+          "id": "https://openalex.org/keywords/health-care",
+          "display_name": "Health care",
+          "score": 0.4406295716762543
+        },
+        {
+          "id": "https://openalex.org/keywords/scopus",
+          "display_name": "Scopus",
+          "score": 0.4272177219390869
+        },
+        {
+          "id": "https://openalex.org/keywords/cochrane-library",
+          "display_name": "Cochrane Library",
+          "score": 0.41061919927597046
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.4021160304546356
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.3874521851539612
+        },
+        {
+          "id": "https://openalex.org/keywords/medical-education",
+          "display_name": "Medical education",
+          "score": 0.3711540102958679
+        },
+        {
+          "id": "https://openalex.org/keywords/psychological-intervention",
+          "display_name": "Psychological intervention",
+          "score": 0.12237891554832458
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2781145037",
+          "wikidata": "https://www.wikidata.org/wiki/Q5011772",
+          "display_name": "CINAHL",
+          "level": 3,
+          "score": 0.6497225165367126
+        },
+        {
+          "id": "https://openalex.org/C2779549880",
+          "wikidata": "https://www.wikidata.org/wiki/Q5542226",
+          "display_name": "PsycINFO",
+          "level": 3,
+          "score": 0.645174503326416
+        },
+        {
+          "id": "https://openalex.org/C2779473830",
+          "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+          "display_name": "MEDLINE",
+          "level": 2,
+          "score": 0.5950589776039124
+        },
+        {
+          "id": "https://openalex.org/C159110408",
+          "wikidata": "https://www.wikidata.org/wiki/Q121176",
+          "display_name": "Nursing",
+          "level": 1,
+          "score": 0.5445771813392639
+        },
+        {
+          "id": "https://openalex.org/C61904560",
+          "wikidata": "https://www.wikidata.org/wiki/Q1148359",
+          "display_name": "Grey literature",
+          "level": 3,
+          "score": 0.543205976486206
+        },
+        {
+          "id": "https://openalex.org/C113616995",
+          "wikidata": "https://www.wikidata.org/wiki/Q13378080",
+          "display_name": "Nurse education",
+          "level": 2,
+          "score": 0.5093861222267151
+        },
+        {
+          "id": "https://openalex.org/C2908647359",
+          "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+          "display_name": "Population",
+          "level": 2,
+          "score": 0.44383159279823303
+        },
+        {
+          "id": "https://openalex.org/C189708586",
+          "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+          "display_name": "Systematic review",
+          "level": 3,
+          "score": 0.44247180223464966
+        },
+        {
+          "id": "https://openalex.org/C160735492",
+          "wikidata": "https://www.wikidata.org/wiki/Q31207",
+          "display_name": "Health care",
+          "level": 2,
+          "score": 0.4406295716762543
+        },
+        {
+          "id": "https://openalex.org/C83867959",
+          "wikidata": "https://www.wikidata.org/wiki/Q371467",
+          "display_name": "Scopus",
+          "level": 3,
+          "score": 0.4272177219390869
+        },
+        {
+          "id": "https://openalex.org/C2776478404",
+          "wikidata": "https://www.wikidata.org/wiki/Q1105187",
+          "display_name": "Cochrane Library",
+          "level": 3,
+          "score": 0.41061919927597046
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.4021160304546356
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.3874521851539612
+        },
+        {
+          "id": "https://openalex.org/C509550671",
+          "wikidata": "https://www.wikidata.org/wiki/Q126945",
+          "display_name": "Medical education",
+          "level": 1,
+          "score": 0.3711540102958679
+        },
+        {
+          "id": "https://openalex.org/C27415008",
+          "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+          "display_name": "Psychological intervention",
+          "level": 2,
+          "score": 0.12237891554832458
+        },
+        {
+          "id": "https://openalex.org/C50522688",
+          "wikidata": "https://www.wikidata.org/wiki/Q189833",
+          "display_name": "Economic growth",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C99454951",
+          "wikidata": "https://www.wikidata.org/wiki/Q932068",
+          "display_name": "Environmental health",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "doi:10.2196/23933",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.2196/23933",
+          "pdf_url": "https://nursing.jmir.org/2021/1/e23933/PDF",
+          "source": {
+            "id": "https://openalex.org/S4210237349",
+            "display_name": "JMIR Nursing",
+            "issn_l": "2562-7600",
+            "issn": [
+              "2562-7600"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "jufo-2",
+              "medline",
+              "norway-1"
+            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "JMIR Nursing",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:34345794",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/34345794",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "JMIR nursing",
+          "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:8328269",
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8328269",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "JMIR Nurs",
+          "raw_type": "Text"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.2196/23933",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2196/23933",
+        "pdf_url": "https://nursing.jmir.org/2021/1/e23933/PDF",
+        "source": {
+          "id": "https://openalex.org/S4210237349",
+          "display_name": "JMIR Nursing",
+          "issn_l": "2562-7600",
+          "issn": [
+            "2562-7600"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "jufo-2",
+            "medline",
+            "norway-1"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "JMIR Nursing",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.5899999737739563,
+          "display_name": "Quality Education",
+          "id": "https://metadata.un.org/sdg/4"
+        }
+      ],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320311433",
+          "display_name": "University Health Network",
+          "ror": "https://ror.org/042xt5161"
+        },
+        {
+          "id": "https://openalex.org/F4320312250",
+          "display_name": "Registered Nurses' Association of Ontario",
+          "ror": "https://ror.org/00w33ze35"
+        },
+        {
+          "id": "https://openalex.org/F4320319955",
+          "display_name": "Associated Medical Services",
+          "ror": "https://ror.org/01adk7m17"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W3118983571.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W3118983571.grobid-xml"
+      },
+      "referenced_works_count": 45,
+      "referenced_works": [
+        "https://openalex.org/W193733993",
+        "https://openalex.org/W1828801014",
+        "https://openalex.org/W1834859154",
+        "https://openalex.org/W1981119137",
+        "https://openalex.org/W2075950485",
+        "https://openalex.org/W2084154288",
+        "https://openalex.org/W2156098321",
+        "https://openalex.org/W2157676884",
+        "https://openalex.org/W2288085147",
+        "https://openalex.org/W2323404409",
+        "https://openalex.org/W2335120868",
+        "https://openalex.org/W2342021671",
+        "https://openalex.org/W2400521374",
+        "https://openalex.org/W2567324674",
+        "https://openalex.org/W2580573331",
+        "https://openalex.org/W2599428071",
+        "https://openalex.org/W2618608942",
+        "https://openalex.org/W2750459881",
+        "https://openalex.org/W2754589535",
+        "https://openalex.org/W2774686807",
+        "https://openalex.org/W2883162242",
+        "https://openalex.org/W2889681816",
+        "https://openalex.org/W2891884626",
+        "https://openalex.org/W2895190618",
+        "https://openalex.org/W2895614216",
+        "https://openalex.org/W2900471656",
+        "https://openalex.org/W2900829323",
+        "https://openalex.org/W2913713488",
+        "https://openalex.org/W2915151804",
+        "https://openalex.org/W2916522870",
+        "https://openalex.org/W2922504580",
+        "https://openalex.org/W2941369448",
+        "https://openalex.org/W2944525016",
+        "https://openalex.org/W2948180748",
+        "https://openalex.org/W2965120908",
+        "https://openalex.org/W2967916686",
+        "https://openalex.org/W2971301364",
+        "https://openalex.org/W2971849449",
+        "https://openalex.org/W2979845303",
+        "https://openalex.org/W3016613694",
+        "https://openalex.org/W3016850090",
+        "https://openalex.org/W3095399468",
+        "https://openalex.org/W3120585429",
+        "https://openalex.org/W3212600098",
+        "https://openalex.org/W4256513592"
+      ],
+      "related_works": [
+        "https://openalex.org/W2113043745",
+        "https://openalex.org/W2766839180",
+        "https://openalex.org/W3088773868",
+        "https://openalex.org/W4308638646",
+        "https://openalex.org/W2531219817",
+        "https://openalex.org/W2054290182",
+        "https://openalex.org/W2971604386",
+        "https://openalex.org/W2232330152",
+        "https://openalex.org/W2171084971",
+        "https://openalex.org/W4390408219"
+      ],
+      "abstract_inverted_index": {
+        "BACKGROUND:": [
+          0
+        ],
+        "It": [
+          1
+        ],
+        "is": [
+          2,
+          288
+        ],
+        "predicted": [
+          3,
+          70
+        ],
+        "that": [
+          4,
+          181,
+          328
+        ],
+        "artificial": [
+          5
+        ],
+        "intelligence": [
+          6
+        ],
+        "(AI)": [
+          7
+        ],
+        "will": [
+          8
+        ],
+        "transform": [
+          9
+        ],
+        "nursing": [
+          10,
+          15,
+          38,
+          43,
+          75,
+          175,
+          225,
+          269,
+          280,
+          292,
+          306,
+          341,
+          369
+        ],
+        "across": [
+          11
+        ],
+        "all": [
+          12,
+          336
+        ],
+        "domains": [
+          13
+        ],
+        "of": [
+          14,
+          32,
+          57,
+          72,
+          104,
+          118,
+          129,
+          140,
+          199,
+          237,
+          266,
+          277,
+          316,
+          338
+        ],
+        "practice,": [
+          16
+        ],
+        "including": [
+          17,
+          241
+        ],
+        "administration,": [
+          18
+        ],
+        "clinical": [
+          19,
+          283,
+          299
+        ],
+        "care,": [
+          20
+        ],
+        "education,": [
+          21
+        ],
+        "policy,": [
+          22
+        ],
+        "and": [
+          23,
+          41,
+          69,
+          82,
+          110,
+          131,
+          156,
+          168,
+          177,
+          191,
+          214,
+          224,
+          232,
+          253,
+          274,
+          298,
+          305,
+          311,
+          325,
+          343,
+          353,
+          359
+        ],
+        "research.": [
+          24
+        ],
+        "Increasingly,": [
+          25
+        ],
+        "researchers": [
+          26
+        ],
+        "are": [
+          27
+        ],
+        "exploring": [
+          28
+        ],
+        "the": [
+          29,
+          67,
+          78,
+          102,
+          138,
+          228,
+          261,
+          314,
+          350
+        ],
+        "potential": [
+          30
+        ],
+        "influences": [
+          31,
+          71,
+          265,
+          276
+        ],
+        "AI": [
+          33,
+          267,
+          278,
+          330
+        ],
+        "health": [
+          34,
+          179
+        ],
+        "technologies": [
+          35,
+          180
+        ],
+        "(AIHTs)": [
+          36
+        ],
+        "on": [
+          37,
+          42,
+          53,
+          74,
+          174,
+          268,
+          279
+        ],
+        "in": [
+          39,
+          271,
+          282,
+          295,
+          313,
+          371
+        ],
+        "general": [
+          40
+        ],
+        "education": [
+          44,
+          76,
+          176,
+          270,
+          281,
+          293
+        ],
+        "more": [
+          45
+        ],
+        "specifically.": [
+          46
+        ],
+        "However,": [
+          47
+        ],
+        "little": [
+          48
+        ],
+        "emphasis": [
+          49
+        ],
+        "has": [
+          50
+        ],
+        "been": [
+          51
+        ],
+        "placed": [
+          52
+        ],
+        "synthesizing": [
+          54
+        ],
+        "this": [
+          55
+        ],
+        "body": [
+          56
+        ],
+        "literature.": [
+          58,
+          154
+        ],
+        "OBJECTIVE:": [
+          59
+        ],
+        "A": [
+          60,
+          197,
+          235
+        ],
+        "scoping": [
+          61,
+          86,
+          99
+        ],
+        "review": [
+          62,
+          87,
+          100
+        ],
+        "was": [
+          63,
+          148
+        ],
+        "conducted": [
+          64
+        ],
+        "to": [
+          65,
+          108,
+          137,
+          150,
+          302,
+          308,
+          322,
+          331,
+          355,
+          365
+        ],
+        "summarize": [
+          66
+        ],
+        "current": [
+          68
+        ],
+        "AIHTs": [
+          73,
+          238,
+          358
+        ],
+        "over": [
+          77
+        ],
+        "next": [
+          79
+        ],
+        "10": [
+          80
+        ],
+        "years": [
+          81
+        ],
+        "beyond.": [
+          83
+        ],
+        "METHODS:": [
+          84
+        ],
+        "This": [
+          85
+        ],
+        "followed": [
+          88
+        ],
+        "a": [
+          89,
+          144,
+          188
+        ],
+        "previously": [
+          90
+        ],
+        "published": [
+          91
+        ],
+        "protocol": [
+          92
+        ],
+        "from": [
+          93,
+          260
+        ],
+        "April": [
+          94
+        ],
+        "2020.": [
+          95
+        ],
+        "Using": [
+          96
+        ],
+        "an": [
+          97
+        ],
+        "established": [
+          98
+        ],
+        "methodology,": [
+          101
+        ],
+        "databases": [
+          103
+        ],
+        "MEDLINE,": [
+          105
+        ],
+        "Cumulative": [
+          106
+        ],
+        "Index": [
+          107
+        ],
+        "Nursing": [
+          109
+        ],
+        "Allied": [
+          111
+        ],
+        "Health": [
+          112
+        ],
+        "Literature,": [
+          113
+        ],
+        "Embase,": [
+          114
+        ],
+        "PsycINFO,": [
+          115
+        ],
+        "Cochrane": [
+          116,
+          121
+        ],
+        "Database": [
+          117
+        ],
+        "Systematic": [
+          119
+        ],
+        "Reviews,": [
+          120
+        ],
+        "Central,": [
+          122
+        ],
+        "Education": [
+          123
+        ],
+        "Resources": [
+          124
+        ],
+        "Information": [
+          125
+        ],
+        "Centre,": [
+          126
+        ],
+        "Scopus,": [
+          127
+        ],
+        "Web": [
+          128
+        ],
+        "Science,": [
+          130
+        ],
+        "Proquest": [
+          132
+        ],
+        "were": [
+          133,
+          159,
+          185,
+          202,
+          239,
+          263
+        ],
+        "searched.": [
+          134
+        ],
+        "In": [
+          135
+        ],
+        "addition": [
+          136
+        ],
+        "use": [
+          139
+        ],
+        "these": [
+          141
+        ],
+        "electronic": [
+          142
+        ],
+        "databases,": [
+          143
+        ],
+        "targeted": [
+          145
+        ],
+        "website": [
+          146
+        ],
+        "search": [
+          147
+        ],
+        "performed": [
+          149
+        ],
+        "access": [
+          151
+        ],
+        "relevant": [
+          152
+        ],
+        "grey": [
+          153
+        ],
+        "Abstracts": [
+          155
+        ],
+        "full-text": [
+          157
+        ],
+        "studies": [
+          158,
+          208
+        ],
+        "independently": [
+          160
+        ],
+        "screened": [
+          161
+        ],
+        "by": [
+          162
+        ],
+        "two": [
+          163,
+          256
+        ],
+        "reviewers": [
+          164
+        ],
+        "using": [
+          165,
+          187
+        ],
+        "prespecified": [
+          166
+        ],
+        "inclusion": [
+          167
+        ],
+        "exclusion": [
+          169
+        ],
+        "criteria.": [
+          170
+        ],
+        "Included": [
+          171
+        ],
+        "literature": [
+          172,
+          262
+        ],
+        "focused": [
+          173
+        ],
+        "digital": [
+          178
+        ],
+        "incorporate": [
+          182,
+          329
+        ],
+        "AI.": [
+          183,
+          317
+        ],
+        "Data": [
+          184
+        ],
+        "charted": [
+          186
+        ],
+        "structured": [
+          189
+        ],
+        "form": [
+          190
+        ],
+        "narratively": [
+          192
+        ],
+        "summarized": [
+          193
+        ],
+        "into": [
+          194
+        ],
+        "categories.": [
+          195
+        ],
+        "RESULTS:": [
+          196
+        ],
+        "total": [
+          198
+        ],
+        "27": [
+          200
+        ],
+        "articles": [
+          201
+        ],
+        "identified": [
+          203
+        ],
+        "(20": [
+          204
+        ],
+        "expository": [
+          205
+        ],
+        "papers,": [
+          206
+        ],
+        "six": [
+          207
+        ],
+        "with": [
+          209,
+          349
+        ],
+        "quantitative": [
+          210
+        ],
+        "or": [
+          211,
+          250
+        ],
+        "prototyping": [
+          212
+        ],
+        "methods,": [
+          213
+        ],
+        "one": [
+          215
+        ],
+        "qualitative": [
+          216
+        ],
+        "study).": [
+          217
+        ],
+        "The": [
+          218,
+          255
+        ],
+        "population": [
+          219
+        ],
+        "included": [
+          220
+        ],
+        "nurses,": [
+          221
+        ],
+        "nurse": [
+          222,
+          319
+        ],
+        "educators,": [
+          223
+        ],
+        "students": [
+          226,
+          307,
+          334,
+          342
+        ],
+        "at": [
+          227,
+          335
+        ],
+        "entry-to-practice,": [
+          229
+        ],
+        "undergraduate,": [
+          230
+        ],
+        "graduate,": [
+          231
+        ],
+        "doctoral": [
+          233
+        ],
+        "levels.": [
+          234
+        ],
+        "variety": [
+          236
+        ],
+        "discussed,": [
+          240
+        ],
+        "virtual": [
+          242,
+          249
+        ],
+        "avatar": [
+          243
+        ],
+        "apps,": [
+          244
+        ],
+        "smart": [
+          245
+        ],
+        "homes,": [
+          246
+        ],
+        "predictive": [
+          247
+        ],
+        "analytics,": [
+          248
+        ],
+        "augmented": [
+          251
+        ],
+        "reality,": [
+          252
+        ],
+        "robots.": [
+          254
+        ],
+        "key": [
+          257
+        ],
+        "categories": [
+          258
+        ],
+        "derived": [
+          259
+        ],
+        "(1)": [
+          264
+        ],
+        "academic": [
+          272,
+          296
+        ],
+        "institutions": [
+          273,
+          297
+        ],
+        "(2)": [
+          275
+        ],
+        "practice.": [
+          284
+        ],
+        "CONCLUSIONS:": [
+          285
+        ],
+        "Curricular": [
+          286
+        ],
+        "reform": [
+          287
+        ],
+        "urgently": [
+          289
+        ],
+        "needed": [
+          290
+        ],
+        "within": [
+          291
+        ],
+        "programs": [
+          294
+        ],
+        "practice": [
+          300,
+          309,
+          372
+        ],
+        "settings": [
+          301
+        ],
+        "prepare": [
+          303
+        ],
+        "nurses": [
+          304,
+          345
+        ],
+        "safely": [
+          310,
+          360
+        ],
+        "efficiently": [
+          312
+        ],
+        "age": [
+          315
+        ],
+        "Additionally,": [
+          318
+        ],
+        "educators": [
+          320
+        ],
+        "need": [
+          321
+        ],
+        "adopt": [
+          323
+        ],
+        "new": [
+          324
+        ],
+        "evolving": [
+          326
+        ],
+        "pedagogies": [
+          327
+        ],
+        "better": [
+          332
+        ],
+        "support": [
+          333,
+          366
+        ],
+        "levels": [
+          337
+        ],
+        "education.": [
+          339
+        ],
+        "Finally,": [
+          340
+        ],
+        "practicing": [
+          344
+        ],
+        "must": [
+          346
+        ],
+        "be": [
+          347
+        ],
+        "equipped": [
+          348
+        ],
+        "requisite": [
+          351
+        ],
+        "knowledge": [
+          352
+        ],
+        "skills": [
+          354
+        ],
+        "effectively": [
+          356
+        ],
+        "assess": [
+          357
+        ],
+        "integrate": [
+          361
+        ],
+        "those": [
+          362
+        ],
+        "deemed": [
+          363
+        ],
+        "appropriate": [
+          364
+        ],
+        "person-centered": [
+          367
+        ],
+        "compassionate": [
+          368
+        ],
+        "care": [
+          370
+        ],
+        "settings.": [
+          373
+        ],
+        "INTERNATIONAL": [
+          374
+        ],
+        "REGISTERED": [
+          375
+        ],
+        "REPORT": [
+          376
+        ],
+        "IDENTIFIER": [
+          377
+        ],
+        "IRRID:": [
+          378
+        ],
+        "RR2-10.2196/17490.": [
+          379
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 93
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 118
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 61
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 28
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 12
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 5
+        }
+      ],
+      "updated_date": "2026-09-20T07:33:13.661266",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": "https://nursing.jmir.org/2021/1/e23933/PDF",
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

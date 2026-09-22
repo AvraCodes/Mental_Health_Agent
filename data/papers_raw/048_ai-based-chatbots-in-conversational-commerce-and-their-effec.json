@@ -1,0 +1,941 @@
+{
+  "id": 48,
+  "original": {
+    "id": 48,
+    "paper_name": "AI-based chatbots in conversational commerce and their effects on product and price perceptions",
+    "site": "OpenAlex",
+    "venue_of_publication": "Electronic Markets",
+    "year": 2023,
+    "researcher_info": "Justina Sidlauskiene, Yannick Joye et al."
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T11:03:18.849117+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "AI-based chatbots in conversational commerce and their effects on product and price perceptions",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W4377988415",
+    "doi": "https://doi.org/10.1007/s12525-023-00633-8",
+    "title_matched": "AI-based chatbots in conversational commerce and their effects on product and price perceptions",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2023,
+    "venue": "Electronic Markets",
+    "authors": [
+      "Justina Sidlauskiene",
+      "Yannick Joye",
+      "Viltė Auruškevičienė"
+    ],
+    "abstract": "",
+    "cited_by_count": 126,
+    "is_oa": true,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s12525-023-00633-8.pdf",
+    "pdf_candidates": [
+      "https://link.springer.com/content/pdf/10.1007/s12525-023-00633-8.pdf",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10206356/pdf/12525_2023_Article_633.pdf"
+    ],
+    "landing_page_url": "https://doi.org/10.1007/s12525-023-00633-8",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W4377988415",
+      "doi": "https://doi.org/10.1007/s12525-023-00633-8",
+      "title": "AI-based chatbots in conversational commerce and their effects on product and price perceptions",
+      "display_name": "AI-based chatbots in conversational commerce and their effects on product and price perceptions",
+      "relevance_score": 4061.591,
+      "publication_year": 2023,
+      "publication_date": "2023-05-24",
+      "ids": {
+        "openalex": "https://openalex.org/W4377988415",
+        "doi": "https://doi.org/10.1007/s12525-023-00633-8",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/37252674"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/s12525-023-00633-8",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/s12525-023-00633-8",
+        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s12525-023-00633-8.pdf",
+        "source": {
+          "id": "https://openalex.org/S137519996",
+          "display_name": "Electronic Markets",
+          "issn_l": "1019-6781",
+          "issn": [
+            "1019-6781",
+            "1422-8890"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Electronic Markets",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s12525-023-00633-8.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5028525770",
+            "display_name": "Justina Sidlauskiene",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I167420956",
+              "display_name": "Vilnius Gediminas Technical University",
+              "ror": "https://ror.org/02x3e4q36",
+              "country_code": "LT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I167420956"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I28941729",
+              "display_name": "ISM University of Management and Economics",
+              "ror": "https://ror.org/05rky1t53",
+              "country_code": "LT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I28941729"
+              ]
+            }
+          ],
+          "countries": [
+            "LT"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Justina Sidlauskiene",
+          "raw_affiliation_strings": [
+            "ISM University of Management and Economics, Gedimino Ave. 7, LT-01103 Vilnius, Lithuania",
+            "ISM University of Management and Economics, Gedimino Ave. 7, LT-01103, Vilnius, Lithuania"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "ISM University of Management and Economics, Gedimino Ave. 7, LT-01103 Vilnius, Lithuania",
+              "institution_ids": [
+                "https://openalex.org/I167420956",
+                "https://openalex.org/I28941729"
+              ]
+            },
+            {
+              "raw_affiliation_string": "ISM University of Management and Economics, Gedimino Ave. 7, LT-01103, Vilnius, Lithuania",
+              "institution_ids": [
+                "https://openalex.org/I28941729"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5001288796",
+            "display_name": "Yannick Joye",
+            "orcid": "https://orcid.org/0000-0002-7306-799X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I173212132",
+              "display_name": "Vilnius University",
+              "ror": "https://ror.org/03nadee84",
+              "country_code": "LT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I173212132"
+              ]
+            }
+          ],
+          "countries": [
+            "LT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yannick Joye",
+          "raw_affiliation_strings": [
+            "Center for Economic Expertise, Faculty of Economics and Business Administration, Vilnius University, Saulėtekio Av. 9, 2Nd Building, 10222 Vilnius, Lithuania",
+            "Center for Economic Expertise, Faculty of Economics and Business Administration, Vilnius University, Saulėtekio Av. 9, 2Nd Building, 10222, Vilnius, Lithuania"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Economic Expertise, Faculty of Economics and Business Administration, Vilnius University, Saulėtekio Av. 9, 2Nd Building, 10222 Vilnius, Lithuania",
+              "institution_ids": [
+                "https://openalex.org/I173212132"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Center for Economic Expertise, Faculty of Economics and Business Administration, Vilnius University, Saulėtekio Av. 9, 2Nd Building, 10222, Vilnius, Lithuania",
+              "institution_ids": [
+                "https://openalex.org/I173212132"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5074291411",
+            "display_name": "Viltė Auruškevičienė",
+            "orcid": "https://orcid.org/0000-0002-1563-4052"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I167420956",
+              "display_name": "Vilnius Gediminas Technical University",
+              "ror": "https://ror.org/02x3e4q36",
+              "country_code": "LT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I167420956"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I28941729",
+              "display_name": "ISM University of Management and Economics",
+              "ror": "https://ror.org/05rky1t53",
+              "country_code": "LT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I28941729"
+              ]
+            }
+          ],
+          "countries": [
+            "LT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Vilte Auruskeviciene",
+          "raw_affiliation_strings": [
+            "ISM University of Management and Economics, Gedimino Ave. 7, LT-01103 Vilnius, Lithuania",
+            "ISM University of Management and Economics, Gedimino Ave. 7, LT-01103, Vilnius, Lithuania"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "ISM University of Management and Economics, Gedimino Ave. 7, LT-01103 Vilnius, Lithuania",
+              "institution_ids": [
+                "https://openalex.org/I167420956",
+                "https://openalex.org/I28941729"
+              ]
+            },
+            {
+              "raw_affiliation_string": "ISM University of Management and Economics, Gedimino Ave. 7, LT-01103, Vilnius, Lithuania",
+              "institution_ids": [
+                "https://openalex.org/I28941729"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5028525770"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I167420956",
+        "https://openalex.org/I28941729"
+      ],
+      "apc_list": {
+        "value": 3190,
+        "currency": "USD",
+        "value_usd": 3190
+      },
+      "apc_paid": null,
+      "fwci": 16.152,
+      "has_fulltext": true,
+      "cited_by_count": 126,
+      "citation_normalized_percentile": {
+        "value": 0.99412116,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 99,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "33",
+        "issue": "1",
+        "first_page": "24",
+        "last_page": "24"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12128",
+        "display_name": "AI in Service Interactions",
+        "score": 0.9997000098228455,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12128",
+          "display_name": "AI in Service Interactions",
+          "score": 0.9997000098228455,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10609",
+          "display_name": "Digital Marketing and Social Media",
+          "score": 0.9961000084877014,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3312",
+            "display_name": "Sociology and Political Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12521",
+          "display_name": "Death Anxiety and Social Exclusion",
+          "score": 0.9868999719619751,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/personalization",
+          "display_name": "Personalization",
+          "score": 0.8068205118179321
+        },
+        {
+          "id": "https://openalex.org/keywords/situational-ethics",
+          "display_name": "Situational ethics",
+          "score": 0.7066313028335571
+        },
+        {
+          "id": "https://openalex.org/keywords/product",
+          "display_name": "Product (mathematics)",
+          "score": 0.6902626752853394
+        },
+        {
+          "id": "https://openalex.org/keywords/chatbot",
+          "display_name": "Chatbot",
+          "score": 0.5957920551300049
+        },
+        {
+          "id": "https://openalex.org/keywords/loneliness",
+          "display_name": "Loneliness",
+          "score": 0.5856071710586548
+        },
+        {
+          "id": "https://openalex.org/keywords/perception",
+          "display_name": "Perception",
+          "score": 0.5720021724700928
+        },
+        {
+          "id": "https://openalex.org/keywords/test",
+          "display_name": "Test (biology)",
+          "score": 0.5446245074272156
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.5185354351997375
+        },
+        {
+          "id": "https://openalex.org/keywords/cognitive-psychology",
+          "display_name": "Cognitive psychology",
+          "score": 0.34844332933425903
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.30807965993881226
+        },
+        {
+          "id": "https://openalex.org/keywords/social-psychology",
+          "display_name": "Social psychology",
+          "score": 0.2944088876247406
+        },
+        {
+          "id": "https://openalex.org/keywords/world-wide-web",
+          "display_name": "World Wide Web",
+          "score": 0.18544304370880127
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C183003079",
+          "wikidata": "https://www.wikidata.org/wiki/Q1000371",
+          "display_name": "Personalization",
+          "level": 2,
+          "score": 0.8068205118179321
+        },
+        {
+          "id": "https://openalex.org/C9114305",
+          "wikidata": "https://www.wikidata.org/wiki/Q1428317",
+          "display_name": "Situational ethics",
+          "level": 2,
+          "score": 0.7066313028335571
+        },
+        {
+          "id": "https://openalex.org/C90673727",
+          "wikidata": "https://www.wikidata.org/wiki/Q901718",
+          "display_name": "Product (mathematics)",
+          "level": 2,
+          "score": 0.6902626752853394
+        },
+        {
+          "id": "https://openalex.org/C2779041454",
+          "wikidata": "https://www.wikidata.org/wiki/Q870780",
+          "display_name": "Chatbot",
+          "level": 2,
+          "score": 0.5957920551300049
+        },
+        {
+          "id": "https://openalex.org/C2779998236",
+          "wikidata": "https://www.wikidata.org/wiki/Q223270",
+          "display_name": "Loneliness",
+          "level": 2,
+          "score": 0.5856071710586548
+        },
+        {
+          "id": "https://openalex.org/C26760741",
+          "wikidata": "https://www.wikidata.org/wiki/Q160402",
+          "display_name": "Perception",
+          "level": 2,
+          "score": 0.5720021724700928
+        },
+        {
+          "id": "https://openalex.org/C2777267654",
+          "wikidata": "https://www.wikidata.org/wiki/Q3519023",
+          "display_name": "Test (biology)",
+          "level": 2,
+          "score": 0.5446245074272156
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.5185354351997375
+        },
+        {
+          "id": "https://openalex.org/C180747234",
+          "wikidata": "https://www.wikidata.org/wiki/Q23373",
+          "display_name": "Cognitive psychology",
+          "level": 1,
+          "score": 0.34844332933425903
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.30807965993881226
+        },
+        {
+          "id": "https://openalex.org/C77805123",
+          "wikidata": "https://www.wikidata.org/wiki/Q161272",
+          "display_name": "Social psychology",
+          "level": 1,
+          "score": 0.2944088876247406
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.18544304370880127
+        },
+        {
+          "id": "https://openalex.org/C169760540",
+          "wikidata": "https://www.wikidata.org/wiki/Q207011",
+          "display_name": "Neuroscience",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C2524010",
+          "wikidata": "https://www.wikidata.org/wiki/Q8087",
+          "display_name": "Geometry",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.1007/s12525-023-00633-8",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1007/s12525-023-00633-8",
+          "pdf_url": "https://link.springer.com/content/pdf/10.1007/s12525-023-00633-8.pdf",
+          "source": {
+            "id": "https://openalex.org/S137519996",
+            "display_name": "Electronic Markets",
+            "issn_l": "1019-6781",
+            "issn": [
+              "1019-6781",
+              "1422-8890"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Electronic Markets",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:37252674",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37252674",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Electronic markets",
+          "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:10206356",
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10206356",
+          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10206356/pdf/12525_2023_Article_633.pdf",
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": "Electron Mark",
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:RePEc:spr:elmark:v:33:y:2023:i:1:d:10.1007_s12525-023-00633-8",
+          "is_oa": false,
+          "landing_page_url": "http://link.springer.com/10.1007/s12525-023-00633-8",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401271",
+            "display_name": "RePEc: Research Papers in Economics",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I77793887",
+            "host_organization_name": "Federal Reserve Bank of St. Louis",
+            "host_organization_lineage": [
+              "https://openalex.org/I77793887"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1007/s12525-023-00633-8",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/s12525-023-00633-8",
+        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s12525-023-00633-8.pdf",
+        "source": {
+          "id": "https://openalex.org/S137519996",
+          "display_name": "Electronic Markets",
+          "issn_l": "1019-6781",
+          "issn": [
+            "1019-6781",
+            "1422-8890"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Electronic Markets",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4377988415.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4377988415.grobid-xml"
+      },
+      "referenced_works_count": 157,
+      "referenced_works": [
+        "https://openalex.org/W119893790",
+        "https://openalex.org/W145528368",
+        "https://openalex.org/W173959076",
+        "https://openalex.org/W1511558225",
+        "https://openalex.org/W1756842549",
+        "https://openalex.org/W1844609914",
+        "https://openalex.org/W1902238358",
+        "https://openalex.org/W1903008583",
+        "https://openalex.org/W1965742260",
+        "https://openalex.org/W1969152782",
+        "https://openalex.org/W1971753731",
+        "https://openalex.org/W1975694814",
+        "https://openalex.org/W1980357038",
+        "https://openalex.org/W1982230178",
+        "https://openalex.org/W1985945240",
+        "https://openalex.org/W1991015565",
+        "https://openalex.org/W1992193852",
+        "https://openalex.org/W1994833890",
+        "https://openalex.org/W1995513609",
+        "https://openalex.org/W2004379775",
+        "https://openalex.org/W2012192938",
+        "https://openalex.org/W2012995862",
+        "https://openalex.org/W2019066729",
+        "https://openalex.org/W2032789956",
+        "https://openalex.org/W2034182670",
+        "https://openalex.org/W2044237036",
+        "https://openalex.org/W2044640583",
+        "https://openalex.org/W2045077988",
+        "https://openalex.org/W2047716253",
+        "https://openalex.org/W2054265277",
+        "https://openalex.org/W2054287826",
+        "https://openalex.org/W2054585628",
+        "https://openalex.org/W2057876440",
+        "https://openalex.org/W2059486617",
+        "https://openalex.org/W2060051277",
+        "https://openalex.org/W2061936223",
+        "https://openalex.org/W2063169022",
+        "https://openalex.org/W2063316674",
+        "https://openalex.org/W2063341741",
+        "https://openalex.org/W2068999842",
+        "https://openalex.org/W2070011002",
+        "https://openalex.org/W2080315483",
+        "https://openalex.org/W2084678332",
+        "https://openalex.org/W2084963271",
+        "https://openalex.org/W2086642814",
+        "https://openalex.org/W2095953405",
+        "https://openalex.org/W2098225165",
+        "https://openalex.org/W2101816687",
+        "https://openalex.org/W2102311936",
+        "https://openalex.org/W2103213476",
+        "https://openalex.org/W2107278406",
+        "https://openalex.org/W2112041999",
+        "https://openalex.org/W2112062218",
+        "https://openalex.org/W2114309334",
+        "https://openalex.org/W2114622107",
+        "https://openalex.org/W2115040353",
+        "https://openalex.org/W2116681652",
+        "https://openalex.org/W2119058817",
+        "https://openalex.org/W2119647950",
+        "https://openalex.org/W2121107665",
+        "https://openalex.org/W2122517769",
+        "https://openalex.org/W2126216359",
+        "https://openalex.org/W2130653301",
+        "https://openalex.org/W2131799829",
+        "https://openalex.org/W2133243910",
+        "https://openalex.org/W2137123520",
+        "https://openalex.org/W2137131934",
+        "https://openalex.org/W2140425269",
+        "https://openalex.org/W2143892618",
+        "https://openalex.org/W2147332467",
+        "https://openalex.org/W2155151233",
+        "https://openalex.org/W2156897926",
+        "https://openalex.org/W2203075860",
+        "https://openalex.org/W2281858315",
+        "https://openalex.org/W2334587181",
+        "https://openalex.org/W2357962853",
+        "https://openalex.org/W2480630604",
+        "https://openalex.org/W2519766541",
+        "https://openalex.org/W2551095554",
+        "https://openalex.org/W2574739206",
+        "https://openalex.org/W2582957527",
+        "https://openalex.org/W2592877795",
+        "https://openalex.org/W2595264496",
+        "https://openalex.org/W2603671336",
+        "https://openalex.org/W2609780606",
+        "https://openalex.org/W2623779865",
+        "https://openalex.org/W2743256119",
+        "https://openalex.org/W2763074088",
+        "https://openalex.org/W2792467893",
+        "https://openalex.org/W2794328116",
+        "https://openalex.org/W2795037203",
+        "https://openalex.org/W2805009372",
+        "https://openalex.org/W2811459222",
+        "https://openalex.org/W2884562722",
+        "https://openalex.org/W2893586356",
+        "https://openalex.org/W2900107703",
+        "https://openalex.org/W2914188784",
+        "https://openalex.org/W2918349050",
+        "https://openalex.org/W2921770172",
+        "https://openalex.org/W2938704773",
+        "https://openalex.org/W2948781352",
+        "https://openalex.org/W2951358222",
+        "https://openalex.org/W2963341140",
+        "https://openalex.org/W2964543620",
+        "https://openalex.org/W2969506101",
+        "https://openalex.org/W2971974760",
+        "https://openalex.org/W2973537858",
+        "https://openalex.org/W2986577019",
+        "https://openalex.org/W2998528801",
+        "https://openalex.org/W2998829516",
+        "https://openalex.org/W3001124561",
+        "https://openalex.org/W3004613355",
+        "https://openalex.org/W3005602887",
+        "https://openalex.org/W3006273443",
+        "https://openalex.org/W3009335665",
+        "https://openalex.org/W3010906784",
+        "https://openalex.org/W3011790948",
+        "https://openalex.org/W3012220842",
+        "https://openalex.org/W3023956633",
+        "https://openalex.org/W3026935399",
+        "https://openalex.org/W3041514603",
+        "https://openalex.org/W3081095512",
+        "https://openalex.org/W3103891289",
+        "https://openalex.org/W3109054132",
+        "https://openalex.org/W3116106880",
+        "https://openalex.org/W3119943438",
+        "https://openalex.org/W3120465832",
+        "https://openalex.org/W3123131482",
+        "https://openalex.org/W3124247817",
+        "https://openalex.org/W3124380021",
+        "https://openalex.org/W3131295191",
+        "https://openalex.org/W3140662684",
+        "https://openalex.org/W3156728378",
+        "https://openalex.org/W3157103153",
+        "https://openalex.org/W3161645993",
+        "https://openalex.org/W3185159511",
+        "https://openalex.org/W3191907342",
+        "https://openalex.org/W3194422088",
+        "https://openalex.org/W3194963062",
+        "https://openalex.org/W3195427077",
+        "https://openalex.org/W3205211246",
+        "https://openalex.org/W3210787632",
+        "https://openalex.org/W4236521339",
+        "https://openalex.org/W4237688166",
+        "https://openalex.org/W4238559129",
+        "https://openalex.org/W4243663932",
+        "https://openalex.org/W4246710599",
+        "https://openalex.org/W4248217860",
+        "https://openalex.org/W4283398683",
+        "https://openalex.org/W4283707603",
+        "https://openalex.org/W4293708047",
+        "https://openalex.org/W4303649269",
+        "https://openalex.org/W4404791995",
+        "https://openalex.org/W6608169429",
+        "https://openalex.org/W6646121744",
+        "https://openalex.org/W6756976224",
+        "https://openalex.org/W7073667761"
+      ],
+      "related_works": [
+        "https://openalex.org/W4383501580",
+        "https://openalex.org/W4214931137",
+        "https://openalex.org/W4313813117",
+        "https://openalex.org/W4382052417",
+        "https://openalex.org/W3192088754",
+        "https://openalex.org/W4387007686",
+        "https://openalex.org/W3112311188",
+        "https://openalex.org/W3084631705",
+        "https://openalex.org/W2317255260",
+        "https://openalex.org/W3186009039"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 40
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 47
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 31
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 8
+        }
+      ],
+      "updated_date": "2026-09-22T06:50:58.402377",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s12525-023-00633-8.pdf",
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

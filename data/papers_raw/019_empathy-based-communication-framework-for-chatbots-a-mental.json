@@ -1,0 +1,940 @@
+{
+  "id": 19,
+  "original": {
+    "id": 19,
+    "paper_name": "Empathy-Based communication Framework for Chatbots: A Mental Health Chatbot Application and Evaluation",
+    "site": "OpenAlex",
+    "venue_of_publication": "Unknown Venue",
+    "year": 2023,
+    "researcher_info": "Shuya Lin, Lingfeng Lin et al."
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T10:59:20.687365+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "Empathy-Based communication Framework for Chatbots: A Mental Health Chatbot Application and Evaluation",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W4389294075",
+    "doi": "https://doi.org/10.1145/3623809.3623865",
+    "title_matched": "Empathy-Based communication Framework for Chatbots: A Mental Health Chatbot Application and Evaluation",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2023,
+    "venue": null,
+    "authors": [
+      "Shuya Lin",
+      "Lingfeng Lin",
+      "Chun-Yueh Hou",
+      "Baijun Chen",
+      "Juncheng Li",
+      "Shiguang Ni"
+    ],
+    "abstract": "The World Health Organization has reported a significant increase in mental health problems globally in 2022. In response, there has been a boom in the development of applications for physical and mental health regulation. However, many of these applications lack transparency in their dialogue process logic. To address this issue, this research proposes a communication flow based on the theory of psychological empathy and implemented it using positive psychology content and NLP techniques. Through a two-week pretest-posttest experiment with 25 participants, we found that this chatbot design not only improves the user's well-being but also makes the user feel understood.",
+    "cited_by_count": 27,
+    "is_oa": true,
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3623809.3623865",
+    "pdf_candidates": [
+      "https://dl.acm.org/doi/pdf/10.1145/3623809.3623865"
+    ],
+    "landing_page_url": "https://doi.org/10.1145/3623809.3623865",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W4389294075",
+      "doi": "https://doi.org/10.1145/3623809.3623865",
+      "title": "Empathy-Based communication Framework for Chatbots: A Mental Health Chatbot Application and Evaluation",
+      "display_name": "Empathy-Based communication Framework for Chatbots: A Mental Health Chatbot Application and Evaluation",
+      "relevance_score": 2212.4446,
+      "publication_year": 2023,
+      "publication_date": "2023-12-03",
+      "ids": {
+        "openalex": "https://openalex.org/W4389294075",
+        "doi": "https://doi.org/10.1145/3623809.3623865"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1145/3623809.3623865",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1145/3623809.3623865",
+        "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3623809.3623865",
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Conference on Human-Agent Interaction",
+        "raw_type": "proceedings-article"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://dl.acm.org/doi/pdf/10.1145/3623809.3623865",
+        "any_repository_has_fulltext": null
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5049282583",
+            "display_name": "Shuya Lin",
+            "orcid": "https://orcid.org/0009-0009-2976-1237"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I3131625388",
+              "display_name": "University Town of Shenzhen",
+              "ror": "https://ror.org/05f5j6225",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I3131625388"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I99065089",
+              "display_name": "Tsinghua University",
+              "ror": "https://ror.org/03cve4549",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I99065089"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Shuya Lin",
+          "raw_affiliation_strings": [
+            "Shenzhen International Graduate School, Tsinghua University, China and \rPing An Technology, China"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0009-2976-1237",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Shenzhen International Graduate School, Tsinghua University, China and \rPing An Technology, China",
+              "institution_ids": [
+                "https://openalex.org/I3131625388",
+                "https://openalex.org/I99065089"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5093410770",
+            "display_name": "Lingfeng Lin",
+            "orcid": "https://orcid.org/0009-0007-5991-5458"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I126520041",
+              "display_name": "University of Science and Technology of China",
+              "ror": "https://ror.org/04c4dkn09",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I126520041",
+                "https://openalex.org/I19820366"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Lingfeng Lin",
+          "raw_affiliation_strings": [
+            "University of Science and Technology of China, China and \rPing An Technology, China"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0007-5991-5458",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Science and Technology of China, China and \rPing An Technology, China",
+              "institution_ids": [
+                "https://openalex.org/I126520041"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5065101985",
+            "display_name": "Chun-Yueh Hou",
+            "orcid": "https://orcid.org/0009-0005-4094-2902"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4401726822",
+              "display_name": "Ping An (China)",
+              "ror": "https://ror.org/004yv2z91",
+              "country_code": null,
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4401726822"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Cuiqin Hou",
+          "raw_affiliation_strings": [
+            "Ping An Technolgy, China"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0005-4094-2902",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ping An Technolgy, China",
+              "institution_ids": [
+                "https://openalex.org/I4401726822"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5015876155",
+            "display_name": "Baijun Chen",
+            "orcid": "https://orcid.org/0009-0006-3098-3396"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I88830068",
+              "display_name": "Shaanxi Normal University",
+              "ror": "https://ror.org/0170z8493",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I88830068"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Baijun Chen",
+          "raw_affiliation_strings": [
+            "Shaanxi Normal University, China and \rPing An Technology, China"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0006-3098-3396",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Shaanxi Normal University, China and \rPing An Technology, China",
+              "institution_ids": [
+                "https://openalex.org/I88830068"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5054726747",
+            "display_name": "Juncheng Li",
+            "orcid": "https://orcid.org/0009-0000-2292-5870"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4401726822",
+              "display_name": "Ping An (China)",
+              "ror": "https://ror.org/004yv2z91",
+              "country_code": null,
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4401726822"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jianfeng Li",
+          "raw_affiliation_strings": [
+            "Ping An Technology, China"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0000-2292-5870",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ping An Technology, China",
+              "institution_ids": [
+                "https://openalex.org/I4401726822"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5019716362",
+            "display_name": "Shiguang Ni",
+            "orcid": "https://orcid.org/0000-0002-4303-7386"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I3131625388",
+              "display_name": "University Town of Shenzhen",
+              "ror": "https://ror.org/05f5j6225",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I3131625388"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I99065089",
+              "display_name": "Tsinghua University",
+              "ror": "https://ror.org/03cve4549",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I99065089"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Shiguang Ni",
+          "raw_affiliation_strings": [
+            "Shenzhen International Graduate School, Tsinghua University, China"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-4303-7386",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Shenzhen International Graduate School, Tsinghua University, China",
+              "institution_ids": [
+                "https://openalex.org/I3131625388",
+                "https://openalex.org/I99065089"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 5,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 7.9114,
+      "has_fulltext": true,
+      "cited_by_count": 27,
+      "citation_normalized_percentile": {
+        "value": 0.97164179,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 97,
+        "max": 100
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "264",
+        "last_page": "272"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11519",
+        "display_name": "Digital Mental Health Interventions",
+        "score": 0.9997000098228455,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3202",
+          "display_name": "Applied Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11519",
+          "display_name": "Digital Mental Health Interventions",
+          "score": 0.9997000098228455,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3202",
+            "display_name": "Applied Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13283",
+          "display_name": "Mental Health Research Topics",
+          "score": 0.9884999990463257,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3205",
+            "display_name": "Experimental and Cognitive Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12488",
+          "display_name": "Mental Health via Writing",
+          "score": 0.9854000210762024,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/chatbot",
+          "display_name": "Chatbot",
+          "score": 0.9691232442855835
+        },
+        {
+          "id": "https://openalex.org/keywords/empathy",
+          "display_name": "Empathy",
+          "score": 0.7839303016662598
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.6089770197868347
+        },
+        {
+          "id": "https://openalex.org/keywords/mental-health",
+          "display_name": "Mental health",
+          "score": 0.5951616764068604
+        },
+        {
+          "id": "https://openalex.org/keywords/human–computer-interaction",
+          "display_name": "Human–computer interaction",
+          "score": 0.3777605891227722
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.3749493956565857
+        },
+        {
+          "id": "https://openalex.org/keywords/applied-psychology",
+          "display_name": "Applied psychology",
+          "score": 0.355107843875885
+        },
+        {
+          "id": "https://openalex.org/keywords/world-wide-web",
+          "display_name": "World Wide Web",
+          "score": 0.351225882768631
+        },
+        {
+          "id": "https://openalex.org/keywords/psychotherapist",
+          "display_name": "Psychotherapist",
+          "score": 0.1755181849002838
+        },
+        {
+          "id": "https://openalex.org/keywords/social-psychology",
+          "display_name": "Social psychology",
+          "score": 0.14460840821266174
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2779041454",
+          "wikidata": "https://www.wikidata.org/wiki/Q870780",
+          "display_name": "Chatbot",
+          "level": 2,
+          "score": 0.9691232442855835
+        },
+        {
+          "id": "https://openalex.org/C2779885105",
+          "wikidata": "https://www.wikidata.org/wiki/Q182263",
+          "display_name": "Empathy",
+          "level": 2,
+          "score": 0.7839303016662598
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.6089770197868347
+        },
+        {
+          "id": "https://openalex.org/C134362201",
+          "wikidata": "https://www.wikidata.org/wiki/Q317309",
+          "display_name": "Mental health",
+          "level": 2,
+          "score": 0.5951616764068604
+        },
+        {
+          "id": "https://openalex.org/C107457646",
+          "wikidata": "https://www.wikidata.org/wiki/Q207434",
+          "display_name": "Human–computer interaction",
+          "level": 1,
+          "score": 0.3777605891227722
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.3749493956565857
+        },
+        {
+          "id": "https://openalex.org/C75630572",
+          "wikidata": "https://www.wikidata.org/wiki/Q538904",
+          "display_name": "Applied psychology",
+          "level": 1,
+          "score": 0.355107843875885
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.351225882768631
+        },
+        {
+          "id": "https://openalex.org/C542102704",
+          "wikidata": "https://www.wikidata.org/wiki/Q183257",
+          "display_name": "Psychotherapist",
+          "level": 1,
+          "score": 0.1755181849002838
+        },
+        {
+          "id": "https://openalex.org/C77805123",
+          "wikidata": "https://www.wikidata.org/wiki/Q161272",
+          "display_name": "Social psychology",
+          "level": 1,
+          "score": 0.14460840821266174
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1145/3623809.3623865",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1145/3623809.3623865",
+          "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3623809.3623865",
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International Conference on Human-Agent Interaction",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1145/3623809.3623865",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1145/3623809.3623865",
+        "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3623809.3623865",
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Conference on Human-Agent Interaction",
+        "raw_type": "proceedings-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "display_name": "Reduced inequalities",
+          "score": 0.47999998927116394,
+          "id": "https://metadata.un.org/sdg/10"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4389294075.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4389294075.grobid-xml"
+      },
+      "referenced_works_count": 39,
+      "referenced_works": [
+        "https://openalex.org/W1973978471",
+        "https://openalex.org/W2032191478",
+        "https://openalex.org/W2037755177",
+        "https://openalex.org/W2060427350",
+        "https://openalex.org/W2099386544",
+        "https://openalex.org/W2129541416",
+        "https://openalex.org/W2145220156",
+        "https://openalex.org/W2151942801",
+        "https://openalex.org/W2331092725",
+        "https://openalex.org/W2623657227",
+        "https://openalex.org/W2623779865",
+        "https://openalex.org/W2801990151",
+        "https://openalex.org/W2912116622",
+        "https://openalex.org/W2922711788",
+        "https://openalex.org/W2952370363",
+        "https://openalex.org/W2963026768",
+        "https://openalex.org/W2970079873",
+        "https://openalex.org/W2970303069",
+        "https://openalex.org/W2975920545",
+        "https://openalex.org/W3009428740",
+        "https://openalex.org/W3086982226",
+        "https://openalex.org/W3093956460",
+        "https://openalex.org/W3104982372",
+        "https://openalex.org/W3105906861",
+        "https://openalex.org/W3119396007",
+        "https://openalex.org/W3124410800",
+        "https://openalex.org/W3126938010",
+        "https://openalex.org/W3153622894",
+        "https://openalex.org/W3213635351",
+        "https://openalex.org/W4212814809",
+        "https://openalex.org/W4225013530",
+        "https://openalex.org/W4233023712",
+        "https://openalex.org/W4240595222",
+        "https://openalex.org/W4251028357",
+        "https://openalex.org/W4251796613",
+        "https://openalex.org/W4285238888",
+        "https://openalex.org/W4301186267",
+        "https://openalex.org/W4319321672",
+        "https://openalex.org/W4321378769"
+      ],
+      "related_works": [
+        "https://openalex.org/W4383501580",
+        "https://openalex.org/W4214931137",
+        "https://openalex.org/W4387007686",
+        "https://openalex.org/W4313813117",
+        "https://openalex.org/W4382052417",
+        "https://openalex.org/W3192088754",
+        "https://openalex.org/W3084631705",
+        "https://openalex.org/W3176146353",
+        "https://openalex.org/W4293646425",
+        "https://openalex.org/W4379781060"
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0
+        ],
+        "World": [
+          1
+        ],
+        "Health": [
+          2
+        ],
+        "Organization": [
+          3
+        ],
+        "has": [
+          4,
+          19
+        ],
+        "reported": [
+          5
+        ],
+        "a": [
+          6,
+          21,
+          53,
+          74
+        ],
+        "significant": [
+          7
+        ],
+        "increase": [
+          8
+        ],
+        "in": [
+          9,
+          14,
+          23,
+          41
+        ],
+        "mental": [
+          10,
+          31
+        ],
+        "health": [
+          11,
+          32
+        ],
+        "problems": [
+          12
+        ],
+        "globally": [
+          13
+        ],
+        "2022.": [
+          15
+        ],
+        "In": [
+          16
+        ],
+        "response,": [
+          17
+        ],
+        "there": [
+          18
+        ],
+        "been": [
+          20
+        ],
+        "boom": [
+          22
+        ],
+        "the": [
+          24,
+          58,
+          90,
+          96
+        ],
+        "development": [
+          25
+        ],
+        "of": [
+          26,
+          36,
+          60
+        ],
+        "applications": [
+          27,
+          38
+        ],
+        "for": [
+          28
+        ],
+        "physical": [
+          29
+        ],
+        "and": [
+          30,
+          63,
+          70
+        ],
+        "regulation.": [
+          33
+        ],
+        "However,": [
+          34
+        ],
+        "many": [
+          35
+        ],
+        "these": [
+          37
+        ],
+        "lack": [
+          39
+        ],
+        "transparency": [
+          40
+        ],
+        "their": [
+          42
+        ],
+        "dialogue": [
+          43
+        ],
+        "process": [
+          44
+        ],
+        "logic.": [
+          45
+        ],
+        "To": [
+          46
+        ],
+        "address": [
+          47
+        ],
+        "this": [
+          48,
+          50,
+          84
+        ],
+        "issue,": [
+          49
+        ],
+        "research": [
+          51
+        ],
+        "proposes": [
+          52
+        ],
+        "communication": [
+          54
+        ],
+        "flow": [
+          55
+        ],
+        "based": [
+          56
+        ],
+        "on": [
+          57
+        ],
+        "theory": [
+          59
+        ],
+        "psychological": [
+          61
+        ],
+        "empathy": [
+          62
+        ],
+        "implemented": [
+          64
+        ],
+        "it": [
+          65
+        ],
+        "using": [
+          66
+        ],
+        "positive": [
+          67
+        ],
+        "psychology": [
+          68
+        ],
+        "content": [
+          69
+        ],
+        "NLP": [
+          71
+        ],
+        "techniques.": [
+          72
+        ],
+        "Through": [
+          73
+        ],
+        "two-week": [
+          75
+        ],
+        "pretest-posttest": [
+          76
+        ],
+        "experiment": [
+          77
+        ],
+        "with": [
+          78
+        ],
+        "25": [
+          79
+        ],
+        "participants,": [
+          80
+        ],
+        "we": [
+          81
+        ],
+        "found": [
+          82
+        ],
+        "that": [
+          83
+        ],
+        "chatbot": [
+          85
+        ],
+        "design": [
+          86
+        ],
+        "not": [
+          87
+        ],
+        "only": [
+          88
+        ],
+        "improves": [
+          89
+        ],
+        "user's": [
+          91
+        ],
+        "well-being": [
+          92
+        ],
+        "but": [
+          93
+        ],
+        "also": [
+          94
+        ],
+        "makes": [
+          95
+        ],
+        "user": [
+          97
+        ],
+        "feel": [
+          98
+        ],
+        "understood.": [
+          99
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 12
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 11
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 4
+        }
+      ],
+      "updated_date": "2026-09-11T09:22:31.653822",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3623809.3623865",
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

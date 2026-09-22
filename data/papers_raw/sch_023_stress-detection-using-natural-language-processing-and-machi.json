@@ -1,0 +1,30 @@
+{
+  "id": "sch-023",
+  "original": {
+    "paper_name": "Stress detection using natural language processing and machine learning over social interactions",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "stress detection machine learning",
+  "scraped_at": "2026-09-22T11:19:02.230129+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "stress detection machine learning",
+    "title_matched": "Stress detection using natural language processing and machine learning over social interactions",
+    "authors": [
+      "T Nijhawan",
+      "G Attigeri",
+      "T Ananthakrishna"
+    ],
+    "year": 2022,
+    "venue": "Journal of Big Data",
+    "cited_by": 239,
+    "landing_page_url": "https://link.springer.com/article/10.1186/s40537-022-00575-6",
+    "snippet": "… Once the data is ready, we build our machine learning model for sentiment analysis and\nemotion detection. These machine learning models predict sentiment or emotion. We use …",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1186/s40537-022-00575-6.pdf"
+  },
+  "pdf_file": null,
+  "pdf_url": "https://link.springer.com/content/pdf/10.1186/s40537-022-00575-6.pdf"
+}

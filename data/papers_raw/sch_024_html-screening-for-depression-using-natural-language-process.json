@@ -1,0 +1,31 @@
+{
+  "id": "sch-024",
+  "original": {
+    "paper_name": "[HTML] Screening for depression using natural language processing: literature review",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "depression detection natural language processing",
+  "scraped_at": "2026-09-22T11:19:18.459822+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "depression detection natural language processing",
+    "title_matched": "[HTML] Screening for depression using natural language processing: literature review",
+    "authors": [
+      "BG Teferra",
+      "A Rueda",
+      "H Pang",
+      "R Valenzano"
+    ],
+    "year": 2024,
+    "venue": "Interactive journal of …",
+    "cited_by": 81,
+    "landing_page_url": "https://www.i-jmr.org/2024/1/e55067/",
+    "snippet": "… of diagnosing and screening for depression primarily rely … natural language processing\n(NLP) to address the limitations of traditional methods in detecting and understanding depression …",
+    "pdf_url": "https://www.i-jmr.org/2024/1/e55067/"
+  },
+  "pdf_file": null,
+  "pdf_url": "https://www.i-jmr.org/2024/1/e55067/"
+}

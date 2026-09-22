@@ -1,0 +1,609 @@
+{
+  "scraped_at": "2026-09-22T11:05:01.532919+00:00",
+  "total": 60,
+  "ok": 57,
+  "miss": 3,
+  "pdf": 18,
+  "papers": [
+    {
+      "id": 1,
+      "site": "DBLP",
+      "title": "Towards Empathetic AI: Multimodal Emotion and Stress Detection in Real-Time Dialog Systems",
+      "found": true,
+      "method": "crossref-fallback",
+      "doi": "10.18653/v1/2024.yrrsds-1.22",
+      "pdf_file": null,
+      "json_file": "001_towards-empathetic-ai-multimodal-emotion-and-stress-detectio.json"
+    },
+    {
+      "id": 2,
+      "site": "Crossref",
+      "title": "Zero-Shot Stress Detection in Conversational Data using LLMs",
+      "found": true,
+      "method": "api",
+      "doi": "10.1016/j.procs.2026.01.081",
+      "pdf_file": null,
+      "json_file": "002_zero-shot-stress-detection-in-conversational-data-using-llms.json"
+    },
+    {
+      "id": 3,
+      "site": "OpenAlex",
+      "title": "To chat or bot to chat: Ethical issues with using chatbots in mental health",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.1177/20552076231183542",
+      "pdf_file": "003_to-chat-or-bot-to-chat-ethical-issues-with-using-chatbots-in.pdf",
+      "json_file": "003_to-chat-or-bot-to-chat-ethical-issues-with-using-chatbots-in.json"
+    },
+    {
+      "id": 4,
+      "site": "IEEE",
+      "title": "Deep Learning for Video-Based Stress Detection: A Comprehensive Review",
+      "found": true,
+      "method": "playwright-search",
+      "doi": null,
+      "pdf_file": null,
+      "json_file": "004_deep-learning-for-video-based-stress-detection-a-comprehensi.json"
+    },
+    {
+      "id": 5,
+      "site": "IEEE",
+      "title": "Unobtrusive Stress Prediction via Facial Micro-expressions and Deep Learning",
+      "found": true,
+      "method": "crossref-fallback",
+      "doi": "10.1109/mysurucon59703.2023.10396864",
+      "pdf_file": null,
+      "json_file": "005_unobtrusive-stress-prediction-via-facial-micro-expressions-a.json"
+    },
+    {
+      "id": 6,
+      "site": "IEEE",
+      "title": "Linguistic Markers of Stress in Clinical Text: A Transformer-based Analysis",
+      "found": true,
+      "method": "playwright-search",
+      "doi": "https://doi.org/10.1109/AIEI69164.2026.11497018",
+      "pdf_file": null,
+      "json_file": "006_linguistic-markers-of-stress-in-clinical-text-a-transformer.json"
+    },
+    {
+      "id": 7,
+      "site": "OpenAlex",
+      "title": "Generative Pre-Trained Transformer-Empowered Healthcare Conversations: Current Trends, Challenges, and Future Directions in Large Language Model-Enabled Medical Chatbots",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.3390/biomedinformatics4010047",
+      "pdf_file": "007_generative-pre-trained-transformer-empowered-healthcare-conv.pdf",
+      "json_file": "007_generative-pre-trained-transformer-empowered-healthcare-conv.json"
+    },
+    {
+      "id": 8,
+      "site": "OpenAlex",
+      "title": "Overview of Chatbots with special emphasis on artificial intelligence-enabled ChatGPT in medical science",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.3389/frai.2023.1237704",
+      "pdf_file": "008_overview-of-chatbots-with-special-emphasis-on-artificial-int.pdf",
+      "json_file": "008_overview-of-chatbots-with-special-emphasis-on-artificial-int.json"
+    },
+    {
+      "id": 9,
+      "site": "OpenAlex",
+      "title": "Chatbots and mental health: a scoping review of reviews",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.1016/j.ijmedinf.2019.103978",
+      "pdf_file": null,
+      "json_file": "009_chatbots-and-mental-health-a-scoping-review-of-reviews.json"
+    },
+    {
+      "id": 10,
+      "site": "OpenAlex",
+      "title": "Expert and Interdisciplinary Analysis of AI-Driven Chatbots for Mental Health Support: Mixed Methods Study",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.2196/67114",
+      "pdf_file": null,
+      "json_file": "010_expert-and-interdisciplinary-analysis-of-ai-driven-chatbots.json"
+    },
+    {
+      "id": 11,
+      "site": "OpenAlex",
+      "title": "Finding love in algorithms: deciphering the emotional contexts of close encounters with AI chatbots",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.1093/jcmc/zmae015",
+      "pdf_file": null,
+      "json_file": "011_finding-love-in-algorithms-deciphering-the-emotional-context.json"
+    },
+    {
+      "id": 12,
+      "site": "OpenAlex",
+      "title": "Chatbots for Well-Being: Exploring the Impact of Artificial Intelligence on Mood Enhancement and Mental Health",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.1192/j.eurpsy.2024.1143",
+      "pdf_file": "012_chatbots-for-well-being-exploring-the-impact-of-artificial-i.pdf",
+      "json_file": "012_chatbots-for-well-being-exploring-the-impact-of-artificial-i.json"
+    },
+    {
+      "id": 13,
+      "site": "OpenAlex",
+      "title": "Harnessing AI in Anxiety Management: A Chatbot-Based Intervention for Personalized Mental Health Support",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.3390/info15120768",
+      "pdf_file": null,
+      "json_file": "013_harnessing-ai-in-anxiety-management-a-chatbot-based-interven.json"
+    },
+    {
+      "id": 14,
+      "site": "IEEE",
+      "title": "Conversational AI for Mental Stress Prediction using Pre-trained Language Models",
+      "found": true,
+      "method": "playwright-search",
+      "doi": "https://doi.org/10.1109/ICICNIS66685.2025.11315598",
+      "pdf_file": null,
+      "json_file": "014_conversational-ai-for-mental-stress-prediction-using-pre-tra.json"
+    },
+    {
+      "id": 15,
+      "site": "OpenAlex",
+      "title": "An Overview of Chatbot-Based Mobile Mental Health Apps: Insights From App Description and User Reviews",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.2196/44838",
+      "pdf_file": null,
+      "json_file": "015_an-overview-of-chatbot-based-mobile-mental-health-apps-insig.json"
+    },
+    {
+      "id": 16,
+      "site": "OpenAlex",
+      "title": "Systematic review and meta-analysis of AI-based conversational agents for promoting mental health and well-being",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.1038/s41746-023-00979-5",
+      "pdf_file": "016_systematic-review-and-meta-analysis-of-ai-based-conversation.pdf",
+      "json_file": "016_systematic-review-and-meta-analysis-of-ai-based-conversation.json"
+    },
+    {
+      "id": 17,
+      "site": "OpenAlex",
+      "title": "A chatbot for mental health support: exploring the impact of Emohaa on reducing mental distress in China",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.3389/fdgth.2023.1133987",
+      "pdf_file": "017_a-chatbot-for-mental-health-support-exploring-the-impact-of.pdf",
+      "json_file": "017_a-chatbot-for-mental-health-support-exploring-the-impact-of.json"
+    },
+    {
+      "id": 18,
+      "site": "OpenAlex",
+      "title": "The Potential of Chatbots for Emotional Support and Promoting Mental Well-Being in Different Cultures: Mixed Methods Study",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.2196/51712",
+      "pdf_file": null,
+      "json_file": "018_the-potential-of-chatbots-for-emotional-support-and-promotin.json"
+    },
+    {
+      "id": 19,
+      "site": "OpenAlex",
+      "title": "Empathy-Based communication Framework for Chatbots: A Mental Health Chatbot Application and Evaluation",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.1145/3623809.3623865",
+      "pdf_file": null,
+      "json_file": "019_empathy-based-communication-framework-for-chatbots-a-mental.json"
+    },
+    {
+      "id": 20,
+      "site": "OpenAlex",
+      "title": "Emotion-Aware Chatbot with Cultural Adaptation for Mitigating Work-Related Stress",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.1145/3604571.3604578",
+      "pdf_file": null,
+      "json_file": "020_emotion-aware-chatbot-with-cultural-adaptation-for-mitigatin.json"
+    },
+    {
+      "id": 21,
+      "site": "Crossref",
+      "title": "A Spatiotemporal Attention Model for Video-Based Stress Detection",
+      "found": true,
+      "method": "api",
+      "doi": "10.1007/s11760-024-03152-x",
+      "pdf_file": null,
+      "json_file": "021_a-spatiotemporal-attention-model-for-video-based-stress-dete.json"
+    },
+    {
+      "id": 22,
+      "site": "IEEE",
+      "title": "Speech Emotion Recognition for Continuous Stress Monitoring",
+      "found": true,
+      "method": "playwright-search",
+      "doi": "https://doi.org/10.1109/ICMLT69916.2026.11689292",
+      "pdf_file": null,
+      "json_file": "022_speech-emotion-recognition-for-continuous-stress-monitoring.json"
+    },
+    {
+      "id": 23,
+      "site": "IEEE",
+      "title": "Deep Multimodal Learning for Continuous Stress Detection in Naturalistic Conversations",
+      "found": false,
+      "method": "playwright-search",
+      "doi": "https://doi.org/10.1038/s41597-020-00630-y",
+      "pdf_file": null,
+      "json_file": "023_deep-multimodal-learning-for-continuous-stress-detection-in.json"
+    },
+    {
+      "id": 24,
+      "site": "OpenAlex",
+      "title": "Action Unit based Facial Stress Recognition in Remote Learning Environments",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.1007/s11042-020-09004-3",
+      "pdf_file": null,
+      "json_file": "024_action-unit-based-facial-stress-recognition-in-remote-learni.json"
+    },
+    {
+      "id": 25,
+      "site": "Crossref",
+      "title": "Acoustic Features for Real-Time Stress Classification in Telehealth",
+      "found": true,
+      "method": "api",
+      "doi": "10.1109/icit.2013.6505829",
+      "pdf_file": null,
+      "json_file": "025_acoustic-features-for-real-time-stress-classification-in-tel.json"
+    },
+    {
+      "id": 26,
+      "site": "DBLP",
+      "title": "Multimodal Fusion of Facial, Speech, and Text Features for Robust Stress Prediction",
+      "found": false,
+      "method": "api",
+      "doi": null,
+      "pdf_file": null,
+      "json_file": "026_multimodal-fusion-of-facial-speech-and-text-features-for-rob.json"
+    },
+    {
+      "id": 27,
+      "site": "Crossref",
+      "title": "Temporal Alignment of Multimodal Streams for Enhancing Mental Stress Classification",
+      "found": true,
+      "method": "api",
+      "doi": "10.1007/978-3-032-19108-3_29",
+      "pdf_file": null,
+      "json_file": "027_temporal-alignment-of-multimodal-streams-for-enhancing-menta.json"
+    },
+    {
+      "id": 28,
+      "site": "DBLP",
+      "title": "Real-Time Facial Expression Recognition for Stress Prediction using CNNs",
+      "found": true,
+      "method": "crossref-fallback",
+      "doi": "10.1201/9781003269793-46",
+      "pdf_file": null,
+      "json_file": "028_real-time-facial-expression-recognition-for-stress-predictio.json"
+    },
+    {
+      "id": 29,
+      "site": "OpenAlex",
+      "title": "End-to-End Voice-Based Stress Prediction using Wav2Vec 2.0",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.1007/s11042-022-13363-4",
+      "pdf_file": null,
+      "json_file": "029_end-to-end-voice-based-stress-prediction-using-wav2vec-2-0.json"
+    },
+    {
+      "id": 30,
+      "site": "DBLP",
+      "title": "Cross-Corpus Speech Emotion Recognition for Mental Stress Detection",
+      "found": false,
+      "method": "api",
+      "doi": null,
+      "pdf_file": null,
+      "json_file": "030_cross-corpus-speech-emotion-recognition-for-mental-stress-de.json"
+    },
+    {
+      "id": 31,
+      "site": "OpenAlex",
+      "title": "A Unified Framework for Multimodal Stress Recognition using Audiovisual and Textual Cues",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.3390/biomimetics10070418",
+      "pdf_file": null,
+      "json_file": "031_a-unified-framework-for-multimodal-stress-recognition-using.json"
+    },
+    {
+      "id": 32,
+      "site": "OpenAlex",
+      "title": "nBERT: Harnessing NLP for Emotion Recognition in Psychotherapy to Transform Mental Health Care",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.3390/info16040301",
+      "pdf_file": null,
+      "json_file": "032_nbert-harnessing-nlp-for-emotion-recognition-in-psychotherap.json"
+    },
+    {
+      "id": 33,
+      "site": "OpenAlex",
+      "title": "A scoping review of large language models for generative tasks in mental health care",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.1038/s41746-025-01611-4",
+      "pdf_file": "033_a-scoping-review-of-large-language-models-for-generative-tas.pdf",
+      "json_file": "033_a-scoping-review-of-large-language-models-for-generative-tas.json"
+    },
+    {
+      "id": 34,
+      "site": "OpenAlex",
+      "title": "The Applications of Large Language Models in Mental Health: Scoping Review",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.2196/69284",
+      "pdf_file": null,
+      "json_file": "034_the-applications-of-large-language-models-in-mental-health-s.json"
+    },
+    {
+      "id": 35,
+      "site": "OpenAlex",
+      "title": "Real-Time NLP Pipeline for Stress Classification in Text Messaging",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.15439/2019f197",
+      "pdf_file": null,
+      "json_file": "035_real-time-nlp-pipeline-for-stress-classification-in-text-mes.json"
+    },
+    {
+      "id": 36,
+      "site": "OpenAlex",
+      "title": "Large Language Models for Mental Health Applications: Systematic Review",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.2196/57400",
+      "pdf_file": null,
+      "json_file": "036_large-language-models-for-mental-health-applications-systema.json"
+    },
+    {
+      "id": 37,
+      "site": "DBLP",
+      "title": "Vocal Biomarkers for Stress Detection: A Deep Learning Approach",
+      "found": true,
+      "method": "crossref-fallback",
+      "doi": "10.30773/pi.2024.0131",
+      "pdf_file": "037_vocal-biomarkers-for-stress-detection-a-deep-learning-approa.pdf",
+      "json_file": "037_vocal-biomarkers-for-stress-detection-a-deep-learning-approa.json"
+    },
+    {
+      "id": 38,
+      "site": "OpenAlex",
+      "title": "Natural language processing for mental health interventions: a systematic review and research framework",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.1038/s41398-023-02592-2",
+      "pdf_file": "038_natural-language-processing-for-mental-health-interventions.pdf",
+      "json_file": "038_natural-language-processing-for-mental-health-interventions.json"
+    },
+    {
+      "id": 39,
+      "site": "OpenAlex",
+      "title": "Capacity of Generative AI to Interpret Human Emotions From Visual and Textual Data: Pilot Evaluation Study",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.2196/54369",
+      "pdf_file": null,
+      "json_file": "039_capacity-of-generative-ai-to-interpret-human-emotions-from-v.json"
+    },
+    {
+      "id": 40,
+      "site": "DBLP",
+      "title": "Text-based Stress Detection on Social Media utilizing BERT and Graph Neural Networks",
+      "found": true,
+      "method": "crossref-fallback",
+      "doi": "10.1109/aisp68263.2025.11396302",
+      "pdf_file": null,
+      "json_file": "040_text-based-stress-detection-on-social-media-utilizing-bert-a.json"
+    },
+    {
+      "id": 41,
+      "site": "OpenAlex",
+      "title": "A Scoping Review of AI-Driven Digital Interventions in Mental Health Care: Mapping Applications Across Screening, Support, Monitoring, Prevention, and Clinical Education",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.3390/healthcare13101205",
+      "pdf_file": "041_a-scoping-review-of-ai-driven-digital-interventions-in-menta.pdf",
+      "json_file": "041_a-scoping-review-of-ai-driven-digital-interventions-in-menta.json"
+    },
+    {
+      "id": 42,
+      "site": "OpenAlex",
+      "title": "Toward explainable AI (XAI) for mental health detection based on language behavior",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.3389/fpsyt.2023.1219479",
+      "pdf_file": null,
+      "json_file": "042_toward-explainable-ai-xai-for-mental-health-detection-based.json"
+    },
+    {
+      "id": 43,
+      "site": "OpenAlex",
+      "title": "Revolutionizing e-health: the transformative role of AI-powered hybrid chatbots in healthcare solutions",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.3389/fpubh.2025.1530799",
+      "pdf_file": "043_revolutionizing-e-health-the-transformative-role-of-ai-power.pdf",
+      "json_file": "043_revolutionizing-e-health-the-transformative-role-of-ai-power.json"
+    },
+    {
+      "id": 44,
+      "site": "OpenAlex",
+      "title": "AI Chatbots and Cognitive Control: Enhancing Executive Functions Through Chatbot Interactions: A Systematic Review",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.3390/brainsci15010047",
+      "pdf_file": null,
+      "json_file": "044_ai-chatbots-and-cognitive-control-enhancing-executive-functi.json"
+    },
+    {
+      "id": 45,
+      "site": "OpenAlex",
+      "title": "A systematic review of artificial intelligence-powered (AI-powered) chatbot intervention for managing chronic illness",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.1080/07853890.2024.2302980",
+      "pdf_file": "045_a-systematic-review-of-artificial-intelligence-powered-ai-po.pdf",
+      "json_file": "045_a-systematic-review-of-artificial-intelligence-powered-ai-po.json"
+    },
+    {
+      "id": 46,
+      "site": "OpenAlex",
+      "title": "The Effects of Artificial Intelligence Chatbots on Women’s Health: A Systematic Review and Meta-Analysis",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.3390/healthcare12050534",
+      "pdf_file": null,
+      "json_file": "046_the-effects-of-artificial-intelligence-chatbots-on-women-s-h.json"
+    },
+    {
+      "id": 47,
+      "site": "OpenAlex",
+      "title": "Systematic review and meta-analysis of the effectiveness of chatbots on lifestyle behaviours",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.1038/s41746-023-00856-1",
+      "pdf_file": "047_systematic-review-and-meta-analysis-of-the-effectiveness-of.pdf",
+      "json_file": "047_systematic-review-and-meta-analysis-of-the-effectiveness-of.json"
+    },
+    {
+      "id": 48,
+      "site": "OpenAlex",
+      "title": "AI-based chatbots in conversational commerce and their effects on product and price perceptions",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.1007/s12525-023-00633-8",
+      "pdf_file": null,
+      "json_file": "048_ai-based-chatbots-in-conversational-commerce-and-their-effec.json"
+    },
+    {
+      "id": 49,
+      "site": "OpenAlex",
+      "title": "Powering an AI Chatbot with Expert Sourcing to Support Credible Health Information Access",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.1145/3581641.3584031",
+      "pdf_file": null,
+      "json_file": "049_powering-an-ai-chatbot-with-expert-sourcing-to-support-credi.json"
+    },
+    {
+      "id": 50,
+      "site": "OpenAlex",
+      "title": "Artificial Intelligence Enabled Mobile Chatbot Psychologist using AIML and Cognitive Behavioral Therapy",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.14569/ijacsa.2023.0140616",
+      "pdf_file": "050_artificial-intelligence-enabled-mobile-chatbot-psychologist.pdf",
+      "json_file": "050_artificial-intelligence-enabled-mobile-chatbot-psychologist.json"
+    },
+    {
+      "id": 51,
+      "site": "OpenAlex",
+      "title": "Mental-LLM",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.1145/3643540",
+      "pdf_file": null,
+      "json_file": "051_mental-llm.json"
+    },
+    {
+      "id": 52,
+      "site": "OpenAlex",
+      "title": "ChatGPT: Bullshit spewer or the end of traditional assessments in higher education?",
+      "found": true,
+      "method": "crossref-fallback",
+      "doi": "10.37074/jalt.2023.6.1.9",
+      "pdf_file": null,
+      "json_file": "052_chatgpt-bullshit-spewer-or-the-end-of-traditional-assessment.json"
+    },
+    {
+      "id": 53,
+      "site": "OpenAlex",
+      "title": "Artificial intelligence in mental health care: a systematic review of diagnosis, monitoring, and intervention applications",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.1017/s0033291724003295",
+      "pdf_file": "053_artificial-intelligence-in-mental-health-care-a-systematic-r.pdf",
+      "json_file": "053_artificial-intelligence-in-mental-health-care-a-systematic-r.json"
+    },
+    {
+      "id": 54,
+      "site": "OpenAlex",
+      "title": "AI in the Classroom: Insights from Educators on Usage, Challenges, and Mental Health",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.3390/educsci15020113",
+      "pdf_file": null,
+      "json_file": "054_ai-in-the-classroom-insights-from-educators-on-usage-challen.json"
+    },
+    {
+      "id": 55,
+      "site": "OpenAlex",
+      "title": "Enhancing mental health with Artificial Intelligence: Current trends and future prospects",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.1016/j.glmedi.2024.100099",
+      "pdf_file": "055_enhancing-mental-health-with-artificial-intelligence-current.pdf",
+      "json_file": "055_enhancing-mental-health-with-artificial-intelligence-current.json"
+    },
+    {
+      "id": 56,
+      "site": "OpenAlex",
+      "title": "Artificial intelligence in positive mental health: a narrative review",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.3389/fdgth.2024.1280235",
+      "pdf_file": "056_artificial-intelligence-in-positive-mental-health-a-narrativ.pdf",
+      "json_file": "056_artificial-intelligence-in-positive-mental-health-a-narrativ.json"
+    },
+    {
+      "id": 57,
+      "site": "OpenAlex",
+      "title": "Can AI replace psychotherapists? Exploring the future of mental health care",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.3389/fpsyt.2024.1444382",
+      "pdf_file": "057_can-ai-replace-psychotherapists-exploring-the-future-of-ment.pdf",
+      "json_file": "057_can-ai-replace-psychotherapists-exploring-the-future-of-ment.json"
+    },
+    {
+      "id": 58,
+      "site": "OpenAlex",
+      "title": "Advances in the use of virtual reality to treat mental health conditions",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.1038/s44159-024-00334-9",
+      "pdf_file": null,
+      "json_file": "058_advances-in-the-use-of-virtual-reality-to-treat-mental-healt.json"
+    },
+    {
+      "id": 59,
+      "site": "OpenAlex",
+      "title": "War, emotions, mental health, and artificial intelligence",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.3389/fpsyg.2024.1394045",
+      "pdf_file": null,
+      "json_file": "059_war-emotions-mental-health-and-artificial-intelligence.json"
+    },
+    {
+      "id": 60,
+      "site": "OpenAlex",
+      "title": "Artificial Intelligence in Nursing: Technological Benefits to Nurse’s Mental Health and Patient Care Quality",
+      "found": true,
+      "method": "api",
+      "doi": "https://doi.org/10.2196/23933",
+      "pdf_file": null,
+      "json_file": "060_artificial-intelligence-in-nursing-technological-benefits-to.json"
+    }
+  ]
+}

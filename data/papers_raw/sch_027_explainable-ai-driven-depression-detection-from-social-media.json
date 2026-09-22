@@ -1,0 +1,31 @@
+{
+  "id": "sch-027",
+  "original": {
+    "paper_name": "Explainable AI-driven depression detection from social media using natural language processing and black box machine learning models",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "depression detection natural language processing",
+  "scraped_at": "2026-09-22T11:19:28.236188+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "depression detection natural language processing",
+    "title_matched": "Explainable AI-driven depression detection from social media using natural language processing and black box machine learning models",
+    "authors": [
+      "S Hameed",
+      "M Nauman",
+      "N Akhtar"
+    ],
+    "year": 2025,
+    "venue": "Frontiers in Artificial …",
+    "cited_by": 47,
+    "landing_page_url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1627078/full",
+    "snippet": "… predictions in the depression detection context. • … nature of depression-related social media\nposts. • The research connected linguistic patterns highlighted by LIME to known depression-…",
+    "pdf_url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1627078/pdf"
+  },
+  "pdf_file": "sch_027_explainable-ai-driven-depression-detection-from-social-media.pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1627078/pdf",
+  "pdf_verified": true
+}

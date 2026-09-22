@@ -1,0 +1,56 @@
+{
+  "id": 4,
+  "original": {
+    "paper_name": "Deep Learning for Video-Based Stress Detection: A Comprehensive Review",
+    "site": "IEEE",
+    "venue_of_publication": "IEEE Access",
+    "year": 2024,
+    "researcher_info": "S. Wang, Y. Zhang, et al.",
+    "id": 4
+  },
+  "site": "IEEE",
+  "scraped_at": "2026-09-22T10:57:21.765715+00:00",
+  "fetched": {
+    "found": true,
+    "site": "IEEE",
+    "query": "Deep Learning for Video-Based Stress Detection: A Comprehensive Review",
+    "method": "playwright-search",
+    "search_url": "https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=Deep%20Learning%20for%20Video-Based%20Stress%20Detection%3A%20A%20Comprehensive%20Review&highlight=true&returnType=SEARCH&matchPubs=true&rowsPerPage=10",
+    "title_matched": "Facial Emotion Recognition for Distress and Depression Prediction: A Comprehensive Literature Review",
+    "authors_raw": "Aarav Govil;\nGarima Bohra; Aarav Govil;Garima Bohra",
+    "meta_snippet": "Facial Emotion Recognition for Distress and Depression Prediction: A Comprehensive Literature Review\n\nAarav Govil;\nGarima Bohra\n\n2026 International Conference on Intelligent Systems in Engineering, Secured Systems and Cybersecurity (ICISESSC)\nYear: 2026 | Conference Paper | Publisher: IEEE\nAbstract\nHTML",
+    "document_url": "https://ieeexplore.ieee.org/document/11542799/",
+    "article_number": "11542799",
+    "doi": null,
+    "abstract": null,
+    "candidates": [
+      {
+        "title": "Facial Emotion Recognition for Distress and Depression Prediction: A Comprehensive Literature Review",
+        "href": "https://ieeexplore.ieee.org/document/11542799/",
+        "authors": "Aarav Govil;\nGarima Bohra; Aarav Govil;Garima Bohra",
+        "meta": "Facial Emotion Recognition for Distress and Depression Prediction: A Comprehensive Literature Review\n\nAarav Govil;\nGarima Bohra\n\n2026 International Conference on Intelligent Systems in Engineering, Secured Systems and Cybersecurity (ICISESSC)\nYear: 2026 | Conference Paper | Publisher: IEEE\nAbstract\nHTML"
+      },
+      {
+        "title": "Facial Emotion Recognition for Distress and Depression Prediction: A Comprehensive Literature Review",
+        "href": "https://ieeexplore.ieee.org/document/11542799/",
+        "authors": "Aarav Govil;\nGarima Bohra",
+        "meta": "Facial Emotion Recognition for Distress and Depression Prediction: A Comprehensive Literature Review\n\nAarav Govil;\nGarima Bohra\n\n2026 International Conference on Intelligent Systems in Engineering, Secured Systems and Cybersecurity (ICISESSC)\nYear: 2026 | Conference Paper | Publisher: IEEE"
+      },
+      {
+        "title": "",
+        "href": null,
+        "authors": "",
+        "meta": ""
+      }
+    ],
+    "pdf_url": null,
+    "oa_landing_page_url": null
+  },
+  "pdf_file": null,
+  "pdf_url": null,
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

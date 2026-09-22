@@ -1,0 +1,1766 @@
+{
+  "id": 44,
+  "original": {
+    "id": 44,
+    "paper_name": "AI Chatbots and Cognitive Control: Enhancing Executive Functions Through Chatbot Interactions: A Systematic Review",
+    "site": "OpenAlex",
+    "venue_of_publication": "Brain Sciences",
+    "year": 2025,
+    "researcher_info": "Pantelis Pergantis, Victoria Bamicha et al."
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T11:02:49.089777+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "AI Chatbots and Cognitive Control: Enhancing Executive Functions Through Chatbot Interactions: A Systematic Review",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W4406088120",
+    "doi": "https://doi.org/10.3390/brainsci15010047",
+    "title_matched": "AI Chatbots and Cognitive Control: Enhancing Executive Functions Through Chatbot Interactions: A Systematic Review",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2025,
+    "venue": "Brain Sciences",
+    "authors": [
+      "Pantelis Pergantis",
+      "Victoria Bamicha",
+      "Charalampos Skianis",
+      "Athanasios S. Drigas"
+    ],
+    "abstract": "Background/Objectives: The evolution of digital technology enhances the broadening of a person’s intellectual growth. Research points out that implementing innovative applications of the digital world improves human social, cognitive, and metacognitive behavior. Artificial intelligence chatbots are yet another innovative human-made construct. These are forms of software that simulate human conversation, understand and process user input, and provide personalized responses. Executive function includes a set of higher mental processes necessary for formulating, planning, and achieving a goal. The present study aims to investigate executive function reinforcement through artificial intelligence chatbots, outlining potentials, limitations, and future research suggestions. Specifically, the study examined three research questions: the use of conversational chatbots in executive functioning training, their impact on executive-cognitive skills, and the duration of any improvements. Methods: The assessment of the existing literature was implemented using the systematic review method, according to the PRISMA 2020 Principles. The avalanche search method was employed to conduct a source search in the following databases: Scopus, Web of Science, PubMed, and complementary Google Scholar. This systematic review included studies from 2021 to the present using experimental, observational, or mixed methods. It included studies using AI-based chatbots or conversationalists to support executive functions, such as anxiety, stress, depression, memory, attention, cognitive load, and behavioral changes. In addition, this study included general populations with specific neurological conditions, all peer-reviewed, written in English, and with full-text access. However, the study excluded studies before 2021, the literature reviews, systematic reviews, non-AI-based chatbots or conversationalists, studies not targeting the range of executive skills and abilities, studies not written in English, and studies without open access. The criteria aligned with the study objectives, ensuring a focus on AI chatbots and the impact of conversational agents on executive function. The initial collection totaled n = 115 articles; however, the eligibility requirements led to the final selection of n = 10 studies. Results: The findings of the studies suggested positive effects of using AI chatbots to enhance and improve executive skills. Although, several limitations were identified, making it still difficult to generalize and reproduce their effects. Conclusions: AI chatbots are an innovative artificial intelligence tool that can function as a digital assistant for learning and expanding executive skills, contributing to the cognitive, metacognitive, and social development of the individual. However, its use in executive skills training is at a primary stage. The findings highlighted the need for a unified framework for reference and future studies, better study designs, diverse populations, larger sample sizes of participants, and longitudinal studies that observe the long-term effects of their use.",
+    "cited_by_count": 51,
+    "is_oa": true,
+    "pdf_url": "https://www.mdpi.com/2076-3425/15/1/47/pdf?version=1736137601",
+    "pdf_candidates": [
+      "https://www.mdpi.com/2076-3425/15/1/47/pdf?version=1736137601",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11764365/pdf/brainsci-15-00047.pdf"
+    ],
+    "landing_page_url": "https://doi.org/10.3390/brainsci15010047",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W4406088120",
+      "doi": "https://doi.org/10.3390/brainsci15010047",
+      "title": "AI Chatbots and Cognitive Control: Enhancing Executive Functions Through Chatbot Interactions: A Systematic Review",
+      "display_name": "AI Chatbots and Cognitive Control: Enhancing Executive Functions Through Chatbot Interactions: A Systematic Review",
+      "relevance_score": 3112.6301,
+      "publication_year": 2025,
+      "publication_date": "2025-01-06",
+      "ids": {
+        "openalex": "https://openalex.org/W4406088120",
+        "doi": "https://doi.org/10.3390/brainsci15010047",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/39851415"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3390/brainsci15010047",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/brainsci15010047",
+        "pdf_url": "https://www.mdpi.com/2076-3425/15/1/47/pdf?version=1736137601",
+        "source": {
+          "id": "https://openalex.org/S122317144",
+          "display_name": "Brain Sciences",
+          "issn_l": "2076-3425",
+          "issn": [
+            "2076-3425"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Brain Sciences",
+        "raw_type": "journal-article"
+      },
+      "type": "review",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2076-3425/15/1/47/pdf?version=1736137601",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5091987556",
+            "display_name": "Pantelis Pergantis",
+            "orcid": "https://orcid.org/0009-0003-7788-9338"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I203474044",
+              "display_name": "National Centre of Scientific Research \"Demokritos\"",
+              "ror": "https://ror.org/038jp4m40",
+              "country_code": "GR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I203474044"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I98805295",
+              "display_name": "University of the Aegean",
+              "ror": "https://ror.org/03zsp3p94",
+              "country_code": "GR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98805295"
+              ]
+            }
+          ],
+          "countries": [
+            "GR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Pantelis Pergantis",
+          "raw_affiliation_strings": [
+            "Department of Information & Communication Systems Engineering, University of the Aegean, 832 00 Karlovasi, Greece",
+            "Net Media Lab & Mind & Brain R&D, Institute of Informatics & Telecommunications, National Centre of Scientific Research ‘Demokritos’, 153 41 Agia Paraskevi, Greece",
+            "Net Media Lab & Mind & Brain R&D, Institute of Informatics & Telecommunications, National Centre of Scientific Research 'Demokritos', 153 41 Agia Paraskevi, Greece"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0003-7788-9338",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Information & Communication Systems Engineering, University of the Aegean, 832 00 Karlovasi, Greece",
+              "institution_ids": [
+                "https://openalex.org/I98805295"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Net Media Lab & Mind & Brain R&D, Institute of Informatics & Telecommunications, National Centre of Scientific Research ‘Demokritos’, 153 41 Agia Paraskevi, Greece",
+              "institution_ids": [
+                "https://openalex.org/I203474044"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Net Media Lab & Mind & Brain R&D, Institute of Informatics & Telecommunications, National Centre of Scientific Research 'Demokritos', 153 41 Agia Paraskevi, Greece",
+              "institution_ids": [
+                "https://openalex.org/I203474044"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5032197352",
+            "display_name": "Victoria Bamicha",
+            "orcid": "https://orcid.org/0000-0003-0113-2550"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I203474044",
+              "display_name": "National Centre of Scientific Research \"Demokritos\"",
+              "ror": "https://ror.org/038jp4m40",
+              "country_code": "GR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I203474044"
+              ]
+            }
+          ],
+          "countries": [
+            "GR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Victoria Bamicha",
+          "raw_affiliation_strings": [
+            "Net Media Lab & Mind & Brain R&D, Institute of Informatics & Telecommunications, National Centre of Scientific Research ‘Demokritos’, 153 41 Agia Paraskevi, Greece",
+            "Net Media Lab & Mind & Brain R&D, Institute of Informatics & Telecommunications, National Centre of Scientific Research 'Demokritos', 153 41 Agia Paraskevi, Greece"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-0113-2550",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Net Media Lab & Mind & Brain R&D, Institute of Informatics & Telecommunications, National Centre of Scientific Research ‘Demokritos’, 153 41 Agia Paraskevi, Greece",
+              "institution_ids": [
+                "https://openalex.org/I203474044"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Net Media Lab & Mind & Brain R&D, Institute of Informatics & Telecommunications, National Centre of Scientific Research 'Demokritos', 153 41 Agia Paraskevi, Greece",
+              "institution_ids": [
+                "https://openalex.org/I203474044"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5109845278",
+            "display_name": "Charalampos Skianis",
+            "orcid": "https://orcid.org/0000-0001-9178-4418"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I98805295",
+              "display_name": "University of the Aegean",
+              "ror": "https://ror.org/03zsp3p94",
+              "country_code": "GR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98805295"
+              ]
+            }
+          ],
+          "countries": [
+            "GR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Charalampos Skianis",
+          "raw_affiliation_strings": [
+            "Department of Information & Communication Systems Engineering, University of the Aegean, 832 00 Karlovasi, Greece"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Information & Communication Systems Engineering, University of the Aegean, 832 00 Karlovasi, Greece",
+              "institution_ids": [
+                "https://openalex.org/I98805295"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5079688616",
+            "display_name": "Athanasios S. Drigas",
+            "orcid": "https://orcid.org/0000-0001-5637-9601"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I203474044",
+              "display_name": "National Centre of Scientific Research \"Demokritos\"",
+              "ror": "https://ror.org/038jp4m40",
+              "country_code": "GR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I203474044"
+              ]
+            }
+          ],
+          "countries": [
+            "GR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Athanasios Drigas",
+          "raw_affiliation_strings": [
+            "Net Media Lab & Mind & Brain R&D, Institute of Informatics & Telecommunications, National Centre of Scientific Research ‘Demokritos’, 153 41 Agia Paraskevi, Greece",
+            "Net Media Lab & Mind & Brain R&D, Institute of Informatics & Telecommunications, National Centre of Scientific Research 'Demokritos', 153 41 Agia Paraskevi, Greece"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-5637-9601",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Net Media Lab & Mind & Brain R&D, Institute of Informatics & Telecommunications, National Centre of Scientific Research ‘Demokritos’, 153 41 Agia Paraskevi, Greece",
+              "institution_ids": [
+                "https://openalex.org/I203474044"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Net Media Lab & Mind & Brain R&D, Institute of Informatics & Telecommunications, National Centre of Scientific Research 'Demokritos', 153 41 Agia Paraskevi, Greece",
+              "institution_ids": [
+                "https://openalex.org/I203474044"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5079688616",
+        "https://openalex.org/A5091987556"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I203474044",
+        "https://openalex.org/I98805295"
+      ],
+      "apc_list": {
+        "value": 2200,
+        "currency": "CHF",
+        "value_usd": 2654
+      },
+      "apc_paid": {
+        "value": 2200,
+        "currency": "CHF",
+        "value_usd": 2654
+      },
+      "fwci": 11.0605,
+      "has_fulltext": true,
+      "cited_by_count": 51,
+      "citation_normalized_percentile": {
+        "value": 0.99428571,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 99,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "15",
+        "issue": "1",
+        "first_page": "47",
+        "last_page": "47"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13219",
+        "display_name": "Mind wandering and attention",
+        "score": 0.9937000274658203,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2805",
+          "display_name": "Cognitive Neuroscience"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/28",
+          "display_name": "Neuroscience"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13219",
+          "display_name": "Mind wandering and attention",
+          "score": 0.9937000274658203,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2805",
+            "display_name": "Cognitive Neuroscience"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/28",
+            "display_name": "Neuroscience"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/1",
+            "display_name": "Life Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12128",
+          "display_name": "AI in Service Interactions",
+          "score": 0.9800000190734863,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10042",
+          "display_name": "Neural and Behavioral Psychology Studies",
+          "score": 0.9689000248908997,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2805",
+            "display_name": "Cognitive Neuroscience"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/28",
+            "display_name": "Neuroscience"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/1",
+            "display_name": "Life Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/chatbot",
+          "display_name": "Chatbot",
+          "score": 0.8468489050865173
+        },
+        {
+          "id": "https://openalex.org/keywords/cognition",
+          "display_name": "Cognition",
+          "score": 0.6258327960968018
+        },
+        {
+          "id": "https://openalex.org/keywords/executive-functions",
+          "display_name": "Executive functions",
+          "score": 0.5707956552505493
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.4942648410797119
+        },
+        {
+          "id": "https://openalex.org/keywords/control",
+          "display_name": "Control (management)",
+          "score": 0.473602294921875
+        },
+        {
+          "id": "https://openalex.org/keywords/cognitive-psychology",
+          "display_name": "Cognitive psychology",
+          "score": 0.40138667821884155
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.3829999566078186
+        },
+        {
+          "id": "https://openalex.org/keywords/cognitive-science",
+          "display_name": "Cognitive science",
+          "score": 0.36767661571502686
+        },
+        {
+          "id": "https://openalex.org/keywords/neuroscience",
+          "display_name": "Neuroscience",
+          "score": 0.2648302912712097
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.20636799931526184
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2779041454",
+          "wikidata": "https://www.wikidata.org/wiki/Q870780",
+          "display_name": "Chatbot",
+          "level": 2,
+          "score": 0.8468489050865173
+        },
+        {
+          "id": "https://openalex.org/C169900460",
+          "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+          "display_name": "Cognition",
+          "level": 2,
+          "score": 0.6258327960968018
+        },
+        {
+          "id": "https://openalex.org/C2775968953",
+          "wikidata": "https://www.wikidata.org/wiki/Q783092",
+          "display_name": "Executive functions",
+          "level": 3,
+          "score": 0.5707956552505493
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.4942648410797119
+        },
+        {
+          "id": "https://openalex.org/C2775924081",
+          "wikidata": "https://www.wikidata.org/wiki/Q55608371",
+          "display_name": "Control (management)",
+          "level": 2,
+          "score": 0.473602294921875
+        },
+        {
+          "id": "https://openalex.org/C180747234",
+          "wikidata": "https://www.wikidata.org/wiki/Q23373",
+          "display_name": "Cognitive psychology",
+          "level": 1,
+          "score": 0.40138667821884155
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.3829999566078186
+        },
+        {
+          "id": "https://openalex.org/C188147891",
+          "wikidata": "https://www.wikidata.org/wiki/Q147638",
+          "display_name": "Cognitive science",
+          "level": 1,
+          "score": 0.36767661571502686
+        },
+        {
+          "id": "https://openalex.org/C169760540",
+          "wikidata": "https://www.wikidata.org/wiki/Q207011",
+          "display_name": "Neuroscience",
+          "level": 1,
+          "score": 0.2648302912712097
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.20636799931526184
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.3390/brainsci15010047",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3390/brainsci15010047",
+          "pdf_url": "https://www.mdpi.com/2076-3425/15/1/47/pdf?version=1736137601",
+          "source": {
+            "id": "https://openalex.org/S122317144",
+            "display_name": "Brain Sciences",
+            "issn_l": "2076-3425",
+            "issn": [
+              "2076-3425"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310310987",
+            "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310310987"
+            ],
+            "host_organization_lineage_names": [
+              "Multidisciplinary Digital Publishing Institute"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Brain Sciences",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:39851415",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39851415",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Brain sciences",
+          "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:11764365",
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11764365",
+          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11764365/pdf/brainsci-15-00047.pdf",
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Brain Sci",
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:c5913600345d427484646afb0b805266",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/c5913600345d427484646afb0b805266",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Brain Sciences, Vol 15, Iss 1, p 47 (2025)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.3390/brainsci15010047",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/brainsci15010047",
+        "pdf_url": "https://www.mdpi.com/2076-3425/15/1/47/pdf?version=1736137601",
+        "source": {
+          "id": "https://openalex.org/S122317144",
+          "display_name": "Brain Sciences",
+          "issn_l": "2076-3425",
+          "issn": [
+            "2076-3425"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Brain Sciences",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "display_name": "Quality Education",
+          "id": "https://metadata.un.org/sdg/4",
+          "score": 0.800000011920929
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4406088120.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4406088120.grobid-xml"
+      },
+      "referenced_works_count": 79,
+      "referenced_works": [
+        "https://openalex.org/W1188051495",
+        "https://openalex.org/W1783354124",
+        "https://openalex.org/W1972265376",
+        "https://openalex.org/W2036359025",
+        "https://openalex.org/W2091100081",
+        "https://openalex.org/W2275913736",
+        "https://openalex.org/W2560450737",
+        "https://openalex.org/W2767640049",
+        "https://openalex.org/W2989919013",
+        "https://openalex.org/W2997477283",
+        "https://openalex.org/W3007357247",
+        "https://openalex.org/W3018283814",
+        "https://openalex.org/W3103891289",
+        "https://openalex.org/W3128782705",
+        "https://openalex.org/W3139127941",
+        "https://openalex.org/W3188806548",
+        "https://openalex.org/W4200413692",
+        "https://openalex.org/W4210363535",
+        "https://openalex.org/W4211081781",
+        "https://openalex.org/W4211122909",
+        "https://openalex.org/W4223646541",
+        "https://openalex.org/W4233023712",
+        "https://openalex.org/W4281614178",
+        "https://openalex.org/W4284991798",
+        "https://openalex.org/W4309674289",
+        "https://openalex.org/W4318264071",
+        "https://openalex.org/W4360615722",
+        "https://openalex.org/W4366599700",
+        "https://openalex.org/W4366703942",
+        "https://openalex.org/W4378983550",
+        "https://openalex.org/W4381252082",
+        "https://openalex.org/W4381996422",
+        "https://openalex.org/W4382937979",
+        "https://openalex.org/W4384934135",
+        "https://openalex.org/W4386001316",
+        "https://openalex.org/W4386276006",
+        "https://openalex.org/W4386712902",
+        "https://openalex.org/W4386740961",
+        "https://openalex.org/W4387857082",
+        "https://openalex.org/W4388095513",
+        "https://openalex.org/W4388442650",
+        "https://openalex.org/W4388461862",
+        "https://openalex.org/W4389353249",
+        "https://openalex.org/W4389404163",
+        "https://openalex.org/W4389565446",
+        "https://openalex.org/W4390583258",
+        "https://openalex.org/W4390665705",
+        "https://openalex.org/W4391239262",
+        "https://openalex.org/W4391512568",
+        "https://openalex.org/W4391884123",
+        "https://openalex.org/W4391918086",
+        "https://openalex.org/W4391931433",
+        "https://openalex.org/W4392169968",
+        "https://openalex.org/W4393009377",
+        "https://openalex.org/W4393356598",
+        "https://openalex.org/W4394012278",
+        "https://openalex.org/W4394064956",
+        "https://openalex.org/W4394975838",
+        "https://openalex.org/W4396222444",
+        "https://openalex.org/W4396832533",
+        "https://openalex.org/W4399493484",
+        "https://openalex.org/W4399517996",
+        "https://openalex.org/W4399862094",
+        "https://openalex.org/W4400270729",
+        "https://openalex.org/W4401308284",
+        "https://openalex.org/W4401953659",
+        "https://openalex.org/W4401957464",
+        "https://openalex.org/W4401966855",
+        "https://openalex.org/W4403356791",
+        "https://openalex.org/W4403457729",
+        "https://openalex.org/W4403847828",
+        "https://openalex.org/W6742643542",
+        "https://openalex.org/W6770475376",
+        "https://openalex.org/W6786072427",
+        "https://openalex.org/W6851780465",
+        "https://openalex.org/W6858277474",
+        "https://openalex.org/W6861944151",
+        "https://openalex.org/W6863301783",
+        "https://openalex.org/W6889892476"
+      ],
+      "related_works": [
+        "https://openalex.org/W4383501580",
+        "https://openalex.org/W4214931137",
+        "https://openalex.org/W4313813117",
+        "https://openalex.org/W4382052417",
+        "https://openalex.org/W2897828366",
+        "https://openalex.org/W2081348319",
+        "https://openalex.org/W1974622901",
+        "https://openalex.org/W4248151009",
+        "https://openalex.org/W3127991229",
+        "https://openalex.org/W2074627502"
+      ],
+      "abstract_inverted_index": {
+        "Background/Objectives:": [
+          0
+        ],
+        "The": [
+          1,
+          76,
+          124,
+          143,
+          263,
+          285,
+          308,
+          386
+        ],
+        "evolution": [
+          2
+        ],
+        "of": [
+          3,
+          9,
+          21,
+          44,
+          64,
+          105,
+          120,
+          126,
+          160,
+          248,
+          279,
+          302,
+          310,
+          316,
+          371,
+          408,
+          418
+        ],
+        "digital": [
+          4,
+          23,
+          355
+        ],
+        "technology": [
+          5
+        ],
+        "enhances": [
+          6
+        ],
+        "the": [
+          7,
+          22,
+          97,
+          103,
+          118,
+          127,
+          133,
+          139,
+          155,
+          175,
+          228,
+          234,
+          246,
+          267,
+          277,
+          294,
+          299,
+          311,
+          365,
+          372,
+          389,
+          415
+        ],
+        "broadening": [
+          8
+        ],
+        "a": [
+          10,
+          62,
+          74,
+          151,
+          271,
+          354,
+          383,
+          392
+        ],
+        "person’s": [
+          11
+        ],
+        "intellectual": [
+          12
+        ],
+        "growth.": [
+          13
+        ],
+        "Research": [
+          14
+        ],
+        "points": [
+          15
+        ],
+        "out": [
+          16
+        ],
+        "that": [
+          17,
+          46,
+          350,
+          413
+        ],
+        "implementing": [
+          18
+        ],
+        "innovative": [
+          19,
+          38,
+          346
+        ],
+        "applications": [
+          20
+        ],
+        "world": [
+          24
+        ],
+        "improves": [
+          25
+        ],
+        "human": [
+          26,
+          48
+        ],
+        "social,": [
+          27
+        ],
+        "cognitive,": [
+          28,
+          366
+        ],
+        "and": [
+          29,
+          51,
+          55,
+          72,
+          92,
+          117,
+          163,
+          204,
+          223,
+          251,
+          258,
+          276,
+          322,
+          337,
+          359,
+          368,
+          397,
+          410
+        ],
+        "metacognitive": [
+          30
+        ],
+        "behavior.": [
+          31
+        ],
+        "Artificial": [
+          32
+        ],
+        "intelligence": [
+          33,
+          87,
+          348
+        ],
+        "chatbots": [
+          34,
+          107,
+          188,
+          240,
+          275,
+          319,
+          343
+        ],
+        "are": [
+          35,
+          42,
+          344
+        ],
+        "yet": [
+          36
+        ],
+        "another": [
+          37
+        ],
+        "human-made": [
+          39
+        ],
+        "construct.": [
+          40
+        ],
+        "These": [
+          41
+        ],
+        "forms": [
+          43
+        ],
+        "software": [
+          45
+        ],
+        "simulate": [
+          47
+        ],
+        "conversation,": [
+          49
+        ],
+        "understand": [
+          50
+        ],
+        "process": [
+          52
+        ],
+        "user": [
+          53
+        ],
+        "input,": [
+          54
+        ],
+        "provide": [
+          56
+        ],
+        "personalized": [
+          57
+        ],
+        "responses.": [
+          58
+        ],
+        "Executive": [
+          59
+        ],
+        "function": [
+          60,
+          83,
+          352
+        ],
+        "includes": [
+          61
+        ],
+        "set": [
+          63
+        ],
+        "higher": [
+          65
+        ],
+        "mental": [
+          66
+        ],
+        "processes": [
+          67
+        ],
+        "necessary": [
+          68
+        ],
+        "for": [
+          69,
+          357,
+          391,
+          395
+        ],
+        "formulating,": [
+          70
+        ],
+        "planning,": [
+          71
+        ],
+        "achieving": [
+          73
+        ],
+        "goal.": [
+          75
+        ],
+        "present": [
+          77,
+          176
+        ],
+        "study": [
+          78,
+          98,
+          210,
+          229,
+          268,
+          401
+        ],
+        "aims": [
+          79
+        ],
+        "to": [
+          80,
+          138,
+          149,
+          174,
+          191,
+          298,
+          320,
+          335,
+          364
+        ],
+        "investigate": [
+          81
+        ],
+        "executive": [
+          82,
+          109,
+          193,
+          249,
+          283,
+          324,
+          361,
+          378
+        ],
+        "reinforcement": [
+          84
+        ],
+        "through": [
+          85
+        ],
+        "artificial": [
+          86,
+          347
+        ],
+        "chatbots,": [
+          88
+        ],
+        "outlining": [
+          89
+        ],
+        "potentials,": [
+          90
+        ],
+        "limitations,": [
+          91
+        ],
+        "future": [
+          93,
+          398
+        ],
+        "research": [
+          94,
+          101
+        ],
+        "suggestions.": [
+          95
+        ],
+        "Specifically,": [
+          96
+        ],
+        "examined": [
+          99
+        ],
+        "three": [
+          100
+        ],
+        "questions:": [
+          102
+        ],
+        "use": [
+          104,
+          376
+        ],
+        "conversational": [
+          106,
+          280
+        ],
+        "in": [
+          108,
+          154,
+          221,
+          256,
+          377
+        ],
+        "functioning": [
+          110
+        ],
+        "training,": [
+          111
+        ],
+        "their": [
+          112,
+          339,
+          419
+        ],
+        "impact": [
+          113,
+          278
+        ],
+        "on": [
+          114,
+          273,
+          282
+        ],
+        "executive-cognitive": [
+          115
+        ],
+        "skills,": [
+          116,
+          362
+        ],
+        "duration": [
+          119
+        ],
+        "any": [
+          121
+        ],
+        "improvements.": [
+          122
+        ],
+        "Methods:": [
+          123
+        ],
+        "assessment": [
+          125
+        ],
+        "existing": [
+          128
+        ],
+        "literature": [
+          129,
+          235
+        ],
+        "was": [
+          130,
+          147
+        ],
+        "implemented": [
+          131
+        ],
+        "using": [
+          132,
+          177,
+          186,
+          317
+        ],
+        "systematic": [
+          134,
+          168,
+          237
+        ],
+        "review": [
+          135,
+          169
+        ],
+        "method,": [
+          136
+        ],
+        "according": [
+          137
+        ],
+        "PRISMA": [
+          140
+        ],
+        "2020": [
+          141
+        ],
+        "Principles.": [
+          142
+        ],
+        "avalanche": [
+          144
+        ],
+        "search": [
+          145,
+          153
+        ],
+        "method": [
+          146
+        ],
+        "employed": [
+          148
+        ],
+        "conduct": [
+          150
+        ],
+        "source": [
+          152
+        ],
+        "following": [
+          156
+        ],
+        "databases:": [
+          157
+        ],
+        "Scopus,": [
+          158
+        ],
+        "Web": [
+          159
+        ],
+        "Science,": [
+          161
+        ],
+        "PubMed,": [
+          162
+        ],
+        "complementary": [
+          164
+        ],
+        "Google": [
+          165
+        ],
+        "Scholar.": [
+          166
+        ],
+        "This": [
+          167
+        ],
+        "included": [
+          170,
+          184,
+          211
+        ],
+        "studies": [
+          171,
+          185,
+          231,
+          243,
+          253,
+          259,
+          312,
+          412
+        ],
+        "from": [
+          172
+        ],
+        "2021": [
+          173
+        ],
+        "experimental,": [
+          178
+        ],
+        "observational,": [
+          179
+        ],
+        "or": [
+          180,
+          189,
+          241
+        ],
+        "mixed": [
+          181
+        ],
+        "methods.": [
+          182
+        ],
+        "It": [
+          183
+        ],
+        "AI-based": [
+          187
+        ],
+        "conversationalists": [
+          190
+        ],
+        "support": [
+          192
+        ],
+        "functions,": [
+          194
+        ],
+        "such": [
+          195
+        ],
+        "as": [
+          196,
+          353
+        ],
+        "anxiety,": [
+          197
+        ],
+        "stress,": [
+          198
+        ],
+        "depression,": [
+          199
+        ],
+        "memory,": [
+          200
+        ],
+        "attention,": [
+          201
+        ],
+        "cognitive": [
+          202
+        ],
+        "load,": [
+          203
+        ],
+        "behavioral": [
+          205
+        ],
+        "changes.": [
+          206
+        ],
+        "In": [
+          207
+        ],
+        "addition,": [
+          208
+        ],
+        "this": [
+          209
+        ],
+        "general": [
+          212
+        ],
+        "populations": [
+          213
+        ],
+        "with": [
+          214,
+          224,
+          266
+        ],
+        "specific": [
+          215
+        ],
+        "neurological": [
+          216
+        ],
+        "conditions,": [
+          217
+        ],
+        "all": [
+          218
+        ],
+        "peer-reviewed,": [
+          219
+        ],
+        "written": [
+          220,
+          255
+        ],
+        "English,": [
+          222,
+          257
+        ],
+        "full-text": [
+          225
+        ],
+        "access.": [
+          226,
+          262
+        ],
+        "However,": [
+          227,
+          374
+        ],
+        "excluded": [
+          230
+        ],
+        "before": [
+          232
+        ],
+        "2021,": [
+          233
+        ],
+        "reviews,": [
+          236,
+          238
+        ],
+        "non-AI-based": [
+          239
+        ],
+        "conversationalists,": [
+          242
+        ],
+        "not": [
+          244,
+          254
+        ],
+        "targeting": [
+          245
+        ],
+        "range": [
+          247
+        ],
+        "skills": [
+          250,
+          379
+        ],
+        "abilities,": [
+          252
+        ],
+        "without": [
+          260
+        ],
+        "open": [
+          261
+        ],
+        "criteria": [
+          264
+        ],
+        "aligned": [
+          265
+        ],
+        "objectives,": [
+          269
+        ],
+        "ensuring": [
+          270
+        ],
+        "focus": [
+          272
+        ],
+        "AI": [
+          274,
+          318,
+          342
+        ],
+        "agents": [
+          281
+        ],
+        "function.": [
+          284
+        ],
+        "initial": [
+          286
+        ],
+        "collection": [
+          287
+        ],
+        "totaled": [
+          288
+        ],
+        "n": [
+          289,
+          303
+        ],
+        "=": [
+          290,
+          304
+        ],
+        "115": [
+          291
+        ],
+        "articles;": [
+          292
+        ],
+        "however,": [
+          293
+        ],
+        "eligibility": [
+          295
+        ],
+        "requirements": [
+          296
+        ],
+        "led": [
+          297
+        ],
+        "final": [
+          300
+        ],
+        "selection": [
+          301
+        ],
+        "10": [
+          305
+        ],
+        "studies.": [
+          306
+        ],
+        "Results:": [
+          307
+        ],
+        "findings": [
+          309,
+          387
+        ],
+        "suggested": [
+          313
+        ],
+        "positive": [
+          314
+        ],
+        "effects": [
+          315,
+          417
+        ],
+        "enhance": [
+          321
+        ],
+        "improve": [
+          323
+        ],
+        "skills.": [
+          325
+        ],
+        "Although,": [
+          326
+        ],
+        "several": [
+          327
+        ],
+        "limitations": [
+          328
+        ],
+        "were": [
+          329
+        ],
+        "identified,": [
+          330
+        ],
+        "making": [
+          331
+        ],
+        "it": [
+          332
+        ],
+        "still": [
+          333
+        ],
+        "difficult": [
+          334
+        ],
+        "generalize": [
+          336
+        ],
+        "reproduce": [
+          338
+        ],
+        "effects.": [
+          340
+        ],
+        "Conclusions:": [
+          341
+        ],
+        "an": [
+          345
+        ],
+        "tool": [
+          349
+        ],
+        "can": [
+          351
+        ],
+        "assistant": [
+          356
+        ],
+        "learning": [
+          358
+        ],
+        "expanding": [
+          360
+        ],
+        "contributing": [
+          363
+        ],
+        "metacognitive,": [
+          367
+        ],
+        "social": [
+          369
+        ],
+        "development": [
+          370
+        ],
+        "individual.": [
+          373
+        ],
+        "its": [
+          375
+        ],
+        "training": [
+          380
+        ],
+        "is": [
+          381
+        ],
+        "at": [
+          382
+        ],
+        "primary": [
+          384
+        ],
+        "stage.": [
+          385
+        ],
+        "highlighted": [
+          388
+        ],
+        "need": [
+          390
+        ],
+        "unified": [
+          393
+        ],
+        "framework": [
+          394
+        ],
+        "reference": [
+          396
+        ],
+        "studies,": [
+          399
+        ],
+        "better": [
+          400
+        ],
+        "designs,": [
+          402
+        ],
+        "diverse": [
+          403
+        ],
+        "populations,": [
+          404
+        ],
+        "larger": [
+          405
+        ],
+        "sample": [
+          406
+        ],
+        "sizes": [
+          407
+        ],
+        "participants,": [
+          409
+        ],
+        "longitudinal": [
+          411
+        ],
+        "observe": [
+          414
+        ],
+        "long-term": [
+          416
+        ],
+        "use.": [
+          420
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 21
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 30
+        }
+      ],
+      "updated_date": "2026-09-22T06:50:58.402377",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": "https://www.mdpi.com/2076-3425/15/1/47/pdf?version=1736137601",
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sch-009",
+  "original": {
+    "paper_name": "A mental health chatbot for regulating emotions (SERMO)-concept and usability test",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "mental health chatbot",
+  "scraped_at": "2026-09-22T11:18:28.463326+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "mental health chatbot",
+    "title_matched": "A mental health chatbot for regulating emotions (SERMO)-concept and usability test",
+    "authors": [
+      "K Denecke",
+      "S Vaaheesan"
+    ],
+    "year": 2020,
+    "venue": "IEEE Transactions on …",
+    "cited_by": 306,
+    "landing_page_url": "https://ieeexplore.ieee.org/abstract/document/9000924/",
+    "snippet": "… Furthermore, with this paper we address the issue that existing mental health chatbots\nare rarely described in sufficient detail [13]. We describe details on the underlying psychological …",
+    "pdf_url": null
+  },
+  "pdf_file": null,
+  "pdf_url": null
+}

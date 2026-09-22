@@ -1,0 +1,32 @@
+{
+  "id": "sch-019",
+  "original": {
+    "paper_name": "[HTML] A method for stress detection using empatica E4 bracelet and machine-learning techniques",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "stress detection machine learning",
+  "scraped_at": "2026-09-22T11:18:57.279329+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "stress detection machine learning",
+    "title_matched": "[HTML] A method for stress detection using empatica E4 bracelet and machine-learning techniques",
+    "authors": [
+      "S Campanella",
+      "A Altaleb",
+      "A Belli",
+      "P Pierleoni",
+      "L Palma"
+    ],
+    "year": 2023,
+    "venue": "Sensors",
+    "cited_by": 143,
+    "landing_page_url": "https://www.mdpi.com/1424-8220/23/7/3565",
+    "snippet": "… signals and machine learning for stress detection by wearable … post traumatic stress disorder\nwith machine learning methods. … Stress detection with machine learning and deep learning …",
+    "pdf_url": "https://www.mdpi.com/1424-8220/23/7/3565"
+  },
+  "pdf_file": null,
+  "pdf_url": "https://www.mdpi.com/1424-8220/23/7/3565"
+}

@@ -1,0 +1,1239 @@
+{
+  "id": 58,
+  "original": {
+    "id": 58,
+    "paper_name": "Advances in the use of virtual reality to treat mental health conditions",
+    "site": "OpenAlex",
+    "venue_of_publication": "Nature Reviews Psychology",
+    "year": 2024,
+    "researcher_info": "Imogen Bell, Roos Pot-Kolder et al."
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T11:04:22.474435+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "Advances in the use of virtual reality to treat mental health conditions",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W4400486769",
+    "doi": "https://doi.org/10.1038/s44159-024-00334-9",
+    "title_matched": "Advances in the use of virtual reality to treat mental health conditions",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2024,
+    "venue": "Nature Reviews Psychology",
+    "authors": [
+      "Imogen  H. Bell",
+      "Roos Pot-Kolder",
+      "Albert Rizzo",
+      "Mar Rus‐Calafell",
+      "Valentina Cardi",
+      "Matteo Cella",
+      "Thomas Ward",
+      "Simon Riches",
+      "Martin Reinoso",
+      "Andrew David Thompson",
+      "Mario Álvarez‐Jiménez",
+      "Lucia Valmaggia"
+    ],
+    "abstract": "",
+    "cited_by_count": 137,
+    "is_oa": true,
+    "pdf_url": null,
+    "pdf_candidates": [],
+    "landing_page_url": "https://kclpure.kcl.ac.uk/portal/files/287625498/Valmaggia_v2_for_revision_1707381697_78.pdf",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W4400486769",
+      "doi": "https://doi.org/10.1038/s44159-024-00334-9",
+      "title": "Advances in the use of virtual reality to treat mental health conditions",
+      "display_name": "Advances in the use of virtual reality to treat mental health conditions",
+      "relevance_score": 3402.6082,
+      "publication_year": 2024,
+      "publication_date": "2024-07-10",
+      "ids": {
+        "openalex": "https://openalex.org/W4400486769",
+        "doi": "https://doi.org/10.1038/s44159-024-00334-9"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1038/s44159-024-00334-9",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1038/s44159-024-00334-9",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210237610",
+          "display_name": "Nature Reviews Psychology",
+          "issn_l": "2731-0574",
+          "issn": [
+            "2731-0574"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319908",
+          "host_organization_name": "Nature Portfolio",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319908",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Nature Portfolio",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Nature Reviews Psychology",
+        "raw_type": "journal-article"
+      },
+      "type": "review",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://kclpure.kcl.ac.uk/portal/files/287625498/Valmaggia_v2_for_revision_1707381697_78.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5022671353",
+            "display_name": "Imogen  H. Bell",
+            "orcid": "https://orcid.org/0000-0001-7567-0517"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I165779595",
+              "display_name": "The University of Melbourne",
+              "ror": "https://ror.org/01ej9dk98",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I165779595"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210092277",
+              "display_name": "Orygen Youth Health",
+              "ror": "https://ror.org/00ej70p06",
+              "country_code": "AU",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210092277"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Imogen H. Bell",
+          "raw_affiliation_strings": [
+            "Centre for Youth Mental Health, The University of Melbourne, Parkville, Victoria, Australia",
+            "Orygen, The National Centre of Excellence in Youth Mental Health, Parkville, Victoria, Australia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centre for Youth Mental Health, The University of Melbourne, Parkville, Victoria, Australia",
+              "institution_ids": [
+                "https://openalex.org/I165779595"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Orygen, The National Centre of Excellence in Youth Mental Health, Parkville, Victoria, Australia",
+              "institution_ids": [
+                "https://openalex.org/I4210092277"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5081480143",
+            "display_name": "Roos Pot-Kolder",
+            "orcid": "https://orcid.org/0000-0002-1177-7347"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I165779595",
+              "display_name": "The University of Melbourne",
+              "ror": "https://ror.org/01ej9dk98",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I165779595"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210092277",
+              "display_name": "Orygen Youth Health",
+              "ror": "https://ror.org/00ej70p06",
+              "country_code": "AU",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210092277"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Roos Pot-Kolder",
+          "raw_affiliation_strings": [
+            "Centre for Youth Mental Health, The University of Melbourne, Parkville, Victoria, Australia",
+            "Orygen, The National Centre of Excellence in Youth Mental Health, Parkville, Victoria, Australia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-1177-7347",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centre for Youth Mental Health, The University of Melbourne, Parkville, Victoria, Australia",
+              "institution_ids": [
+                "https://openalex.org/I165779595"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Orygen, The National Centre of Excellence in Youth Mental Health, Parkville, Victoria, Australia",
+              "institution_ids": [
+                "https://openalex.org/I4210092277"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5005096959",
+            "display_name": "Albert Rizzo",
+            "orcid": "https://orcid.org/0000-0003-2647-7731"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1174212",
+              "display_name": "University of Southern California",
+              "ror": "https://ror.org/03taz7m60",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I1174212"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210087747",
+              "display_name": "Creative Technologies (United States)",
+              "ror": "https://ror.org/001qkb777",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210087747"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Albert Rizzo",
+          "raw_affiliation_strings": [
+            "Institute for Creative Technologies, University of Southern California, Playa Vista, CA, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-2647-7731",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute for Creative Technologies, University of Southern California, Playa Vista, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1174212",
+                "https://openalex.org/I4210087747"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5078494431",
+            "display_name": "Mar Rus‐Calafell",
+            "orcid": "https://orcid.org/0000-0003-2293-3875"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I904495901",
+              "display_name": "Ruhr University Bochum",
+              "ror": "https://ror.org/04tsk2644",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I904495901"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mar Rus-Calafell",
+          "raw_affiliation_strings": [
+            "Mental Health Research and Treatment Centre, Faculty of Psychology, Ruhr-Universität Bochum, Bochum, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Mental Health Research and Treatment Centre, Faculty of Psychology, Ruhr-Universität Bochum, Bochum, Germany",
+              "institution_ids": [
+                "https://openalex.org/I904495901"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5042752918",
+            "display_name": "Valentina Cardi",
+            "orcid": "https://orcid.org/0000-0002-7763-7099"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I138689650",
+              "display_name": "University of Padua",
+              "ror": "https://ror.org/00240q980",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I138689650"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I183935753",
+              "display_name": "King's College London",
+              "ror": "https://ror.org/0220mzb33",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947",
+                "https://openalex.org/I183935753"
+              ]
+            }
+          ],
+          "countries": [
+            "GB",
+            "IT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Valentina Cardi",
+          "raw_affiliation_strings": [
+            "Department of General Psychology, University of Padova, Padua, Italy",
+            "Department of Psychology, Institute of Psychiatry, Psychology & Neuroscience, King’s College London, London, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of General Psychology, University of Padova, Padua, Italy",
+              "institution_ids": [
+                "https://openalex.org/I138689650"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Psychology, Institute of Psychiatry, Psychology & Neuroscience, King’s College London, London, UK",
+              "institution_ids": [
+                "https://openalex.org/I183935753"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5071089149",
+            "display_name": "Matteo Cella",
+            "orcid": "https://orcid.org/0000-0002-5701-0336"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I183935753",
+              "display_name": "King's College London",
+              "ror": "https://ror.org/0220mzb33",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947",
+                "https://openalex.org/I183935753"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Matteo Cella",
+          "raw_affiliation_strings": [
+            "Department of Psychology, Institute of Psychiatry, Psychology & Neuroscience, King’s College London, London, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Psychology, Institute of Psychiatry, Psychology & Neuroscience, King’s College London, London, UK",
+              "institution_ids": [
+                "https://openalex.org/I183935753"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5036498218",
+            "display_name": "Thomas Ward",
+            "orcid": "https://orcid.org/0000-0002-7608-5755"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I183935753",
+              "display_name": "King's College London",
+              "ror": "https://ror.org/0220mzb33",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947",
+                "https://openalex.org/I183935753"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Thomas Ward",
+          "raw_affiliation_strings": [
+            "Department of Psychology, Institute of Psychiatry, Psychology & Neuroscience, King’s College London, London, UK"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-7608-5755",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Psychology, Institute of Psychiatry, Psychology & Neuroscience, King’s College London, London, UK",
+              "institution_ids": [
+                "https://openalex.org/I183935753"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5087655305",
+            "display_name": "Simon Riches",
+            "orcid": "https://orcid.org/0000-0002-1427-5561"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I183935753",
+              "display_name": "King's College London",
+              "ror": "https://ror.org/0220mzb33",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947",
+                "https://openalex.org/I183935753"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Simon Riches",
+          "raw_affiliation_strings": [
+            "Department of Psychology, Institute of Psychiatry, Psychology & Neuroscience, King’s College London, London, UK"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-1427-5561",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Psychology, Institute of Psychiatry, Psychology & Neuroscience, King’s College London, London, UK",
+              "institution_ids": [
+                "https://openalex.org/I183935753"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5091324952",
+            "display_name": "Martin Reinoso",
+            "orcid": "https://orcid.org/0000-0003-1008-1935"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I165779595",
+              "display_name": "The University of Melbourne",
+              "ror": "https://ror.org/01ej9dk98",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I165779595"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210092277",
+              "display_name": "Orygen Youth Health",
+              "ror": "https://ror.org/00ej70p06",
+              "country_code": "AU",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210092277"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Martin Reinoso",
+          "raw_affiliation_strings": [
+            "Centre for Youth Mental Health, The University of Melbourne, Parkville, Victoria, Australia",
+            "Orygen, The National Centre of Excellence in Youth Mental Health, Parkville, Victoria, Australia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-1008-1935",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centre for Youth Mental Health, The University of Melbourne, Parkville, Victoria, Australia",
+              "institution_ids": [
+                "https://openalex.org/I165779595"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Orygen, The National Centre of Excellence in Youth Mental Health, Parkville, Victoria, Australia",
+              "institution_ids": [
+                "https://openalex.org/I4210092277"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5029902696",
+            "display_name": "Andrew David Thompson",
+            "orcid": "https://orcid.org/0000-0002-0567-6013"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I165779595",
+              "display_name": "The University of Melbourne",
+              "ror": "https://ror.org/01ej9dk98",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I165779595"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210092277",
+              "display_name": "Orygen Youth Health",
+              "ror": "https://ror.org/00ej70p06",
+              "country_code": "AU",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210092277"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Andrew Thompson",
+          "raw_affiliation_strings": [
+            "Centre for Youth Mental Health, The University of Melbourne, Parkville, Victoria, Australia",
+            "Orygen, The National Centre of Excellence in Youth Mental Health, Parkville, Victoria, Australia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centre for Youth Mental Health, The University of Melbourne, Parkville, Victoria, Australia",
+              "institution_ids": [
+                "https://openalex.org/I165779595"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Orygen, The National Centre of Excellence in Youth Mental Health, Parkville, Victoria, Australia",
+              "institution_ids": [
+                "https://openalex.org/I4210092277"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5077079077",
+            "display_name": "Mario Álvarez‐Jiménez",
+            "orcid": "https://orcid.org/0000-0002-3535-9086"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I165779595",
+              "display_name": "The University of Melbourne",
+              "ror": "https://ror.org/01ej9dk98",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I165779595"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210092277",
+              "display_name": "Orygen Youth Health",
+              "ror": "https://ror.org/00ej70p06",
+              "country_code": "AU",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210092277"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mario Alvarez-Jimenez",
+          "raw_affiliation_strings": [
+            "Centre for Youth Mental Health, The University of Melbourne, Parkville, Victoria, Australia",
+            "Orygen, The National Centre of Excellence in Youth Mental Health, Parkville, Victoria, Australia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centre for Youth Mental Health, The University of Melbourne, Parkville, Victoria, Australia",
+              "institution_ids": [
+                "https://openalex.org/I165779595"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Orygen, The National Centre of Excellence in Youth Mental Health, Parkville, Victoria, Australia",
+              "institution_ids": [
+                "https://openalex.org/I4210092277"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5053575400",
+            "display_name": "Lucia Valmaggia",
+            "orcid": "https://orcid.org/0000-0001-6099-8464"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I165779595",
+              "display_name": "The University of Melbourne",
+              "ror": "https://ror.org/01ej9dk98",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I165779595"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I183935753",
+              "display_name": "King's College London",
+              "ror": "https://ror.org/0220mzb33",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947",
+                "https://openalex.org/I183935753"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210092277",
+              "display_name": "Orygen Youth Health",
+              "ror": "https://ror.org/00ej70p06",
+              "country_code": "AU",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210092277"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I99464096",
+              "display_name": "KU Leuven",
+              "ror": "https://ror.org/05f950310",
+              "country_code": "BE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I99464096"
+              ]
+            }
+          ],
+          "countries": [
+            "AU",
+            "BE",
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Lucia Valmaggia",
+          "raw_affiliation_strings": [
+            "Centre for Youth Mental Health, The University of Melbourne, Parkville, Victoria, Australia",
+            "Department of Psychiatry, Katholieke Universiteit Leuven, Leuven, Belgium",
+            "Department of Psychology, Institute of Psychiatry, Psychology & Neuroscience, King’s College London, London, UK",
+            "Orygen, The National Centre of Excellence in Youth Mental Health, Parkville, Victoria, Australia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-6099-8464",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centre for Youth Mental Health, The University of Melbourne, Parkville, Victoria, Australia",
+              "institution_ids": [
+                "https://openalex.org/I165779595"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Psychiatry, Katholieke Universiteit Leuven, Leuven, Belgium",
+              "institution_ids": [
+                "https://openalex.org/I99464096"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Psychology, Institute of Psychiatry, Psychology & Neuroscience, King’s College London, London, UK",
+              "institution_ids": [
+                "https://openalex.org/I183935753"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Orygen, The National Centre of Excellence in Youth Mental Health, Parkville, Victoria, Australia",
+              "institution_ids": [
+                "https://openalex.org/I4210092277"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 6,
+      "institutions_distinct_count": 8,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5053575400"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I165779595",
+        "https://openalex.org/I183935753",
+        "https://openalex.org/I4210092277",
+        "https://openalex.org/I99464096"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 9.126,
+      "has_fulltext": true,
+      "cited_by_count": 137,
+      "citation_normalized_percentile": {
+        "value": 0.99598394,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 99,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "3",
+        "issue": "8",
+        "first_page": "552",
+        "last_page": "567"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10648",
+        "display_name": "Virtual Reality Applications and Impacts",
+        "score": 0.9993000030517578,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1709",
+          "display_name": "Human-Computer Interaction"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10648",
+          "display_name": "Virtual Reality Applications and Impacts",
+          "score": 0.9993000030517578,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1709",
+            "display_name": "Human-Computer Interaction"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11519",
+          "display_name": "Digital Mental Health Interventions",
+          "score": 0.9922999739646912,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3202",
+            "display_name": "Applied Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10912",
+          "display_name": "Telemedicine and Telehealth Implementation",
+          "score": 0.9739000201225281,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2739",
+            "display_name": "Public Health, Environmental and Occupational Health"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/virtual-reality",
+          "display_name": "Virtual reality",
+          "score": 0.6058211326599121
+        },
+        {
+          "id": "https://openalex.org/keywords/mental-health",
+          "display_name": "Mental health",
+          "score": 0.5698049664497375
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.43817001581192017
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.31721949577331543
+        },
+        {
+          "id": "https://openalex.org/keywords/human–computer-interaction",
+          "display_name": "Human–computer interaction",
+          "score": 0.29824382066726685
+        },
+        {
+          "id": "https://openalex.org/keywords/psychotherapist",
+          "display_name": "Psychotherapist",
+          "score": 0.2939942479133606
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C194969405",
+          "wikidata": "https://www.wikidata.org/wiki/Q170519",
+          "display_name": "Virtual reality",
+          "level": 2,
+          "score": 0.6058211326599121
+        },
+        {
+          "id": "https://openalex.org/C134362201",
+          "wikidata": "https://www.wikidata.org/wiki/Q317309",
+          "display_name": "Mental health",
+          "level": 2,
+          "score": 0.5698049664497375
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.43817001581192017
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.31721949577331543
+        },
+        {
+          "id": "https://openalex.org/C107457646",
+          "wikidata": "https://www.wikidata.org/wiki/Q207434",
+          "display_name": "Human–computer interaction",
+          "level": 1,
+          "score": 0.29824382066726685
+        },
+        {
+          "id": "https://openalex.org/C542102704",
+          "wikidata": "https://www.wikidata.org/wiki/Q183257",
+          "display_name": "Psychotherapist",
+          "level": 1,
+          "score": 0.2939942479133606
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1038/s44159-024-00334-9",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1038/s44159-024-00334-9",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210237610",
+            "display_name": "Nature Reviews Psychology",
+            "issn_l": "2731-0574",
+            "issn": [
+              "2731-0574"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310319908",
+            "host_organization_name": "Nature Portfolio",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319908",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Nature Portfolio",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Nature Reviews Psychology",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:kclpure.kcl.ac.uk:openaire/2d012d39-a0b3-439a-aad7-edaca7e297bd",
+          "is_oa": true,
+          "landing_page_url": "https://kclpure.kcl.ac.uk/portal/files/287625498/Valmaggia_v2_for_revision_1707381697_78.pdf",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400216",
+            "display_name": "Research Portal (King's College London)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I183935753",
+            "host_organization_name": "King's College London",
+            "host_organization_lineage": [
+              "https://openalex.org/I183935753"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Bell, I H, Pot-Kolder, R, Rizzo, A, Rus-Calafell, M, Cardi, V, Cella, M, Ward, T, Riches, S, Reinoso, M, Thompson, A, Alvarez-Jimenez, M & Valmaggia, L 2024, 'Advances in the use of virtual reality to treat mental health conditions', Nature Reviews Psychology, vol. 3, no. 8, pp. 552-567. https://doi.org/10.1038/s44159-024-00334-9",
+          "raw_type": "info:eu-repo/semantics/review"
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:kclpure.kcl.ac.uk:openaire/2d012d39-a0b3-439a-aad7-edaca7e297bd",
+        "is_oa": true,
+        "landing_page_url": "https://kclpure.kcl.ac.uk/portal/files/287625498/Valmaggia_v2_for_revision_1707381697_78.pdf",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400216",
+          "display_name": "Research Portal (King's College London)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I183935753",
+          "host_organization_name": "King's College London",
+          "host_organization_lineage": [
+            "https://openalex.org/I183935753"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Bell, I H, Pot-Kolder, R, Rizzo, A, Rus-Calafell, M, Cardi, V, Cella, M, Ward, T, Riches, S, Reinoso, M, Thompson, A, Alvarez-Jimenez, M & Valmaggia, L 2024, 'Advances in the use of virtual reality to treat mental health conditions', Nature Reviews Psychology, vol. 3, no. 8, pp. 552-567. https://doi.org/10.1038/s44159-024-00334-9",
+        "raw_type": "info:eu-repo/semantics/review"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 178,
+      "referenced_works": [
+        "https://openalex.org/W201965795",
+        "https://openalex.org/W1212620601",
+        "https://openalex.org/W1480505009",
+        "https://openalex.org/W1492432782",
+        "https://openalex.org/W1551717579",
+        "https://openalex.org/W1635002850",
+        "https://openalex.org/W1917718619",
+        "https://openalex.org/W1969155918",
+        "https://openalex.org/W1969874794",
+        "https://openalex.org/W1984615306",
+        "https://openalex.org/W1994673996",
+        "https://openalex.org/W1995474267",
+        "https://openalex.org/W2002458169",
+        "https://openalex.org/W2023015865",
+        "https://openalex.org/W2030620128",
+        "https://openalex.org/W2033913146",
+        "https://openalex.org/W2044116517",
+        "https://openalex.org/W2065028979",
+        "https://openalex.org/W2069558734",
+        "https://openalex.org/W2073778669",
+        "https://openalex.org/W2081786039",
+        "https://openalex.org/W2084627609",
+        "https://openalex.org/W2085488608",
+        "https://openalex.org/W2117071555",
+        "https://openalex.org/W2130967235",
+        "https://openalex.org/W2149595999",
+        "https://openalex.org/W2153759497",
+        "https://openalex.org/W2158435382",
+        "https://openalex.org/W2159527937",
+        "https://openalex.org/W2161569443",
+        "https://openalex.org/W2161674940",
+        "https://openalex.org/W2163457548",
+        "https://openalex.org/W2164854045",
+        "https://openalex.org/W2170151134",
+        "https://openalex.org/W2249279987",
+        "https://openalex.org/W2253634141",
+        "https://openalex.org/W2346956174",
+        "https://openalex.org/W2419176286",
+        "https://openalex.org/W2517202283",
+        "https://openalex.org/W2529766264",
+        "https://openalex.org/W2562199918",
+        "https://openalex.org/W2564223141",
+        "https://openalex.org/W2565624541",
+        "https://openalex.org/W2571493223",
+        "https://openalex.org/W2581811151",
+        "https://openalex.org/W2598210266",
+        "https://openalex.org/W2605665170",
+        "https://openalex.org/W2612421262",
+        "https://openalex.org/W2612922341",
+        "https://openalex.org/W2615219938",
+        "https://openalex.org/W2620820141",
+        "https://openalex.org/W2726674834",
+        "https://openalex.org/W2748207128",
+        "https://openalex.org/W2752926267",
+        "https://openalex.org/W2756617262",
+        "https://openalex.org/W2759263543",
+        "https://openalex.org/W2765304416",
+        "https://openalex.org/W2769474648",
+        "https://openalex.org/W2770177487",
+        "https://openalex.org/W2772874515",
+        "https://openalex.org/W2783039241",
+        "https://openalex.org/W2787847332",
+        "https://openalex.org/W2789385117",
+        "https://openalex.org/W2794305143",
+        "https://openalex.org/W2800989145",
+        "https://openalex.org/W2805935626",
+        "https://openalex.org/W2809677810",
+        "https://openalex.org/W2810614978",
+        "https://openalex.org/W2841928325",
+        "https://openalex.org/W2884316046",
+        "https://openalex.org/W2897916980",
+        "https://openalex.org/W2898253273",
+        "https://openalex.org/W2899169819",
+        "https://openalex.org/W2914791688",
+        "https://openalex.org/W2918957947",
+        "https://openalex.org/W2923961203",
+        "https://openalex.org/W2925166053",
+        "https://openalex.org/W2948901832",
+        "https://openalex.org/W2950821271",
+        "https://openalex.org/W2954068464",
+        "https://openalex.org/W2954915517",
+        "https://openalex.org/W2973841303",
+        "https://openalex.org/W2981134059",
+        "https://openalex.org/W2984064138",
+        "https://openalex.org/W3000577085",
+        "https://openalex.org/W3001147315",
+        "https://openalex.org/W3004330901",
+        "https://openalex.org/W3009608797",
+        "https://openalex.org/W3011604293",
+        "https://openalex.org/W3012573264",
+        "https://openalex.org/W3012941708",
+        "https://openalex.org/W3013046670",
+        "https://openalex.org/W3014604681",
+        "https://openalex.org/W3014901790",
+        "https://openalex.org/W3020487153",
+        "https://openalex.org/W3020955647",
+        "https://openalex.org/W3021060989",
+        "https://openalex.org/W3021231750",
+        "https://openalex.org/W3021705861",
+        "https://openalex.org/W3023238954",
+        "https://openalex.org/W3035314657",
+        "https://openalex.org/W3044670440",
+        "https://openalex.org/W3056989392",
+        "https://openalex.org/W3080900827",
+        "https://openalex.org/W3083877666",
+        "https://openalex.org/W3087099055",
+        "https://openalex.org/W3102281128",
+        "https://openalex.org/W3105303187",
+        "https://openalex.org/W3109434337",
+        "https://openalex.org/W3119167611",
+        "https://openalex.org/W3120263578",
+        "https://openalex.org/W3120985326",
+        "https://openalex.org/W3122860603",
+        "https://openalex.org/W3127440041",
+        "https://openalex.org/W3129220733",
+        "https://openalex.org/W3157504440",
+        "https://openalex.org/W3164971223",
+        "https://openalex.org/W3165489904",
+        "https://openalex.org/W3165986924",
+        "https://openalex.org/W3173244023",
+        "https://openalex.org/W3173792262",
+        "https://openalex.org/W3176159006",
+        "https://openalex.org/W3183146800",
+        "https://openalex.org/W3190393476",
+        "https://openalex.org/W3197232629",
+        "https://openalex.org/W3198532692",
+        "https://openalex.org/W3200260095",
+        "https://openalex.org/W3201282100",
+        "https://openalex.org/W3203587995",
+        "https://openalex.org/W3203848149",
+        "https://openalex.org/W3215434061",
+        "https://openalex.org/W3215524342",
+        "https://openalex.org/W4205739474",
+        "https://openalex.org/W4206184958",
+        "https://openalex.org/W4210347833",
+        "https://openalex.org/W4210736672",
+        "https://openalex.org/W4210870084",
+        "https://openalex.org/W4220674178",
+        "https://openalex.org/W4221044417",
+        "https://openalex.org/W4221123029",
+        "https://openalex.org/W4223481471",
+        "https://openalex.org/W4223483822",
+        "https://openalex.org/W4223519829",
+        "https://openalex.org/W4223650271",
+        "https://openalex.org/W4226148866",
+        "https://openalex.org/W4246229791",
+        "https://openalex.org/W4247665917",
+        "https://openalex.org/W4282830485",
+        "https://openalex.org/W4283588903",
+        "https://openalex.org/W4288726761",
+        "https://openalex.org/W4289857163",
+        "https://openalex.org/W4294770567",
+        "https://openalex.org/W4295754157",
+        "https://openalex.org/W4307458323",
+        "https://openalex.org/W4307958050",
+        "https://openalex.org/W4309465009",
+        "https://openalex.org/W4311825934",
+        "https://openalex.org/W4316143353",
+        "https://openalex.org/W4317567358",
+        "https://openalex.org/W4319293695",
+        "https://openalex.org/W4319600682",
+        "https://openalex.org/W4323782857",
+        "https://openalex.org/W4324311202",
+        "https://openalex.org/W4327587430",
+        "https://openalex.org/W4328048206",
+        "https://openalex.org/W4367835241",
+        "https://openalex.org/W4372291693",
+        "https://openalex.org/W4382753544",
+        "https://openalex.org/W4385522073",
+        "https://openalex.org/W4385882176",
+        "https://openalex.org/W4386584743",
+        "https://openalex.org/W4386914803",
+        "https://openalex.org/W4387773548",
+        "https://openalex.org/W4388273129",
+        "https://openalex.org/W4391385014",
+        "https://openalex.org/W4391776447",
+        "https://openalex.org/W4391897586",
+        "https://openalex.org/W6677354625"
+      ],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2390279801",
+        "https://openalex.org/W2358668433",
+        "https://openalex.org/W4396701345",
+        "https://openalex.org/W2376932109",
+        "https://openalex.org/W2001405890",
+        "https://openalex.org/W4396696052",
+        "https://openalex.org/W2382290278",
+        "https://openalex.org/W4395014643"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 53
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 73
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 11
+        }
+      ],
+      "updated_date": "2026-09-22T06:50:58.402377",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": null,
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

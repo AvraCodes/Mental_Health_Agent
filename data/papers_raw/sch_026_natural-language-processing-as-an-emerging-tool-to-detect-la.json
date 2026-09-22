@@ -1,0 +1,32 @@
+{
+  "id": "sch-026",
+  "original": {
+    "paper_name": "Natural language processing as an emerging tool to detect late-life depression",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "depression detection natural language processing",
+  "scraped_at": "2026-09-22T11:19:20.684098+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "depression detection natural language processing",
+    "title_matched": "Natural language processing as an emerging tool to detect late-life depression",
+    "authors": [
+      "DD DeSouza",
+      "J Robin",
+      "M Gumus",
+      "A Yeung"
+    ],
+    "year": 2021,
+    "venue": "Frontiers in Psychiatry",
+    "cited_by": 94,
+    "landing_page_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.719125/full",
+    "snippet": "… understanding of speech alterations in depression, many early studies relied on traditional\napproaches such as expert opinion or manual linguistic … AI, the ability to detect and objectively …",
+    "pdf_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.719125/pdf"
+  },
+  "pdf_file": "sch_026_natural-language-processing-as-an-emerging-tool-to-detect-la.pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.719125/pdf",
+  "pdf_verified": true
+}

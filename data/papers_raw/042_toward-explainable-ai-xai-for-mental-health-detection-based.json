@@ -1,0 +1,1609 @@
+{
+  "id": 42,
+  "original": {
+    "id": 42,
+    "paper_name": "Toward explainable AI (XAI) for mental health detection based on language behavior",
+    "site": "OpenAlex",
+    "venue_of_publication": "Frontiers in Psychiatry",
+    "year": 2023,
+    "researcher_info": "Elma Kerz, Sourabh Zanwar et al."
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T11:02:34.448540+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "Toward explainable AI (XAI) for mental health detection based on language behavior",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W4389438760",
+    "doi": "https://doi.org/10.3389/fpsyt.2023.1219479",
+    "title_matched": "Toward explainable AI (XAI) for mental health detection based on language behavior",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2023,
+    "venue": "Frontiers in Psychiatry",
+    "authors": [
+      "Elma Kerz",
+      "Sourabh Zanwar",
+      "Yu Qiao",
+      "Daniel Wiechmann"
+    ],
+    "abstract": "Advances in artificial intelligence (AI) in general and Natural Language Processing (NLP) in particular are paving the new way forward for the automated detection and prediction of mental health disorders among the population. Recent research in this area has prioritized predictive accuracy over model interpretability by relying on deep learning methods. However, prioritizing predictive accuracy over model interpretability can result in a lack of transparency in the decision-making process, which is critical in sensitive applications such as healthcare. There is thus a growing need for explainable AI (XAI) approaches to psychiatric diagnosis and prediction. The main aim of this work is to address a gap by conducting a systematic investigation of XAI approaches in the realm of automatic detection of mental disorders from language behavior leveraging textual data from social media. In pursuit of this aim, we perform extensive experiments to evaluate the balance between accuracy and interpretability across predictive mental health models. More specifically, we build BiLSTM models trained on a comprehensive set of human-interpretable features, encompassing syntactic complexity, lexical sophistication, readability, cohesion, stylistics, as well as topics and sentiment/emotions derived from lexicon-based dictionaries to capture multiple dimensions of language production. We conduct extensive feature ablation experiments to determine the most informative feature groups associated with specific mental health conditions. We juxtapose the performance of these models against a \"black-box\" domain-specific pretrained transformer adapted for mental health applications. To enhance the interpretability of the transformers models, we utilize a multi-task fusion learning framework infusing information from two relevant domains (emotion and personality traits). Moreover, we employ two distinct explanation techniques: the local interpretable model-agnostic explanations (LIME) method and a model-specific self-explaining method (AGRAD). These methods allow us to discern the specific categories of words that the information-infused models rely on when generating predictions. Our proposed approaches are evaluated on two public English benchmark datasets, subsuming five mental health conditions (attention-deficit/hyperactivity disorder, anxiety, bipolar disorder, depression and psychological stress).",
+    "cited_by_count": 99,
+    "is_oa": true,
+    "pdf_url": null,
+    "pdf_candidates": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10748510/pdf/fpsyt-14-1219479.pdf"
+    ],
+    "landing_page_url": "https://doi.org/10.3389/fpsyt.2023.1219479",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W4389438760",
+      "doi": "https://doi.org/10.3389/fpsyt.2023.1219479",
+      "title": "Toward explainable AI (XAI) for mental health detection based on language behavior",
+      "display_name": "Toward explainable AI (XAI) for mental health detection based on language behavior",
+      "relevance_score": 3596.8914,
+      "publication_year": 2023,
+      "publication_date": "2023-12-07",
+      "ids": {
+        "openalex": "https://openalex.org/W4389438760",
+        "doi": "https://doi.org/10.3389/fpsyt.2023.1219479",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/38144474"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3389/fpsyt.2023.1219479",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3389/fpsyt.2023.1219479",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S92766711",
+          "display_name": "Frontiers in Psychiatry",
+          "issn_l": "1664-0640",
+          "issn": [
+            "1664-0640"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320527",
+          "host_organization_name": "Frontiers Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320527"
+          ],
+          "host_organization_lineage_names": [
+            "Frontiers Media"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Frontiers in Psychiatry",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.3389/fpsyt.2023.1219479",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5000106586",
+            "display_name": "Elma Kerz",
+            "orcid": "https://orcid.org/0000-0003-1160-3213"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I887968799",
+              "display_name": "RWTH Aachen University",
+              "ror": "https://ror.org/04xfq0f34",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I887968799"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Elma Kerz",
+          "raw_affiliation_strings": [
+            "Department of English and American Studies, RWTH Aachen University, Aachen, North Rhine-Westphalia, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of English and American Studies, RWTH Aachen University, Aachen, North Rhine-Westphalia, Germany",
+              "institution_ids": [
+                "https://openalex.org/I887968799"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5009033829",
+            "display_name": "Sourabh Zanwar",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I887968799",
+              "display_name": "RWTH Aachen University",
+              "ror": "https://ror.org/04xfq0f34",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I887968799"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sourabh Zanwar",
+          "raw_affiliation_strings": [
+            "Department of English and American Studies, RWTH Aachen University, Aachen, North Rhine-Westphalia, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of English and American Studies, RWTH Aachen University, Aachen, North Rhine-Westphalia, Germany",
+              "institution_ids": [
+                "https://openalex.org/I887968799"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100748135",
+            "display_name": "Yu Qiao",
+            "orcid": "https://orcid.org/0000-0002-1889-2567"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I887968799",
+              "display_name": "RWTH Aachen University",
+              "ror": "https://ror.org/04xfq0f34",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I887968799"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yu Qiao",
+          "raw_affiliation_strings": [
+            "Department of English and American Studies, RWTH Aachen University, Aachen, North Rhine-Westphalia, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of English and American Studies, RWTH Aachen University, Aachen, North Rhine-Westphalia, Germany",
+              "institution_ids": [
+                "https://openalex.org/I887968799"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5088884790",
+            "display_name": "Daniel Wiechmann",
+            "orcid": "https://orcid.org/0000-0002-9536-408X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I887064364",
+              "display_name": "University of Amsterdam",
+              "ror": "https://ror.org/04dkp9463",
+              "country_code": "NL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I887064364"
+              ]
+            }
+          ],
+          "countries": [
+            "NL"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Daniel Wiechmann",
+          "raw_affiliation_strings": [
+            "Institute for Logic, Language and Computation, University of Amsterdam, Amsterdam, Netherlands"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute for Logic, Language and Computation, University of Amsterdam, Amsterdam, Netherlands",
+              "institution_ids": [
+                "https://openalex.org/I887064364"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5000106586",
+        "https://openalex.org/A5088884790"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I887064364",
+        "https://openalex.org/I887968799"
+      ],
+      "apc_list": {
+        "value": 3295,
+        "currency": "USD",
+        "value_usd": 3295
+      },
+      "apc_paid": {
+        "value": 3295,
+        "currency": "USD",
+        "value_usd": 3295
+      },
+      "fwci": 25.6912,
+      "has_fulltext": true,
+      "cited_by_count": 99,
+      "citation_normalized_percentile": {
+        "value": 0.99870935,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 99,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "14",
+        "issue": null,
+        "first_page": "1219479",
+        "last_page": "1219479"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12488",
+        "display_name": "Mental Health via Writing",
+        "score": 0.9988999962806702,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3207",
+          "display_name": "Social Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12488",
+          "display_name": "Mental Health via Writing",
+          "score": 0.9988999962806702,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13702",
+          "display_name": "Machine Learning in Healthcare",
+          "score": 0.996999979019165,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10028",
+          "display_name": "Topic Modeling",
+          "score": 0.9923999905586243,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/interpretability",
+          "display_name": "Interpretability",
+          "score": 0.9133610129356384
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.7083918452262878
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.7055169939994812
+        },
+        {
+          "id": "https://openalex.org/keywords/machine-learning",
+          "display_name": "Machine learning",
+          "score": 0.632628858089447
+        },
+        {
+          "id": "https://openalex.org/keywords/natural-language-processing",
+          "display_name": "Natural language processing",
+          "score": 0.4943411350250244
+        },
+        {
+          "id": "https://openalex.org/keywords/mental-health",
+          "display_name": "Mental health",
+          "score": 0.4124550521373749
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.15612751245498657
+        },
+        {
+          "id": "https://openalex.org/keywords/psychiatry",
+          "display_name": "Psychiatry",
+          "score": 0.09905633330345154
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2781067378",
+          "wikidata": "https://www.wikidata.org/wiki/Q17027399",
+          "display_name": "Interpretability",
+          "level": 2,
+          "score": 0.9133610129356384
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.7083918452262878
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.7055169939994812
+        },
+        {
+          "id": "https://openalex.org/C119857082",
+          "wikidata": "https://www.wikidata.org/wiki/Q2539",
+          "display_name": "Machine learning",
+          "level": 1,
+          "score": 0.632628858089447
+        },
+        {
+          "id": "https://openalex.org/C204321447",
+          "wikidata": "https://www.wikidata.org/wiki/Q30642",
+          "display_name": "Natural language processing",
+          "level": 1,
+          "score": 0.4943411350250244
+        },
+        {
+          "id": "https://openalex.org/C134362201",
+          "wikidata": "https://www.wikidata.org/wiki/Q317309",
+          "display_name": "Mental health",
+          "level": 2,
+          "score": 0.4124550521373749
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.15612751245498657
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.09905633330345154
+        }
+      ],
+      "mesh": [],
+      "locations_count": 6,
+      "locations": [
+        {
+          "id": "doi:10.3389/fpsyt.2023.1219479",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3389/fpsyt.2023.1219479",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S92766711",
+            "display_name": "Frontiers in Psychiatry",
+            "issn_l": "1664-0640",
+            "issn": [
+              "1664-0640"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310320527",
+            "host_organization_name": "Frontiers Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320527"
+            ],
+            "host_organization_lineage_names": [
+              "Frontiers Media"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Frontiers in Psychiatry",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:38144474",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/38144474",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Frontiers in psychiatry",
+          "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:dare.uva.nl:openaire/d0bea128-824b-4fed-bee9-4dd60d484d44",
+          "is_oa": true,
+          "landing_page_url": "https://handle.uba.uva.nl/personal/pure/en/publications/toward-explainable-ai-xai-for-mental-health-detection-based-on-language-behavior(d0bea128-824b-4fed-bee9-4dd60d484d44).html",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400088",
+            "display_name": "UvA-DARE (University of Amsterdam)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I887064364",
+            "host_organization_name": "University of Amsterdam",
+            "host_organization_lineage": [
+              "https://openalex.org/I887064364"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Kerz, E, Zanwar, S, Qiao, Y & Wiechmann, D 2023, 'Toward explainable AI (XAI) for mental health detection based on language behavior', Frontiers in Psychiatry, vol. 14, 1219479. https://doi.org/10.3389/fpsyt.2023.1219479",
+          "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
+          "id": "pmh:oai:publications.rwth-aachen.de:976388",
+          "is_oa": true,
+          "landing_page_url": "https://publications.rwth-aachen.de/record/976388",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401362",
+            "display_name": "RWTH Publications (RWTH Aachen)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I887968799",
+            "host_organization_name": "RWTH Aachen University",
+            "host_organization_lineage": [
+              "https://openalex.org/I887968799"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Frontiers in psychiatry 14, 1219479 (2023). doi:10.3389/fpsyt.2023.1219479 special issue: \"AI Approach to the Psychiatric Diagnosis and Prediction / Xuntao Yin, Ke Hao, Bing Liu, Long Lu, Alan Charles Evans\"",
+          "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:10748510",
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10748510",
+          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10748510/pdf/fpsyt-14-1219479.pdf",
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Front Psychiatry",
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:7f2753d3684543e5bbab474da2e8211c",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/7f2753d3684543e5bbab474da2e8211c",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Frontiers in Psychiatry, Vol 14 (2023)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.3389/fpsyt.2023.1219479",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3389/fpsyt.2023.1219479",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S92766711",
+          "display_name": "Frontiers in Psychiatry",
+          "issn_l": "1664-0640",
+          "issn": [
+            "1664-0640"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320527",
+          "host_organization_name": "Frontiers Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320527"
+          ],
+          "host_organization_lineage_names": [
+            "Frontiers Media"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Frontiers in Psychiatry",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "display_name": "Peace, Justice and strong institutions",
+          "id": "https://metadata.un.org/sdg/16",
+          "score": 0.4699999988079071
+        }
+      ],
+      "awards": [
+        {
+          "id": "https://openalex.org/G4820597355",
+          "display_name": "Untersuchung der Rolle des Statistischen Lernens im Zweitspracherwerb",
+          "funder_award_id": "315280731",
+          "funder_id": "https://openalex.org/F4320320879",
+          "funder_display_name": "Deutsche Forschungsgemeinschaft"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320320879",
+          "display_name": "Deutsche Forschungsgemeinschaft",
+          "ror": "https://ror.org/018mejw64"
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 94,
+      "referenced_works": [
+        "https://openalex.org/W263633337",
+        "https://openalex.org/W636978781",
+        "https://openalex.org/W1514535095",
+        "https://openalex.org/W1526898363",
+        "https://openalex.org/W1614298861",
+        "https://openalex.org/W1671770126",
+        "https://openalex.org/W2025733776",
+        "https://openalex.org/W2040467972",
+        "https://openalex.org/W2064675550",
+        "https://openalex.org/W2071559616",
+        "https://openalex.org/W2102998034",
+        "https://openalex.org/W2107878631",
+        "https://openalex.org/W2108180674",
+        "https://openalex.org/W2123442489",
+        "https://openalex.org/W2132683166",
+        "https://openalex.org/W2133564696",
+        "https://openalex.org/W2140910804",
+        "https://openalex.org/W2151543699",
+        "https://openalex.org/W2153625321",
+        "https://openalex.org/W2157431583",
+        "https://openalex.org/W2162010436",
+        "https://openalex.org/W2250539671",
+        "https://openalex.org/W2250553926",
+        "https://openalex.org/W2252031683",
+        "https://openalex.org/W2252128283",
+        "https://openalex.org/W2282821441",
+        "https://openalex.org/W2313494261",
+        "https://openalex.org/W2489406233",
+        "https://openalex.org/W2563351168",
+        "https://openalex.org/W2582664174",
+        "https://openalex.org/W2614565044",
+        "https://openalex.org/W2620093535",
+        "https://openalex.org/W2729451077",
+        "https://openalex.org/W2759174152",
+        "https://openalex.org/W2777502251",
+        "https://openalex.org/W2788967885",
+        "https://openalex.org/W2896457183",
+        "https://openalex.org/W2908202331",
+        "https://openalex.org/W2913614159",
+        "https://openalex.org/W2945976633",
+        "https://openalex.org/W2947379793",
+        "https://openalex.org/W2955277345",
+        "https://openalex.org/W2963261455",
+        "https://openalex.org/W2965373594",
+        "https://openalex.org/W2981543585",
+        "https://openalex.org/W2984239773",
+        "https://openalex.org/W2987392802",
+        "https://openalex.org/W3003446307",
+        "https://openalex.org/W3013908145",
+        "https://openalex.org/W3016627098",
+        "https://openalex.org/W3034323190",
+        "https://openalex.org/W3034674374",
+        "https://openalex.org/W3090395639",
+        "https://openalex.org/W3094739916",
+        "https://openalex.org/W3101200480",
+        "https://openalex.org/W3111058005",
+        "https://openalex.org/W3138276986",
+        "https://openalex.org/W3154477404",
+        "https://openalex.org/W3169387186",
+        "https://openalex.org/W3169971770",
+        "https://openalex.org/W3197232629",
+        "https://openalex.org/W3203404130",
+        "https://openalex.org/W3209409148",
+        "https://openalex.org/W3216936753",
+        "https://openalex.org/W4200608622",
+        "https://openalex.org/W4206361803",
+        "https://openalex.org/W4214503601",
+        "https://openalex.org/W4221073130",
+        "https://openalex.org/W4223610593",
+        "https://openalex.org/W4238095402",
+        "https://openalex.org/W4251591997",
+        "https://openalex.org/W4287887550",
+        "https://openalex.org/W4297965481",
+        "https://openalex.org/W4298030274",
+        "https://openalex.org/W4313451349",
+        "https://openalex.org/W4320921249",
+        "https://openalex.org/W6609784555",
+        "https://openalex.org/W6630875275",
+        "https://openalex.org/W6636510571",
+        "https://openalex.org/W6679434410",
+        "https://openalex.org/W6682209933",
+        "https://openalex.org/W6683937847",
+        "https://openalex.org/W6691376314",
+        "https://openalex.org/W6691455794",
+        "https://openalex.org/W6731031554",
+        "https://openalex.org/W6751810669",
+        "https://openalex.org/W6752309087",
+        "https://openalex.org/W6755207826",
+        "https://openalex.org/W6766673545",
+        "https://openalex.org/W6772897110",
+        "https://openalex.org/W6783672905",
+        "https://openalex.org/W6794193156",
+        "https://openalex.org/W6796614400",
+        "https://openalex.org/W6802958121"
+      ],
+      "related_works": [
+        "https://openalex.org/W1986582023",
+        "https://openalex.org/W2883749686",
+        "https://openalex.org/W2961085424",
+        "https://openalex.org/W2966829450",
+        "https://openalex.org/W4306674287",
+        "https://openalex.org/W3046775127",
+        "https://openalex.org/W3107602296",
+        "https://openalex.org/W3170094116",
+        "https://openalex.org/W4386462264",
+        "https://openalex.org/W4313488044"
+      ],
+      "abstract_inverted_index": {
+        "Advances": [
+          0
+        ],
+        "in": [
+          1,
+          5,
+          12,
+          35,
+          60,
+          65,
+          72,
+          113
+        ],
+        "artificial": [
+          2
+        ],
+        "intelligence": [
+          3
+        ],
+        "(AI)": [
+          4
+        ],
+        "general": [
+          6
+        ],
+        "and": [
+          7,
+          24,
+          92,
+          146,
+          179,
+          251,
+          268,
+          316
+        ],
+        "Natural": [
+          8
+        ],
+        "Language": [
+          9
+        ],
+        "Processing": [
+          10
+        ],
+        "(NLP)": [
+          11
+        ],
+        "particular": [
+          13
+        ],
+        "are": [
+          14,
+          297
+        ],
+        "paving": [
+          15
+        ],
+        "the": [
+          16,
+          21,
+          31,
+          66,
+          114,
+          142,
+          200,
+          213,
+          231,
+          234,
+          261,
+          280,
+          286
+        ],
+        "new": [
+          17
+        ],
+        "way": [
+          18
+        ],
+        "forward": [
+          19
+        ],
+        "for": [
+          20,
+          84,
+          225
+        ],
+        "automated": [
+          22
+        ],
+        "detection": [
+          23,
+          118
+        ],
+        "prediction": [
+          25
+        ],
+        "of": [
+          26,
+          63,
+          97,
+          110,
+          116,
+          119,
+          133,
+          164,
+          189,
+          215,
+          233,
+          283
+        ],
+        "mental": [
+          27,
+          120,
+          150,
+          208,
+          226,
+          307
+        ],
+        "health": [
+          28,
+          151,
+          209,
+          227,
+          308
+        ],
+        "disorders": [
+          29,
+          121
+        ],
+        "among": [
+          30
+        ],
+        "population.": [
+          32
+        ],
+        "Recent": [
+          33
+        ],
+        "research": [
+          34
+        ],
+        "this": [
+          36,
+          98,
+          134
+        ],
+        "area": [
+          37
+        ],
+        "has": [
+          38
+        ],
+        "prioritized": [
+          39
+        ],
+        "predictive": [
+          40,
+          53,
+          149
+        ],
+        "accuracy": [
+          41,
+          54,
+          145
+        ],
+        "over": [
+          42,
+          55
+        ],
+        "model": [
+          43,
+          56
+        ],
+        "interpretability": [
+          44,
+          57,
+          147,
+          232
+        ],
+        "by": [
+          45,
+          105
+        ],
+        "relying": [
+          46
+        ],
+        "on": [
+          47,
+          160,
+          290,
+          299
+        ],
+        "deep": [
+          48
+        ],
+        "learning": [
+          49,
+          242
+        ],
+        "methods.": [
+          50
+        ],
+        "However,": [
+          51
+        ],
+        "prioritizing": [
+          52
+        ],
+        "can": [
+          58
+        ],
+        "result": [
+          59
+        ],
+        "a": [
+          61,
+          81,
+          103,
+          107,
+          161,
+          219,
+          239,
+          269
+        ],
+        "lack": [
+          62
+        ],
+        "transparency": [
+          64
+        ],
+        "decision-making": [
+          67
+        ],
+        "process,": [
+          68
+        ],
+        "which": [
+          69
+        ],
+        "is": [
+          70,
+          79,
+          100
+        ],
+        "critical": [
+          71
+        ],
+        "sensitive": [
+          73
+        ],
+        "applications": [
+          74
+        ],
+        "such": [
+          75
+        ],
+        "as": [
+          76,
+          175,
+          177
+        ],
+        "healthcare.": [
+          77
+        ],
+        "There": [
+          78
+        ],
+        "thus": [
+          80
+        ],
+        "growing": [
+          82
+        ],
+        "need": [
+          83
+        ],
+        "explainable": [
+          85
+        ],
+        "AI": [
+          86
+        ],
+        "(XAI)": [
+          87
+        ],
+        "approaches": [
+          88,
+          112,
+          296
+        ],
+        "to": [
+          89,
+          101,
+          140,
+          185,
+          198,
+          278
+        ],
+        "psychiatric": [
+          90
+        ],
+        "diagnosis": [
+          91
+        ],
+        "prediction.": [
+          93
+        ],
+        "The": [
+          94
+        ],
+        "main": [
+          95
+        ],
+        "aim": [
+          96
+        ],
+        "work": [
+          99
+        ],
+        "address": [
+          102
+        ],
+        "gap": [
+          104
+        ],
+        "conducting": [
+          106
+        ],
+        "systematic": [
+          108
+        ],
+        "investigation": [
+          109
+        ],
+        "XAI": [
+          111
+        ],
+        "realm": [
+          115
+        ],
+        "automatic": [
+          117
+        ],
+        "from": [
+          122,
+          128,
+          182,
+          246
+        ],
+        "language": [
+          123,
+          190
+        ],
+        "behavior": [
+          124
+        ],
+        "leveraging": [
+          125
+        ],
+        "textual": [
+          126
+        ],
+        "data": [
+          127
+        ],
+        "social": [
+          129
+        ],
+        "media.": [
+          130
+        ],
+        "In": [
+          131
+        ],
+        "pursuit": [
+          132
+        ],
+        "aim,": [
+          135
+        ],
+        "we": [
+          136,
+          155,
+          237,
+          255
+        ],
+        "perform": [
+          137
+        ],
+        "extensive": [
+          138,
+          194
+        ],
+        "experiments": [
+          139,
+          197
+        ],
+        "evaluate": [
+          141
+        ],
+        "balance": [
+          143
+        ],
+        "between": [
+          144
+        ],
+        "across": [
+          148
+        ],
+        "models.": [
+          152
+        ],
+        "More": [
+          153
+        ],
+        "specifically,": [
+          154
+        ],
+        "build": [
+          156
+        ],
+        "BiLSTM": [
+          157
+        ],
+        "models": [
+          158,
+          217,
+          288
+        ],
+        "trained": [
+          159
+        ],
+        "comprehensive": [
+          162
+        ],
+        "set": [
+          163
+        ],
+        "human-interpretable": [
+          165
+        ],
+        "features,": [
+          166
+        ],
+        "encompassing": [
+          167
+        ],
+        "syntactic": [
+          168
+        ],
+        "complexity,": [
+          169
+        ],
+        "lexical": [
+          170
+        ],
+        "sophistication,": [
+          171
+        ],
+        "readability,": [
+          172
+        ],
+        "cohesion,": [
+          173
+        ],
+        "stylistics,": [
+          174
+        ],
+        "well": [
+          176
+        ],
+        "topics": [
+          178
+        ],
+        "sentiment/emotions": [
+          180
+        ],
+        "derived": [
+          181
+        ],
+        "lexicon-based": [
+          183
+        ],
+        "dictionaries": [
+          184
+        ],
+        "capture": [
+          186
+        ],
+        "multiple": [
+          187
+        ],
+        "dimensions": [
+          188
+        ],
+        "production.": [
+          191
+        ],
+        "We": [
+          192,
+          211
+        ],
+        "conduct": [
+          193
+        ],
+        "feature": [
+          195,
+          203
+        ],
+        "ablation": [
+          196
+        ],
+        "determine": [
+          199
+        ],
+        "most": [
+          201
+        ],
+        "informative": [
+          202
+        ],
+        "groups": [
+          204
+        ],
+        "associated": [
+          205
+        ],
+        "with": [
+          206
+        ],
+        "specific": [
+          207,
+          281
+        ],
+        "conditions.": [
+          210
+        ],
+        "juxtapose": [
+          212
+        ],
+        "performance": [
+          214
+        ],
+        "these": [
+          216
+        ],
+        "against": [
+          218
+        ],
+        "\"black-box\"": [
+          220
+        ],
+        "domain-specific": [
+          221
+        ],
+        "pretrained": [
+          222
+        ],
+        "transformer": [
+          223
+        ],
+        "adapted": [
+          224
+        ],
+        "applications.": [
+          228
+        ],
+        "To": [
+          229
+        ],
+        "enhance": [
+          230
+        ],
+        "transformers": [
+          235
+        ],
+        "models,": [
+          236
+        ],
+        "utilize": [
+          238
+        ],
+        "multi-task": [
+          240
+        ],
+        "fusion": [
+          241
+        ],
+        "framework": [
+          243
+        ],
+        "infusing": [
+          244
+        ],
+        "information": [
+          245
+        ],
+        "two": [
+          247,
+          257,
+          300
+        ],
+        "relevant": [
+          248
+        ],
+        "domains": [
+          249
+        ],
+        "(emotion": [
+          250
+        ],
+        "personality": [
+          252
+        ],
+        "traits).": [
+          253
+        ],
+        "Moreover,": [
+          254
+        ],
+        "employ": [
+          256
+        ],
+        "distinct": [
+          258
+        ],
+        "explanation": [
+          259
+        ],
+        "techniques:": [
+          260
+        ],
+        "local": [
+          262
+        ],
+        "interpretable": [
+          263
+        ],
+        "model-agnostic": [
+          264
+        ],
+        "explanations": [
+          265
+        ],
+        "(LIME)": [
+          266
+        ],
+        "method": [
+          267,
+          272
+        ],
+        "model-specific": [
+          270
+        ],
+        "self-explaining": [
+          271
+        ],
+        "(AGRAD).": [
+          273
+        ],
+        "These": [
+          274
+        ],
+        "methods": [
+          275
+        ],
+        "allow": [
+          276
+        ],
+        "us": [
+          277
+        ],
+        "discern": [
+          279
+        ],
+        "categories": [
+          282
+        ],
+        "words": [
+          284
+        ],
+        "that": [
+          285
+        ],
+        "information-infused": [
+          287
+        ],
+        "rely": [
+          289
+        ],
+        "when": [
+          291
+        ],
+        "generating": [
+          292
+        ],
+        "predictions.": [
+          293
+        ],
+        "Our": [
+          294
+        ],
+        "proposed": [
+          295
+        ],
+        "evaluated": [
+          298
+        ],
+        "public": [
+          301
+        ],
+        "English": [
+          302
+        ],
+        "benchmark": [
+          303
+        ],
+        "datasets,": [
+          304
+        ],
+        "subsuming": [
+          305
+        ],
+        "five": [
+          306
+        ],
+        "conditions": [
+          309
+        ],
+        "(attention-deficit/hyperactivity": [
+          310
+        ],
+        "disorder,": [
+          311,
+          314
+        ],
+        "anxiety,": [
+          312
+        ],
+        "bipolar": [
+          313
+        ],
+        "depression": [
+          315
+        ],
+        "psychological": [
+          317
+        ],
+        "stress).": [
+          318
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 46
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 41
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 12
+        }
+      ],
+      "updated_date": "2026-09-22T06:50:58.402377",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10748510/pdf/fpsyt-14-1219479.pdf",
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

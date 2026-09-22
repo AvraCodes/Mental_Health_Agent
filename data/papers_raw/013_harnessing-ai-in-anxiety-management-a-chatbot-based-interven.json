@@ -1,0 +1,1217 @@
+{
+  "id": 13,
+  "original": {
+    "id": 13,
+    "paper_name": "Harnessing AI in Anxiety Management: A Chatbot-Based Intervention for Personalized Mental Health Support",
+    "site": "OpenAlex",
+    "venue_of_publication": "Information",
+    "year": 2024,
+    "researcher_info": "Alexia Manole, Răzvan Cârciumaru et al."
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T10:58:23.268306+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "Harnessing AI in Anxiety Management: A Chatbot-Based Intervention for Personalized Mental Health Support",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W4404999469",
+    "doi": "https://doi.org/10.3390/info15120768",
+    "title_matched": "Harnessing AI in Anxiety Management: A Chatbot-Based Intervention for Personalized Mental Health Support",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2024,
+    "venue": "Information",
+    "authors": [
+      "Alexia Manole",
+      "Răzvan Cârciumaru",
+      "Rodica Brînzaș",
+      "Felicia Manole"
+    ],
+    "abstract": "Anxiety disorders represent one of the most widespread mental health challenges globally, yet access to traditional therapeutic interventions remains constrained, particularly in resource-limited settings. This study evaluated the effectiveness of an AI-powered chatbot, developed using ChatGPT, in managing anxiety symptoms through evidence-based cognitive-behavioral therapy (CBT) techniques. Fifty participants with mild to moderate anxiety symptoms engaged with the chatbot over two observational phases, each lasting seven days. The chatbot delivered personalized interventions, including mindfulness exercises, cognitive restructuring, and breathing techniques, and was accessible 24/7 to provide real-time support during emotional distress. The findings revealed a significant reduction in anxiety symptoms in both phases, with an average improvement of 21.15% in Phase 1 and 20.42% in Phase 2. Enhanced engagement in Phase 2 suggested the potential for sustained usability and familiarity with the chatbot’s functions. While participants reported high satisfaction with the accessibility and personalization of the chatbot, its inability to replicate human empathy underscored the importance of integrating AI tools with human oversight for optimal outcomes. This study highlights the potential of AI-driven interventions as valuable complements to traditional therapy, providing scalable and accessible mental health support, particularly in regions with limited access to professional services.",
+    "cited_by_count": 40,
+    "is_oa": true,
+    "pdf_url": "https://www.mdpi.com/2078-2489/15/12/768/pdf?version=1733199035",
+    "pdf_candidates": [
+      "https://www.mdpi.com/2078-2489/15/12/768/pdf?version=1733199035"
+    ],
+    "landing_page_url": "https://doi.org/10.3390/info15120768",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W4404999469",
+      "doi": "https://doi.org/10.3390/info15120768",
+      "title": "Harnessing AI in Anxiety Management: A Chatbot-Based Intervention for Personalized Mental Health Support",
+      "display_name": "Harnessing AI in Anxiety Management: A Chatbot-Based Intervention for Personalized Mental Health Support",
+      "relevance_score": 2658.0557,
+      "publication_year": 2024,
+      "publication_date": "2024-12-02",
+      "ids": {
+        "openalex": "https://openalex.org/W4404999469",
+        "doi": "https://doi.org/10.3390/info15120768"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3390/info15120768",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/info15120768",
+        "pdf_url": "https://www.mdpi.com/2078-2489/15/12/768/pdf?version=1733199035",
+        "source": {
+          "id": "https://openalex.org/S4210219776",
+          "display_name": "Information",
+          "issn_l": "2078-2489",
+          "issn": [
+            "2078-2489"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Information",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2078-2489/15/12/768/pdf?version=1733199035",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5108625683",
+            "display_name": "Alexia Manole",
+            "orcid": "https://orcid.org/0009-0005-3410-3870"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I162871001",
+              "display_name": "University of Oradea",
+              "ror": "https://ror.org/00wzhv093",
+              "country_code": "RO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I162871001"
+              ]
+            }
+          ],
+          "countries": [
+            "RO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Alexia Manole",
+          "raw_affiliation_strings": [
+            "Faculty of Medicine, University of Oradea, 410087 Oradea, Romania"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0005-3410-3870",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculty of Medicine, University of Oradea, 410087 Oradea, Romania",
+              "institution_ids": [
+                "https://openalex.org/I162871001"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5114991347",
+            "display_name": "Răzvan Cârciumaru",
+            "orcid": "https://orcid.org/0009-0005-1743-6606"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I162871001",
+              "display_name": "University of Oradea",
+              "ror": "https://ror.org/00wzhv093",
+              "country_code": "RO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I162871001"
+              ]
+            }
+          ],
+          "countries": [
+            "RO"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Răzvan Cârciumaru",
+          "raw_affiliation_strings": [
+            "Doctoral School of Sociology, Faculty of Social and Human Sciences, University of Oradea, 410087 Oradea, Romania"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0005-1743-6606",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Doctoral School of Sociology, Faculty of Social and Human Sciences, University of Oradea, 410087 Oradea, Romania",
+              "institution_ids": [
+                "https://openalex.org/I162871001"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5114991348",
+            "display_name": "Rodica Brînzaș",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Rodica Brînzaș",
+          "raw_affiliation_strings": [
+            "Independent Researcher, 031046 Bucharest, Romania"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Independent Researcher, 031046 Bucharest, Romania",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5059236955",
+            "display_name": "Felicia Manole",
+            "orcid": "https://orcid.org/0000-0002-2153-1148"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I162871001",
+              "display_name": "University of Oradea",
+              "ror": "https://ror.org/00wzhv093",
+              "country_code": "RO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I162871001"
+              ]
+            }
+          ],
+          "countries": [
+            "RO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Felicia Manole",
+          "raw_affiliation_strings": [
+            "ENT Department, Faculty of Medicine, University of Oradea, 410087 Oradea, Romania"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "ENT Department, Faculty of Medicine, University of Oradea, 410087 Oradea, Romania",
+              "institution_ids": [
+                "https://openalex.org/I162871001"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5114991347"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I162871001"
+      ],
+      "apc_list": {
+        "value": 1600,
+        "currency": "CHF",
+        "value_usd": 1819
+      },
+      "apc_paid": {
+        "value": 1600,
+        "currency": "CHF",
+        "value_usd": 1819
+      },
+      "fwci": 11.3177,
+      "has_fulltext": true,
+      "cited_by_count": 40,
+      "citation_normalized_percentile": {
+        "value": 0.99082341,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "15",
+        "issue": "12",
+        "first_page": "768",
+        "last_page": "768"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11519",
+        "display_name": "Digital Mental Health Interventions",
+        "score": 0.9998000264167786,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3202",
+          "display_name": "Applied Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11519",
+          "display_name": "Digital Mental Health Interventions",
+          "score": 0.9998000264167786,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3202",
+            "display_name": "Applied Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13283",
+          "display_name": "Mental Health Research Topics",
+          "score": 0.9973999857902527,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3205",
+            "display_name": "Experimental and Cognitive Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10853",
+          "display_name": "Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes",
+          "score": 0.9929999709129333,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3205",
+            "display_name": "Experimental and Cognitive Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/chatbot",
+          "display_name": "Chatbot",
+          "score": 0.87847900390625
+        },
+        {
+          "id": "https://openalex.org/keywords/psychological-intervention",
+          "display_name": "Psychological intervention",
+          "score": 0.7176991105079651
+        },
+        {
+          "id": "https://openalex.org/keywords/anxiety",
+          "display_name": "Anxiety",
+          "score": 0.6296438574790955
+        },
+        {
+          "id": "https://openalex.org/keywords/mindfulness",
+          "display_name": "Mindfulness",
+          "score": 0.5882071852684021
+        },
+        {
+          "id": "https://openalex.org/keywords/mental-health",
+          "display_name": "Mental health",
+          "score": 0.5264871120452881
+        },
+        {
+          "id": "https://openalex.org/keywords/personalization",
+          "display_name": "Personalization",
+          "score": 0.508026123046875
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.44742491841316223
+        },
+        {
+          "id": "https://openalex.org/keywords/usability",
+          "display_name": "Usability",
+          "score": 0.4358081817626953
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.4017930030822754
+        },
+        {
+          "id": "https://openalex.org/keywords/clinical-psychology",
+          "display_name": "Clinical psychology",
+          "score": 0.3197249174118042
+        },
+        {
+          "id": "https://openalex.org/keywords/nursing",
+          "display_name": "Nursing",
+          "score": 0.25087302923202515
+        },
+        {
+          "id": "https://openalex.org/keywords/psychiatry",
+          "display_name": "Psychiatry",
+          "score": 0.21126484870910645
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.18273067474365234
+        },
+        {
+          "id": "https://openalex.org/keywords/world-wide-web",
+          "display_name": "World Wide Web",
+          "score": 0.17694434523582458
+        },
+        {
+          "id": "https://openalex.org/keywords/human–computer-interaction",
+          "display_name": "Human–computer interaction",
+          "score": 0.09097909927368164
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2779041454",
+          "wikidata": "https://www.wikidata.org/wiki/Q870780",
+          "display_name": "Chatbot",
+          "level": 2,
+          "score": 0.87847900390625
+        },
+        {
+          "id": "https://openalex.org/C27415008",
+          "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+          "display_name": "Psychological intervention",
+          "level": 2,
+          "score": 0.7176991105079651
+        },
+        {
+          "id": "https://openalex.org/C558461103",
+          "wikidata": "https://www.wikidata.org/wiki/Q154430",
+          "display_name": "Anxiety",
+          "level": 2,
+          "score": 0.6296438574790955
+        },
+        {
+          "id": "https://openalex.org/C2780444219",
+          "wikidata": "https://www.wikidata.org/wiki/Q341045",
+          "display_name": "Mindfulness",
+          "level": 2,
+          "score": 0.5882071852684021
+        },
+        {
+          "id": "https://openalex.org/C134362201",
+          "wikidata": "https://www.wikidata.org/wiki/Q317309",
+          "display_name": "Mental health",
+          "level": 2,
+          "score": 0.5264871120452881
+        },
+        {
+          "id": "https://openalex.org/C183003079",
+          "wikidata": "https://www.wikidata.org/wiki/Q1000371",
+          "display_name": "Personalization",
+          "level": 2,
+          "score": 0.508026123046875
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.44742491841316223
+        },
+        {
+          "id": "https://openalex.org/C170130773",
+          "wikidata": "https://www.wikidata.org/wiki/Q216378",
+          "display_name": "Usability",
+          "level": 2,
+          "score": 0.4358081817626953
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.4017930030822754
+        },
+        {
+          "id": "https://openalex.org/C70410870",
+          "wikidata": "https://www.wikidata.org/wiki/Q199906",
+          "display_name": "Clinical psychology",
+          "level": 1,
+          "score": 0.3197249174118042
+        },
+        {
+          "id": "https://openalex.org/C159110408",
+          "wikidata": "https://www.wikidata.org/wiki/Q121176",
+          "display_name": "Nursing",
+          "level": 1,
+          "score": 0.25087302923202515
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.21126484870910645
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.18273067474365234
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.17694434523582458
+        },
+        {
+          "id": "https://openalex.org/C107457646",
+          "wikidata": "https://www.wikidata.org/wiki/Q207434",
+          "display_name": "Human–computer interaction",
+          "level": 1,
+          "score": 0.09097909927368164
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.3390/info15120768",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3390/info15120768",
+          "pdf_url": "https://www.mdpi.com/2078-2489/15/12/768/pdf?version=1733199035",
+          "source": {
+            "id": "https://openalex.org/S4210219776",
+            "display_name": "Information",
+            "issn_l": "2078-2489",
+            "issn": [
+              "2078-2489"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310310987",
+            "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310310987"
+            ],
+            "host_organization_lineage_names": [
+              "Multidisciplinary Digital Publishing Institute"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Information",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:85c1b18a60224c758c90fa38ded71fbc",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/85c1b18a60224c758c90fa38ded71fbc",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Information, Vol 15, Iss 12, p 768 (2024)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.3390/info15120768",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/info15120768",
+        "pdf_url": "https://www.mdpi.com/2078-2489/15/12/768/pdf?version=1733199035",
+        "source": {
+          "id": "https://openalex.org/S4210219776",
+          "display_name": "Information",
+          "issn_l": "2078-2489",
+          "issn": [
+            "2078-2489"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Information",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4404999469.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4404999469.grobid-xml"
+      },
+      "referenced_works_count": 60,
+      "referenced_works": [
+        "https://openalex.org/W1562272706",
+        "https://openalex.org/W1971609484",
+        "https://openalex.org/W1975135356",
+        "https://openalex.org/W1989777957",
+        "https://openalex.org/W2033442056",
+        "https://openalex.org/W2042684841",
+        "https://openalex.org/W2043705607",
+        "https://openalex.org/W2073368145",
+        "https://openalex.org/W2154603378",
+        "https://openalex.org/W2198858763",
+        "https://openalex.org/W2552412569",
+        "https://openalex.org/W2623779865",
+        "https://openalex.org/W2889335577",
+        "https://openalex.org/W2897690397",
+        "https://openalex.org/W2920018355",
+        "https://openalex.org/W2966230561",
+        "https://openalex.org/W2971508031",
+        "https://openalex.org/W2980981514",
+        "https://openalex.org/W2982580298",
+        "https://openalex.org/W2985355520",
+        "https://openalex.org/W3009960330",
+        "https://openalex.org/W3089862415",
+        "https://openalex.org/W3121633856",
+        "https://openalex.org/W3136662034",
+        "https://openalex.org/W3176281181",
+        "https://openalex.org/W3196053298",
+        "https://openalex.org/W4211152981",
+        "https://openalex.org/W4213058852",
+        "https://openalex.org/W4286776471",
+        "https://openalex.org/W4293900347",
+        "https://openalex.org/W4313049654",
+        "https://openalex.org/W4322501682",
+        "https://openalex.org/W4377289112",
+        "https://openalex.org/W4379185418",
+        "https://openalex.org/W4385460233",
+        "https://openalex.org/W4386117324",
+        "https://openalex.org/W4386208465",
+        "https://openalex.org/W4386265024",
+        "https://openalex.org/W4386266561",
+        "https://openalex.org/W4386626670",
+        "https://openalex.org/W4386958277",
+        "https://openalex.org/W4388142179",
+        "https://openalex.org/W4389168216",
+        "https://openalex.org/W4389934892",
+        "https://openalex.org/W4391971084",
+        "https://openalex.org/W4392296848",
+        "https://openalex.org/W4393180839",
+        "https://openalex.org/W4395075560",
+        "https://openalex.org/W4396567897",
+        "https://openalex.org/W4396845061",
+        "https://openalex.org/W4399593807",
+        "https://openalex.org/W4399740999",
+        "https://openalex.org/W4400350337",
+        "https://openalex.org/W4401075978",
+        "https://openalex.org/W4401386758",
+        "https://openalex.org/W4401943355",
+        "https://openalex.org/W4402835704",
+        "https://openalex.org/W4403203075",
+        "https://openalex.org/W6633653295",
+        "https://openalex.org/W6858494612"
+      ],
+      "related_works": [
+        "https://openalex.org/W4383501580",
+        "https://openalex.org/W4214931137",
+        "https://openalex.org/W4313813117",
+        "https://openalex.org/W4382052417",
+        "https://openalex.org/W3192088754",
+        "https://openalex.org/W4387007686",
+        "https://openalex.org/W3084631705",
+        "https://openalex.org/W3176146353",
+        "https://openalex.org/W4293646425",
+        "https://openalex.org/W3150216605"
+      ],
+      "abstract_inverted_index": {
+        "Anxiety": [
+          0
+        ],
+        "disorders": [
+          1
+        ],
+        "represent": [
+          2
+        ],
+        "one": [
+          3
+        ],
+        "of": [
+          4,
+          29,
+          106,
+          143,
+          155,
+          170
+        ],
+        "the": [
+          5,
+          27,
+          56,
+          122,
+          130,
+          139,
+          144,
+          153,
+          168
+        ],
+        "most": [
+          6
+        ],
+        "widespread": [
+          7
+        ],
+        "mental": [
+          8,
+          183
+        ],
+        "health": [
+          9,
+          184
+        ],
+        "challenges": [
+          10
+        ],
+        "globally,": [
+          11
+        ],
+        "yet": [
+          12
+        ],
+        "access": [
+          13,
+          191
+        ],
+        "to": [
+          14,
+          50,
+          83,
+          148,
+          176,
+          192
+        ],
+        "traditional": [
+          15,
+          177
+        ],
+        "therapeutic": [
+          16
+        ],
+        "interventions": [
+          17,
+          172
+        ],
+        "remains": [
+          18
+        ],
+        "constrained,": [
+          19
+        ],
+        "particularly": [
+          20,
+          186
+        ],
+        "in": [
+          21,
+          36,
+          96,
+          99,
+          108,
+          113,
+          118,
+          187
+        ],
+        "resource-limited": [
+          22
+        ],
+        "settings.": [
+          23
+        ],
+        "This": [
+          24,
+          165
+        ],
+        "study": [
+          25,
+          166
+        ],
+        "evaluated": [
+          26
+        ],
+        "effectiveness": [
+          28
+        ],
+        "an": [
+          30,
+          103
+        ],
+        "AI-powered": [
+          31
+        ],
+        "chatbot,": [
+          32,
+          145
+        ],
+        "developed": [
+          33
+        ],
+        "using": [
+          34
+        ],
+        "ChatGPT,": [
+          35
+        ],
+        "managing": [
+          37
+        ],
+        "anxiety": [
+          38,
+          52,
+          97
+        ],
+        "symptoms": [
+          39,
+          53,
+          98
+        ],
+        "through": [
+          40
+        ],
+        "evidence-based": [
+          41
+        ],
+        "cognitive-behavioral": [
+          42
+        ],
+        "therapy": [
+          43
+        ],
+        "(CBT)": [
+          44
+        ],
+        "techniques.": [
+          45
+        ],
+        "Fifty": [
+          46
+        ],
+        "participants": [
+          47,
+          134
+        ],
+        "with": [
+          48,
+          55,
+          102,
+          129,
+          138,
+          159,
+          189
+        ],
+        "mild": [
+          49
+        ],
+        "moderate": [
+          51
+        ],
+        "engaged": [
+          54
+        ],
+        "chatbot": [
+          57,
+          67
+        ],
+        "over": [
+          58
+        ],
+        "two": [
+          59
+        ],
+        "observational": [
+          60
+        ],
+        "phases,": [
+          61,
+          101
+        ],
+        "each": [
+          62
+        ],
+        "lasting": [
+          63
+        ],
+        "seven": [
+          64
+        ],
+        "days.": [
+          65
+        ],
+        "The": [
+          66,
+          90
+        ],
+        "delivered": [
+          68
+        ],
+        "personalized": [
+          69
+        ],
+        "interventions,": [
+          70
+        ],
+        "including": [
+          71
+        ],
+        "mindfulness": [
+          72
+        ],
+        "exercises,": [
+          73
+        ],
+        "cognitive": [
+          74
+        ],
+        "restructuring,": [
+          75
+        ],
+        "and": [
+          76,
+          79,
+          111,
+          127,
+          141,
+          181
+        ],
+        "breathing": [
+          77
+        ],
+        "techniques,": [
+          78
+        ],
+        "was": [
+          80
+        ],
+        "accessible": [
+          81,
+          182
+        ],
+        "24/7": [
+          82
+        ],
+        "provide": [
+          84
+        ],
+        "real-time": [
+          85
+        ],
+        "support": [
+          86
+        ],
+        "during": [
+          87
+        ],
+        "emotional": [
+          88
+        ],
+        "distress.": [
+          89
+        ],
+        "findings": [
+          91
+        ],
+        "revealed": [
+          92
+        ],
+        "a": [
+          93
+        ],
+        "significant": [
+          94
+        ],
+        "reduction": [
+          95
+        ],
+        "both": [
+          100
+        ],
+        "average": [
+          104
+        ],
+        "improvement": [
+          105
+        ],
+        "21.15%": [
+          107
+        ],
+        "Phase": [
+          109,
+          114,
+          119
+        ],
+        "1": [
+          110
+        ],
+        "20.42%": [
+          112
+        ],
+        "2.": [
+          115
+        ],
+        "Enhanced": [
+          116
+        ],
+        "engagement": [
+          117
+        ],
+        "2": [
+          120
+        ],
+        "suggested": [
+          121
+        ],
+        "potential": [
+          123,
+          169
+        ],
+        "for": [
+          124,
+          162
+        ],
+        "sustained": [
+          125
+        ],
+        "usability": [
+          126
+        ],
+        "familiarity": [
+          128
+        ],
+        "chatbot’s": [
+          131
+        ],
+        "functions.": [
+          132
+        ],
+        "While": [
+          133
+        ],
+        "reported": [
+          135
+        ],
+        "high": [
+          136
+        ],
+        "satisfaction": [
+          137
+        ],
+        "accessibility": [
+          140
+        ],
+        "personalization": [
+          142
+        ],
+        "its": [
+          146
+        ],
+        "inability": [
+          147
+        ],
+        "replicate": [
+          149
+        ],
+        "human": [
+          150,
+          160
+        ],
+        "empathy": [
+          151
+        ],
+        "underscored": [
+          152
+        ],
+        "importance": [
+          154
+        ],
+        "integrating": [
+          156
+        ],
+        "AI": [
+          157
+        ],
+        "tools": [
+          158
+        ],
+        "oversight": [
+          161
+        ],
+        "optimal": [
+          163
+        ],
+        "outcomes.": [
+          164
+        ],
+        "highlights": [
+          167
+        ],
+        "AI-driven": [
+          171
+        ],
+        "as": [
+          173
+        ],
+        "valuable": [
+          174
+        ],
+        "complements": [
+          175
+        ],
+        "therapy,": [
+          178
+        ],
+        "providing": [
+          179
+        ],
+        "scalable": [
+          180
+        ],
+        "support,": [
+          185
+        ],
+        "regions": [
+          188
+        ],
+        "limited": [
+          190
+        ],
+        "professional": [
+          193
+        ],
+        "services.": [
+          194
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 18
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 21
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-08-28T12:50:07.497085",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": "https://www.mdpi.com/2078-2489/15/12/768/pdf?version=1733199035",
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

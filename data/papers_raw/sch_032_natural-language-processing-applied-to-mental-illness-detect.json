@@ -1,0 +1,32 @@
+{
+  "id": "sch-032",
+  "original": {
+    "paper_name": "Natural language processing applied to mental illness detection: a narrative review",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "depression detection natural language processing",
+  "scraped_at": "2026-09-22T11:19:33.937412+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "depression detection natural language processing",
+    "title_matched": "Natural language processing applied to mental illness detection: a narrative review",
+    "authors": [
+      "T Zhang",
+      "AM Schoene",
+      "S Ji",
+      "S Ananiadou"
+    ],
+    "year": 2022,
+    "venue": "NPJ digital medicine",
+    "cited_by": 615,
+    "landing_page_url": "https://www.nature.com/articles/s41746-022-00589-7",
+    "snippet": "… emotion recognition as a primary task and depression detection as a secondary task. The …\nReinforcement learning was also used in depression detection143,144 to enable the model …",
+    "pdf_url": "https://www.nature.com/articles/s41746-022-00589-7.pdf"
+  },
+  "pdf_file": "sch_032_natural-language-processing-applied-to-mental-illness-detect.pdf",
+  "pdf_url": "https://www.nature.com/articles/s41746-022-00589-7.pdf",
+  "pdf_verified": true
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sch-020",
+  "original": {
+    "paper_name": "Machine learning approaches to automatic stress detection: A review",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "stress detection machine learning",
+  "scraped_at": "2026-09-22T11:18:58.008271+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "stress detection machine learning",
+    "title_matched": "Machine learning approaches to automatic stress detection: A review",
+    "authors": [
+      "S Elzeiny",
+      "M Qaraqe"
+    ],
+    "year": 2018,
+    "venue": "2018 IEEE/ACS 15th International …",
+    "cited_by": 70,
+    "landing_page_url": "https://ieeexplore.ieee.org/abstract/document/8612825/",
+    "snippet": "… stress or a strong response to stress can be harmful. For this reason, the detection of mental\nstress, … in the literature for stress detection using machine learning and suggest directions for …",
+    "pdf_url": null
+  },
+  "pdf_file": null,
+  "pdf_url": null
+}

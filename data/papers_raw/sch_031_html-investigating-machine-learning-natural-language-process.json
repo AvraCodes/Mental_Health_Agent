@@ -1,0 +1,29 @@
+{
+  "id": "sch-031",
+  "original": {
+    "paper_name": "[HTML] Investigating machine learning & natural language processing techniques applied for predicting depression disorder from online support forums: A systematic …",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "depression detection natural language processing",
+  "scraped_at": "2026-09-22T11:19:33.121289+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "depression detection natural language processing",
+    "title_matched": "[HTML] Investigating machine learning & natural language processing techniques applied for predicting depression disorder from online support forums: A systematic …",
+    "authors": [
+      "IA Nanomi Arachchige",
+      "P Sandanapitchai"
+    ],
+    "year": 2021,
+    "venue": "Information",
+    "cited_by": 54,
+    "landing_page_url": "https://www.mdpi.com/2078-2489/12/11/444",
+    "snippet": "… depression identification. Different computation approaches have been employed on behalf\nof depression identification. … used to perform feature extraction and depression classification. …",
+    "pdf_url": "https://www.mdpi.com/2078-2489/12/11/444"
+  },
+  "pdf_file": null,
+  "pdf_url": "https://www.mdpi.com/2078-2489/12/11/444"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "sch-005",
+  "original": {
+    "paper_name": "[HTML] Effectiveness and safety of using chatbots to improve mental health: systematic review and meta-analysis",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "mental health chatbot",
+  "scraped_at": "2026-09-22T11:18:24.756626+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "mental health chatbot",
+    "title_matched": "[HTML] Effectiveness and safety of using chatbots to improve mental health: systematic review and meta-analysis",
+    "authors": [
+      "AA Abd-Alrazaq",
+      "A Rababeh",
+      "M Alajlani"
+    ],
+    "year": 2020,
+    "venue": "Journal of medical …",
+    "cited_by": 725,
+    "landing_page_url": "https://www.jmir.org/2020/7/e16021/pdf.",
+    "snippet": "… of mental health workers has prompted the utilization of technological advancements, such\nas chatbots, to meet the needs of people with mental health conditions. Chatbots are systems …",
+    "pdf_url": "https://www.jmir.org/2020/7/e16021/pdf."
+  },
+  "pdf_file": null,
+  "pdf_url": "https://www.jmir.org/2020/7/e16021/pdf."
+}

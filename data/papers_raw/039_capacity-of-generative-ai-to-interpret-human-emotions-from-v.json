@@ -1,0 +1,1913 @@
+{
+  "id": 39,
+  "original": {
+    "id": 39,
+    "paper_name": "Capacity of Generative AI to Interpret Human Emotions From Visual and Textual Data: Pilot Evaluation Study",
+    "site": "OpenAlex",
+    "venue_of_publication": "JMIR Mental Health",
+    "year": 2023,
+    "researcher_info": "Zohar Elyoseph, Elad Refoua et al."
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T11:02:09.476794+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "Capacity of Generative AI to Interpret Human Emotions From Visual and Textual Data: Pilot Evaluation Study",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W4390202391",
+    "doi": "https://doi.org/10.2196/54369",
+    "title_matched": "Capacity of Generative AI to Interpret Human Emotions From Visual and Textual Data: Pilot Evaluation Study",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2023,
+    "venue": "JMIR Mental Health",
+    "authors": [
+      "Zohar Elyoseph",
+      "Elad Refoua",
+      "Kfir Asraf",
+      "Maya Lvovsky",
+      "Yoav Shimoni",
+      "Dorit Hadar‐Shoval"
+    ],
+    "abstract": "BACKGROUND: Mentalization, which is integral to human cognitive processes, pertains to the interpretation of one's own and others' mental states, including emotions, beliefs, and intentions. With the advent of artificial intelligence (AI) and the prominence of large language models in mental health applications, questions persist about their aptitude in emotional comprehension. The prior iteration of the large language model from OpenAI, ChatGPT-3.5, demonstrated an advanced capacity to interpret emotions from textual data, surpassing human benchmarks. Given the introduction of ChatGPT-4, with its enhanced visual processing capabilities, and considering Google Bard's existing visual functionalities, a rigorous assessment of their proficiency in visual mentalizing is warranted. OBJECTIVE: The aim of the research was to critically evaluate the capabilities of ChatGPT-4 and Google Bard with regard to their competence in discerning visual mentalizing indicators as contrasted with their textual-based mentalizing abilities. METHODS: The Reading the Mind in the Eyes Test developed by Baron-Cohen and colleagues was used to assess the models' proficiency in interpreting visual emotional indicators. Simultaneously, the Levels of Emotional Awareness Scale was used to evaluate the large language models' aptitude in textual mentalizing. Collating data from both tests provided a holistic view of the mentalizing capabilities of ChatGPT-4 and Bard. RESULTS: ChatGPT-4, displaying a pronounced ability in emotion recognition, secured scores of 26 and 27 in 2 distinct evaluations, significantly deviating from a random response paradigm (P<.001). These scores align with established benchmarks from the broader human demographic. Notably, ChatGPT-4 exhibited consistent responses, with no discernible biases pertaining to the sex of the model or the nature of the emotion. In contrast, Google Bard's performance aligned with random response patterns, securing scores of 10 and 12 and rendering further detailed analysis redundant. In the domain of textual analysis, both ChatGPT and Bard surpassed established benchmarks from the general population, with their performances being remarkably congruent. CONCLUSIONS: ChatGPT-4 proved its efficacy in the domain of visual mentalizing, aligning closely with human performance standards. Although both models displayed commendable acumen in textual emotion interpretation, Bard's capabilities in visual emotion interpretation necessitate further scrutiny and potential refinement. This study stresses the criticality of ethical AI development for emotional recognition, highlighting the need for inclusive data, collaboration with patients and mental health experts, and stringent governmental oversight to ensure transparency and protect patient privacy.",
+    "cited_by_count": 131,
+    "is_oa": true,
+    "pdf_url": "https://mental.jmir.org/2024/1/e54369/PDF",
+    "pdf_candidates": [
+      "https://mental.jmir.org/2024/1/e54369/PDF",
+      "https://www.mikecaptain.com/resources/pdf/GPT-1.pdf"
+    ],
+    "landing_page_url": "https://doi.org/10.2196/54369",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W4390202391",
+      "doi": "https://doi.org/10.2196/54369",
+      "title": "Capacity of Generative AI to Interpret Human Emotions From Visual and Textual Data: Pilot Evaluation Study",
+      "display_name": "Capacity of Generative AI to Interpret Human Emotions From Visual and Textual Data: Pilot Evaluation Study",
+      "relevance_score": 4549.282,
+      "publication_year": 2023,
+      "publication_date": "2023-12-25",
+      "ids": {
+        "openalex": "https://openalex.org/W4390202391",
+        "doi": "https://doi.org/10.2196/54369",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/38319707"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2196/54369",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2196/54369",
+        "pdf_url": "https://mental.jmir.org/2024/1/e54369/PDF",
+        "source": {
+          "id": "https://openalex.org/S2764449704",
+          "display_name": "JMIR Mental Health",
+          "issn_l": "2368-7959",
+          "issn": [
+            "2368-7959"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "doyens",
+            "jufo-1",
+            "medline",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320608",
+          "host_organization_name": "JMIR Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320608"
+          ],
+          "host_organization_lineage_names": [
+            "JMIR Publications"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "JMIR Mental Health",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://mental.jmir.org/2024/1/e54369/PDF",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5028706339",
+            "display_name": "Zohar Elyoseph",
+            "orcid": "https://orcid.org/0000-0002-5717-4074"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I116660002",
+              "display_name": "The Max Stern Yezreel Valley College",
+              "ror": "https://ror.org/05qz2dz14",
+              "country_code": "IL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I116660002"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I47508984",
+              "display_name": "Imperial College London",
+              "ror": "https://ror.org/041kmwe10",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I47508984"
+              ]
+            }
+          ],
+          "countries": [
+            "GB",
+            "IL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Zohar Elyoseph",
+          "raw_affiliation_strings": [
+            "Department of Educational Psychology, The Center for Psychobiological Research, The Max Stern Yezreel Valley College, Emek Yezreel, Israel",
+            "Imperial College London, London, United Kingdom"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-5717-4074",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Educational Psychology, The Center for Psychobiological Research, The Max Stern Yezreel Valley College, Emek Yezreel, Israel",
+              "institution_ids": [
+                "https://openalex.org/I116660002"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Imperial College London, London, United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I47508984"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5042400769",
+            "display_name": "Elad Refoua",
+            "orcid": "https://orcid.org/0000-0003-1471-3573"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I13955877",
+              "display_name": "Bar-Ilan University",
+              "ror": "https://ror.org/03kgsv495",
+              "country_code": "IL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I13955877"
+              ]
+            }
+          ],
+          "countries": [
+            "IL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Elad Refoua",
+          "raw_affiliation_strings": [
+            "Department of Psychology, Bar-Ilan University, Ramat Gan, Israel"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-1471-3573",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Psychology, Bar-Ilan University, Ramat Gan, Israel",
+              "institution_ids": [
+                "https://openalex.org/I13955877"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5076165610",
+            "display_name": "Kfir Asraf",
+            "orcid": "https://orcid.org/0009-0001-6699-3055"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I116660002",
+              "display_name": "The Max Stern Yezreel Valley College",
+              "ror": "https://ror.org/05qz2dz14",
+              "country_code": "IL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I116660002"
+              ]
+            }
+          ],
+          "countries": [
+            "IL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kfir Asraf",
+          "raw_affiliation_strings": [
+            "Department of Psychology, The Max Stern Yezreel Valley College, Emek Yezreel, Israel"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0001-6699-3055",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Psychology, The Max Stern Yezreel Valley College, Emek Yezreel, Israel",
+              "institution_ids": [
+                "https://openalex.org/I116660002"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5092030295",
+            "display_name": "Maya Lvovsky",
+            "orcid": "https://orcid.org/0009-0009-1219-1717"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I116660002",
+              "display_name": "The Max Stern Yezreel Valley College",
+              "ror": "https://ror.org/05qz2dz14",
+              "country_code": "IL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I116660002"
+              ]
+            }
+          ],
+          "countries": [
+            "IL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Maya Lvovsky",
+          "raw_affiliation_strings": [
+            "Department of Psychology, The Max Stern Yezreel Valley College, Emek Yezreel, Israel"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0009-1219-1717",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Psychology, The Max Stern Yezreel Valley College, Emek Yezreel, Israel",
+              "institution_ids": [
+                "https://openalex.org/I116660002"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5093297550",
+            "display_name": "Yoav Shimoni",
+            "orcid": "https://orcid.org/0009-0007-2834-156X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1288882113",
+              "display_name": "Boston Children's Hospital",
+              "ror": "https://ror.org/00dvg7y05",
+              "country_code": "US",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I1288882113"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yoav Shimoni",
+          "raw_affiliation_strings": [
+            "Boston Children's Hospital, Boston, MA, United States"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0007-2834-156X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Boston Children's Hospital, Boston, MA, United States",
+              "institution_ids": [
+                "https://openalex.org/I1288882113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5064676661",
+            "display_name": "Dorit Hadar‐Shoval",
+            "orcid": "https://orcid.org/0000-0002-1376-3096"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I116660002",
+              "display_name": "The Max Stern Yezreel Valley College",
+              "ror": "https://ror.org/05qz2dz14",
+              "country_code": "IL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I116660002"
+              ]
+            }
+          ],
+          "countries": [
+            "IL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Dorit Hadar-Shoval",
+          "raw_affiliation_strings": [
+            "Department of Psychology, The Max Stern Yezreel Valley College, Emek Yezreel, Israel"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-1376-3096",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Psychology, The Max Stern Yezreel Valley College, Emek Yezreel, Israel",
+              "institution_ids": [
+                "https://openalex.org/I116660002"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 2750,
+        "currency": "USD",
+        "value_usd": 2750
+      },
+      "apc_paid": {
+        "value": 2750,
+        "currency": "USD",
+        "value_usd": 2750
+      },
+      "fwci": 34.0427,
+      "has_fulltext": true,
+      "cited_by_count": 131,
+      "citation_normalized_percentile": {
+        "value": 0.99933708,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 99,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "11",
+        "issue": null,
+        "first_page": "e54369",
+        "last_page": "e54369"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12488",
+        "display_name": "Mental Health via Writing",
+        "score": 0.33390000462532043,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3207",
+          "display_name": "Social Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12488",
+          "display_name": "Mental Health via Writing",
+          "score": 0.33390000462532043,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11519",
+          "display_name": "Digital Mental Health Interventions",
+          "score": 0.1054999977350235,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3202",
+            "display_name": "Applied Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10853",
+          "display_name": "Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes",
+          "score": 0.09279999881982803,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3205",
+            "display_name": "Experimental and Cognitive Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/mentalization",
+          "display_name": "Mentalization",
+          "score": 0.6849087476730347
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.6659685373306274
+        },
+        {
+          "id": "https://openalex.org/keywords/cognitive-psychology",
+          "display_name": "Cognitive psychology",
+          "score": 0.5299326777458191
+        },
+        {
+          "id": "https://openalex.org/keywords/theory-of-mind",
+          "display_name": "Theory of mind",
+          "score": 0.4676005244255066
+        },
+        {
+          "id": "https://openalex.org/keywords/comprehension",
+          "display_name": "Comprehension",
+          "score": 0.42150136828422546
+        },
+        {
+          "id": "https://openalex.org/keywords/cognition",
+          "display_name": "Cognition",
+          "score": 0.3931392729282379
+        },
+        {
+          "id": "https://openalex.org/keywords/developmental-psychology",
+          "display_name": "Developmental psychology",
+          "score": 0.3498914837837219
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.20512184500694275
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C18591518",
+          "wikidata": "https://www.wikidata.org/wiki/Q1920928",
+          "display_name": "Mentalization",
+          "level": 2,
+          "score": 0.6849087476730347
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.6659685373306274
+        },
+        {
+          "id": "https://openalex.org/C180747234",
+          "wikidata": "https://www.wikidata.org/wiki/Q23373",
+          "display_name": "Cognitive psychology",
+          "level": 1,
+          "score": 0.5299326777458191
+        },
+        {
+          "id": "https://openalex.org/C2779560602",
+          "wikidata": "https://www.wikidata.org/wiki/Q639219",
+          "display_name": "Theory of mind",
+          "level": 3,
+          "score": 0.4676005244255066
+        },
+        {
+          "id": "https://openalex.org/C511192102",
+          "wikidata": "https://www.wikidata.org/wiki/Q5156948",
+          "display_name": "Comprehension",
+          "level": 2,
+          "score": 0.42150136828422546
+        },
+        {
+          "id": "https://openalex.org/C169900460",
+          "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+          "display_name": "Cognition",
+          "level": 2,
+          "score": 0.3931392729282379
+        },
+        {
+          "id": "https://openalex.org/C138496976",
+          "wikidata": "https://www.wikidata.org/wiki/Q175002",
+          "display_name": "Developmental psychology",
+          "level": 1,
+          "score": 0.3498914837837219
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.20512184500694275
+        },
+        {
+          "id": "https://openalex.org/C169760540",
+          "wikidata": "https://www.wikidata.org/wiki/Q207011",
+          "display_name": "Neuroscience",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C199360897",
+          "wikidata": "https://www.wikidata.org/wiki/Q9143",
+          "display_name": "Programming language",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [
+        {
+          "descriptor_ui": "D001185",
+          "descriptor_name": "Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001185",
+          "descriptor_name": "Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001185",
+          "descriptor_name": "Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001185",
+          "descriptor_name": "Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001185",
+          "descriptor_name": "Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001185",
+          "descriptor_name": "Artificial Intelligence",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D004644",
+          "descriptor_name": "Emotions",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D004644",
+          "descriptor_name": "Emotions",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D004644",
+          "descriptor_name": "Emotions",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D004644",
+          "descriptor_name": "Emotions",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D004644",
+          "descriptor_name": "Emotions",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D004644",
+          "descriptor_name": "Emotions",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D005123",
+          "descriptor_name": "Eye",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D005123",
+          "descriptor_name": "Eye",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D005123",
+          "descriptor_name": "Eye",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D005123",
+          "descriptor_name": "Eye",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D005123",
+          "descriptor_name": "Eye",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D005123",
+          "descriptor_name": "Eye",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D010865",
+          "descriptor_name": "Pilot Projects",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D010865",
+          "descriptor_name": "Pilot Projects",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D010865",
+          "descriptor_name": "Pilot Projects",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D010865",
+          "descriptor_name": "Pilot Projects",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D010865",
+          "descriptor_name": "Pilot Projects",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D010865",
+          "descriptor_name": "Pilot Projects",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D019985",
+          "descriptor_name": "Benchmarking",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D019985",
+          "descriptor_name": "Benchmarking",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D019985",
+          "descriptor_name": "Benchmarking",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D019985",
+          "descriptor_name": "Benchmarking",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D019985",
+          "descriptor_name": "Benchmarking",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D019985",
+          "descriptor_name": "Benchmarking",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        }
+      ],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.2196/54369",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.2196/54369",
+          "pdf_url": "https://mental.jmir.org/2024/1/e54369/PDF",
+          "source": {
+            "id": "https://openalex.org/S2764449704",
+            "display_name": "JMIR Mental Health",
+            "issn_l": "2368-7959",
+            "issn": [
+              "2368-7959"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "doyens",
+              "jufo-1",
+              "medline",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310320608",
+            "host_organization_name": "JMIR Publications",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320608"
+            ],
+            "host_organization_lineage_names": [
+              "JMIR Publications"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "JMIR Mental Health",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:38319707",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/38319707",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "JMIR mental health",
+          "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:10879976",
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10879976",
+          "pdf_url": "https://www.mikecaptain.com/resources/pdf/GPT-1.pdf",
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "JMIR Ment Health",
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:01f13939faba4d7fa0cc6dffcf7be995",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/01f13939faba4d7fa0cc6dffcf7be995",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "JMIR Mental Health, Vol 11, p e54369 (2024)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.2196/54369",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2196/54369",
+        "pdf_url": "https://mental.jmir.org/2024/1/e54369/PDF",
+        "source": {
+          "id": "https://openalex.org/S2764449704",
+          "display_name": "JMIR Mental Health",
+          "issn_l": "2368-7959",
+          "issn": [
+            "2368-7959"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "doyens",
+            "jufo-1",
+            "medline",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320608",
+          "host_organization_name": "JMIR Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320608"
+          ],
+          "host_organization_lineage_names": [
+            "JMIR Publications"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "JMIR Mental Health",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4390202391.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4390202391.grobid-xml"
+      },
+      "referenced_works_count": 36,
+      "referenced_works": [
+        "https://openalex.org/W406154720",
+        "https://openalex.org/W1965947362",
+        "https://openalex.org/W2060113358",
+        "https://openalex.org/W2110065044",
+        "https://openalex.org/W2133562625",
+        "https://openalex.org/W2134822928",
+        "https://openalex.org/W2140659555",
+        "https://openalex.org/W2341847545",
+        "https://openalex.org/W2492248915",
+        "https://openalex.org/W2595388452",
+        "https://openalex.org/W2618530766",
+        "https://openalex.org/W2623779865",
+        "https://openalex.org/W2792341352",
+        "https://openalex.org/W2916945592",
+        "https://openalex.org/W2963631961",
+        "https://openalex.org/W2978329087",
+        "https://openalex.org/W2986567973",
+        "https://openalex.org/W2994905377",
+        "https://openalex.org/W3133100715",
+        "https://openalex.org/W4214606152",
+        "https://openalex.org/W4245359105",
+        "https://openalex.org/W4294333904",
+        "https://openalex.org/W4308806761",
+        "https://openalex.org/W4321507406",
+        "https://openalex.org/W4367671234",
+        "https://openalex.org/W4378470708",
+        "https://openalex.org/W4385459268",
+        "https://openalex.org/W4386397123",
+        "https://openalex.org/W4386887838",
+        "https://openalex.org/W4387439164",
+        "https://openalex.org/W4387677901",
+        "https://openalex.org/W4389205673",
+        "https://openalex.org/W4390636949",
+        "https://openalex.org/W4390700529",
+        "https://openalex.org/W4390970866",
+        "https://openalex.org/W4394928853"
+      ],
+      "related_works": [
+        "https://openalex.org/W4386592352",
+        "https://openalex.org/W4393126480",
+        "https://openalex.org/W2999486329",
+        "https://openalex.org/W4206494772",
+        "https://openalex.org/W4319439305",
+        "https://openalex.org/W4389676587",
+        "https://openalex.org/W2077647240",
+        "https://openalex.org/W2882975399",
+        "https://openalex.org/W3194343670",
+        "https://openalex.org/W2550957612"
+      ],
+      "abstract_inverted_index": {
+        "BACKGROUND:": [
+          0
+        ],
+        "Mentalization,": [
+          1
+        ],
+        "which": [
+          2
+        ],
+        "is": [
+          3,
+          102
+        ],
+        "integral": [
+          4
+        ],
+        "to": [
+          5,
+          10,
+          66,
+          111,
+          123,
+          154,
+          173,
+          248,
+          373
+        ],
+        "human": [
+          6,
+          73,
+          236,
+          319
+        ],
+        "cognitive": [
+          7
+        ],
+        "processes,": [
+          8
+        ],
+        "pertains": [
+          9
+        ],
+        "the": [
+          11,
+          26,
+          33,
+          55,
+          76,
+          108,
+          114,
+          141,
+          144,
+          156,
+          165,
+          175,
+          193,
+          234,
+          249,
+          252,
+          255,
+          258,
+          283,
+          296,
+          311,
+          347,
+          357
+        ],
+        "interpretation": [
+          12,
+          337
+        ],
+        "of": [
+          13,
+          28,
+          35,
+          54,
+          78,
+          96,
+          107,
+          116,
+          167,
+          192,
+          196,
+          211,
+          251,
+          257,
+          272,
+          285,
+          313,
+          349
+        ],
+        "one's": [
+          14
+        ],
+        "own": [
+          15
+        ],
+        "and": [
+          16,
+          23,
+          32,
+          86,
+          118,
+          150,
+          198,
+          213,
+          274,
+          276,
+          290,
+          341,
+          365,
+          369,
+          376
+        ],
+        "others'": [
+          17
+        ],
+        "mental": [
+          18,
+          40,
+          366
+        ],
+        "states,": [
+          19
+        ],
+        "including": [
+          20
+        ],
+        "emotions,": [
+          21
+        ],
+        "beliefs,": [
+          22
+        ],
+        "intentions.": [
+          24
+        ],
+        "With": [
+          25
+        ],
+        "advent": [
+          27
+        ],
+        "artificial": [
+          29
+        ],
+        "intelligence": [
+          30
+        ],
+        "(AI)": [
+          31
+        ],
+        "prominence": [
+          34
+        ],
+        "large": [
+          36,
+          56,
+          176
+        ],
+        "language": [
+          37,
+          57,
+          177
+        ],
+        "models": [
+          38,
+          324
+        ],
+        "in": [
+          39,
+          48,
+          99,
+          126,
+          143,
+          159,
+          180,
+          206,
+          215,
+          310,
+          328,
+          334
+        ],
+        "health": [
+          41,
+          367
+        ],
+        "applications,": [
+          42
+        ],
+        "questions": [
+          43
+        ],
+        "persist": [
+          44
+        ],
+        "about": [
+          45
+        ],
+        "their": [
+          46,
+          97,
+          124,
+          134,
+          300
+        ],
+        "aptitude": [
+          47,
+          179
+        ],
+        "emotional": [
+          49,
+          162,
+          354
+        ],
+        "comprehension.": [
+          50
+        ],
+        "The": [
+          51,
+          105,
+          139
+        ],
+        "prior": [
+          52
+        ],
+        "iteration": [
+          53
+        ],
+        "model": [
+          58,
+          253
+        ],
+        "from": [
+          59,
+          69,
+          185,
+          221,
+          233,
+          295
+        ],
+        "OpenAI,": [
+          60
+        ],
+        "ChatGPT-3.5,": [
+          61
+        ],
+        "demonstrated": [
+          62
+        ],
+        "an": [
+          63
+        ],
+        "advanced": [
+          64
+        ],
+        "capacity": [
+          65
+        ],
+        "interpret": [
+          67
+        ],
+        "emotions": [
+          68
+        ],
+        "textual": [
+          70,
+          181,
+          286,
+          329
+        ],
+        "data,": [
+          71,
+          361
+        ],
+        "surpassing": [
+          72
+        ],
+        "benchmarks.": [
+          74
+        ],
+        "Given": [
+          75
+        ],
+        "introduction": [
+          77
+        ],
+        "ChatGPT-4,": [
+          79,
+          201
+        ],
+        "with": [
+          80,
+          121,
+          133,
+          230,
+          243,
+          266,
+          299,
+          318,
+          363
+        ],
+        "its": [
+          81,
+          308
+        ],
+        "enhanced": [
+          82
+        ],
+        "visual": [
+          83,
+          91,
+          100,
+          128,
+          161,
+          314,
+          335
+        ],
+        "processing": [
+          84
+        ],
+        "capabilities,": [
+          85
+        ],
+        "considering": [
+          87
+        ],
+        "Google": [
+          88,
+          119,
+          262
+        ],
+        "Bard's": [
+          89,
+          263,
+          332
+        ],
+        "existing": [
+          90
+        ],
+        "functionalities,": [
+          92
+        ],
+        "a": [
+          93,
+          189,
+          203,
+          222
+        ],
+        "rigorous": [
+          94
+        ],
+        "assessment": [
+          95
+        ],
+        "proficiency": [
+          98,
+          158
+        ],
+        "mentalizing": [
+          101,
+          129,
+          136,
+          194
+        ],
+        "warranted.": [
+          103
+        ],
+        "OBJECTIVE:": [
+          104
+        ],
+        "aim": [
+          106
+        ],
+        "research": [
+          109
+        ],
+        "was": [
+          110,
+          152,
+          171
+        ],
+        "critically": [
+          112
+        ],
+        "evaluate": [
+          113,
+          174
+        ],
+        "capabilities": [
+          115,
+          195,
+          333
+        ],
+        "ChatGPT-4": [
+          117,
+          197,
+          239,
+          306
+        ],
+        "Bard": [
+          120,
+          291
+        ],
+        "regard": [
+          122
+        ],
+        "competence": [
+          125
+        ],
+        "discerning": [
+          127
+        ],
+        "indicators": [
+          130
+        ],
+        "as": [
+          131
+        ],
+        "contrasted": [
+          132
+        ],
+        "textual-based": [
+          135
+        ],
+        "abilities.": [
+          137
+        ],
+        "METHODS:": [
+          138
+        ],
+        "Reading": [
+          140
+        ],
+        "Mind": [
+          142
+        ],
+        "Eyes": [
+          145
+        ],
+        "Test": [
+          146
+        ],
+        "developed": [
+          147
+        ],
+        "by": [
+          148
+        ],
+        "Baron-Cohen": [
+          149
+        ],
+        "colleagues": [
+          151
+        ],
+        "used": [
+          153,
+          172
+        ],
+        "assess": [
+          155
+        ],
+        "models'": [
+          157,
+          178
+        ],
+        "interpreting": [
+          160
+        ],
+        "indicators.": [
+          163
+        ],
+        "Simultaneously,": [
+          164
+        ],
+        "Levels": [
+          166
+        ],
+        "Emotional": [
+          168
+        ],
+        "Awareness": [
+          169
+        ],
+        "Scale": [
+          170
+        ],
+        "mentalizing.": [
+          182
+        ],
+        "Collating": [
+          183
+        ],
+        "data": [
+          184
+        ],
+        "both": [
+          186,
+          288,
+          323
+        ],
+        "tests": [
+          187
+        ],
+        "provided": [
+          188
+        ],
+        "holistic": [
+          190
+        ],
+        "view": [
+          191
+        ],
+        "Bard.": [
+          199
+        ],
+        "RESULTS:": [
+          200
+        ],
+        "displaying": [
+          202
+        ],
+        "pronounced": [
+          204
+        ],
+        "ability": [
+          205
+        ],
+        "emotion": [
+          207,
+          330,
+          336
+        ],
+        "recognition,": [
+          208,
+          355
+        ],
+        "secured": [
+          209
+        ],
+        "scores": [
+          210,
+          228,
+          271
+        ],
+        "26": [
+          212
+        ],
+        "27": [
+          214
+        ],
+        "2": [
+          216
+        ],
+        "distinct": [
+          217
+        ],
+        "evaluations,": [
+          218
+        ],
+        "significantly": [
+          219
+        ],
+        "deviating": [
+          220
+        ],
+        "random": [
+          223,
+          267
+        ],
+        "response": [
+          224,
+          268
+        ],
+        "paradigm": [
+          225
+        ],
+        "(P<.001).": [
+          226
+        ],
+        "These": [
+          227
+        ],
+        "align": [
+          229
+        ],
+        "established": [
+          231,
+          293
+        ],
+        "benchmarks": [
+          232,
+          294
+        ],
+        "broader": [
+          235
+        ],
+        "demographic.": [
+          237
+        ],
+        "Notably,": [
+          238
+        ],
+        "exhibited": [
+          240
+        ],
+        "consistent": [
+          241
+        ],
+        "responses,": [
+          242
+        ],
+        "no": [
+          244
+        ],
+        "discernible": [
+          245
+        ],
+        "biases": [
+          246
+        ],
+        "pertaining": [
+          247
+        ],
+        "sex": [
+          250
+        ],
+        "or": [
+          254
+        ],
+        "nature": [
+          256
+        ],
+        "emotion.": [
+          259
+        ],
+        "In": [
+          260,
+          282
+        ],
+        "contrast,": [
+          261
+        ],
+        "performance": [
+          264,
+          320
+        ],
+        "aligned": [
+          265
+        ],
+        "patterns,": [
+          269
+        ],
+        "securing": [
+          270
+        ],
+        "10": [
+          273
+        ],
+        "12": [
+          275
+        ],
+        "rendering": [
+          277
+        ],
+        "further": [
+          278,
+          339
+        ],
+        "detailed": [
+          279
+        ],
+        "analysis": [
+          280
+        ],
+        "redundant.": [
+          281
+        ],
+        "domain": [
+          284,
+          312
+        ],
+        "analysis,": [
+          287
+        ],
+        "ChatGPT": [
+          289
+        ],
+        "surpassed": [
+          292
+        ],
+        "general": [
+          297
+        ],
+        "population,": [
+          298
+        ],
+        "performances": [
+          301
+        ],
+        "being": [
+          302
+        ],
+        "remarkably": [
+          303
+        ],
+        "congruent.": [
+          304
+        ],
+        "CONCLUSIONS:": [
+          305
+        ],
+        "proved": [
+          307
+        ],
+        "efficacy": [
+          309
+        ],
+        "mentalizing,": [
+          315
+        ],
+        "aligning": [
+          316
+        ],
+        "closely": [
+          317
+        ],
+        "standards.": [
+          321
+        ],
+        "Although": [
+          322
+        ],
+        "displayed": [
+          325
+        ],
+        "commendable": [
+          326
+        ],
+        "acumen": [
+          327
+        ],
+        "interpretation,": [
+          331
+        ],
+        "necessitate": [
+          338
+        ],
+        "scrutiny": [
+          340
+        ],
+        "potential": [
+          342
+        ],
+        "refinement.": [
+          343
+        ],
+        "This": [
+          344
+        ],
+        "study": [
+          345
+        ],
+        "stresses": [
+          346
+        ],
+        "criticality": [
+          348
+        ],
+        "ethical": [
+          350
+        ],
+        "AI": [
+          351
+        ],
+        "development": [
+          352
+        ],
+        "for": [
+          353,
+          359
+        ],
+        "highlighting": [
+          356
+        ],
+        "need": [
+          358
+        ],
+        "inclusive": [
+          360
+        ],
+        "collaboration": [
+          362
+        ],
+        "patients": [
+          364
+        ],
+        "experts,": [
+          368
+        ],
+        "stringent": [
+          370
+        ],
+        "governmental": [
+          371
+        ],
+        "oversight": [
+          372
+        ],
+        "ensure": [
+          374
+        ],
+        "transparency": [
+          375
+        ],
+        "protect": [
+          377
+        ],
+        "patient": [
+          378
+        ],
+        "privacy.": [
+          379
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 30
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 68
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 33
+        }
+      ],
+      "updated_date": "2026-09-17T07:59:56.861425",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": "https://mental.jmir.org/2024/1/e54369/PDF",
+  "pdf_verified": false,
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

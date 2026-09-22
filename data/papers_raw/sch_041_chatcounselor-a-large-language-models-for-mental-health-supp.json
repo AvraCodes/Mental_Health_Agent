@@ -1,0 +1,34 @@
+{
+  "id": "sch-041",
+  "original": {
+    "paper_name": "Chatcounselor: A large language models for mental health support",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "large language models mental health",
+  "scraped_at": "2026-09-22T11:20:17.851444+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "large language models mental health",
+    "title_matched": "Chatcounselor: A large language models for mental health support",
+    "authors": [
+      "JM Liu",
+      "D Li",
+      "H Cao",
+      "T Ren",
+      "Z Liao",
+      "J Wu"
+    ],
+    "year": 2023,
+    "venue": "arXiv preprint arXiv:2309.15461",
+    "cited_by": 245,
+    "landing_page_url": "https://arxiv.org/abs/2309.15461",
+    "snippet": "… This paper presents ChatCounselor, a large language model (LLM) solution designed to\nprovide mental health support. Unlike generic chatbots, ChatCounselor is distinguished by its …",
+    "pdf_url": "https://arxiv.org/pdf/2309.15461"
+  },
+  "pdf_file": "sch_041_chatcounselor-a-large-language-models-for-mental-health-supp.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2309.15461",
+  "pdf_verified": true
+}

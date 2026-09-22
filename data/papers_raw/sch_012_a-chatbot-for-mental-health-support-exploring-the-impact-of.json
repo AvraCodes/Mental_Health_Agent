@@ -1,0 +1,33 @@
+{
+  "id": "sch-012",
+  "original": {
+    "paper_name": "A chatbot for mental health support: exploring the impact of Emohaa on reducing mental distress in China",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "mental health chatbot",
+  "scraped_at": "2026-09-22T11:18:30.265649+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "mental health chatbot",
+    "title_matched": "A chatbot for mental health support: exploring the impact of Emohaa on reducing mental distress in China",
+    "authors": [
+      "S Sabour",
+      "W Zhang",
+      "X Xiao",
+      "Y Zhang",
+      "Y Zheng"
+    ],
+    "year": 2023,
+    "venue": "… in digital health",
+    "cited_by": 154,
+    "landing_page_url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2023.1133987/full",
+    "snippet": "… The growing demand for mental health support has highlighted … reduce the relative costs\nof mental health support. The provided … of Emohaa in reducing symptoms of mental distress. …",
+    "pdf_url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2023.1133987/pdf"
+  },
+  "pdf_file": "sch_012_a-chatbot-for-mental-health-support-exploring-the-impact-of.pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2023.1133987/pdf",
+  "pdf_verified": true
+}

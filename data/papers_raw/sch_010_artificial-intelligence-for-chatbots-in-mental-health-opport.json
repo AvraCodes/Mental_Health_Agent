@@ -1,0 +1,30 @@
+{
+  "id": "sch-010",
+  "original": {
+    "paper_name": "Artificial intelligence for chatbots in mental health: opportunities and challenges",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "mental health chatbot",
+  "scraped_at": "2026-09-22T11:18:28.463731+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "mental health chatbot",
+    "title_matched": "Artificial intelligence for chatbots in mental health: opportunities and challenges",
+    "authors": [
+      "K Denecke",
+      "A Abd-Alrazaq",
+      "M Househ"
+    ],
+    "year": 2021,
+    "venue": "… artificial intelligence in healthcare …",
+    "cited_by": 252,
+    "landing_page_url": "https://link.springer.com/chapter/10.1007/978-3-030-67303-1_10",
+    "snippet": "… The majority of chatbots had embodiment on their screens such as an avatar or virtual …\nlandscape of mental health chatbots, we will briefly describe two mental health chatbots (Wysa …",
+    "pdf_url": "https://www.researchgate.net/profile/Darpit-Dave/publication/353724269_AI_and_Machine_Learning_in_Diabetes_Management_Opportunity_Status_and_Challenges/links/621509b8b15a6a210160a6e0/AI-and-Machine-Learning-in-Diabetes-Management-Opportunity-Status-and-Challenges.pdf#page=119"
+  },
+  "pdf_file": null,
+  "pdf_url": "https://www.researchgate.net/profile/Darpit-Dave/publication/353724269_AI_and_Machine_Learning_in_Diabetes_Management_Opportunity_Status_and_Challenges/links/621509b8b15a6a210160a6e0/AI-and-Machine-Learning-in-Diabetes-Management-Opportunity-Status-and-Challenges.pdf#page=119"
+}

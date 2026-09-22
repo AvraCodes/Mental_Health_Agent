@@ -1,0 +1,31 @@
+{
+  "id": "sch-013",
+  "original": {
+    "paper_name": "Preliminary evaluation of the engagement and effectiveness of a mental health chatbot",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "mental health chatbot",
+  "scraped_at": "2026-09-22T11:18:32.899332+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "mental health chatbot",
+    "title_matched": "Preliminary evaluation of the engagement and effectiveness of a mental health chatbot",
+    "authors": [
+      "K Daley",
+      "I Hungerbuehler",
+      "K Cavanagh"
+    ],
+    "year": 2020,
+    "venue": "… in digital health",
+    "cited_by": 156,
+    "landing_page_url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2020.576361/full",
+    "snippet": "… The use of chatbots appears feasible and acceptable to users ( 15 , 16 ), but there is … of\nmental health chatbots within Latin America. This study seeks to explore if a mental health chatbot …",
+    "pdf_url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2020.576361/pdf"
+  },
+  "pdf_file": "sch_013_preliminary-evaluation-of-the-engagement-and-effectiveness-o.pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2020.576361/pdf",
+  "pdf_verified": true
+}

@@ -1,0 +1,1584 @@
+{
+  "id": 17,
+  "original": {
+    "id": 17,
+    "paper_name": "A chatbot for mental health support: exploring the impact of Emohaa on reducing mental distress in China",
+    "site": "OpenAlex",
+    "venue_of_publication": "Frontiers in Digital Health",
+    "year": 2023,
+    "researcher_info": "Sahand Sabour, Wen Zhang et al."
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T08:31:09.575196+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "A chatbot for mental health support: exploring the impact of Emohaa on reducing mental distress in China",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W4377565325",
+    "doi": "https://doi.org/10.3389/fdgth.2023.1133987",
+    "title_matched": "A chatbot for mental health support: exploring the impact of Emohaa on reducing mental distress in China",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2023,
+    "venue": "Frontiers in Digital Health",
+    "authors": [
+      "Sahand Sabour",
+      "Wen Zhang",
+      "Xiyao Xiao",
+      "Yuwei Zhang",
+      "Yinhe Zheng",
+      "Jiaxin Wen",
+      "Jialu Zhao",
+      "Minlie Huang"
+    ],
+    "abstract": "Introduction The growing demand for mental health support has highlighted the importance of conversational agents as human supporters worldwide and in China. These agents could increase availability and reduce the relative costs of mental health support. The provided support can be divided into two main types: cognitive and emotional. Existing work on this topic mainly focuses on constructing agents that adopt Cognitive Behavioral Therapy (CBT) principles. Such agents operate based on pre-defined templates and exercises to provide cognitive support. However, research on emotional support using such agents is limited. In addition, most of the constructed agents operate in English, highlighting the importance of conducting such studies in China. To this end, we introduce Emohaa, a conversational agent that provides cognitive support through CBT-Bot exercises and guided conversations. It also emotionally supports users through ES-Bot, enabling them to vent their emotional problems. In this study, we analyze the effectiveness of Emohaa in reducing symptoms of mental distress. Methods and Results Following the RCT design, the current study randomly assigned participants into three groups: Emohaa (CBT-Bot), Emohaa (Full), and control. With both Intention-To-Treat ( N = 247 ) and PerProtocol ( N = 134 ) analyses, the results demonstrated that compared to the control group, participants who used two types of Emohaa experienced considerably more significant improvements in symptoms of mental distress, including depression ( F [ 2 , 244 ] = 6.26 , p = 0.002 ), negative affect ( F [ 2 , 244 ] = 6.09 , p = 0.003 ), and insomnia ( F [ 2 , 244 ] = 3.69 , p = 0.026 ). Discussion Based on the obtained results and participants’ satisfaction with the platform, we concluded that Emohaa is a practical and effective tool for reducing mental distress.",
+    "cited_by_count": 102,
+    "is_oa": true,
+    "pdf_url": "https://www.frontiersin.org/articles/10.3389/fdgth.2023.1133987/pdf",
+    "pdf_candidates": [
+      "https://www.frontiersin.org/articles/10.3389/fdgth.2023.1133987/pdf",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10193040/pdf/fdgth-05-1133987.pdf"
+    ],
+    "landing_page_url": "https://doi.org/10.3389/fdgth.2023.1133987",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W4377565325",
+      "doi": "https://doi.org/10.3389/fdgth.2023.1133987",
+      "title": "A chatbot for mental health support: exploring the impact of Emohaa on reducing mental distress in China",
+      "display_name": "A chatbot for mental health support: exploring the impact of Emohaa on reducing mental distress in China",
+      "relevance_score": 4508.125,
+      "publication_year": 2023,
+      "publication_date": "2023-05-04",
+      "ids": {
+        "openalex": "https://openalex.org/W4377565325",
+        "doi": "https://doi.org/10.3389/fdgth.2023.1133987",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/37214342"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3389/fdgth.2023.1133987",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3389/fdgth.2023.1133987",
+        "pdf_url": "https://www.frontiersin.org/articles/10.3389/fdgth.2023.1133987/pdf",
+        "source": {
+          "id": "https://openalex.org/S4210170686",
+          "display_name": "Frontiers in Digital Health",
+          "issn_l": "2673-253X",
+          "issn": [
+            "2673-253X"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320527",
+          "host_organization_name": "Frontiers Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320527"
+          ],
+          "host_organization_lineage_names": [
+            "Frontiers Media"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Frontiers in Digital Health",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fdgth.2023.1133987/pdf",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5084758279",
+            "display_name": "Sahand Sabour",
+            "orcid": "https://orcid.org/0000-0003-1927-3562"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I99065089",
+              "display_name": "Tsinghua University",
+              "ror": "https://ror.org/03cve4549",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I99065089"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Sahand Sabour",
+          "raw_affiliation_strings": [
+            "The CoAI Group, DCST, Institute for Artificial Intelligence, State Key Lab of Intelligent Technology and Systems, Beijing National Research Center for Information Science and Technology, Tsinghua University, Beijing, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "The CoAI Group, DCST, Institute for Artificial Intelligence, State Key Lab of Intelligent Technology and Systems, Beijing National Research Center for Information Science and Technology, Tsinghua University, Beijing, China",
+              "institution_ids": [
+                "https://openalex.org/I99065089"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100444425",
+            "display_name": "Wen Zhang",
+            "orcid": "https://orcid.org/0000-0003-3150-2751"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I25254941",
+              "display_name": "Beijing Normal University",
+              "ror": "https://ror.org/022k4wk35",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I25254941"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Wen Zhang",
+          "raw_affiliation_strings": [
+            "Department of Psychology, Beijing Normal University, Beijing, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Psychology, Beijing Normal University, Beijing, China",
+              "institution_ids": [
+                "https://openalex.org/I25254941"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5077098984",
+            "display_name": "Xiyao Xiao",
+            "orcid": "https://orcid.org/0000-0002-6326-2206"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Xiyao Xiao",
+          "raw_affiliation_strings": [
+            "Department of Research and Development, Beijing Lingxin Intelligent Technology Co., Ltd, Beijing, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Research and Development, Beijing Lingxin Intelligent Technology Co., Ltd, Beijing, China",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100326594",
+            "display_name": "Yuwei Zhang",
+            "orcid": "https://orcid.org/0000-0003-2909-3397"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Yuwei Zhang",
+          "raw_affiliation_strings": [
+            "Department of Research and Development, Beijing Lingxin Intelligent Technology Co., Ltd, Beijing, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Research and Development, Beijing Lingxin Intelligent Technology Co., Ltd, Beijing, China",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5054920282",
+            "display_name": "Yinhe Zheng",
+            "orcid": "https://orcid.org/0000-0002-7029-5671"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Yinhe Zheng",
+          "raw_affiliation_strings": [
+            "Department of Research and Development, Beijing Lingxin Intelligent Technology Co., Ltd, Beijing, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Research and Development, Beijing Lingxin Intelligent Technology Co., Ltd, Beijing, China",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5101153906",
+            "display_name": "Jiaxin Wen",
+            "orcid": "https://orcid.org/0009-0006-7174-1684"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I99065089",
+              "display_name": "Tsinghua University",
+              "ror": "https://ror.org/03cve4549",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I99065089"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jiaxin Wen",
+          "raw_affiliation_strings": [
+            "The CoAI Group, DCST, Institute for Artificial Intelligence, State Key Lab of Intelligent Technology and Systems, Beijing National Research Center for Information Science and Technology, Tsinghua University, Beijing, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "The CoAI Group, DCST, Institute for Artificial Intelligence, State Key Lab of Intelligent Technology and Systems, Beijing National Research Center for Information Science and Technology, Tsinghua University, Beijing, China",
+              "institution_ids": [
+                "https://openalex.org/I99065089"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5102515336",
+            "display_name": "Jialu Zhao",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I99065089",
+              "display_name": "Tsinghua University",
+              "ror": "https://ror.org/03cve4549",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I99065089"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jialu Zhao",
+          "raw_affiliation_strings": [
+            "Center for Counseling and Psychological Development Guidance Center, Tsinghua University, Beijing, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Counseling and Psychological Development Guidance Center, Tsinghua University, Beijing, China",
+              "institution_ids": [
+                "https://openalex.org/I99065089"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5044042138",
+            "display_name": "Minlie Huang",
+            "orcid": "https://orcid.org/0000-0001-7111-1849"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I99065089",
+              "display_name": "Tsinghua University",
+              "ror": "https://ror.org/03cve4549",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I99065089"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Minlie Huang",
+          "raw_affiliation_strings": [
+            "Department of Research and Development, Beijing Lingxin Intelligent Technology Co., Ltd, Beijing, China",
+            "The CoAI Group, DCST, Institute for Artificial Intelligence, State Key Lab of Intelligent Technology and Systems, Beijing National Research Center for Information Science and Technology, Tsinghua University, Beijing, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Research and Development, Beijing Lingxin Intelligent Technology Co., Ltd, Beijing, China",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "The CoAI Group, DCST, Institute for Artificial Intelligence, State Key Lab of Intelligent Technology and Systems, Beijing National Research Center for Information Science and Technology, Tsinghua University, Beijing, China",
+              "institution_ids": [
+                "https://openalex.org/I99065089"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5044042138",
+        "https://openalex.org/A5084758279"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I99065089"
+      ],
+      "apc_list": {
+        "value": 2125,
+        "currency": "USD",
+        "value_usd": 2125
+      },
+      "apc_paid": {
+        "value": 2125,
+        "currency": "USD",
+        "value_usd": 2125
+      },
+      "fwci": 15.2983,
+      "has_fulltext": true,
+      "cited_by_count": 102,
+      "citation_normalized_percentile": {
+        "value": 0.99514492,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 99,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "5",
+        "issue": null,
+        "first_page": "1133987",
+        "last_page": "1133987"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11519",
+        "display_name": "Digital Mental Health Interventions",
+        "score": 0.9024999737739563,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3202",
+          "display_name": "Applied Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11519",
+          "display_name": "Digital Mental Health Interventions",
+          "score": 0.9024999737739563,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3202",
+            "display_name": "Applied Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12128",
+          "display_name": "AI in Service Interactions",
+          "score": 0.023499999195337296,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12488",
+          "display_name": "Mental Health via Writing",
+          "score": 0.02329999953508377,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/mental-health",
+          "display_name": "Mental health",
+          "score": 0.6910088658332825
+        },
+        {
+          "id": "https://openalex.org/keywords/distress",
+          "display_name": "Distress",
+          "score": 0.6273496747016907
+        },
+        {
+          "id": "https://openalex.org/keywords/cognition",
+          "display_name": "Cognition",
+          "score": 0.6012881398200989
+        },
+        {
+          "id": "https://openalex.org/keywords/chatbot",
+          "display_name": "Chatbot",
+          "score": 0.558875322341919
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.5423697829246521
+        },
+        {
+          "id": "https://openalex.org/keywords/randomized-controlled-trial",
+          "display_name": "Randomized controlled trial",
+          "score": 0.5029217600822449
+        },
+        {
+          "id": "https://openalex.org/keywords/affect",
+          "display_name": "Affect (linguistics)",
+          "score": 0.4566291272640228
+        },
+        {
+          "id": "https://openalex.org/keywords/depression",
+          "display_name": "Depression (economics)",
+          "score": 0.4262215495109558
+        },
+        {
+          "id": "https://openalex.org/keywords/clinical-psychology",
+          "display_name": "Clinical psychology",
+          "score": 0.42002588510513306
+        },
+        {
+          "id": "https://openalex.org/keywords/psychiatry",
+          "display_name": "Psychiatry",
+          "score": 0.290542334318161
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.2538166046142578
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.11561989784240723
+        },
+        {
+          "id": "https://openalex.org/keywords/communication",
+          "display_name": "Communication",
+          "score": 0.0911131203174591
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C134362201",
+          "wikidata": "https://www.wikidata.org/wiki/Q317309",
+          "display_name": "Mental health",
+          "level": 2,
+          "score": 0.6910088658332825
+        },
+        {
+          "id": "https://openalex.org/C139265228",
+          "wikidata": "https://www.wikidata.org/wiki/Q5283089",
+          "display_name": "Distress",
+          "level": 2,
+          "score": 0.6273496747016907
+        },
+        {
+          "id": "https://openalex.org/C169900460",
+          "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+          "display_name": "Cognition",
+          "level": 2,
+          "score": 0.6012881398200989
+        },
+        {
+          "id": "https://openalex.org/C2779041454",
+          "wikidata": "https://www.wikidata.org/wiki/Q870780",
+          "display_name": "Chatbot",
+          "level": 2,
+          "score": 0.558875322341919
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.5423697829246521
+        },
+        {
+          "id": "https://openalex.org/C168563851",
+          "wikidata": "https://www.wikidata.org/wiki/Q1436668",
+          "display_name": "Randomized controlled trial",
+          "level": 2,
+          "score": 0.5029217600822449
+        },
+        {
+          "id": "https://openalex.org/C2776035688",
+          "wikidata": "https://www.wikidata.org/wiki/Q1606558",
+          "display_name": "Affect (linguistics)",
+          "level": 2,
+          "score": 0.4566291272640228
+        },
+        {
+          "id": "https://openalex.org/C2776867660",
+          "wikidata": "https://www.wikidata.org/wiki/Q1814941",
+          "display_name": "Depression (economics)",
+          "level": 2,
+          "score": 0.4262215495109558
+        },
+        {
+          "id": "https://openalex.org/C70410870",
+          "wikidata": "https://www.wikidata.org/wiki/Q199906",
+          "display_name": "Clinical psychology",
+          "level": 1,
+          "score": 0.42002588510513306
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.290542334318161
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.2538166046142578
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.11561989784240723
+        },
+        {
+          "id": "https://openalex.org/C46312422",
+          "wikidata": "https://www.wikidata.org/wiki/Q11024",
+          "display_name": "Communication",
+          "level": 1,
+          "score": 0.0911131203174591
+        },
+        {
+          "id": "https://openalex.org/C139719470",
+          "wikidata": "https://www.wikidata.org/wiki/Q39680",
+          "display_name": "Macroeconomics",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C141071460",
+          "wikidata": "https://www.wikidata.org/wiki/Q40821",
+          "display_name": "Surgery",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.3389/fdgth.2023.1133987",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3389/fdgth.2023.1133987",
+          "pdf_url": "https://www.frontiersin.org/articles/10.3389/fdgth.2023.1133987/pdf",
+          "source": {
+            "id": "https://openalex.org/S4210170686",
+            "display_name": "Frontiers in Digital Health",
+            "issn_l": "2673-253X",
+            "issn": [
+              "2673-253X"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310320527",
+            "host_organization_name": "Frontiers Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320527"
+            ],
+            "host_organization_lineage_names": [
+              "Frontiers Media"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Frontiers in Digital Health",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:37214342",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37214342",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Frontiers in digital health",
+          "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:10193040",
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10193040",
+          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10193040/pdf/fdgth-05-1133987.pdf",
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Front Digit Health",
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:12667ff674714fac96057f496e66f6ca",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/12667ff674714fac96057f496e66f6ca",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Frontiers in Digital Health, Vol 5 (2023)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.3389/fdgth.2023.1133987",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3389/fdgth.2023.1133987",
+        "pdf_url": "https://www.frontiersin.org/articles/10.3389/fdgth.2023.1133987/pdf",
+        "source": {
+          "id": "https://openalex.org/S4210170686",
+          "display_name": "Frontiers in Digital Health",
+          "issn_l": "2673-253X",
+          "issn": [
+            "2673-253X"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320527",
+          "host_organization_name": "Frontiers Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320527"
+          ],
+          "host_organization_lineage_names": [
+            "Frontiers Media"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Frontiers in Digital Health",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4377565325.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4377565325.grobid-xml"
+      },
+      "referenced_works_count": 45,
+      "referenced_works": [
+        "https://openalex.org/W1564547297",
+        "https://openalex.org/W1766269505",
+        "https://openalex.org/W1966243965",
+        "https://openalex.org/W1977406556",
+        "https://openalex.org/W1985329916",
+        "https://openalex.org/W2009143349",
+        "https://openalex.org/W2043705607",
+        "https://openalex.org/W2065378584",
+        "https://openalex.org/W2094028304",
+        "https://openalex.org/W2148905283",
+        "https://openalex.org/W2149689412",
+        "https://openalex.org/W2154480377",
+        "https://openalex.org/W2157575844",
+        "https://openalex.org/W2480680997",
+        "https://openalex.org/W2623779865",
+        "https://openalex.org/W2762990020",
+        "https://openalex.org/W2768417388",
+        "https://openalex.org/W2770709577",
+        "https://openalex.org/W2805600215",
+        "https://openalex.org/W2806569034",
+        "https://openalex.org/W2895373339",
+        "https://openalex.org/W2895995041",
+        "https://openalex.org/W2915164121",
+        "https://openalex.org/W2916226351",
+        "https://openalex.org/W3009670005",
+        "https://openalex.org/W3012875109",
+        "https://openalex.org/W3027909470",
+        "https://openalex.org/W3033947017",
+        "https://openalex.org/W3036236864",
+        "https://openalex.org/W3036934833",
+        "https://openalex.org/W3037477466",
+        "https://openalex.org/W3086788763",
+        "https://openalex.org/W3094251735",
+        "https://openalex.org/W3110570584",
+        "https://openalex.org/W3118482415",
+        "https://openalex.org/W3157200701",
+        "https://openalex.org/W3173036738",
+        "https://openalex.org/W3203074767",
+        "https://openalex.org/W4206687394",
+        "https://openalex.org/W4283522964",
+        "https://openalex.org/W4292994367",
+        "https://openalex.org/W4294953512",
+        "https://openalex.org/W4300870773",
+        "https://openalex.org/W6739098502",
+        "https://openalex.org/W6755353929"
+      ],
+      "related_works": [
+        "https://openalex.org/W4383501580",
+        "https://openalex.org/W4214931137",
+        "https://openalex.org/W4387007686",
+        "https://openalex.org/W4313813117",
+        "https://openalex.org/W4382052417",
+        "https://openalex.org/W3192088754",
+        "https://openalex.org/W3084631705",
+        "https://openalex.org/W3176146353",
+        "https://openalex.org/W4293646425",
+        "https://openalex.org/W4379781060"
+      ],
+      "abstract_inverted_index": {
+        "Introduction": [
+          0
+        ],
+        "The": [
+          1,
+          36
+        ],
+        "growing": [
+          2
+        ],
+        "demand": [
+          3
+        ],
+        "for": [
+          4,
+          290
+        ],
+        "mental": [
+          5,
+          33,
+          154,
+          218,
+          292
+        ],
+        "health": [
+          6,
+          34
+        ],
+        "support": [
+          7,
+          38,
+          83,
+          120
+        ],
+        "has": [
+          8
+        ],
+        "highlighted": [
+          9
+        ],
+        "the": [
+          10,
+          29,
+          93,
+          100,
+          146,
+          160,
+          163,
+          194,
+          200,
+          271,
+          278
+        ],
+        "importance": [
+          11,
+          101
+        ],
+        "of": [
+          12,
+          32,
+          92,
+          102,
+          148,
+          153,
+          208,
+          217
+        ],
+        "conversational": [
+          13,
+          115
+        ],
+        "agents": [
+          14,
+          23,
+          58,
+          67,
+          86,
+          95
+        ],
+        "as": [
+          15
+        ],
+        "human": [
+          16
+        ],
+        "supporters": [
+          17
+        ],
+        "worldwide": [
+          18
+        ],
+        "and": [
+          19,
+          27,
+          47,
+          73,
+          124,
+          157,
+          176,
+          186,
+          252,
+          274,
+          287
+        ],
+        "in": [
+          20,
+          97,
+          106,
+          150,
+          215
+        ],
+        "China.": [
+          21,
+          107
+        ],
+        "These": [
+          22
+        ],
+        "could": [
+          24
+        ],
+        "increase": [
+          25
+        ],
+        "availability": [
+          26
+        ],
+        "reduce": [
+          28
+        ],
+        "relative": [
+          30
+        ],
+        "costs": [
+          31
+        ],
+        "support.": [
+          35,
+          78
+        ],
+        "provided": [
+          37
+        ],
+        "can": [
+          39
+        ],
+        "be": [
+          40
+        ],
+        "divided": [
+          41
+        ],
+        "into": [
+          42,
+          169
+        ],
+        "two": [
+          43,
+          206
+        ],
+        "main": [
+          44
+        ],
+        "types:": [
+          45
+        ],
+        "cognitive": [
+          46,
+          77,
+          119
+        ],
+        "emotional.": [
+          48
+        ],
+        "Existing": [
+          49
+        ],
+        "work": [
+          50
+        ],
+        "on": [
+          51,
+          56,
+          70,
+          81,
+          270
+        ],
+        "this": [
+          52,
+          109,
+          142
+        ],
+        "topic": [
+          53
+        ],
+        "mainly": [
+          54
+        ],
+        "focuses": [
+          55
+        ],
+        "constructing": [
+          57
+        ],
+        "that": [
+          59,
+          117,
+          197,
+          282
+        ],
+        "adopt": [
+          60
+        ],
+        "Cognitive": [
+          61
+        ],
+        "Behavioral": [
+          62
+        ],
+        "Therapy": [
+          63
+        ],
+        "(CBT)": [
+          64
+        ],
+        "principles.": [
+          65
+        ],
+        "Such": [
+          66
+        ],
+        "operate": [
+          68,
+          96
+        ],
+        "based": [
+          69
+        ],
+        "pre-defined": [
+          71
+        ],
+        "templates": [
+          72
+        ],
+        "exercises": [
+          74,
+          123
+        ],
+        "to": [
+          75,
+          136,
+          199
+        ],
+        "provide": [
+          76
+        ],
+        "However,": [
+          79
+        ],
+        "research": [
+          80
+        ],
+        "emotional": [
+          82,
+          139
+        ],
+        "using": [
+          84
+        ],
+        "such": [
+          85,
+          104
+        ],
+        "is": [
+          87,
+          284
+        ],
+        "limited.": [
+          88
+        ],
+        "In": [
+          89,
+          141
+        ],
+        "addition,": [
+          90
+        ],
+        "most": [
+          91
+        ],
+        "constructed": [
+          94
+        ],
+        "English,": [
+          98
+        ],
+        "highlighting": [
+          99
+        ],
+        "conducting": [
+          103
+        ],
+        "studies": [
+          105
+        ],
+        "To": [
+          108
+        ],
+        "end,": [
+          110
+        ],
+        "we": [
+          111,
+          144,
+          280
+        ],
+        "introduce": [
+          112
+        ],
+        "Emohaa,": [
+          113
+        ],
+        "a": [
+          114,
+          285
+        ],
+        "agent": [
+          116
+        ],
+        "provides": [
+          118
+        ],
+        "through": [
+          121,
+          132
+        ],
+        "CBT-Bot": [
+          122
+        ],
+        "guided": [
+          125
+        ],
+        "conversations.": [
+          126
+        ],
+        "It": [
+          127
+        ],
+        "also": [
+          128
+        ],
+        "emotionally": [
+          129
+        ],
+        "supports": [
+          130
+        ],
+        "users": [
+          131
+        ],
+        "ES-Bot,": [
+          133
+        ],
+        "enabling": [
+          134
+        ],
+        "them": [
+          135
+        ],
+        "vent": [
+          137
+        ],
+        "their": [
+          138
+        ],
+        "problems.": [
+          140
+        ],
+        "study,": [
+          143
+        ],
+        "analyze": [
+          145
+        ],
+        "effectiveness": [
+          147
+        ],
+        "Emohaa": [
+          149,
+          172,
+          174,
+          209,
+          283
+        ],
+        "reducing": [
+          151,
+          291
+        ],
+        "symptoms": [
+          152,
+          216
+        ],
+        "distress.": [
+          155,
+          293
+        ],
+        "Methods": [
+          156
+        ],
+        "Results": [
+          158
+        ],
+        "Following": [
+          159
+        ],
+        "RCT": [
+          161
+        ],
+        "design,": [
+          162
+        ],
+        "current": [
+          164
+        ],
+        "study": [
+          165
+        ],
+        "randomly": [
+          166
+        ],
+        "assigned": [
+          167
+        ],
+        "participants": [
+          168,
+          203
+        ],
+        "three": [
+          170
+        ],
+        "groups:": [
+          171
+        ],
+        "(CBT-Bot),": [
+          173
+        ],
+        "(Full),": [
+          175
+        ],
+        "control.": [
+          177
+        ],
+        "With": [
+          178
+        ],
+        "both": [
+          179
+        ],
+        "Intention-To-Treat": [
+          180
+        ],
+        "(": [
+          181,
+          188,
+          222,
+          238,
+          254
+        ],
+        "N": [
+          182,
+          189
+        ],
+        "=": [
+          183,
+          190,
+          229,
+          233,
+          245,
+          249,
+          261,
+          265
+        ],
+        "247": [
+          184
+        ],
+        ")": [
+          185,
+          192
+        ],
+        "PerProtocol": [
+          187
+        ],
+        "134": [
+          191
+        ],
+        "analyses,": [
+          193
+        ],
+        "results": [
+          195,
+          273
+        ],
+        "demonstrated": [
+          196
+        ],
+        "compared": [
+          198
+        ],
+        "control": [
+          201
+        ],
+        "group,": [
+          202
+        ],
+        "who": [
+          204
+        ],
+        "used": [
+          205
+        ],
+        "types": [
+          207
+        ],
+        "experienced": [
+          210
+        ],
+        "considerably": [
+          211
+        ],
+        "more": [
+          212
+        ],
+        "significant": [
+          213
+        ],
+        "improvements": [
+          214
+        ],
+        "distress,": [
+          219
+        ],
+        "including": [
+          220
+        ],
+        "depression": [
+          221
+        ],
+        "F": [
+          223,
+          239,
+          255
+        ],
+        "[": [
+          224,
+          240,
+          256
+        ],
+        "2": [
+          225,
+          241,
+          257
+        ],
+        ",": [
+          226,
+          231,
+          242,
+          247,
+          258,
+          263
+        ],
+        "244": [
+          227,
+          243,
+          259
+        ],
+        "]": [
+          228,
+          244,
+          260
+        ],
+        "6.26": [
+          230
+        ],
+        "p": [
+          232,
+          248,
+          264
+        ],
+        "0.002": [
+          234
+        ],
+        "),": [
+          235,
+          251
+        ],
+        "negative": [
+          236
+        ],
+        "affect": [
+          237
+        ],
+        "6.09": [
+          246
+        ],
+        "0.003": [
+          250
+        ],
+        "insomnia": [
+          253
+        ],
+        "3.69": [
+          262
+        ],
+        "0.026": [
+          266
+        ],
+        ").": [
+          267
+        ],
+        "Discussion": [
+          268
+        ],
+        "Based": [
+          269
+        ],
+        "obtained": [
+          272
+        ],
+        "participants’": [
+          275
+        ],
+        "satisfaction": [
+          276
+        ],
+        "with": [
+          277
+        ],
+        "platform,": [
+          279
+        ],
+        "concluded": [
+          281
+        ],
+        "practical": [
+          286
+        ],
+        "effective": [
+          288
+        ],
+        "tool": [
+          289
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 26
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 38
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 27
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 11
+        }
+      ],
+      "updated_date": "2026-09-21T07:43:02.447757",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  },
+  "pdf_file": "017_a-chatbot-for-mental-health-support-exploring-the-impact-of.pdf",
+  "pdf_url": "https://www.frontiersin.org/articles/10.3389/fdgth.2023.1133987/pdf",
+  "pdf_verified": true
+}

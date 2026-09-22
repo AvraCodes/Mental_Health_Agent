@@ -1,0 +1,31 @@
+{
+  "id": "sch-028",
+  "original": {
+    "paper_name": "[HTML] Detection of depression severity using Bengali social media posts on mental health: study using natural language processing techniques",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "depression detection natural language processing",
+  "scraped_at": "2026-09-22T11:19:30.991825+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "depression detection natural language processing",
+    "title_matched": "[HTML] Detection of depression severity using Bengali social media posts on mental health: study using natural language processing techniques",
+    "authors": [
+      "MK Kabir",
+      "M Islam",
+      "ANB Kabir",
+      "A Haque"
+    ],
+    "year": 2022,
+    "venue": "JMIR Formative …",
+    "cited_by": 66,
+    "landing_page_url": "https://formative.jmir.org/2022/9/e36118/",
+    "snippet": "… language and to analyze the data set to detect depression … In our research, we integrated\nnatural language processing (… are capable of detecting depression-related cues in language [11…",
+    "pdf_url": "https://formative.jmir.org/2022/9/e36118/"
+  },
+  "pdf_file": null,
+  "pdf_url": "https://formative.jmir.org/2022/9/e36118/"
+}

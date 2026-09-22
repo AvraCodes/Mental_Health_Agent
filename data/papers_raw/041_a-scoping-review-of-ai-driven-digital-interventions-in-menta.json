@@ -1,0 +1,1265 @@
+{
+  "id": 41,
+  "original": {
+    "id": 41,
+    "paper_name": "A Scoping Review of AI-Driven Digital Interventions in Mental Health Care: Mapping Applications Across Screening, Support, Monitoring, Prevention, and Clinical Education",
+    "site": "OpenAlex",
+    "venue_of_publication": "Healthcare",
+    "year": 2025,
+    "researcher_info": "Yang Ni, Fanli Jia"
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T08:32:49.510318+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "A Scoping Review of AI-Driven Digital Interventions in Mental Health Care: Mapping Applications Across Screening, Support, Monitoring, Prevention, and Clinical Education",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W4410565034",
+    "doi": "https://doi.org/10.3390/healthcare13101205",
+    "title_matched": "A Scoping Review of AI-Driven Digital Interventions in Mental Health Care: Mapping Applications Across Screening, Support, Monitoring, Prevention, and Clinical Education",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2025,
+    "venue": "Healthcare",
+    "authors": [
+      "Yang Ni",
+      "Fanli Jia"
+    ],
+    "abstract": "BACKGROUND/OBJECTIVES: Artificial intelligence (AI)-enabled digital interventions are increasingly used to expand access to mental health care. This PRISMA-ScR scoping review maps how AI technologies support mental health care across five phases: pre-treatment (screening), treatment (therapeutic support), post-treatment (monitoring), clinical education, and population-level prevention. METHODS: We synthesized findings from 36 empirical studies published through January 2024 that implemented AI-driven digital tools, including large language models (LLMs), machine learning (ML) models, and conversational agents. Use cases include referral triage, remote patient monitoring, empathic communication enhancement, and AI-assisted psychotherapy delivered via chatbots and voice agents. RESULTS: Across the 36 included studies, the most common AI modalities included chatbots, natural language processing tools, machine learning and deep learning models, and large language model-based agents. These technologies were predominantly used for support, monitoring, and self-management purposes rather than as standalone treatments. Reported benefits included reduced wait times, increased engagement, and improved symptom tracking. However, recurring challenges such as algorithmic bias, data privacy risks, and workflow integration barriers highlight the need for ethical design and human oversight. CONCLUSION: By introducing a four-pillar framework, this review offers a comprehensive overview of current applications and future directions in AI-augmented mental health care. It aims to guide researchers, clinicians, and policymakers in developing safe, effective, and equitable digital mental health interventions.",
+    "cited_by_count": 95,
+    "is_oa": true,
+    "pdf_url": "https://www.mdpi.com/2227-9032/13/10/1205/pdf?version=1747815417",
+    "pdf_candidates": [
+      "https://www.mdpi.com/2227-9032/13/10/1205/pdf?version=1747815417",
+      "https://arxiv.org/pdf/2603.16204"
+    ],
+    "landing_page_url": "https://doi.org/10.3390/healthcare13101205",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W4410565034",
+      "doi": "https://doi.org/10.3390/healthcare13101205",
+      "title": "A Scoping Review of AI-Driven Digital Interventions in Mental Health Care: Mapping Applications Across Screening, Support, Monitoring, Prevention, and Clinical Education",
+      "display_name": "A Scoping Review of AI-Driven Digital Interventions in Mental Health Care: Mapping Applications Across Screening, Support, Monitoring, Prevention, and Clinical Education",
+      "relevance_score": 4331.1797,
+      "publication_year": 2025,
+      "publication_date": "2025-05-21",
+      "ids": {
+        "openalex": "https://openalex.org/W4410565034",
+        "doi": "https://doi.org/10.3390/healthcare13101205",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/40428041"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3390/healthcare13101205",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/healthcare13101205",
+        "pdf_url": "https://www.mdpi.com/2227-9032/13/10/1205/pdf?version=1747815417",
+        "source": {
+          "id": "https://openalex.org/S4210214101",
+          "display_name": "Healthcare",
+          "issn_l": "2227-9032",
+          "issn": [
+            "2227-9032"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Healthcare",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "arxiv",
+        "crossref",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2227-9032/13/10/1205/pdf?version=1747815417",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5100662841",
+            "display_name": "Yang Ni",
+            "orcid": "https://orcid.org/0000-0002-4637-6471"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I78577930",
+              "display_name": "Columbia University",
+              "ror": "https://ror.org/00hj8s172",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I78577930"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yang Ni",
+          "raw_affiliation_strings": [
+            "School of International and Public Affairs, Columbia University, New York, NY 10027, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-4637-6471",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of International and Public Affairs, Columbia University, New York, NY 10027, USA",
+              "institution_ids": [
+                "https://openalex.org/I78577930"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5049775460",
+            "display_name": "Fanli Jia",
+            "orcid": "https://orcid.org/0000-0002-7149-455X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12524447",
+              "display_name": "Seton Hall University",
+              "ror": "https://ror.org/007tn5k56",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12524447"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Fanli Jia",
+          "raw_affiliation_strings": [
+            "Department of Psychology, Seton Hall University, South Orange, NJ 07079, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-7149-455X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Psychology, Seton Hall University, South Orange, NJ 07079, USA",
+              "institution_ids": [
+                "https://openalex.org/I12524447"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5049775460"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I12524447"
+      ],
+      "apc_list": {
+        "value": 2700,
+        "currency": "CHF",
+        "value_usd": 3258
+      },
+      "apc_paid": {
+        "value": 2700,
+        "currency": "CHF",
+        "value_usd": 3258
+      },
+      "fwci": 59.1057,
+      "has_fulltext": true,
+      "cited_by_count": 95,
+      "citation_normalized_percentile": {
+        "value": 0.99918092,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 99,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "13",
+        "issue": "10",
+        "first_page": "1205",
+        "last_page": "1205"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11519",
+        "display_name": "Digital Mental Health Interventions",
+        "score": 0.9854999780654907,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3202",
+          "display_name": "Applied Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11519",
+          "display_name": "Digital Mental Health Interventions",
+          "score": 0.9854999780654907,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3202",
+            "display_name": "Applied Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12488",
+          "display_name": "Mental Health via Writing",
+          "score": 0.004699999932199717,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11636",
+          "display_name": "Artificial Intelligence in Healthcare and Education",
+          "score": 0.0034000000450760126,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2718",
+            "display_name": "Health Informatics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/psychological-intervention",
+          "display_name": "Psychological intervention",
+          "score": 0.6915602087974548
+        },
+        {
+          "id": "https://openalex.org/keywords/mental-health",
+          "display_name": "Mental health",
+          "score": 0.6249178647994995
+        },
+        {
+          "id": "https://openalex.org/keywords/digital-health",
+          "display_name": "Digital health",
+          "score": 0.5393846035003662
+        },
+        {
+          "id": "https://openalex.org/keywords/workflow",
+          "display_name": "Workflow",
+          "score": 0.5317983031272888
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.4785333573818207
+        },
+        {
+          "id": "https://openalex.org/keywords/health-care",
+          "display_name": "Health care",
+          "score": 0.4722706079483032
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.33861708641052246
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.32275110483169556
+        },
+        {
+          "id": "https://openalex.org/keywords/nursing",
+          "display_name": "Nursing",
+          "score": 0.2688291072845459
+        },
+        {
+          "id": "https://openalex.org/keywords/psychiatry",
+          "display_name": "Psychiatry",
+          "score": 0.17472854256629944
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C27415008",
+          "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+          "display_name": "Psychological intervention",
+          "level": 2,
+          "score": 0.6915602087974548
+        },
+        {
+          "id": "https://openalex.org/C134362201",
+          "wikidata": "https://www.wikidata.org/wiki/Q317309",
+          "display_name": "Mental health",
+          "level": 2,
+          "score": 0.6249178647994995
+        },
+        {
+          "id": "https://openalex.org/C2780433410",
+          "wikidata": "https://www.wikidata.org/wiki/Q5276090",
+          "display_name": "Digital health",
+          "level": 3,
+          "score": 0.5393846035003662
+        },
+        {
+          "id": "https://openalex.org/C177212765",
+          "wikidata": "https://www.wikidata.org/wiki/Q627335",
+          "display_name": "Workflow",
+          "level": 2,
+          "score": 0.5317983031272888
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.4785333573818207
+        },
+        {
+          "id": "https://openalex.org/C160735492",
+          "wikidata": "https://www.wikidata.org/wiki/Q31207",
+          "display_name": "Health care",
+          "level": 2,
+          "score": 0.4722706079483032
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.33861708641052246
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.32275110483169556
+        },
+        {
+          "id": "https://openalex.org/C159110408",
+          "wikidata": "https://www.wikidata.org/wiki/Q121176",
+          "display_name": "Nursing",
+          "level": 1,
+          "score": 0.2688291072845459
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.17472854256629944
+        },
+        {
+          "id": "https://openalex.org/C77088390",
+          "wikidata": "https://www.wikidata.org/wiki/Q8513",
+          "display_name": "Database",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C50522688",
+          "wikidata": "https://www.wikidata.org/wiki/Q189833",
+          "display_name": "Economic growth",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.3390/healthcare13101205",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3390/healthcare13101205",
+          "pdf_url": "https://www.mdpi.com/2227-9032/13/10/1205/pdf?version=1747815417",
+          "source": {
+            "id": "https://openalex.org/S4210214101",
+            "display_name": "Healthcare",
+            "issn_l": "2227-9032",
+            "issn": [
+              "2227-9032"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
+            "host_organization": "https://openalex.org/P4310310987",
+            "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310310987"
+            ],
+            "host_organization_lineage_names": [
+              "Multidisciplinary Digital Publishing Institute"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Healthcare",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:40428041",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/40428041",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Healthcare (Basel, Switzerland)",
+          "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:arXiv.org:2603.16204",
+          "is_oa": true,
+          "landing_page_url": "http://arxiv.org/abs/2603.16204",
+          "pdf_url": "https://arxiv.org/pdf/2603.16204",
+          "source": {
+            "id": "https://openalex.org/S4306400194",
+            "display_name": "arXiv (Cornell University)",
+            "issn_l": "2331-8422",
+            "issn": [
+              "2331-8422"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I205783295",
+            "host_organization_name": "Cornell University",
+            "host_organization_lineage": [
+              "https://openalex.org/I205783295"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "text"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:12110772",
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/12110772",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Healthcare (Basel)",
+          "raw_type": "Text"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.3390/healthcare13101205",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/healthcare13101205",
+        "pdf_url": "https://www.mdpi.com/2227-9032/13/10/1205/pdf?version=1747815417",
+        "source": {
+          "id": "https://openalex.org/S4210214101",
+          "display_name": "Healthcare",
+          "issn_l": "2227-9032",
+          "issn": [
+            "2227-9032"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Healthcare",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4410565034.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4410565034.grobid-xml"
+      },
+      "referenced_works_count": 78,
+      "referenced_works": [
+        "https://openalex.org/W1991909409",
+        "https://openalex.org/W2005878774",
+        "https://openalex.org/W2053913132",
+        "https://openalex.org/W2078480857",
+        "https://openalex.org/W2800632280",
+        "https://openalex.org/W2889335577",
+        "https://openalex.org/W2891378911",
+        "https://openalex.org/W2914097626",
+        "https://openalex.org/W2985051593",
+        "https://openalex.org/W3013038708",
+        "https://openalex.org/W3028999579",
+        "https://openalex.org/W3033626851",
+        "https://openalex.org/W3112631310",
+        "https://openalex.org/W3118945436",
+        "https://openalex.org/W3154086819",
+        "https://openalex.org/W3163414542",
+        "https://openalex.org/W3173909632",
+        "https://openalex.org/W3187133801",
+        "https://openalex.org/W3200694407",
+        "https://openalex.org/W3202368967",
+        "https://openalex.org/W4205113676",
+        "https://openalex.org/W4206810263",
+        "https://openalex.org/W4210468276",
+        "https://openalex.org/W4213164896",
+        "https://openalex.org/W4213206766",
+        "https://openalex.org/W4220714460",
+        "https://openalex.org/W4220882633",
+        "https://openalex.org/W4220927994",
+        "https://openalex.org/W4229372097",
+        "https://openalex.org/W4247512899",
+        "https://openalex.org/W4280539423",
+        "https://openalex.org/W4280630164",
+        "https://openalex.org/W4281566956",
+        "https://openalex.org/W4281627170",
+        "https://openalex.org/W4281684024",
+        "https://openalex.org/W4283329734",
+        "https://openalex.org/W4286776471",
+        "https://openalex.org/W4291143383",
+        "https://openalex.org/W4292219998",
+        "https://openalex.org/W4297989835",
+        "https://openalex.org/W4303427132",
+        "https://openalex.org/W4308259577",
+        "https://openalex.org/W4308744881",
+        "https://openalex.org/W4311026115",
+        "https://openalex.org/W4313266830",
+        "https://openalex.org/W4313646859",
+        "https://openalex.org/W4319063684",
+        "https://openalex.org/W4324304837",
+        "https://openalex.org/W4367319056",
+        "https://openalex.org/W4367595583",
+        "https://openalex.org/W4377016554",
+        "https://openalex.org/W4378470708",
+        "https://openalex.org/W4378574344",
+        "https://openalex.org/W4384923078",
+        "https://openalex.org/W4386397123",
+        "https://openalex.org/W4386421370",
+        "https://openalex.org/W4386756958",
+        "https://openalex.org/W4386958277",
+        "https://openalex.org/W4387100160",
+        "https://openalex.org/W4387677901",
+        "https://openalex.org/W4387830161",
+        "https://openalex.org/W4387994983",
+        "https://openalex.org/W4389435613",
+        "https://openalex.org/W4389923012",
+        "https://openalex.org/W4393177920",
+        "https://openalex.org/W4398766485",
+        "https://openalex.org/W4399560926",
+        "https://openalex.org/W4401413185",
+        "https://openalex.org/W4401506258",
+        "https://openalex.org/W4402193006",
+        "https://openalex.org/W4404220835",
+        "https://openalex.org/W4405021939",
+        "https://openalex.org/W4405171814",
+        "https://openalex.org/W4405229137",
+        "https://openalex.org/W4405745605",
+        "https://openalex.org/W6838581782",
+        "https://openalex.org/W6858352905",
+        "https://openalex.org/W6859997340"
+      ],
+      "related_works": [
+        "https://openalex.org/W1981780420",
+        "https://openalex.org/W2182707996",
+        "https://openalex.org/W45233828",
+        "https://openalex.org/W2964988449",
+        "https://openalex.org/W2397952901",
+        "https://openalex.org/W2029380707",
+        "https://openalex.org/W188202134",
+        "https://openalex.org/W4396811136",
+        "https://openalex.org/W4391063699",
+        "https://openalex.org/W4399714403"
+      ],
+      "abstract_inverted_index": {
+        "BACKGROUND/OBJECTIVES:": [
+          0
+        ],
+        "Artificial": [
+          1
+        ],
+        "intelligence": [
+          2
+        ],
+        "(AI)-enabled": [
+          3
+        ],
+        "digital": [
+          4,
+          58,
+          208
+        ],
+        "interventions": [
+          5
+        ],
+        "are": [
+          6
+        ],
+        "increasingly": [
+          7
+        ],
+        "used": [
+          8,
+          124
+        ],
+        "to": [
+          9,
+          12,
+          196
+        ],
+        "expand": [
+          10
+        ],
+        "access": [
+          11
+        ],
+        "mental": [
+          13,
+          25,
+          191,
+          209
+        ],
+        "health": [
+          14,
+          26,
+          192,
+          210
+        ],
+        "care.": [
+          15,
+          193
+        ],
+        "This": [
+          16
+        ],
+        "PRISMA-ScR": [
+          17
+        ],
+        "scoping": [
+          18
+        ],
+        "review": [
+          19,
+          178
+        ],
+        "maps": [
+          20
+        ],
+        "how": [
+          21
+        ],
+        "AI": [
+          22,
+          101
+        ],
+        "technologies": [
+          23,
+          121
+        ],
+        "support": [
+          24
+        ],
+        "care": [
+          27
+        ],
+        "across": [
+          28
+        ],
+        "five": [
+          29
+        ],
+        "phases:": [
+          30
+        ],
+        "pre-treatment": [
+          31
+        ],
+        "(screening),": [
+          32
+        ],
+        "treatment": [
+          33
+        ],
+        "(therapeutic": [
+          34
+        ],
+        "support),": [
+          35
+        ],
+        "post-treatment": [
+          36
+        ],
+        "(monitoring),": [
+          37
+        ],
+        "clinical": [
+          38
+        ],
+        "education,": [
+          39
+        ],
+        "and": [
+          40,
+          69,
+          83,
+          89,
+          111,
+          115,
+          128,
+          144,
+          158,
+          168,
+          186,
+          200,
+          206
+        ],
+        "population-level": [
+          41
+        ],
+        "prevention.": [
+          42
+        ],
+        "METHODS:": [
+          43
+        ],
+        "We": [
+          44
+        ],
+        "synthesized": [
+          45
+        ],
+        "findings": [
+          46
+        ],
+        "from": [
+          47
+        ],
+        "36": [
+          48,
+          95
+        ],
+        "empirical": [
+          49
+        ],
+        "studies": [
+          50
+        ],
+        "published": [
+          51
+        ],
+        "through": [
+          52
+        ],
+        "January": [
+          53
+        ],
+        "2024": [
+          54
+        ],
+        "that": [
+          55
+        ],
+        "implemented": [
+          56
+        ],
+        "AI-driven": [
+          57
+        ],
+        "tools,": [
+          59,
+          108
+        ],
+        "including": [
+          60
+        ],
+        "large": [
+          61,
+          116
+        ],
+        "language": [
+          62,
+          106,
+          117
+        ],
+        "models": [
+          63
+        ],
+        "(LLMs),": [
+          64
+        ],
+        "machine": [
+          65,
+          109
+        ],
+        "learning": [
+          66,
+          110,
+          113
+        ],
+        "(ML)": [
+          67
+        ],
+        "models,": [
+          68,
+          114
+        ],
+        "conversational": [
+          70
+        ],
+        "agents.": [
+          71,
+          91,
+          119
+        ],
+        "Use": [
+          72
+        ],
+        "cases": [
+          73
+        ],
+        "include": [
+          74
+        ],
+        "referral": [
+          75
+        ],
+        "triage,": [
+          76
+        ],
+        "remote": [
+          77
+        ],
+        "patient": [
+          78
+        ],
+        "monitoring,": [
+          79,
+          127
+        ],
+        "empathic": [
+          80
+        ],
+        "communication": [
+          81
+        ],
+        "enhancement,": [
+          82
+        ],
+        "AI-assisted": [
+          84
+        ],
+        "psychotherapy": [
+          85
+        ],
+        "delivered": [
+          86
+        ],
+        "via": [
+          87
+        ],
+        "chatbots": [
+          88
+        ],
+        "voice": [
+          90
+        ],
+        "RESULTS:": [
+          92
+        ],
+        "Across": [
+          93
+        ],
+        "the": [
+          94,
+          98,
+          163
+        ],
+        "included": [
+          96,
+          103,
+          138
+        ],
+        "studies,": [
+          97
+        ],
+        "most": [
+          99
+        ],
+        "common": [
+          100
+        ],
+        "modalities": [
+          102
+        ],
+        "chatbots,": [
+          104
+        ],
+        "natural": [
+          105
+        ],
+        "processing": [
+          107
+        ],
+        "deep": [
+          112
+        ],
+        "model-based": [
+          118
+        ],
+        "These": [
+          120
+        ],
+        "were": [
+          122
+        ],
+        "predominantly": [
+          123
+        ],
+        "for": [
+          125,
+          165
+        ],
+        "support,": [
+          126
+        ],
+        "self-management": [
+          129
+        ],
+        "purposes": [
+          130
+        ],
+        "rather": [
+          131
+        ],
+        "than": [
+          132
+        ],
+        "as": [
+          133,
+          152
+        ],
+        "standalone": [
+          134
+        ],
+        "treatments.": [
+          135
+        ],
+        "Reported": [
+          136
+        ],
+        "benefits": [
+          137
+        ],
+        "reduced": [
+          139
+        ],
+        "wait": [
+          140
+        ],
+        "times,": [
+          141
+        ],
+        "increased": [
+          142
+        ],
+        "engagement,": [
+          143
+        ],
+        "improved": [
+          145
+        ],
+        "symptom": [
+          146
+        ],
+        "tracking.": [
+          147
+        ],
+        "However,": [
+          148
+        ],
+        "recurring": [
+          149
+        ],
+        "challenges": [
+          150
+        ],
+        "such": [
+          151
+        ],
+        "algorithmic": [
+          153
+        ],
+        "bias,": [
+          154
+        ],
+        "data": [
+          155
+        ],
+        "privacy": [
+          156
+        ],
+        "risks,": [
+          157
+        ],
+        "workflow": [
+          159
+        ],
+        "integration": [
+          160
+        ],
+        "barriers": [
+          161
+        ],
+        "highlight": [
+          162
+        ],
+        "need": [
+          164
+        ],
+        "ethical": [
+          166
+        ],
+        "design": [
+          167
+        ],
+        "human": [
+          169
+        ],
+        "oversight.": [
+          170
+        ],
+        "CONCLUSION:": [
+          171
+        ],
+        "By": [
+          172
+        ],
+        "introducing": [
+          173
+        ],
+        "a": [
+          174,
+          180
+        ],
+        "four-pillar": [
+          175
+        ],
+        "framework,": [
+          176
+        ],
+        "this": [
+          177
+        ],
+        "offers": [
+          179
+        ],
+        "comprehensive": [
+          181
+        ],
+        "overview": [
+          182
+        ],
+        "of": [
+          183
+        ],
+        "current": [
+          184
+        ],
+        "applications": [
+          185
+        ],
+        "future": [
+          187
+        ],
+        "directions": [
+          188
+        ],
+        "in": [
+          189,
+          202
+        ],
+        "AI-augmented": [
+          190
+        ],
+        "It": [
+          194
+        ],
+        "aims": [
+          195
+        ],
+        "guide": [
+          197
+        ],
+        "researchers,": [
+          198
+        ],
+        "clinicians,": [
+          199
+        ],
+        "policymakers": [
+          201
+        ],
+        "developing": [
+          203
+        ],
+        "safe,": [
+          204
+        ],
+        "effective,": [
+          205
+        ],
+        "equitable": [
+          207
+        ],
+        "interventions.": [
+          211
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 71
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 24
+        }
+      ],
+      "updated_date": "2026-09-20T07:33:13.661266",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  },
+  "pdf_file": "041_a-scoping-review-of-ai-driven-digital-interventions-in-menta.pdf",
+  "pdf_url": "https://www.mdpi.com/2227-9032/13/10/1205/pdf?version=1747815417",
+  "pdf_verified": true
+}

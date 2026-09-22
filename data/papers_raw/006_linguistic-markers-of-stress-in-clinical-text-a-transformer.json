@@ -1,0 +1,56 @@
+{
+  "id": 6,
+  "original": {
+    "paper_name": "Linguistic Markers of Stress in Clinical Text: A Transformer-based Analysis",
+    "site": "IEEE",
+    "venue_of_publication": "IEEE JBHI",
+    "year": 2023,
+    "researcher_info": "S. Lee, et al.",
+    "id": 6
+  },
+  "site": "IEEE",
+  "scraped_at": "2026-09-22T10:57:47.145061+00:00",
+  "fetched": {
+    "found": true,
+    "site": "IEEE",
+    "query": "Linguistic Markers of Stress in Clinical Text: A Transformer-based Analysis",
+    "method": "playwright-search",
+    "search_url": "https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=Linguistic%20Markers%20of%20Stress%20in%20Clinical%20Text%3A%20A%20Transformer-based%20Analysis&highlight=true&returnType=SEARCH&matchPubs=true&rowsPerPage=10",
+    "title_matched": "Stress Detection and Suggestion for IT Professional Using Natural Language Processsing",
+    "authors_raw": "C Sivamurugan;\nP Gowsalya;\nPathan Abdul Jilani;\nY V Jwithesh Kumar;\nRohith;\nN Pavan Sai; C Sivamurugan;P Gowsalya;Pathan Abdul Jilani;Y V Jwithesh Kumar;Rohith;N Pavan Sai",
+    "meta_snippet": "Stress Detection and Suggestion for IT Professional Using Natural Language Processsing\n\nC Sivamurugan;\nP Gowsalya;\nPathan Abdul Jilani;\nY V Jwithesh Kumar;\nRohith;\nN Pavan Sai\n\n2026 IEEE International Conference on AI Engineering and Innovations (AIEI)\nYear: 2026 | Conference Paper | Publisher: IEEE\nAbstract\nHTML",
+    "document_url": "https://ieeexplore.ieee.org/document/11497018/",
+    "article_number": "11497018",
+    "doi": "https://doi.org/10.1109/AIEI69164.2026.11497018",
+    "abstract": "Abstract:\nStress has become a critical occupational hazard for IT professionals, who routinely face stringent deadlines, rapid task switching, and heavy cognitive workloads. Traditional stress-assessment methods such as questionnaires and periodic clinical evaluations are slow, subjective, and incapable of capturing real-time fluctuations. To address these limitations, this work proposes a multimodal, automated stress-detection system that integrates image processing, physiological pattern analysis, and Natural Language Processing (NLP) to enable continuous and objective monitoring of employee stress levels. Facial expression cues are extracted using Python libraries such as MediaPipe and OpenCV, which identify 33 facial landmark points as indicators of emotional strain. Textual inputs—such as user- provided statements or reflections—are processed through NLP models to identify stress-related sentiment and linguistic markers. These multimodal inputs are analysed using machine learning models, including Convolutional Neural Networks (CNNs) for image analysis, Recurrent Neural Networks (RNNs/LSTMs) for physiological trends, and transformer-based NLP models for textual interpretation. The fused outputs generate a unified real-time stress score, enabling early detection and intervention. The proposed system demonstrates strong performance across accuracy, precision, recall, and F1- score metrics, confirming its reliability for workplace deployment. By integrating AI-driven analysis into organizational wellness workflows, the system provides actionable insights that support healthier work environments and timely stress-management strategies.\nPublished in: 2026 IEEE International Conference on AI Engineering and Innovations (AIEI)\nDate of Conference: 26-28 March 2026\nDate Added to IEEE Xplore: 05 May 2026\nISBN Information:\nDOI: 10.1109/AIEI69164.2026.11497018\nPublisher: IEEE\nConference Location: NIT Jamshedpur, India",
+    "candidates": [
+      {
+        "title": "Stress Detection and Suggestion for IT Professional Using Natural Language Processsing",
+        "href": "https://ieeexplore.ieee.org/document/11497018/",
+        "authors": "C Sivamurugan;\nP Gowsalya;\nPathan Abdul Jilani;\nY V Jwithesh Kumar;\nRohith;\nN Pavan Sai; C Sivamurugan;P Gowsalya;Pathan Abdul Jilani;Y V Jwithesh Kumar;Rohith;N Pavan Sai",
+        "meta": "Stress Detection and Suggestion for IT Professional Using Natural Language Processsing\n\nC Sivamurugan;\nP Gowsalya;\nPathan Abdul Jilani;\nY V Jwithesh Kumar;\nRohith;\nN Pavan Sai\n\n2026 IEEE International Conference on AI Engineering and Innovations (AIEI)\nYear: 2026 | Conference Paper | Publisher: IEEE\nAbstract\nHTML"
+      },
+      {
+        "title": "Stress Detection and Suggestion for IT Professional Using Natural Language Processsing",
+        "href": "https://ieeexplore.ieee.org/document/11497018/",
+        "authors": "C Sivamurugan;\nP Gowsalya;\nPathan Abdul Jilani;\nY V Jwithesh Kumar;\nRohith;\nN Pavan Sai",
+        "meta": "Stress Detection and Suggestion for IT Professional Using Natural Language Processsing\n\nC Sivamurugan;\nP Gowsalya;\nPathan Abdul Jilani;\nY V Jwithesh Kumar;\nRohith;\nN Pavan Sai\n\n2026 IEEE International Conference on AI Engineering and Innovations (AIEI)\nYear: 2026 | Conference Paper | Publisher: IEEE"
+      },
+      {
+        "title": "",
+        "href": null,
+        "authors": "",
+        "meta": ""
+      }
+    ],
+    "pdf_url": null,
+    "oa_landing_page_url": null
+  },
+  "pdf_file": null,
+  "pdf_url": null,
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 52,
+  "original": {
+    "id": 52,
+    "paper_name": "ChatGPT: Bullshit spewer or the end of traditional assessments in higher education?",
+    "site": "OpenAlex",
+    "venue_of_publication": "Journal of Applied Learning & Teaching",
+    "year": 2023,
+    "researcher_info": "Jürgen Rudolph, Samson Tan et al."
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T11:04:00.934778+00:00",
+  "fetched": {
+    "found": true,
+    "query": "ChatGPT: Bullshit spewer or the end of traditional assessments in higher education?",
+    "method": "crossref-fallback",
+    "doi": "10.37074/jalt.2023.6.1.9",
+    "doi_url": "https://doi.org/10.37074/jalt.2023.6.1.9",
+    "title_matched": "ChatGPT: Bullshit spewer or the end of traditional assessments in higher education?",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "authors": [],
+    "year": 2023,
+    "venue": "Journal of Applied Learning &amp; Teaching",
+    "publisher": "Open Access Publishing Association",
+    "pdf_url": null,
+    "landing_page_url": "https://doi.org/10.37074/jalt.2023.6.1.9",
+    "site": "OpenAlex",
+    "site_miss": {
+      "found": false,
+      "site": "OpenAlex",
+      "query": "ChatGPT: Bullshit spewer or the end of traditional assessments in higher education?",
+      "method": "api",
+      "error": "GET https://api.openalex.org/works rate-limited (retry-after 50880s) — back off and resume later with --skip-existing"
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": null,
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

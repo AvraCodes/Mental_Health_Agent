@@ -1,0 +1,53 @@
+{
+  "id": 23,
+  "original": {
+    "paper_name": "Deep Multimodal Learning for Continuous Stress Detection in Naturalistic Conversations",
+    "site": "IEEE",
+    "venue_of_publication": "IEEE Transactions on Multimedia",
+    "year": 2025,
+    "researcher_info": "X. Huang, et al.",
+    "id": 23
+  },
+  "site": "IEEE",
+  "scraped_at": "2026-09-22T10:54:04.961264+00:00",
+  "fetched": {
+    "found": false,
+    "site": "IEEE",
+    "query": "Deep Multimodal Learning for Continuous Stress Detection in Naturalistic Conversations",
+    "method": "playwright-search",
+    "search_url": "https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=Deep%20Multimodal%20Learning%20for%20Continuous%20Stress%20Detection%20in%20Naturalistic%20Conversations&highlight=true&returnType=SEARCH&matchPubs=true&rowsPerPage=10",
+    "top_links": [],
+    "note": "No structured result cards parsed; raw document links returned.",
+    "pdf_url": "https://www.nature.com/articles/s41597-020-00630-y.pdf",
+    "oa_landing_page_url": "https://doi.org/10.1038/s41597-020-00630-y",
+    "doi": "https://doi.org/10.1038/s41597-020-00630-y",
+    "fallback_attempt": {
+      "found": false,
+      "query": "Deep Multimodal Learning for Continuous Stress Detection in Naturalistic Conversations",
+      "method": "crossref-fallback",
+      "doi": "10.1038/s41597-020-00630-y",
+      "doi_url": "https://doi.org/10.1038/s41597-020-00630-y",
+      "title_matched": "K-EmoCon, a multimodal sensor dataset for continuous emotion recognition in naturalistic conversations",
+      "title_similarity": 0.738,
+      "match_confidence": "low",
+      "authors": [
+        "Cheul Young Park",
+        "Narae Cha",
+        "Soowon Kang",
+        "Auk Kim",
+        "Ahsan Habib Khandoker",
+        "Leontios Hadjileontiadis",
+        "Alice Oh",
+        "Yong Jeong",
+        "Uichin Lee"
+      ],
+      "year": 2020,
+      "venue": "Scientific Data",
+      "publisher": "Springer Science and Business Media LLC",
+      "pdf_url": "https://www.nature.com/articles/s41597-020-00630-y.pdf",
+      "landing_page_url": "https://doi.org/10.1038/s41597-020-00630-y"
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": "https://www.nature.com/articles/s41597-020-00630-y.pdf"
+}

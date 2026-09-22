@@ -1,0 +1,1144 @@
+{
+  "id": 49,
+  "original": {
+    "id": 49,
+    "paper_name": "Powering an AI Chatbot with Expert Sourcing to Support Credible Health Information Access",
+    "site": "OpenAlex",
+    "venue_of_publication": "Unknown Venue",
+    "year": 2023,
+    "researcher_info": "Ziang Xiao, Q. Vera Liao et al."
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T11:03:32.286522+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "Powering an AI Chatbot with Expert Sourcing to Support Credible Health Information Access",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W4360991106",
+    "doi": "https://doi.org/10.1145/3581641.3584031",
+    "title_matched": "Powering an AI Chatbot with Expert Sourcing to Support Credible Health Information Access",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2023,
+    "venue": null,
+    "authors": [
+      "Ziang Xiao",
+      "Qingzi Vera Liao",
+      "Michelle X. Zhou",
+      "Tyrone W. A. Grandison",
+      "Yunyao Li"
+    ],
+    "abstract": "During a public health crisis like the COVID-19 pandemic, a credible and easy-to-access information portal is highly desirable. It helps with disease prevention, public health planning, and misinformation mitigation. However, creating such an information portal is challenging because 1) domain expertise is required to identify and curate credible and intelligible content, 2) the information needs to be updated promptly in response to the fast-changing environment, and 3) the information should be easily accessible by the general public; which is particularly difficult when most people do not have the domain expertise about the crisis. In this paper, we presented an expert-sourcing framework and created Jennifer, an AI chatbot, which serves as a credible and easy-to-access information portal for individuals during the COVID-19 pandemic. Jennifer was created by a team of over 150 scientists and health professionals around the world, deployed in the real world and answered thousands of user questions about COVID-19. We evaluated Jennifer from two key stakeholders’ perspectives, expert volunteers and information seekers. We first interviewed experts who contributed to the collaborative creation of Jennifer to learn about the challenges in the process and opportunities for future improvement. We then conducted an online experiment that examined Jennifer’s effectiveness in supporting information seekers in locating COVID-19 information and gaining their trust. We share the key lessons learned and discuss design implications for building expert-sourced and AI-powered information portals, along with the risks and opportunities of misinformation mitigation and beyond.",
+    "cited_by_count": 57,
+    "is_oa": true,
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3581641.3584031",
+    "pdf_candidates": [
+      "https://dl.acm.org/doi/pdf/10.1145/3581641.3584031"
+    ],
+    "landing_page_url": "https://doi.org/10.1145/3581641.3584031",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W4360991106",
+      "doi": "https://doi.org/10.1145/3581641.3584031",
+      "title": "Powering an AI Chatbot with Expert Sourcing to Support Credible Health Information Access",
+      "display_name": "Powering an AI Chatbot with Expert Sourcing to Support Credible Health Information Access",
+      "relevance_score": 3127.5903,
+      "publication_year": 2023,
+      "publication_date": "2023-03-27",
+      "ids": {
+        "openalex": "https://openalex.org/W4360991106",
+        "doi": "https://doi.org/10.1145/3581641.3584031"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1145/3581641.3584031",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1145/3581641.3584031",
+        "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3581641.3584031",
+        "source": null,
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Proceedings of the 28th International Conference on Intelligent User Interfaces",
+        "raw_type": "proceedings-article"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://dl.acm.org/doi/pdf/10.1145/3581641.3584031",
+        "any_repository_has_fulltext": null
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5083645580",
+            "display_name": "Ziang Xiao",
+            "orcid": "https://orcid.org/0000-0003-3368-0180"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1290206253",
+              "display_name": "Microsoft (United States)",
+              "ror": "https://ror.org/00d0nc645",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I1290206253"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I145311948",
+              "display_name": "Johns Hopkins University",
+              "ror": "https://ror.org/00za53h95",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I145311948"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210099137",
+              "display_name": "Research Canada",
+              "ror": "https://ror.org/0103eqz62",
+              "country_code": "CA",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210099137"
+              ]
+            }
+          ],
+          "countries": [
+            "CA",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ziang Xiao",
+          "raw_affiliation_strings": [
+            "Department of Computer Science, Johns Hopkins University, United States and Microsoft Research, Canada"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-3368-0180",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Science, Johns Hopkins University, United States and Microsoft Research, Canada",
+              "institution_ids": [
+                "https://openalex.org/I1290206253",
+                "https://openalex.org/I145311948",
+                "https://openalex.org/I4210099137"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5024320659",
+            "display_name": "Qingzi Vera Liao",
+            "orcid": "https://orcid.org/0000-0003-4543-7196"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210153468",
+              "display_name": "Microsoft (Canada)",
+              "ror": "https://ror.org/04xhxg104",
+              "country_code": "CA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I1290206253",
+                "https://openalex.org/I4210153468"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Q. Vera Liao",
+          "raw_affiliation_strings": [
+            "Microsoft Research, Canada"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-4543-7196",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Microsoft Research, Canada",
+              "institution_ids": [
+                "https://openalex.org/I4210153468"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5054523299",
+            "display_name": "Michelle X. Zhou",
+            "orcid": "https://orcid.org/0000-0002-0802-5806"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Michelle Zhou",
+          "raw_affiliation_strings": [
+            "Juji, Inc., United States"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-0802-5806",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Juji, Inc., United States",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5033155973",
+            "display_name": "Tyrone W. A. Grandison",
+            "orcid": "https://orcid.org/0000-0003-1989-3913"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Tyrone Grandison",
+          "raw_affiliation_strings": [
+            "The Data-Driven Institute, United States"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-1989-3913",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "The Data-Driven Institute, United States",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5077658932",
+            "display_name": "Yunyao Li",
+            "orcid": "https://orcid.org/0000-0001-8433-8719"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210153776",
+              "display_name": "Apple (United States)",
+              "ror": "https://ror.org/059hsda18",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210153776"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yunyao Li",
+          "raw_affiliation_strings": [
+            "Apple, United States"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-8433-8719",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Apple, United States",
+              "institution_ids": [
+                "https://openalex.org/I4210153776"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 5,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 11.5066,
+      "has_fulltext": true,
+      "cited_by_count": 57,
+      "citation_normalized_percentile": {
+        "value": 0.98977276,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 98,
+        "max": 100
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "2",
+        "last_page": "18"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12128",
+        "display_name": "AI in Service Interactions",
+        "score": 0.9986000061035156,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12128",
+          "display_name": "AI in Service Interactions",
+          "score": 0.9986000061035156,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11704",
+          "display_name": "Mobile Crowdsensing and Crowdsourcing",
+          "score": 0.9965000152587891,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1706",
+            "display_name": "Computer Science Applications"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12607",
+          "display_name": "Personal Information Management and User Behavior",
+          "score": 0.989300012588501,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1802",
+            "display_name": "Information Systems and Management"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/18",
+            "display_name": "Decision Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/chatbot",
+          "display_name": "Chatbot",
+          "score": 0.9116860628128052
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.6143144369125366
+        },
+        {
+          "id": "https://openalex.org/keywords/crowd-sourcing",
+          "display_name": "Crowd sourcing",
+          "score": 0.42662250995635986
+        },
+        {
+          "id": "https://openalex.org/keywords/world-wide-web",
+          "display_name": "World Wide Web",
+          "score": 0.4043583869934082
+        },
+        {
+          "id": "https://openalex.org/keywords/knowledge-management",
+          "display_name": "Knowledge management",
+          "score": 0.3541125953197479
+        },
+        {
+          "id": "https://openalex.org/keywords/data-science",
+          "display_name": "Data science",
+          "score": 0.3533898591995239
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2779041454",
+          "wikidata": "https://www.wikidata.org/wiki/Q870780",
+          "display_name": "Chatbot",
+          "level": 2,
+          "score": 0.9116860628128052
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.6143144369125366
+        },
+        {
+          "id": "https://openalex.org/C3018396927",
+          "wikidata": "https://www.wikidata.org/wiki/Q275969",
+          "display_name": "Crowd sourcing",
+          "level": 2,
+          "score": 0.42662250995635986
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.4043583869934082
+        },
+        {
+          "id": "https://openalex.org/C56739046",
+          "wikidata": "https://www.wikidata.org/wiki/Q192060",
+          "display_name": "Knowledge management",
+          "level": 1,
+          "score": 0.3541125953197479
+        },
+        {
+          "id": "https://openalex.org/C2522767166",
+          "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+          "display_name": "Data science",
+          "level": 1,
+          "score": 0.3533898591995239
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1145/3581641.3584031",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1145/3581641.3584031",
+          "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3581641.3584031",
+          "source": null,
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Proceedings of the 28th International Conference on Intelligent User Interfaces",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1145/3581641.3584031",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1145/3581641.3584031",
+        "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3581641.3584031",
+        "source": null,
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Proceedings of the 28th International Conference on Intelligent User Interfaces",
+        "raw_type": "proceedings-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.5699999928474426,
+          "display_name": "Good health and well-being",
+          "id": "https://metadata.un.org/sdg/3"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4360991106.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4360991106.grobid-xml"
+      },
+      "referenced_works_count": 71,
+      "referenced_works": [
+        "https://openalex.org/W17868741",
+        "https://openalex.org/W229631713",
+        "https://openalex.org/W1881872130",
+        "https://openalex.org/W2010158189",
+        "https://openalex.org/W2014703957",
+        "https://openalex.org/W2021759878",
+        "https://openalex.org/W2028953510",
+        "https://openalex.org/W2036438413",
+        "https://openalex.org/W2061052595",
+        "https://openalex.org/W2061777840",
+        "https://openalex.org/W2062410346",
+        "https://openalex.org/W2086685131",
+        "https://openalex.org/W2114050095",
+        "https://openalex.org/W2117819927",
+        "https://openalex.org/W2122570643",
+        "https://openalex.org/W2127008633",
+        "https://openalex.org/W2150943872",
+        "https://openalex.org/W2156897926",
+        "https://openalex.org/W2160348997",
+        "https://openalex.org/W2163986367",
+        "https://openalex.org/W2229710742",
+        "https://openalex.org/W2290484796",
+        "https://openalex.org/W2292577651",
+        "https://openalex.org/W2295750479",
+        "https://openalex.org/W2396268257",
+        "https://openalex.org/W2413523787",
+        "https://openalex.org/W2464947093",
+        "https://openalex.org/W2483784540",
+        "https://openalex.org/W2518900389",
+        "https://openalex.org/W2562745534",
+        "https://openalex.org/W2577932382",
+        "https://openalex.org/W2590822507",
+        "https://openalex.org/W2610551042",
+        "https://openalex.org/W2724317853",
+        "https://openalex.org/W2767057583",
+        "https://openalex.org/W2772461498",
+        "https://openalex.org/W2791808303",
+        "https://openalex.org/W2792198542",
+        "https://openalex.org/W2795737757",
+        "https://openalex.org/W2898701693",
+        "https://openalex.org/W2911412425",
+        "https://openalex.org/W2914188784",
+        "https://openalex.org/W2924196385",
+        "https://openalex.org/W2945752171",
+        "https://openalex.org/W2946048558",
+        "https://openalex.org/W2949661904",
+        "https://openalex.org/W2968498314",
+        "https://openalex.org/W2997214274",
+        "https://openalex.org/W2997474044",
+        "https://openalex.org/W2999719910",
+        "https://openalex.org/W3004092718",
+        "https://openalex.org/W3004984068",
+        "https://openalex.org/W3015865241",
+        "https://openalex.org/W3021141494",
+        "https://openalex.org/W3029774798",
+        "https://openalex.org/W3029922759",
+        "https://openalex.org/W3031532441",
+        "https://openalex.org/W3035321364",
+        "https://openalex.org/W3039651429",
+        "https://openalex.org/W3080590497",
+        "https://openalex.org/W3094396842",
+        "https://openalex.org/W3101528469",
+        "https://openalex.org/W3102912458",
+        "https://openalex.org/W3104708195",
+        "https://openalex.org/W3134440370",
+        "https://openalex.org/W3163892065",
+        "https://openalex.org/W3205767880",
+        "https://openalex.org/W4232230735",
+        "https://openalex.org/W4248112467",
+        "https://openalex.org/W4288080268",
+        "https://openalex.org/W6796249392"
+      ],
+      "related_works": [
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W4383501580",
+        "https://openalex.org/W4214931137",
+        "https://openalex.org/W4313813117",
+        "https://openalex.org/W4382052417",
+        "https://openalex.org/W3192088754",
+        "https://openalex.org/W4387007686",
+        "https://openalex.org/W3084631705",
+        "https://openalex.org/W3176146353",
+        "https://openalex.org/W4293646425"
+      ],
+      "abstract_inverted_index": {
+        "During": [
+          0
+        ],
+        "a": [
+          1,
+          9,
+          110,
+          126
+        ],
+        "public": [
+          2,
+          23
+        ],
+        "health": [
+          3,
+          24,
+          133
+        ],
+        "crisis": [
+          4
+        ],
+        "like": [
+          5
+        ],
+        "the": [
+          6,
+          52,
+          62,
+          67,
+          74,
+          87,
+          91,
+          119,
+          136,
+          140,
+          171,
+          179,
+          182,
+          213,
+          230
+        ],
+        "COVID-19": [
+          7,
+          120,
+          205
+        ],
+        "pandemic,": [
+          8
+        ],
+        "credible": [
+          10,
+          47,
+          111
+        ],
+        "and": [
+          11,
+          26,
+          45,
+          48,
+          65,
+          101,
+          112,
+          132,
+          143,
+          161,
+          184,
+          207,
+          217,
+          224,
+          232,
+          237
+        ],
+        "easy-to-access": [
+          12,
+          113
+        ],
+        "information": [
+          13,
+          33,
+          53,
+          68,
+          114,
+          162,
+          201,
+          206,
+          226
+        ],
+        "portal": [
+          14,
+          34,
+          115
+        ],
+        "is": [
+          15,
+          35,
+          41,
+          78
+        ],
+        "highly": [
+          16
+        ],
+        "desirable.": [
+          17
+        ],
+        "It": [
+          18
+        ],
+        "helps": [
+          19
+        ],
+        "with": [
+          20,
+          229
+        ],
+        "disease": [
+          21
+        ],
+        "prevention,": [
+          22
+        ],
+        "planning,": [
+          25
+        ],
+        "misinformation": [
+          27,
+          235
+        ],
+        "mitigation.": [
+          28
+        ],
+        "However,": [
+          29
+        ],
+        "creating": [
+          30
+        ],
+        "such": [
+          31
+        ],
+        "an": [
+          32,
+          98,
+          104,
+          192
+        ],
+        "challenging": [
+          36
+        ],
+        "because": [
+          37
+        ],
+        "1)": [
+          38
+        ],
+        "domain": [
+          39,
+          88
+        ],
+        "expertise": [
+          40,
+          89
+        ],
+        "required": [
+          42
+        ],
+        "to": [
+          43,
+          55,
+          61,
+          170,
+          176
+        ],
+        "identify": [
+          44
+        ],
+        "curate": [
+          46
+        ],
+        "intelligible": [
+          49
+        ],
+        "content,": [
+          50
+        ],
+        "2)": [
+          51
+        ],
+        "needs": [
+          54
+        ],
+        "be": [
+          56,
+          70
+        ],
+        "updated": [
+          57
+        ],
+        "promptly": [
+          58
+        ],
+        "in": [
+          59,
+          139,
+          181,
+          199,
+          203
+        ],
+        "response": [
+          60
+        ],
+        "fast-changing": [
+          63
+        ],
+        "environment,": [
+          64
+        ],
+        "3)": [
+          66
+        ],
+        "should": [
+          69
+        ],
+        "easily": [
+          71
+        ],
+        "accessible": [
+          72
+        ],
+        "by": [
+          73,
+          125
+        ],
+        "general": [
+          75
+        ],
+        "public;": [
+          76
+        ],
+        "which": [
+          77,
+          107
+        ],
+        "particularly": [
+          79
+        ],
+        "difficult": [
+          80
+        ],
+        "when": [
+          81
+        ],
+        "most": [
+          82
+        ],
+        "people": [
+          83
+        ],
+        "do": [
+          84
+        ],
+        "not": [
+          85
+        ],
+        "have": [
+          86
+        ],
+        "about": [
+          90,
+          149,
+          178
+        ],
+        "crisis.": [
+          92
+        ],
+        "In": [
+          93
+        ],
+        "this": [
+          94
+        ],
+        "paper,": [
+          95
+        ],
+        "we": [
+          96
+        ],
+        "presented": [
+          97
+        ],
+        "expert-sourcing": [
+          99
+        ],
+        "framework": [
+          100
+        ],
+        "created": [
+          102,
+          124
+        ],
+        "Jennifer,": [
+          103
+        ],
+        "AI": [
+          105
+        ],
+        "chatbot,": [
+          106
+        ],
+        "serves": [
+          108
+        ],
+        "as": [
+          109
+        ],
+        "for": [
+          116,
+          186,
+          221
+        ],
+        "individuals": [
+          117
+        ],
+        "during": [
+          118
+        ],
+        "pandemic.": [
+          121
+        ],
+        "Jennifer": [
+          122,
+          153,
+          175
+        ],
+        "was": [
+          123
+        ],
+        "team": [
+          127
+        ],
+        "of": [
+          128,
+          146,
+          174,
+          234
+        ],
+        "over": [
+          129
+        ],
+        "150": [
+          130
+        ],
+        "scientists": [
+          131
+        ],
+        "professionals": [
+          134
+        ],
+        "around": [
+          135
+        ],
+        "world,": [
+          137
+        ],
+        "deployed": [
+          138
+        ],
+        "real": [
+          141
+        ],
+        "world": [
+          142
+        ],
+        "answered": [
+          144
+        ],
+        "thousands": [
+          145
+        ],
+        "user": [
+          147
+        ],
+        "questions": [
+          148
+        ],
+        "COVID-19.": [
+          150
+        ],
+        "We": [
+          151,
+          164,
+          189,
+          211
+        ],
+        "evaluated": [
+          152
+        ],
+        "from": [
+          154
+        ],
+        "two": [
+          155
+        ],
+        "key": [
+          156,
+          214
+        ],
+        "stakeholders’": [
+          157
+        ],
+        "perspectives,": [
+          158
+        ],
+        "expert": [
+          159
+        ],
+        "volunteers": [
+          160
+        ],
+        "seekers.": [
+          163
+        ],
+        "first": [
+          165
+        ],
+        "interviewed": [
+          166
+        ],
+        "experts": [
+          167
+        ],
+        "who": [
+          168
+        ],
+        "contributed": [
+          169
+        ],
+        "collaborative": [
+          172
+        ],
+        "creation": [
+          173
+        ],
+        "learn": [
+          177
+        ],
+        "challenges": [
+          180
+        ],
+        "process": [
+          183
+        ],
+        "opportunities": [
+          185,
+          233
+        ],
+        "future": [
+          187
+        ],
+        "improvement.": [
+          188
+        ],
+        "then": [
+          190
+        ],
+        "conducted": [
+          191
+        ],
+        "online": [
+          193
+        ],
+        "experiment": [
+          194
+        ],
+        "that": [
+          195
+        ],
+        "examined": [
+          196
+        ],
+        "Jennifer’s": [
+          197
+        ],
+        "effectiveness": [
+          198
+        ],
+        "supporting": [
+          200
+        ],
+        "seekers": [
+          202
+        ],
+        "locating": [
+          204
+        ],
+        "gaining": [
+          208
+        ],
+        "their": [
+          209
+        ],
+        "trust.": [
+          210
+        ],
+        "share": [
+          212
+        ],
+        "lessons": [
+          215
+        ],
+        "learned": [
+          216
+        ],
+        "discuss": [
+          218
+        ],
+        "design": [
+          219
+        ],
+        "implications": [
+          220
+        ],
+        "building": [
+          222
+        ],
+        "expert-sourced": [
+          223
+        ],
+        "AI-powered": [
+          225
+        ],
+        "portals,": [
+          227
+        ],
+        "along": [
+          228
+        ],
+        "risks": [
+          231
+        ],
+        "mitigation": [
+          236
+        ],
+        "beyond.": [
+          238
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 22
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 19
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 7
+        }
+      ],
+      "updated_date": "2026-09-22T06:50:58.402377",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  },
+  "pdf_file": null,
+  "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3581641.3584031",
+  "s2_attempt": {
+    "pdf_url": null,
+    "method": "semanticscholar",
+    "note": "GET https://api.semanticscholar.org/graph/v1/paper/search failed after 2 retries"
+  }
+}

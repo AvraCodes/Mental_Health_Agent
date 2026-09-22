@@ -1,0 +1,29 @@
+{
+  "id": "sch-007",
+  "original": {
+    "paper_name": "[HTML] An overview of chatbot-based mobile mental health apps: insights from app description and user reviews",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "mental health chatbot",
+  "scraped_at": "2026-09-22T11:18:27.341436+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "mental health chatbot",
+    "title_matched": "[HTML] An overview of chatbot-based mobile mental health apps: insights from app description and user reviews",
+    "authors": [
+      "MDR Haque",
+      "S Rubya"
+    ],
+    "year": 2023,
+    "venue": "JMIR mHealth and uHealth",
+    "cited_by": 583,
+    "landing_page_url": "https://mhealth.jmir.org/2023/1/e44838/",
+    "snippet": "… Conclusions: Our findings suggest that chatbots have great … and limitations that these chatbots\nmust establish according to the … design of effective chatbots for mental health support have …",
+    "pdf_url": "https://mhealth.jmir.org/2023/1/e44838/"
+  },
+  "pdf_file": null,
+  "pdf_url": "https://mhealth.jmir.org/2023/1/e44838/"
+}

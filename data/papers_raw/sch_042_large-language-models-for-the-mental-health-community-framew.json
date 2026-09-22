@@ -1,0 +1,30 @@
+{
+  "id": "sch-042",
+  "original": {
+    "paper_name": "Large language models for the mental health community: framework for translating code to care",
+    "site": "GoogleScholar"
+  },
+  "site": "GoogleScholar",
+  "query": "large language models mental health",
+  "scraped_at": "2026-09-22T11:20:22.327485+00:00",
+  "fetched": {
+    "found": true,
+    "site": "GoogleScholar",
+    "method": "playwright-search",
+    "query": "large language models mental health",
+    "title_matched": "Large language models for the mental health community: framework for translating code to care",
+    "authors": [
+      "M Malgaroli",
+      "K Schultebraucks",
+      "KJ Myrick"
+    ],
+    "year": 2025,
+    "venue": "… Lancet Digital Health",
+    "cited_by": 76,
+    "landing_page_url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(24)00255-3/fulltext",
+    "snippet": "… health care. The accelerating enthusiasm for artificial intelligence and large language models\n(… , has broadened interest in their mental health applications. To translate this enthusiasm …",
+    "pdf_url": "https://www.thelancet.com/pdfs/journals/landig/PIIS2589-7500(24)00255-3.pdf"
+  },
+  "pdf_file": null,
+  "pdf_url": "https://www.thelancet.com/pdfs/journals/landig/PIIS2589-7500(24)00255-3.pdf"
+}

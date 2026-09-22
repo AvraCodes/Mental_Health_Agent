@@ -1,0 +1,5918 @@
+{
+  "id": 57,
+  "original": {
+    "id": 57,
+    "paper_name": "Can AI replace psychotherapists? Exploring the future of mental health care",
+    "site": "OpenAlex",
+    "venue_of_publication": "Frontiers in Psychiatry",
+    "year": 2024,
+    "researcher_info": "Zhihui Zhang, Jing Wang"
+  },
+  "site": "OpenAlex",
+  "scraped_at": "2026-09-22T10:46:36.462107+00:00",
+  "fetched": {
+    "found": true,
+    "site": "OpenAlex",
+    "query": "Can AI replace psychotherapists? Exploring the future of mental health care",
+    "method": "api",
+    "openalex_id": "https://openalex.org/W4403962195",
+    "doi": "https://doi.org/10.3389/fpsyt.2024.1444382",
+    "title_matched": "Can AI replace psychotherapists? Exploring the future of mental health care",
+    "title_similarity": 1.0,
+    "match_confidence": "high",
+    "year": 2024,
+    "venue": "Frontiers in Psychiatry",
+    "authors": [
+      "Zhihui Zhang",
+      "Jing Wang"
+    ],
+    "abstract": "against the growing prevalence of mental health issues (7,8).AI's role in mental health care is multifaceted, encompassing predictive analytics, therapeutic interventions, clinician support tools, and patient monitoring systems (9). For instance, AI algorithms are increasingly used to predict treatment outcomes by analyzing patient data (10). Meanwhile, AI-powered interventions, such as virtual reality exposure therapy and chatbot-delivered cognitive behavioral therapy, are being explored, though they are at varying stages of validation (11,12). Each of these applications is evolving at its own pace, influenced by technological advancements and the need for rigorous clinical validation.AI's capabilities in handling extensive datasets and analyzing complex behavioral patterns position it as a revolutionary force capable of transforming mental health care by offering advanced detection methods, personalized treatment plans, and virtual therapeutic platforms that could dramatically increase accessibility, reduce stigma, and enhance treatment outcomes (13,14,15,4).Furthermore, the role of AI in mental health extends to potentially replacing certain functions traditionally performed by human psychotherapists. Innovations in machine learning and natural language processing have enabled AI systems like ChatGPT to recognize and process complex human emotions, facilitating interactions that once required the nuanced understanding of trained therapists (16,17). Preliminary studies suggest that AI-powered chatbots may help alleviate symptoms of anxiety and depression (18,19). However, these studies often involve small participant groups and lack long-term follow-up, making it difficult to draw definitive conclusions about their effectiveness. Consequently, while AI interventions hold promise, further research through large-scale, randomized controlled trials is necessary to establish their efficacy and sustainability over time.Studies have shown that AI-powered chatbots can effectively reduce symptoms of anxiety and depression, offering a level of interaction that suggests machines might soon match or even surpass human capabilities in certain aspects of psychotherapy (18,19,20,21).Although these studies indicate short-term benefits, meta-analyses have shown that these effects may not be sustained in the long term, with no significant changes observed over extended periods (22).As AI continues to evolve and become more deeply integrated into the mental healthcare sector, its potential to fundamentally transform the field is undeniable. At a time when mental health issues have reached pandemic proportions globally, affecting productivity and quality of life (23,24), the need for innovative solutions is urgent. AI's integration into mental health services offers promising avenues for enhancing care delivery and improving treatment efficacy and efficiency. However, it is crucial to approach this evolution with caution. We must carefully address the limitations of AI, such as algorithmic bias, ethical concerns, and the need for human oversight, to prevent future disparities and ensure that AI complements rather than replaces the essential human elements of psychotherapy. However, while AI has the potential to assume many roles traditionally performed by psychotherapists, it is crucial to approach this evolution with caution. We must carefully address the limitations of AI, such as algorithmic bias, ethical concerns, and the need for human oversight, to prevent future disparities and ensure that AI complements rather than replaces the essential human elements of psychotherapy. This balanced approach will be key to harnessing AI's benefits while safeguarding the quality and accessibility of mental health care.The integration of Artificial Intelligence (AI) in Psychotherapy represents a significant phase in the evolution of mental health care, leveraging technology to enhance both treatment efficacy and accessibility. Initial experiments in the 1960s, notably with the ELIZA program, showcased AI's potential for therapeutic applications by mimicking human-like conversations (25). This pioneering work established the foundation for AI's increasing role in psychological therapy and assessment over the ensuing decades.The development of AI systems in the 1980s aimed to replicate human psychological expertise, leading to advanced diagnostic and therapeutic tools across various psychological disciplines (26,27). By the end of the 20th century, this evolution gave rise to computerized cognitive behavioral therapy (CBT) programs, which were designed to provide structured, evidence-based interventions for common mental health conditions (28). Although these early applications were more basic than current AI technologies, they marked a pivotal shift toward enhancing the accessibility of mental health services through digital means (28). As technology advanced, the role of AI in mental health care rapidly expanded to encompass early detection of mental health issues, the creation of personalized treatment plans, and the introduction of virtual therapists and teletherapy enhancements (15,4).Continuing advancements in AI technology, driven by increases in computational power and breakthroughs in machine learning and natural language processing (NLP), have enabled more sophisticated interactions between AI systems and users. AI models, particularly those utilizing the transformer architecture like OpenAI's ChatGPT (Version GPT-4o), demonstrate an exceptional capacity for recognizing the complexities of human emotion and language nuances (17). These models facilitate engaging conversations that adeptly interpret emotional states, providing contextually and emotionally relevant response (29). Future enhancements are expected to introduce more natural, real-time voice interactions and enable conversations with ChatGPT through real-time video, broadening the potential applications of AI in Psychotherapy(30). The upcoming GPT-5 is anticipated to surpass the current capabilities of GPT-4, further augmenting the effectiveness of AI applications in mental health care and extending the range of services available to patients (31).A study by Elyoseph utilized the Levels of Emotional Awareness Scale (LEAS) to assess ChatGPT's ability to recognize and articulate emotions in hypothetical scenarios (16). The findings indicate that ChatGPT can generate responses that reflect a level of emotional awareness similar to the general population.However, it's important to note that ChatGPT's 'understanding' is based on pattern recognition and language modeling, not on genuine emotional comprehension. Therefore, while ChatGPT can mimic emotional responses, it does not experience emotions as humans do, and its capabilities in this area are limited to textual analysis and generation.A groundbreaking study by Elyoseph utilized the Levels of Emotional Awareness Scale (LEAS) to measure the emotional awareness of ChatGPTs (16). The study found that ChatGPT's responses matched and sometimes exceeded the general population's emotional awareness levels. Such capabilities suggest that ChatGPT can recognize and articulate the emotional components of human interactions at a level that is comparable to, and in some cases surpasses, humans.This proficiency in emotional comprehension positions ChatGPT as a potentially valuable tool in the field of psychotherapy and mental health care. For example, ChatGPT has been involved in pilot studies where it assisted in identifying early warning signs of mental health issues such as suicidal tendencies and providing initial therapeutic interventions (32). Moreover, recent research has demonstrated that generalpurpose AI models, like Gemini Pro and GPT-4, outperform traditional therapeutic bots, such as Wysa and Youper, particularly in correcting cognitive biases like overtrust, fundamental attribution error, and the just-world hypothesis. In these areas, GPT-4 scored the highest, while therapeutic bots like Wysa scored the lowest (33).These findings further underscore the potential of ChatGPT and similar models in providing effective mental health support, particularly in contexts where human professionals are scarce.To illustrate how ChatGPT-4 can function in a therapeutic context, consider the following hypothetical scenario involving an individual seeking support from an AI-powered platform.Alex is experiencing symptoms of anxiety related to work stress. Unable to access immediate professional help, Alex turns to a mental health app powered by ChatGPT-4 for support.Alex: \"I've been feeling really overwhelmed with work lately. Deadlines are piling up, and I can't seem to catch up.\"ChatGPT-4: \"I'm sorry to hear that you're feeling this way. It sounds like you're under a lot of pressure.Would you like to talk more about what's causing these feelings, or perhaps explore some strategies to manage your stress?\" Alex: \"I just feel like no matter how much I do, it's never enough. I'm worried I'm going to let everyone down.\"ChatGPT-4: \"It seems you're experiencing a fear of disappointing others, which can be quite stressful.Remember, it's important to acknowledge your efforts. Would discussing some time management techniques or ways to set realistic expectations be helpful?\"In this interaction, ChatGPT-4 provides empathetic responses, validates Alex's feelings, and offers to explore coping strategies. This example demonstrates how AI-driven support can offer immediate assistance, especially for individuals who may lack access to mental health professionals or prefer the anonymity and convenience of a digital platform.The integration of Artificial Intelligence (AI) in Psychotherapy promises transformative advancements in mental health care, each highlighted by recent research. Cunzhou Ran's work on emotion analysis using ChatGPT demonstrates AI's ability to recognize emotional nuances in communication, indicating potential for more empathetic interactions in therapy (34). Graham explores AI's use in diagnosing and treating a range of mental health disorders, suggesting enhanced accuracy and efficacy in treatment plans (35). Saadia Gabriel's examination of Large Language Models in clinical settings reveals AI's capacity to broaden access to mental health services (36), though it emphasizes the need for stringent ethical standards.Lastly, Gilmar Gutierrez's review on online mental healthcare underscores AI's role in improving treatment adherence and patient engagement through continuous monitoring and support (37). Collectively, these studies suggest that while AI can significantly augment psychotherapeutic practice, careful consideration of ethical implications is essential.Human psychotherapists, while deeply committed to their practice, face significant constraints in terms of time and physical resources that impact their ability to manage large caseloads. The traditional model of psychotherapy, which involves one-on-one sessions lasting from thirty minutes to an hour, inherently limits the number of patients a therapist can see daily. This limitation becomes particularly acute in regions Can AI Replace Psychotherapists? with a high demand for mental health services but a limited number of available professionals. The scarcity of resources can lead to increased wait times for patients, potentially delaying critical interventions and exacerbating mental health conditions. Extended wait times and limited access to necessary care can result in deterioration of patient conditions, which poses serious challenges to mental health systems globally (38,39).The work of psychotherapists involves intense emotional labor as therapists routinely engage with the emotional and psychological distress of their clients. This constant exposure to high-stress situations requires a substantial emotional investment and can lead to significant professional burnout. Symptoms of burnout among psychotherapists often manifest as emotional exhaustion, depersonalization, and a reduced sense of personal accomplishment, which not only impacts their personal health and job satisfaction but also affects their professional performance. Over time, this can result in reduced empathy and attentiveness-key components of effective therapy-thereby negatively impacting therapeutic outcomes and patient satisfaction. The emotional toll of psychotherapy can thus lead to a higher turnover among mental health professionals, further straining the system and impacting the quality of care provided to patients (40,41,42).Personalization in therapy is crucial for its effectiveness, yet human therapists face inherent limitations in how extensively and accurately they can tailor their approaches to each individual patient. Despite their best efforts, human memory constraints and cognitive biases can affect a therapist's ability to consistently integrate and recall detailed patient histories or subtle behavioral nuances across extended treatment periods.These limitations can hinder their capacity to fully personalize care, which is especially crucial for patients with complex, co-morbid conditions that require nuanced understanding and approach. In contrast, AI technologies, with their ability to process and remember vast amounts of information without bias, offer promising prospects for supporting more personalized and precise mental health interventions. AI can handle complex datasets, identify patterns, and recall details from patient interactions with greater accuracy than human therapists, potentially leading to improved treatment planning and outcomes (43,44,45).AI significantly enhances the scalability and accessibility of mental health services. Unlike traditional therapy, which often requires physical presence and can be limited by geographic and resource constraints, AI-powered systems can provide support globally and operate continuously without fatigue. This accessibility is crucial, particularly in regions where mental health professionals are scarce (46,47).Additionally, AI-driven interventions can reduce healthcare costs, making mental health care more affordable and accessible. The economic and operational benefits of AI in enhancing the reach of mental health services are well-documented(48).One of the unique advantages of AI in mental health is the increased candidness and openness that patients often exhibit when interacting with machines. Studies have shown that individuals are sometimesmore willing to disclose sensitive information to AI systems due to perceived non-judgmental nature of machines (49,50). This phenomenon can lead to more honest exchanges during therapy sessions, allowing for more accurate assessments and potentially more effective treatment. The absence of perceived judgment not only encourages more honest disclosures but also can reduce the stigma associated with seeking help for mental health issues, thus enhancing patient engagement (21).AI systems offer a level of consistency in mental health care delivery that human practitioners can find challenging to achieve due to natural variations in mood, fatigue, and personal bias. AI-driven tools apply the same standards and protocols to every interaction, ensuring all patients receive the same quality of care (51,52). Furthermore, AI has the potential to reduce biases that can influence human judgment. These systems can be programmed to ignore irrelevant factors such as race, gender, or socio-economic status, promoting a more equitable healthcare environment (53).While AI systems like GPT-4 exhibit strong short-term memory capabilities, they still face significant challenges with long-term memory retention and integration. Current models often require external processes to summarize and track interactions over time, which limits their ability to maintain a continuous and coherent therapeutic relationship without human oversight (54,55,56). This limitation can affect the continuity of care, as AI may struggle to retain and integrate information from past sessions, potentially leading to fragmented or inconsistent therapeutic interactions. For effective psychotherapy, the ability to recall and integrate past information is crucial, and this remains a key area where human therapists currently hold an advantage over AI systems.Algorithmic bias is a critical concern in the application of AI to mental health care. As highlighted by Akter, biases can arise from the data used to train AI models, leading to unequal treatment of individuals based on race, gender, or socioeconomic status, thus perpetuating existing disparities in mental health care (57). Despite efforts to minimize these biases, they are often unavoidable due to the decisions made during the development of AI systems. These biases can influence the interaction and effectiveness of AI in mental health settings, affecting how information is presented or what therapeutic approaches are emphasized. This reflects the inherent biases and priorities of the developers, which can have unintended consequences on the care provided to patients.While AI-based therapies have shown effectiveness in reducing symptoms of anxiety and depression in the short term, their long-term efficacy remains questionable. Studies have indicated that the initial benefits of AI-driven interventions often diminish over time, with no significant long-term improvements observed(?). This may be due to AI's current inability to adapt to the evolving and complex nature of human mental health needs over extended periods. Unlike human therapists, who can adjust their therapeutic strategies based on ongoing interactions and deeper understanding of a patient's history, AI systems may lack the flexibility required to maintain therapeutic effectiveness in the long term. This limitation highlights the need for continuous human oversight and potentially hybrid models where AI supports but does not replace the human element in psychotherapy.Beyond technical limitations like memory and bias, the use of AI in mental health care raises significant ethical questions regarding privacy, autonomy, and the potential stigmatization of patients. As noted by Walsh, AI systems, particularly those that utilize biomarkers and other sensitive data, must navigate the complex balance between improving care and patient and The and of AI in healthcare must ethical strategies to bias, ensure and maintain patient careful ethical oversight, AI could lead to unintended consequences such as or the of the therapeutic relationship between patients and human the of which AI to tailor interventions to individual its own set of ethical the need for human oversight to ensure that AI complements rather than replaces the nuanced understanding that human therapists to the advancements in AI technology, are critical where AI short to human psychotherapists. AI systems lack genuine empathy and the ability to emotional with patients. therapists use their own emotional understanding to and which is fundamental in therapy AI replicate this emotional as it does not experience human therapists on professional and ethical judgment to navigate complex therapeutic situations can interpret subtle and adapt their approach in AI due to its on human therapists are at communication, such as language and providing deeper into a patient's emotional AI systems, particularly those limited to these Moreover, and are where human therapists can tailor their approaches to with a patient's AI may not fully potentially leading to human therapists provide continuity of care and personalized treatment plans based on an evolving understanding of the patient's AI may struggle with to the same potentially leading to effective therapy (AI) technology continues to its increasing significant potential to the of mental health services. AI may an important role in supporting psychotherapy, particularly in the mental health where access to trained professionals is By augmenting traditional mental health care, AI can offer and solutions that reduce such as stigma, and as AI becomes more integrated into mental health care, it is essential to recognize and address its related to memory algorithmic bias, and ethical underscore the need for a balanced approach. AI systems lack genuine ethical and the ability to interpret that are to human Therefore, these systems must carefully designed and to rather than replace the critical human elements of and nuanced understanding in this AI is not as a for human therapists but as a tool that extends the reach of mental health services. By and providing support in where human professionals are AI can help ensure that individuals have greater access to essential mental health the integration of AI into mental health care must be with for patient and the of human research and rigorous clinical validation are crucial to establish the efficacy and of AI interventions. this can be a pivotal toward a more and effective mental health technological with the of human As (AI) technology significant its increasing promises to the of mental health services. The potential for AI to assume a substantial of psychotherapy roles is not a but a future This shift AI-driven psychotherapy represents a critical evolution in the mental health particularly in where the scarcity of trained professionals limits access to as AI to a more significant role in mental health care, it is essential to recognize and address its challenges related to memory algorithmic bias, and ethical underscore the need for a balanced approach. AI systems can enhance accessibility and consistency in mental health care, offering and solutions that can reduce such as stigma, and these systems must be carefully designed and to ensure they rather than replace the critical human elements of and nuanced understanding in this AI is not as a for human therapists but as a tool that extends the reach of mental health services. By and providing support in where human professionals are AI can help ensure that every of their or economic status, has access to essential mental health However, the integration of AI into mental health care must be with and for patient This when can be a pivotal a more and effective mental health",
+    "cited_by_count": 96,
+    "is_oa": true,
+    "pdf_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1444382/pdf",
+    "pdf_candidates": [
+      "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1444382/pdf",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11560757/pdf/fpsyt-15-1444382.pdf"
+    ],
+    "landing_page_url": "https://doi.org/10.3389/fpsyt.2024.1444382",
+    "source_url": null,
+    "raw": {
+      "id": "https://openalex.org/W4403962195",
+      "doi": "https://doi.org/10.3389/fpsyt.2024.1444382",
+      "title": "Can AI replace psychotherapists? Exploring the future of mental health care",
+      "display_name": "Can AI replace psychotherapists? Exploring the future of mental health care",
+      "relevance_score": 3725.685,
+      "publication_year": 2024,
+      "publication_date": "2024-10-31",
+      "ids": {
+        "openalex": "https://openalex.org/W4403962195",
+        "doi": "https://doi.org/10.3389/fpsyt.2024.1444382",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/39544371"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3389/fpsyt.2024.1444382",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3389/fpsyt.2024.1444382",
+        "pdf_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1444382/pdf",
+        "source": {
+          "id": "https://openalex.org/S92766711",
+          "display_name": "Frontiers in Psychiatry",
+          "issn_l": "1664-0640",
+          "issn": [
+            "1664-0640"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320527",
+          "host_organization_name": "Frontiers Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320527"
+          ],
+          "host_organization_lineage_names": [
+            "Frontiers Media"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Frontiers in Psychiatry",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1444382/pdf",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5100451619",
+            "display_name": "Zhihui Zhang",
+            "orcid": "https://orcid.org/0000-0002-5189-4150"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I195019228",
+              "display_name": "Yunnan Agricultural University",
+              "ror": "https://ror.org/04dpa3g90",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I195019228"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I9617848",
+              "display_name": "Universitat Politècnica de Catalunya",
+              "ror": "https://ror.org/03mb6wj31",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I9617848"
+              ]
+            }
+          ],
+          "countries": [
+            "CN",
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Zhihui Zhang",
+          "raw_affiliation_strings": [
+            "Barcelona School of Architecture, Universitat Politècnica de Catalunya, Barcelona, Spain",
+            "College of Landscape and Horticulture, Yunnan Agricultural University, Kunming, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Barcelona School of Architecture, Universitat Politècnica de Catalunya, Barcelona, Spain",
+              "institution_ids": [
+                "https://openalex.org/I9617848"
+              ]
+            },
+            {
+              "raw_affiliation_string": "College of Landscape and Horticulture, Yunnan Agricultural University, Kunming, China",
+              "institution_ids": [
+                "https://openalex.org/I195019228"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5100378370",
+            "display_name": "Jing Wang",
+            "orcid": "https://orcid.org/0000-0002-8213-3725"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210164332",
+              "display_name": "Shenzhen Second People's Hospital",
+              "ror": "https://ror.org/05c74bq69",
+              "country_code": "CN",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210164332"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Jing Wang",
+          "raw_affiliation_strings": [
+            "Department of Ultrasound, Shenzhen Second People's Hospital, Shenzhen, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Ultrasound, Shenzhen Second People's Hospital, Shenzhen, China",
+              "institution_ids": [
+                "https://openalex.org/I4210164332"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5100378370"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210164332"
+      ],
+      "apc_list": {
+        "value": 3295,
+        "currency": "USD",
+        "value_usd": 3295
+      },
+      "apc_paid": {
+        "value": 3295,
+        "currency": "USD",
+        "value_usd": 3295
+      },
+      "fwci": 41.1383,
+      "has_fulltext": true,
+      "cited_by_count": 96,
+      "citation_normalized_percentile": {
+        "value": 0.99937495,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 94,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "15",
+        "issue": null,
+        "first_page": "1444382",
+        "last_page": "1444382"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10272",
+        "display_name": "Mental Health Treatment and Access",
+        "score": 0.998199999332428,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3207",
+          "display_name": "Social Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10272",
+          "display_name": "Mental Health Treatment and Access",
+          "score": 0.998199999332428,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11519",
+          "display_name": "Digital Mental Health Interventions",
+          "score": 0.9966999888420105,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3202",
+            "display_name": "Applied Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12308",
+          "display_name": "Mental Health and Psychiatry",
+          "score": 0.9904000163078308,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1211",
+            "display_name": "Philosophy"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/12",
+            "display_name": "Arts and Humanities"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/mental-health",
+          "display_name": "Mental health",
+          "score": 0.6167933940887451
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.6096346974372864
+        },
+        {
+          "id": "https://openalex.org/keywords/mental-health-care",
+          "display_name": "Mental health care",
+          "score": 0.5092695951461792
+        },
+        {
+          "id": "https://openalex.org/keywords/psychotherapist",
+          "display_name": "Psychotherapist",
+          "score": 0.42161184549331665
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C134362201",
+          "wikidata": "https://www.wikidata.org/wiki/Q317309",
+          "display_name": "Mental health",
+          "level": 2,
+          "score": 0.6167933940887451
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.6096346974372864
+        },
+        {
+          "id": "https://openalex.org/C2992545881",
+          "wikidata": "https://www.wikidata.org/wiki/Q6817473",
+          "display_name": "Mental health care",
+          "level": 3,
+          "score": 0.5092695951461792
+        },
+        {
+          "id": "https://openalex.org/C542102704",
+          "wikidata": "https://www.wikidata.org/wiki/Q183257",
+          "display_name": "Psychotherapist",
+          "level": 1,
+          "score": 0.42161184549331665
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.3389/fpsyt.2024.1444382",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3389/fpsyt.2024.1444382",
+          "pdf_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1444382/pdf",
+          "source": {
+            "id": "https://openalex.org/S92766711",
+            "display_name": "Frontiers in Psychiatry",
+            "issn_l": "1664-0640",
+            "issn": [
+              "1664-0640"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310320527",
+            "host_organization_name": "Frontiers Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320527"
+            ],
+            "host_organization_lineage_names": [
+              "Frontiers Media"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Frontiers in Psychiatry",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:39544371",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39544371",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Frontiers in psychiatry",
+          "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:11560757",
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11560757",
+          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11560757/pdf/fpsyt-15-1444382.pdf",
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Front Psychiatry",
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:a4e1c210e64f4b899a1cc87981049d71",
+          "is_oa": false,
+          "landing_page_url": "https://doaj.org/article/a4e1c210e64f4b899a1cc87981049d71",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Frontiers in Psychiatry, Vol 15 (2024)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.3389/fpsyt.2024.1444382",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3389/fpsyt.2024.1444382",
+        "pdf_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1444382/pdf",
+        "source": {
+          "id": "https://openalex.org/S92766711",
+          "display_name": "Frontiers in Psychiatry",
+          "issn_l": "1664-0640",
+          "issn": [
+            "1664-0640"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320527",
+          "host_organization_name": "Frontiers Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320527"
+          ],
+          "host_organization_lineage_names": [
+            "Frontiers Media"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Frontiers in Psychiatry",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "display_name": "Gender equality",
+          "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/5"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4403962195.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4403962195.grobid-xml"
+      },
+      "referenced_works_count": 69,
+      "referenced_works": [
+        "https://openalex.org/W98414497",
+        "https://openalex.org/W612038660",
+        "https://openalex.org/W1544484417",
+        "https://openalex.org/W1947449774",
+        "https://openalex.org/W1967922540",
+        "https://openalex.org/W2024316506",
+        "https://openalex.org/W2041714395",
+        "https://openalex.org/W2054620429",
+        "https://openalex.org/W2075647177",
+        "https://openalex.org/W2130596677",
+        "https://openalex.org/W2133420712",
+        "https://openalex.org/W2143403659",
+        "https://openalex.org/W2606586703",
+        "https://openalex.org/W2792222966",
+        "https://openalex.org/W2887538181",
+        "https://openalex.org/W2888967035",
+        "https://openalex.org/W2889335577",
+        "https://openalex.org/W2910707576",
+        "https://openalex.org/W2948656201",
+        "https://openalex.org/W2969715170",
+        "https://openalex.org/W2985355520",
+        "https://openalex.org/W3001779409",
+        "https://openalex.org/W3027972115",
+        "https://openalex.org/W3040371539",
+        "https://openalex.org/W3049028910",
+        "https://openalex.org/W3088017652",
+        "https://openalex.org/W3095274557",
+        "https://openalex.org/W3113541070",
+        "https://openalex.org/W3126248789",
+        "https://openalex.org/W3127924821",
+        "https://openalex.org/W3180721273",
+        "https://openalex.org/W3186209406",
+        "https://openalex.org/W4206687394",
+        "https://openalex.org/W4221106857",
+        "https://openalex.org/W4236521339",
+        "https://openalex.org/W4248755132",
+        "https://openalex.org/W4285058323",
+        "https://openalex.org/W4291798901",
+        "https://openalex.org/W4293497150",
+        "https://openalex.org/W4297502289",
+        "https://openalex.org/W4308925571",
+        "https://openalex.org/W4313472957",
+        "https://openalex.org/W4321438506",
+        "https://openalex.org/W4323900694",
+        "https://openalex.org/W4367353919",
+        "https://openalex.org/W4378470708",
+        "https://openalex.org/W4378882711",
+        "https://openalex.org/W4383645853",
+        "https://openalex.org/W4385370005",
+        "https://openalex.org/W4386117324",
+        "https://openalex.org/W4386302345",
+        "https://openalex.org/W4386479528",
+        "https://openalex.org/W4386887838",
+        "https://openalex.org/W4387970754",
+        "https://openalex.org/W4388112818",
+        "https://openalex.org/W4393147158",
+        "https://openalex.org/W4394805876",
+        "https://openalex.org/W4394875731",
+        "https://openalex.org/W4396609741",
+        "https://openalex.org/W4396704075",
+        "https://openalex.org/W4399264605",
+        "https://openalex.org/W4399911222",
+        "https://openalex.org/W4400566869",
+        "https://openalex.org/W4404783621",
+        "https://openalex.org/W6784973020",
+        "https://openalex.org/W6806109515",
+        "https://openalex.org/W6858981989",
+        "https://openalex.org/W6867947087",
+        "https://openalex.org/W6869877676"
+      ],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2931662336",
+        "https://openalex.org/W2077865380",
+        "https://openalex.org/W4401768695",
+        "https://openalex.org/W2765597752",
+        "https://openalex.org/W2913438235",
+        "https://openalex.org/W2565761864",
+        "https://openalex.org/W4402548327",
+        "https://openalex.org/W2972442929"
+      ],
+      "abstract_inverted_index": {
+        "against": [
+          0
+        ],
+        "the": [
+          1,
+          86,
+          138,
+          182,
+          300,
+          322,
+          331,
+          354,
+          394,
+          405,
+          422,
+          432,
+          455,
+          466,
+          483,
+          501,
+          521,
+          539,
+          543,
+          561,
+          573,
+          581,
+          602,
+          605,
+          651,
+          664,
+          682,
+          689,
+          733,
+          747,
+          793,
+          807,
+          814,
+          825,
+          837,
+          874,
+          930,
+          939,
+          955,
+          970,
+          1001,
+          1074,
+          1082,
+          1090,
+          1096,
+          1127,
+          1317,
+          1417,
+          1508,
+          1602,
+          1701,
+          1705,
+          1855,
+          1928,
+          1937,
+          1946,
+          2018,
+          2065,
+          2077,
+          2086,
+          2172,
+          2199,
+          2231,
+          2247,
+          2288,
+          2292,
+          2301,
+          2324,
+          2330,
+          2338,
+          2356,
+          2368,
+          2395,
+          2432,
+          2440,
+          2446,
+          2463,
+          2474,
+          2490,
+          2512,
+          2563,
+          2566,
+          2575,
+          2601,
+          2614,
+          2624,
+          2648,
+          2814,
+          2823,
+          2848,
+          2866,
+          2931,
+          2945,
+          2973,
+          3006,
+          3041,
+          3062,
+          3077,
+          3109,
+          3130,
+          3169,
+          3180,
+          3223,
+          3272,
+          3304,
+          3346
+        ],
+        "growing": [
+          2
+        ],
+        "prevalence": [
+          3
+        ],
+        "of": [
+          4,
+          68,
+          72,
+          109,
+          140,
+          185,
+          199,
+          258,
+          265,
+          281,
+          351,
+          396,
+          426,
+          457,
+          487,
+          505,
+          510,
+          523,
+          577,
+          604,
+          653,
+          666,
+          678,
+          684,
+          691,
+          749,
+          796,
+          810,
+          816,
+          827,
+          839,
+          869,
+          932,
+          942,
+          973,
+          1003,
+          1026,
+          1098,
+          1143,
+          1202,
+          1251,
+          1321,
+          1326,
+          1380,
+          1396,
+          1460,
+          1477,
+          1493,
+          1510,
+          1540,
+          1545,
+          1577,
+          1591,
+          1607,
+          1629,
+          1643,
+          1673,
+          1686,
+          1707,
+          1809,
+          1859,
+          1924,
+          1930,
+          1936,
+          1940,
+          1979,
+          2005,
+          2037,
+          2080,
+          2174,
+          2233,
+          2258,
+          2294,
+          2305,
+          2329,
+          2351,
+          2371,
+          2400,
+          2424,
+          2476,
+          2493,
+          2529,
+          2565,
+          2577,
+          2593,
+          2802,
+          2813,
+          2850,
+          2977,
+          3008,
+          3043,
+          3064,
+          3082,
+          3112,
+          3132,
+          3145,
+          3182,
+          3276,
+          3306,
+          3332,
+          3348
+        ],
+        "mental": [
+          5,
+          11,
+          111,
+          143,
+          323,
+          339,
+          364,
+          506,
+          524,
+          629,
+          654,
+          669,
+          679,
+          820,
+          1006,
+          1027,
+          1106,
+          1159,
+          1312,
+          1336,
+          1381,
+          1410,
+          1428,
+          1533,
+          1561,
+          1585,
+          1696,
+          1822,
+          1860,
+          1899,
+          1912,
+          1931,
+          1943,
+          2025,
+          2040,
+          2236,
+          2272,
+          2308,
+          2402,
+          2479,
+          2851,
+          2868,
+          2882,
+          2908,
+          3009,
+          3037,
+          3046,
+          3102,
+          3133,
+          3171,
+          3200,
+          3237,
+          3307,
+          3342,
+          3351,
+          3384
+        ],
+        "health": [
+          6,
+          12,
+          112,
+          144,
+          340,
+          365,
+          507,
+          525,
+          630,
+          655,
+          670,
+          680,
+          821,
+          1007,
+          1028,
+          1107,
+          1160,
+          1313,
+          1337,
+          1382,
+          1411,
+          1534,
+          1562,
+          1586,
+          1652,
+          1697,
+          1823,
+          1861,
+          1900,
+          1913,
+          1932,
+          1944,
+          2026,
+          2041,
+          2237,
+          2273,
+          2309,
+          2403,
+          2480,
+          2852,
+          2869,
+          2883,
+          2909,
+          3010,
+          3038,
+          3047,
+          3103,
+          3134,
+          3172,
+          3201,
+          3238,
+          3308,
+          3343,
+          3352,
+          3385
+        ],
+        "issues": [
+          7,
+          341,
+          1029
+        ],
+        "(7,8).AI's": [
+          8
+        ],
+        "role": [
+          9,
+          139,
+          566,
+          665,
+          1432,
+          2859,
+          3198
+        ],
+        "in": [
+          10,
+          93,
+          142,
+          157,
+          278,
+          299,
+          514,
+          520,
+          538,
+          567,
+          580,
+          668,
+          699,
+          705,
+          710,
+          798,
+          819,
+          853,
+          915,
+          984,
+          990,
+          1000,
+          1015,
+          1021,
+          1064,
+          1103,
+          1110,
+          1122,
+          1330,
+          1335,
+          1359,
+          1367,
+          1374,
+          1389,
+          1400,
+          1433,
+          1475,
+          1522,
+          1575,
+          1667,
+          1713,
+          1726,
+          1896,
+          1926,
+          1942,
+          2039,
+          2056,
+          2230,
+          2271,
+          2307,
+          2348,
+          2355,
+          2439,
+          2466,
+          2478,
+          2531,
+          2626,
+          2672,
+          2713,
+          2860,
+          2864,
+          2984,
+          3019,
+          3167,
+          3176,
+          3199,
+          3236,
+          3282,
+          3317
+        ],
+        "care": [
+          13,
+          113,
+          372,
+          671,
+          822,
+          1572,
+          1708,
+          1914,
+          2042,
+          2081,
+          2274,
+          2339,
+          2481,
+          2517,
+          2803,
+          3048,
+          3353
+        ],
+        "is": [
+          14,
+          75,
+          239,
+          333,
+          359,
+          382,
+          443,
+          803,
+          884,
+          980,
+          1140,
+          1463,
+          1715,
+          1781,
+          1893,
+          1945,
+          2207,
+          2226,
+          2314,
+          2670,
+          2877,
+          2912,
+          2990,
+          3148,
+          3204,
+          3288
+        ],
+        "multifaceted,": [
+          15
+        ],
+        "encompassing": [
+          16
+        ],
+        "predictive": [
+          17
+        ],
+        "analytics,": [
+          18
+        ],
+        "therapeutic": [
+          19,
+          124,
+          550,
+          594,
+          1037,
+          1056,
+          1085,
+          1124,
+          1678,
+          2162,
+          2194,
+          2318,
+          2415,
+          2437,
+          2567,
+          2701
+        ],
+        "interventions,": [
+          20,
+          47
+        ],
+        "clinician": [
+          21
+        ],
+        "support": [
+          22,
+          1135,
+          1299,
+          1444,
+          1884,
+          3018,
+          3316
+        ],
+        "tools,": [
+          23
+        ],
+        "and": [
+          24,
+          54,
+          85,
+          97,
+          122,
+          133,
+          160,
+          172,
+          201,
+          212,
+          245,
+          260,
+          316,
+          349,
+          374,
+          378,
+          404,
+          414,
+          465,
+          475,
+          503,
+          534,
+          570,
+          593,
+          688,
+          694,
+          708,
+          713,
+          726,
+          752,
+          768,
+          784,
+          823,
+          850,
+          889,
+          912,
+          923,
+          952,
+          968,
+          983,
+          1005,
+          1034,
+          1052,
+          1061,
+          1073,
+          1100,
+          1179,
+          1288,
+          1319,
+          1376,
+          1387,
+          1437,
+          1443,
+          1479,
+          1559,
+          1567,
+          1604,
+          1621,
+          1639,
+          1653,
+          1670,
+          1680,
+          1703,
+          1729,
+          1747,
+          1758,
+          1794,
+          1805,
+          1820,
+          1832,
+          1850,
+          1857,
+          1871,
+          1877,
+          1886,
+          1917,
+          1921,
+          1949,
+          1998,
+          2059,
+          2068,
+          2137,
+          2147,
+          2160,
+          2182,
+          2203,
+          2209,
+          2303,
+          2327,
+          2353,
+          2397,
+          2421,
+          2452,
+          2472,
+          2489,
+          2506,
+          2518,
+          2522,
+          2527,
+          2544,
+          2571,
+          2647,
+          2667,
+          2695,
+          2709,
+          2739,
+          2765,
+          2804,
+          2889,
+          2899,
+          2916,
+          2927,
+          2944,
+          2966,
+          2981,
+          3016,
+          3061,
+          3069,
+          3080,
+          3099,
+          3208,
+          3219,
+          3234,
+          3242,
+          3253,
+          3263,
+          3279,
+          3314,
+          3362,
+          3381
+        ],
+        "patient": [
+          25,
+          42,
+          1438,
+          1578,
+          1681,
+          1761,
+          1836,
+          2030,
+          2520,
+          2546,
+          3059,
+          3365
+        ],
+        "monitoring": [
+          26,
+          1442
+        ],
+        "systems": [
+          27,
+          167,
+          579,
+          725,
+          1587,
+          1881,
+          1973,
+          2033,
+          2097,
+          2120,
+          2429,
+          2643,
+          2938,
+          2959,
+          3230,
+          3258
+        ],
+        "(9).": [
+          28
+        ],
+        "For": [
+          29,
+          1009,
+          2196
+        ],
+        "instance,": [
+          30
+        ],
+        "AI": [
+          31,
+          141,
+          166,
+          228,
+          312,
+          417,
+          430,
+          478,
+          578,
+          642,
+          667,
+          700,
+          724,
+          728,
+          797,
+          817,
+          1047,
+          1452,
+          1525,
+          1798,
+          1825,
+          1925,
+          1941,
+          1972,
+          2084,
+          2119,
+          2177,
+          2223,
+          2234,
+          2252,
+          2295,
+          2306,
+          2428,
+          2457,
+          2477,
+          2499,
+          2530,
+          2553,
+          2582,
+          2609,
+          2627,
+          2634,
+          2642,
+          2675,
+          2716,
+          2750,
+          2786,
+          2817,
+          2854,
+          2885,
+          2903,
+          2937,
+          2989,
+          3026,
+          3044,
+          3083,
+          3139,
+          3191,
+          3229,
+          3287,
+          3324,
+          3349
+        ],
+        "algorithms": [
+          32
+        ],
+        "are": [
+          33,
+          59,
+          64,
+          775,
+          918,
+          1115,
+          1176,
+          1902,
+          1934,
+          1964,
+          2283,
+          2320,
+          2630,
+          2729,
+          2767,
+          2952,
+          3024,
+          3073,
+          3322
+        ],
+        "increasingly": [
+          34
+        ],
+        "used": [
+          35,
+          2249
+        ],
+        "to": [
+          36,
+          146,
+          170,
+          219,
+          241,
+          314,
+          328,
+          384,
+          410,
+          434,
+          445,
+          471,
+          495,
+          529,
+          584,
+          590,
+          612,
+          622,
+          674,
+          777,
+          805,
+          830,
+          844,
+          848,
+          873,
+          879,
+          920,
+          937,
+          1146,
+          1150,
+          1157,
+          1183,
+          1188,
+          1206,
+          1219,
+          1241,
+          1261,
+          1273,
+          1290,
+          1311,
+          1355,
+          1406,
+          1409,
+          1469,
+          1486,
+          1503,
+          1549,
+          1570,
+          1584,
+          1613,
+          1624,
+          1691,
+          1710,
+          1736,
+          1755,
+          1776,
+          1803,
+          1846,
+          1967,
+          1971,
+          1975,
+          1986,
+          2050,
+          2053,
+          2070,
+          2088,
+          2101,
+          2145,
+          2156,
+          2180,
+          2190,
+          2201,
+          2235,
+          2250,
+          2255,
+          2278,
+          2287,
+          2341,
+          2388,
+          2392,
+          2394,
+          2435,
+          2539,
+          2556,
+          2583,
+          2586,
+          2606,
+          2621,
+          2638,
+          2650,
+          2664,
+          2698,
+          2720,
+          2755,
+          2778,
+          2795,
+          2822,
+          2828,
+          2838,
+          2846,
+          2874,
+          2914,
+          2922,
+          2947,
+          2954,
+          2968,
+          3035,
+          3075,
+          3128,
+          3140,
+          3188,
+          3193,
+          3206,
+          3214,
+          3265,
+          3340
+        ],
+        "predict": [
+          37
+        ],
+        "treatment": [
+          38,
+          120,
+          135,
+          376,
+          532,
+          686,
+          1390,
+          1435,
+          1769,
+          1848,
+          2257,
+          2806
+        ],
+        "outcomes": [
+          39,
+          136,
+          1679,
+          1851
+        ],
+        "by": [
+          40,
+          82,
+          114,
+          153,
+          440,
+          552,
+          703,
+          834,
+          927,
+          1163,
+          1341,
+          1875,
+          2241,
+          2497
+        ],
+        "analyzing": [
+          41,
+          98
+        ],
+        "data": [
+          43,
+          2248
+        ],
+        "(10).": [
+          44
+        ],
+        "Meanwhile,": [
+          45
+        ],
+        "AI-powered": [
+          46,
+          193,
+          252,
+          1138,
+          1880
+        ],
+        "such": [
+          48,
+          398,
+          459,
+          1030,
+          1058,
+          2105,
+          2559,
+          2735,
+          2895,
+          3249
+        ],
+        "as": [
+          49,
+          104,
+          399,
+          460,
+          909,
+          995,
+          1031,
+          1059,
+          1597,
+          1635,
+          2106,
+          2176,
+          2560,
+          2682,
+          2736,
+          2896,
+          2902,
+          2993,
+          3000,
+          3190,
+          3250,
+          3291,
+          3298
+        ],
+        "virtual": [
+          50,
+          123,
+          692
+        ],
+        "reality": [
+          51
+        ],
+        "exposure": [
+          52,
+          1612
+        ],
+        "therapy": [
+          53,
+          569,
+          616,
+          1368,
+          1714,
+          1991,
+          2673,
+          2831
+        ],
+        "chatbot-delivered": [
+          55
+        ],
+        "cognitive": [
+          56,
+          614,
+          1066,
+          1748
+        ],
+        "behavioral": [
+          57,
+          100,
+          615,
+          1765
+        ],
+        "therapy,": [
+          58,
+          1865
+        ],
+        "being": [
+          60
+        ],
+        "explored,": [
+          61
+        ],
+        "though": [
+          62,
+          1414
+        ],
+        "they": [
+          63,
+          644,
+          1731,
+          2128,
+          2282,
+          3267
+        ],
+        "at": [
+          65,
+          77,
+          976,
+          2731
+        ],
+        "varying": [
+          66
+        ],
+        "stages": [
+          67
+        ],
+        "validation": [
+          69,
+          3072
+        ],
+        "(11,12).": [
+          70
+        ],
+        "Each": [
+          71
+        ],
+        "these": [
+          73,
+          205,
+          284,
+          293,
+          634,
+          1078,
+          1212,
+          1447,
+          2280,
+          2760,
+          2958,
+          3257
+        ],
+        "applications": [
+          74,
+          551,
+          636,
+          795,
+          818
+        ],
+        "evolving": [
+          76,
+          2396,
+          2811
+        ],
+        "its": [
+          78,
+          326,
+          913,
+          1718,
+          2590,
+          2721,
+          2840,
+          2918,
+          3124,
+          3210
+        ],
+        "own": [
+          79,
+          2591,
+          2661
+        ],
+        "pace,": [
+          80
+        ],
+        "influenced": [
+          81
+        ],
+        "technological": [
+          83,
+          3106
+        ],
+        "advancements": [
+          84,
+          698,
+          1334,
+          2625
+        ],
+        "need": [
+          87,
+          355,
+          406,
+          467,
+          1418,
+          2447,
+          2602,
+          2932,
+          3224
+        ],
+        "for": [
+          88,
+          356,
+          370,
+          407,
+          468,
+          549,
+          563,
+          627,
+          745,
+          1165,
+          1305,
+          1363,
+          1419,
+          1532,
+          1553,
+          1717,
+          1784,
+          1816,
+          1994,
+          2024,
+          2448,
+          2603,
+          2933,
+          2996,
+          3058,
+          3138,
+          3225,
+          3294,
+          3364
+        ],
+        "rigorous": [
+          89,
+          3070
+        ],
+        "clinical": [
+          90,
+          1401,
+          3071
+        ],
+        "validation.AI's": [
+          91
+        ],
+        "capabilities": [
+          92,
+          277,
+          809,
+          914,
+          962
+        ],
+        "handling": [
+          94
+        ],
+        "extensive": [
+          95
+        ],
+        "datasets": [
+          96
+        ],
+        "complex": [
+          99,
+          174,
+          1828,
+          2398,
+          2513,
+          2700
+        ],
+        "patterns": [
+          101
+        ],
+        "position": [
+          102
+        ],
+        "it": [
+          103,
+          217,
+          381,
+          442,
+          904,
+          1019,
+          1415,
+          2683,
+          2911,
+          3203
+        ],
+        "a": [
+          105,
+          263,
+          336,
+          517,
+          646,
+          867,
+          977,
+          996,
+          1123,
+          1158,
+          1200,
+          1249,
+          1322,
+          1378,
+          1512,
+          1529,
+          1537,
+          1617,
+          1640,
+          1692,
+          1752,
+          2035,
+          2113,
+          2158,
+          2212,
+          2227,
+          2425,
+          2746,
+          2781,
+          2934,
+          2994,
+          3001,
+          3092,
+          3096,
+          3142,
+          3151,
+          3154,
+          3164,
+          3195,
+          3226,
+          3292,
+          3299,
+          3374,
+          3378
+        ],
+        "revolutionary": [
+          106
+        ],
+        "force": [
+          107
+        ],
+        "capable": [
+          108
+        ],
+        "transforming": [
+          110
+        ],
+        "offering": [
+          115,
+          262,
+          3240
+        ],
+        "advanced": [
+          116,
+          591
+        ],
+        "detection": [
+          117,
+          677
+        ],
+        "methods,": [
+          118
+        ],
+        "personalized": [
+          119,
+          685,
+          1819,
+          2805
+        ],
+        "plans,": [
+          121,
+          687
+        ],
+        "platforms": [
+          125
+        ],
+        "that": [
+          126,
+          179,
+          192,
+          251,
+          267,
+          292,
+          416,
+          477,
+          761,
+          860,
+          865,
+          881,
+          948,
+          964,
+          979,
+          1045,
+          1190,
+          1450,
+          1482,
+          1790,
+          1951,
+          1962,
+          2044,
+          2091,
+          2367,
+          2503,
+          2608,
+          2617,
+          2892,
+          2951,
+          3004,
+          3030,
+          3245,
+          3302,
+          3328
+        ],
+        "could": [
+          127,
+          2554
+        ],
+        "dramatically": [
+          128
+        ],
+        "increase": [
+          129
+        ],
+        "accessibility,": [
+          130
+        ],
+        "reduce": [
+          131,
+          256,
+          1908,
+          2017,
+          2089,
+          2893,
+          3247
+        ],
+        "stigma,": [
+          132,
+          2898,
+          3252
+        ],
+        "enhance": [
+          134,
+          530,
+          3232
+        ],
+        "(13,14,15,4).Furthermore,": [
+          137
+        ],
+        "extends": [
+          145,
+          3005,
+          3303
+        ],
+        "potentially": [
+          147,
+          997,
+          1555,
+          1844,
+          1999,
+          2188,
+          2453,
+          2793,
+          2826
+        ],
+        "replacing": [
+          148
+        ],
+        "certain": [
+          149,
+          279
+        ],
+        "functions": [
+          150
+        ],
+        "traditionally": [
+          151,
+          438
+        ],
+        "performed": [
+          152,
+          439
+        ],
+        "human": [
+          154,
+          175,
+          276,
+          408,
+          424,
+          469,
+          485,
+          586,
+          750,
+          974,
+          1113,
+          1721,
+          1744,
+          1842,
+          2045,
+          2094,
+          2165,
+          2216,
+          2401,
+          2409,
+          2450,
+          2464,
+          2572,
+          2604,
+          2618,
+          2639,
+          2689,
+          2727,
+          2770,
+          2798,
+          2955,
+          2975,
+          2997,
+          3022,
+          3065,
+          3113,
+          3274,
+          3295,
+          3320
+        ],
+        "psychotherapists.": [
+          155,
+          2640
+        ],
+        "Innovations": [
+          156
+        ],
+        "machine": [
+          158,
+          711
+        ],
+        "learning": [
+          159,
+          712
+        ],
+        "natural": [
+          161,
+          714,
+          2054
+        ],
+        "language": [
+          162,
+          715,
+          753,
+          890,
+          2738
+        ],
+        "processing": [
+          163,
+          716
+        ],
+        "have": [
+          164,
+          249,
+          290,
+          342,
+          718,
+          1960,
+          2334,
+          2345,
+          2365,
+          3032
+        ],
+        "enabled": [
+          165,
+          719
+        ],
+        "like": [
+          168,
+          736,
+          1049,
+          1068,
+          1087,
+          1197,
+          1205,
+          1227,
+          2121,
+          2470
+        ],
+        "ChatGPT": [
+          169,
+          738,
+          788,
+          861,
+          899,
+          965,
+          994,
+          1011,
+          1099,
+          1351
+        ],
+        "recognize": [
+          171,
+          849,
+          967,
+          1356,
+          2915,
+          3207
+        ],
+        "process": [
+          173,
+          1804
+        ],
+        "emotions,": [
+          176
+        ],
+        "facilitating": [
+          177
+        ],
+        "interactions": [
+          178,
+          722,
+          783,
+          975,
+          1366,
+          1837,
+          2149,
+          2420
+        ],
+        "once": [
+          180
+        ],
+        "required": [
+          181,
+          2434
+        ],
+        "nuanced": [
+          183,
+          1792,
+          2615,
+          2982,
+          3280
+        ],
+        "understanding": [
+          184,
+          1793,
+          2423,
+          2616,
+          2663,
+          2812,
+          2983,
+          3281
+        ],
+        "trained": [
+          186,
+          2875,
+          3183
+        ],
+        "therapists": [
+          187,
+          693,
+          1598,
+          1722,
+          2217,
+          2619,
+          2658,
+          2690,
+          2728,
+          2771,
+          2799,
+          2998,
+          3296
+        ],
+        "(16,17).": [
+          188
+        ],
+        "Preliminary": [
+          189
+        ],
+        "studies": [
+          190,
+          206,
+          285,
+          1017,
+          1448
+        ],
+        "suggest": [
+          191,
+          963,
+          1449
+        ],
+        "chatbots": [
+          194,
+          253
+        ],
+        "may": [
+          195,
+          295,
+          1308,
+          2178,
+          2385,
+          2430,
+          2787,
+          2818,
+          2855
+        ],
+        "help": [
+          196,
+          2023,
+          3028,
+          3326
+        ],
+        "alleviate": [
+          197
+        ],
+        "symptoms": [
+          198,
+          257,
+          1142,
+          2350
+        ],
+        "anxiety": [
+          200,
+          259,
+          1144,
+          2352
+        ],
+        "depression": [
+          202,
+          2354
+        ],
+        "(18,19).": [
+          203
+        ],
+        "However,": [
+          204,
+          380,
+          428,
+          3345
+        ],
+        "often": [
+          207,
+          1633,
+          1867,
+          1953,
+          2141,
+          2284,
+          2374
+        ],
+        "involve": [
+          208
+        ],
+        "small": [
+          209
+        ],
+        "participant": [
+          210
+        ],
+        "groups": [
+          211
+        ],
+        "lack": [
+          213,
+          1309,
+          2431,
+          2644,
+          2939
+        ],
+        "long-term": [
+          214,
+          2134,
+          2360,
+          2381
+        ],
+        "follow-up,": [
+          215
+        ],
+        "making": [
+          216,
+          1911
+        ],
+        "difficult": [
+          218
+        ],
+        "draw": [
+          220
+        ],
+        "definitive": [
+          221
+        ],
+        "conclusions": [
+          222
+        ],
+        "about": [
+          223,
+          1209
+        ],
+        "their": [
+          224,
+          243,
+          1470,
+          1484,
+          1608,
+          1650,
+          1659,
+          1734,
+          1741,
+          1774,
+          1801,
+          2154,
+          2359,
+          2414,
+          2660,
+          2711,
+          2776,
+          3333
+        ],
+        "effectiveness.": [
+          225
+        ],
+        "Consequently,": [
+          226
+        ],
+        "while": [
+          227,
+          429,
+          499,
+          898,
+          1084,
+          1451,
+          1466
+        ],
+        "interventions": [
+          229,
+          626,
+          1038,
+          1558,
+          1906,
+          2373,
+          2585
+        ],
+        "hold": [
+          230,
+          2219
+        ],
+        "promise,": [
+          231
+        ],
+        "further": [
+          232,
+          812,
+          1094,
+          1699
+        ],
+        "research": [
+          233,
+          1042,
+          3068
+        ],
+        "through": [
+          234,
+          657,
+          789,
+          1440
+        ],
+        "large-scale,": [
+          235
+        ],
+        "randomized": [
+          236
+        ],
+        "controlled": [
+          237
+        ],
+        "trials": [
+          238
+        ],
+        "necessary": [
+          240,
+          1571
+        ],
+        "establish": [
+          242,
+          3076
+        ],
+        "efficacy": [
+          244,
+          377,
+          533,
+          1388,
+          2361,
+          3079
+        ],
+        "sustainability": [
+          246
+        ],
+        "over": [
+          247,
+          308,
+          572,
+          2150,
+          2222,
+          2376,
+          2405
+        ],
+        "time.Studies": [
+          248
+        ],
+        "shown": [
+          250,
+          291,
+          1961,
+          2346
+        ],
+        "can": [
+          254,
+          862,
+          900,
+          966,
+          1120,
+          1255,
+          1300,
+          1453,
+          1514,
+          1547,
+          1573,
+          1622,
+          1665,
+          1688,
+          1732,
+          1750,
+          1772,
+          1826,
+          1872,
+          1882,
+          1907,
+          1984,
+          2016,
+          2047,
+          2092,
+          2098,
+          2170,
+          2244,
+          2299,
+          2333,
+          2412,
+          2705,
+          2774,
+          2886,
+          3027,
+          3090,
+          3231,
+          3246,
+          3325,
+          3372
+        ],
+        "effectively": [
+          255
+        ],
+        "depression,": [
+          261
+        ],
+        "level": [
+          264,
+          868,
+          978,
+          2036
+        ],
+        "interaction": [
+          266,
+          2302
+        ],
+        "suggests": [
+          268
+        ],
+        "machines": [
+          269,
+          1980
+        ],
+        "might": [
+          270
+        ],
+        "soon": [
+          271
+        ],
+        "match": [
+          272
+        ],
+        "or": [
+          273,
+          1214,
+          1271,
+          1315,
+          1763,
+          2109,
+          2192,
+          2264,
+          2316,
+          2562,
+          3335
+        ],
+        "even": [
+          274
+        ],
+        "surpass": [
+          275,
+          806
+        ],
+        "aspects": [
+          280
+        ],
+        "psychotherapy": [
+          282,
+          1004,
+          1687,
+          3146,
+          3162
+        ],
+        "(18,19,20,21).Although": [
+          283
+        ],
+        "indicate": [
+          286,
+          859
+        ],
+        "short-term": [
+          287,
+          2125
+        ],
+        "benefits,": [
+          288
+        ],
+        "meta-analyses": [
+          289
+        ],
+        "effects": [
+          294
+        ],
+        "not": [
+          296,
+          892,
+          906,
+          1647,
+          2008,
+          2461,
+          2685,
+          2788,
+          2992,
+          3149,
+          3289
+        ],
+        "be": [
+          297,
+          493,
+          1256,
+          1277,
+          1873,
+          2099,
+          2386,
+          3050,
+          3091,
+          3260,
+          3355,
+          3373
+        ],
+        "sustained": [
+          298
+        ],
+        "long": [
+          301,
+          2441
+        ],
+        "term,": [
+          302,
+          2358
+        ],
+        "with": [
+          303,
+          388,
+          449,
+          542,
+          787,
+          1172,
+          1528,
+          1601,
+          1786,
+          1800,
+          1838,
+          1957,
+          2021,
+          2133,
+          2378,
+          2655,
+          2780,
+          2820,
+          3052,
+          3108,
+          3357
+        ],
+        "no": [
+          304,
+          1228,
+          2379
+        ],
+        "significant": [
+          305,
+          518,
+          1473,
+          1625,
+          2131,
+          2380,
+          2483,
+          2844,
+          3122,
+          3197
+        ],
+        "changes": [
+          306
+        ],
+        "observed": [
+          307
+        ],
+        "extended": [
+          309,
+          1768,
+          2406
+        ],
+        "periods": [
+          310
+        ],
+        "(22).As": [
+          311
+        ],
+        "continues": [
+          313,
+          2837
+        ],
+        "evolve": [
+          315
+        ],
+        "become": [
+          317
+        ],
+        "more": [
+          318,
+          638,
+          720,
+          779,
+          1208,
+          1364,
+          1818,
+          1915,
+          1987,
+          1995,
+          2000,
+          2011,
+          2114,
+          2905,
+          3097,
+          3196,
+          3379
+        ],
+        "deeply": [
+          319,
+          1467
+        ],
+        "integrated": [
+          320,
+          2906
+        ],
+        "into": [
+          321,
+          363,
+          2745,
+          2907,
+          3045,
+          3350
+        ],
+        "healthcare": [
+          324,
+          1429,
+          1909,
+          2116,
+          2532
+        ],
+        "sector,": [
+          325
+        ],
+        "potential": [
+          327,
+          433,
+          548,
+          794,
+          1097,
+          1362,
+          2087,
+          2491,
+          2845,
+          3137
+        ],
+        "fundamentally": [
+          329
+        ],
+        "transform": [
+          330
+        ],
+        "field": [
+          332,
+          1002
+        ],
+        "undeniable.": [
+          334
+        ],
+        "At": [
+          335
+        ],
+        "time": [
+          337,
+          1268,
+          1478
+        ],
+        "when": [
+          338,
+          1955,
+          3369
+        ],
+        "reached": [
+          343
+        ],
+        "pandemic": [
+          344
+        ],
+        "proportions": [
+          345
+        ],
+        "globally,": [
+          346
+        ],
+        "affecting": [
+          347,
+          2311
+        ],
+        "productivity": [
+          348
+        ],
+        "quality": [
+          350,
+          502,
+          1706,
+          2079
+        ],
+        "life": [
+          352
+        ],
+        "(23,24),": [
+          353
+        ],
+        "innovative": [
+          357
+        ],
+        "solutions": [
+          358,
+          2891,
+          3244
+        ],
+        "urgent.": [
+          360
+        ],
+        "AI's": [
+          361,
+          497,
+          547,
+          564,
+          1353,
+          1372,
+          1404,
+          1431,
+          2389
+        ],
+        "integration": [
+          362,
+          509,
+          1325,
+          3042,
+          3347
+        ],
+        "services": [
+          366,
+          656,
+          828,
+          1412,
+          1535,
+          1933
+        ],
+        "offers": [
+          367,
+          1289
+        ],
+        "promising": [
+          368,
+          1814
+        ],
+        "avenues": [
+          369
+        ],
+        "enhancing": [
+          371,
+          650,
+          1927,
+          2029
+        ],
+        "delivery": [
+          373,
+          2043
+        ],
+        "improving": [
+          375,
+          1434,
+          2516
+        ],
+        "efficiency.": [
+          379
+        ],
+        "crucial": [
+          383,
+          444,
+          1716,
+          1783,
+          3074
+        ],
+        "approach": [
+          385,
+          446,
+          491,
+          2712
+        ],
+        "this": [
+          386,
+          447,
+          608,
+          916,
+          1193,
+          1279,
+          1664,
+          2210,
+          2679,
+          2986,
+          3088,
+          3284
+        ],
+        "evolution": [
+          387,
+          448,
+          522,
+          609,
+          3166
+        ],
+        "caution.": [
+          389,
+          450
+        ],
+        "We": [
+          390,
+          451
+        ],
+        "must": [
+          391,
+          452,
+          2510,
+          2533,
+          2960,
+          3049,
+          3259,
+          3354
+        ],
+        "carefully": [
+          392,
+          453,
+          2964,
+          3261
+        ],
+        "address": [
+          393,
+          454,
+          2917,
+          3209
+        ],
+        "limitations": [
+          395,
+          456,
+          1725,
+          1771,
+          2469
+        ],
+        "AI,": [
+          397,
+          458
+        ],
+        "algorithmic": [
+          400,
+          461,
+          2925,
+          3217
+        ],
+        "bias,": [
+          401,
+          462,
+          1812,
+          2473,
+          2541,
+          2926,
+          3218
+        ],
+        "ethical": [
+          402,
+          463,
+          1421,
+          1461,
+          2484,
+          2535,
+          2551,
+          2594,
+          2696,
+          2928,
+          2942,
+          3220
+        ],
+        "concerns,": [
+          403,
+          464
+        ],
+        "oversight,": [
+          409,
+          470,
+          2552
+        ],
+        "prevent": [
+          411,
+          472
+        ],
+        "future": [
+          412,
+          473,
+          3156
+        ],
+        "disparities": [
+          413,
+          474,
+          2270
+        ],
+        "ensure": [
+          415,
+          476,
+          2542,
+          2607,
+          3029,
+          3266,
+          3327
+        ],
+        "complements": [
+          418,
+          479,
+          2610
+        ],
+        "rather": [
+          419,
+          480,
+          2611,
+          2970,
+          3269
+        ],
+        "than": [
+          420,
+          481,
+          640,
+          1841,
+          2612,
+          2971,
+          3270
+        ],
+        "replaces": [
+          421,
+          482,
+          2613
+        ],
+        "essential": [
+          423,
+          484,
+          2913,
+          3036,
+          3205,
+          3341
+        ],
+        "elements": [
+          425,
+          486,
+          2976,
+          3275
+        ],
+        "psychotherapy.": [
+          427,
+          488
+        ],
+        "has": [
+          431,
+          1012,
+          1043,
+          2085,
+          3338
+        ],
+        "assume": [
+          435,
+          3141
+        ],
+        "many": [
+          436
+        ],
+        "roles": [
+          437,
+          3147
+        ],
+        "psychotherapists,": [
+          441,
+          1465
+        ],
+        "This": [
+          489,
+          557,
+          1294,
+          1517,
+          1610,
+          1891,
+          1982,
+          2168,
+          2322,
+          2384,
+          2443,
+          3158,
+          3367
+        ],
+        "balanced": [
+          490,
+          2935,
+          3227
+        ],
+        "will": [
+          492
+        ],
+        "key": [
+          494,
+          2213
+        ],
+        "harnessing": [
+          496
+        ],
+        "benefits": [
+          498,
+          1923,
+          2370
+        ],
+        "safeguarding": [
+          500
+        ],
+        "accessibility": [
+          504,
+          652,
+          1858,
+          1892,
+          3233
+        ],
+        "care.The": [
+          508
+        ],
+        "Artificial": [
+          511,
+          1327
+        ],
+        "Intelligence": [
+          512,
+          1328
+        ],
+        "(AI)": [
+          513,
+          1329,
+          2835,
+          3118
+        ],
+        "Psychotherapy": [
+          515,
+          1331
+        ],
+        "represents": [
+          516,
+          3163
+        ],
+        "phase": [
+          519
+        ],
+        "care,": [
+          526,
+          1338,
+          1779,
+          2175,
+          2884,
+          2910,
+          3202,
+          3239
+        ],
+        "leveraging": [
+          527
+        ],
+        "technology": [
+          528,
+          662,
+          2836,
+          3119
+        ],
+        "both": [
+          531
+        ],
+        "accessibility.": [
+          535
+        ],
+        "Initial": [
+          536
+        ],
+        "experiments": [
+          537
+        ],
+        "1960s,": [
+          540
+        ],
+        "notably": [
+          541
+        ],
+        "ELIZA": [
+          544
+        ],
+        "program,": [
+          545
+        ],
+        "showcased": [
+          546
+        ],
+        "mimicking": [
+          553
+        ],
+        "human-like": [
+          554
+        ],
+        "conversations": [
+          555,
+          760,
+          786
+        ],
+        "(25).": [
+          556
+        ],
+        "pioneering": [
+          558
+        ],
+        "work": [
+          559,
+          1147,
+          1173,
+          1346,
+          1590
+        ],
+        "established": [
+          560
+        ],
+        "foundation": [
+          562
+        ],
+        "increasing": [
+          565,
+          2841,
+          3125
+        ],
+        "psychological": [
+          568,
+          587,
+          598,
+          1605
+        ],
+        "assessment": [
+          571
+        ],
+        "ensuing": [
+          574
+        ],
+        "decades.The": [
+          575
+        ],
+        "development": [
+          576,
+          2293
+        ],
+        "1980s": [
+          582
+        ],
+        "aimed": [
+          583
+        ],
+        "replicate": [
+          585,
+          2678
+        ],
+        "expertise,": [
+          588
+        ],
+        "leading": [
+          589,
+          1845,
+          2189,
+          2254,
+          2794,
+          2827
+        ],
+        "diagnostic": [
+          592
+        ],
+        "tools": [
+          595,
+          2063
+        ],
+        "across": [
+          596,
+          1767
+        ],
+        "various": [
+          597
+        ],
+        "disciplines": [
+          599
+        ],
+        "(26,27).": [
+          600
+        ],
+        "By": [
+          601,
+          2879,
+          3012,
+          3310
+        ],
+        "end": [
+          603
+        ],
+        "20th": [
+          606
+        ],
+        "century,": [
+          607
+        ],
+        "gave": [
+          610
+        ],
+        "rise": [
+          611
+        ],
+        "computerized": [
+          613
+        ],
+        "(CBT)": [
+          617
+        ],
+        "programs,": [
+          618
+        ],
+        "which": [
+          619,
+          1254,
+          1495,
+          1580,
+          1646,
+          1780,
+          1866,
+          2152,
+          2332,
+          2580,
+          2669
+        ],
+        "were": [
+          620,
+          637
+        ],
+        "designed": [
+          621,
+          2965,
+          3262
+        ],
+        "provide": [
+          623,
+          1883,
+          2800
+        ],
+        "structured,": [
+          624
+        ],
+        "evidence-based": [
+          625
+        ],
+        "common": [
+          628
+        ],
+        "conditions": [
+          631,
+          1789
+        ],
+        "(28).": [
+          632,
+          660
+        ],
+        "Although": [
+          633
+        ],
+        "early": [
+          635,
+          676,
+          1023
+        ],
+        "basic": [
+          639
+        ],
+        "current": [
+          641,
+          808,
+          2390
+        ],
+        "technologies,": [
+          643,
+          1799
+        ],
+        "marked": [
+          645
+        ],
+        "pivotal": [
+          647,
+          3093,
+          3375
+        ],
+        "shift": [
+          648,
+          3159
+        ],
+        "toward": [
+          649,
+          3095
+        ],
+        "digital": [
+          658,
+          1323
+        ],
+        "means": [
+          659
+        ],
+        "As": [
+          661,
+          2239,
+          2495,
+          3115
+        ],
+        "advanced,": [
+          663
+        ],
+        "rapidly": [
+          672
+        ],
+        "expanded": [
+          673
+        ],
+        "encompass": [
+          675
+        ],
+        "issues,": [
+          681,
+          2027
+        ],
+        "creation": [
+          683
+        ],
+        "introduction": [
+          690
+        ],
+        "teletherapy": [
+          695
+        ],
+        "enhancements": [
+          696,
+          774
+        ],
+        "(15,4).Continuing": [
+          697
+        ],
+        "technology,": [
+          701,
+          2628
+        ],
+        "driven": [
+          702
+        ],
+        "increases": [
+          704
+        ],
+        "computational": [
+          706
+        ],
+        "power": [
+          707
+        ],
+        "breakthroughs": [
+          709
+        ],
+        "(NLP),": [
+          717
+        ],
+        "sophisticated": [
+          721
+        ],
+        "between": [
+          723,
+          2515,
+          2569
+        ],
+        "users.": [
+          727
+        ],
+        "models,": [
+          729,
+          1048,
+          2253
+        ],
+        "particularly": [
+          730,
+          1063,
+          1109,
+          1520,
+          1895,
+          2501,
+          2752,
+          2863,
+          3175
+        ],
+        "those": [
+          731,
+          2502,
+          2753
+        ],
+        "utilizing": [
+          732
+        ],
+        "transformer": [
+          734
+        ],
+        "architecture": [
+          735
+        ],
+        "OpenAI's": [
+          737
+        ],
+        "(Version": [
+          739
+        ],
+        "GPT-4o),": [
+          740
+        ],
+        "demonstrate": [
+          741
+        ],
+        "an": [
+          742,
+          1132,
+          1137,
+          1504,
+          2220,
+          2810,
+          2857
+        ],
+        "exceptional": [
+          743
+        ],
+        "capacity": [
+          744,
+          1405,
+          1775
+        ],
+        "recognizing": [
+          746
+        ],
+        "complexities": [
+          748
+        ],
+        "emotion": [
+          751,
+          1348
+        ],
+        "nuances": [
+          754,
+          1358,
+          1766
+        ],
+        "(17).": [
+          755
+        ],
+        "These": [
+          756,
+          2096,
+          2297
+        ],
+        "models": [
+          757,
+          1102,
+          2140,
+          2455
+        ],
+        "facilitate": [
+          758
+        ],
+        "engaging": [
+          759
+        ],
+        "adeptly": [
+          762
+        ],
+        "interpret": [
+          763,
+          2706,
+          2948
+        ],
+        "emotional": [
+          764,
+          870,
+          895,
+          902,
+          940,
+          958,
+          971,
+          991,
+          1357,
+          1595,
+          1603,
+          1619,
+          1636,
+          1684,
+          2653,
+          2662,
+          2680,
+          2748
+        ],
+        "states,": [
+          765
+        ],
+        "providing": [
+          766,
+          1035,
+          1104,
+          2742,
+          3017,
+          3315
+        ],
+        "contextually": [
+          767
+        ],
+        "emotionally": [
+          769
+        ],
+        "relevant": [
+          770
+        ],
+        "response": [
+          771
+        ],
+        "(29).": [
+          772
+        ],
+        "Future": [
+          773
+        ],
+        "expected": [
+          776
+        ],
+        "introduce": [
+          778
+        ],
+        "natural,": [
+          780
+        ],
+        "real-time": [
+          781,
+          790
+        ],
+        "voice": [
+          782
+        ],
+        "enable": [
+          785
+        ],
+        "video,": [
+          791
+        ],
+        "broadening": [
+          792
+        ],
+        "Psychotherapy(30).": [
+          799
+        ],
+        "The": [
+          800,
+          857,
+          945,
+          1490,
+          1543,
+          1683,
+          1919,
+          2003,
+          2525,
+          3136
+        ],
+        "upcoming": [
+          801
+        ],
+        "GPT-5": [
+          802
+        ],
+        "anticipated": [
+          804
+        ],
+        "GPT-4,": [
+          811,
+          1053
+        ],
+        "augmenting": [
+          813,
+          2880
+        ],
+        "effectiveness": [
+          815,
+          2304,
+          2347,
+          2438
+        ],
+        "extending": [
+          824
+        ],
+        "range": [
+          826,
+          1379
+        ],
+        "available": [
+          829,
+          1541
+        ],
+        "patients": [
+          831,
+          1511,
+          1711,
+          1785,
+          1952,
+          2075,
+          2570
+        ],
+        "(31).A": [
+          832
+        ],
+        "study": [
+          833,
+          926,
+          946
+        ],
+        "Elyoseph": [
+          835,
+          928
+        ],
+        "utilized": [
+          836,
+          929
+        ],
+        "Levels": [
+          838,
+          931
+        ],
+        "Emotional": [
+          840,
+          933
+        ],
+        "Awareness": [
+          841,
+          934
+        ],
+        "Scale": [
+          842,
+          935
+        ],
+        "(LEAS)": [
+          843,
+          936
+        ],
+        "assess": [
+          845
+        ],
+        "ChatGPT's": [
+          846,
+          882,
+          949
+        ],
+        "ability": [
+          847,
+          1354,
+          1485,
+          1754,
+          1802,
+          2155,
+          2200,
+          2649,
+          2946
+        ],
+        "articulate": [
+          851,
+          969
+        ],
+        "emotions": [
+          852,
+          908
+        ],
+        "hypothetical": [
+          854,
+          1129
+        ],
+        "scenarios": [
+          855
+        ],
+        "(16).": [
+          856,
+          944
+        ],
+        "findings": [
+          858,
+          1093
+        ],
+        "generate": [
+          863
+        ],
+        "responses": [
+          864,
+          950
+        ],
+        "reflect": [
+          866
+        ],
+        "awareness": [
+          871,
+          941,
+          959
+        ],
+        "similar": [
+          872,
+          1101
+        ],
+        "general": [
+          875,
+          956
+        ],
+        "population.However,": [
+          876
+        ],
+        "it's": [
+          877,
+          1234,
+          1259
+        ],
+        "important": [
+          878,
+          1260,
+          2858
+        ],
+        "note": [
+          880
+        ],
+        "'understanding'": [
+          883
+        ],
+        "based": [
+          885,
+          2260,
+          2417,
+          2808
+        ],
+        "on": [
+          886,
+          893,
+          1347,
+          1426,
+          2261,
+          2337,
+          2418,
+          2692,
+          2723,
+          2809
+        ],
+        "pattern": [
+          887
+        ],
+        "recognition": [
+          888
+        ],
+        "modeling,": [
+          891
+        ],
+        "genuine": [
+          894,
+          2645,
+          2940
+        ],
+        "comprehension.": [
+          896
+        ],
+        "Therefore,": [
+          897,
+          2957
+        ],
+        "mimic": [
+          901
+        ],
+        "responses,": [
+          903,
+          1284
+        ],
+        "does": [
+          905,
+          2460,
+          2684
+        ],
+        "experience": [
+          907,
+          2686
+        ],
+        "humans": [
+          910
+        ],
+        "do,": [
+          911,
+          1233
+        ],
+        "area": [
+          917,
+          2214
+        ],
+        "limited": [
+          919,
+          1538,
+          1568,
+          1874,
+          2754
+        ],
+        "textual": [
+          921
+        ],
+        "analysis": [
+          922,
+          1349
+        ],
+        "generation.A": [
+          924
+        ],
+        "groundbreaking": [
+          925
+        ],
+        "measure": [
+          938
+        ],
+        "ChatGPTs": [
+          943
+        ],
+        "found": [
+          947
+        ],
+        "matched": [
+          951
+        ],
+        "sometimes": [
+          953
+        ],
+        "exceeded": [
+          954
+        ],
+        "population's": [
+          957
+        ],
+        "levels.": [
+          960
+        ],
+        "Such": [
+          961
+        ],
+        "components": [
+          972,
+          1672
+        ],
+        "comparable": [
+          981
+        ],
+        "to,": [
+          982
+        ],
+        "some": [
+          985,
+          1217,
+          1267
+        ],
+        "cases": [
+          986
+        ],
+        "surpasses,": [
+          987
+        ],
+        "humans.This": [
+          988
+        ],
+        "proficiency": [
+          989
+        ],
+        "comprehension": [
+          992
+        ],
+        "positions": [
+          993
+        ],
+        "valuable": [
+          998
+        ],
+        "tool": [
+          999,
+          3003,
+          3301
+        ],
+        "care.": [
+          1008,
+          2238
+        ],
+        "example,": [
+          1010
+        ],
+        "been": [
+          1013,
+          1168
+        ],
+        "involved": [
+          1014
+        ],
+        "pilot": [
+          1016
+        ],
+        "where": [
+          1018,
+          1112,
+          1898,
+          2215,
+          2456,
+          2633,
+          2769,
+          2872,
+          3021,
+          3179,
+          3319
+        ],
+        "assisted": [
+          1020
+        ],
+        "identifying": [
+          1022
+        ],
+        "warning": [
+          1024
+        ],
+        "signs": [
+          1025
+        ],
+        "suicidal": [
+          1032
+        ],
+        "tendencies": [
+          1033
+        ],
+        "initial": [
+          1036,
+          2369
+        ],
+        "(32).": [
+          1039
+        ],
+        "Moreover,": [
+          1040,
+          2762
+        ],
+        "recent": [
+          1041,
+          1342
+        ],
+        "demonstrated": [
+          1044
+        ],
+        "generalpurpose": [
+          1046
+        ],
+        "Gemini": [
+          1050
+        ],
+        "Pro": [
+          1051
+        ],
+        "outperform": [
+          1054
+        ],
+        "traditional": [
+          1055,
+          1491,
+          1864,
+          2881
+        ],
+        "bots,": [
+          1057
+        ],
+        "Wysa": [
+          1060,
+          1088
+        ],
+        "Youper,": [
+          1062
+        ],
+        "correcting": [
+          1065
+        ],
+        "biases": [
+          1067,
+          1749,
+          2090,
+          2243,
+          2298,
+          2326
+        ],
+        "overtrust,": [
+          1069
+        ],
+        "fundamental": [
+          1070,
+          2671
+        ],
+        "attribution": [
+          1071
+        ],
+        "error,": [
+          1072
+        ],
+        "just-world": [
+          1075
+        ],
+        "hypothesis.": [
+          1076
+        ],
+        "In": [
+          1077,
+          1796
+        ],
+        "areas,": [
+          1079
+        ],
+        "GPT-4": [
+          1080,
+          2122
+        ],
+        "scored": [
+          1081,
+          1089
+        ],
+        "highest,": [
+          1083
+        ],
+        "bots": [
+          1086
+        ],
+        "lowest": [
+          1091
+        ],
+        "(33).These": [
+          1092
+        ],
+        "underscore": [
+          1095,
+          2930,
+          3222
+        ],
+        "effective": [
+          1105,
+          1674,
+          2001,
+          2197,
+          2830,
+          3100,
+          3382
+        ],
+        "support,": [
+          1108
+        ],
+        "contexts": [
+          1111
+        ],
+        "professionals": [
+          1114,
+          1314,
+          1901,
+          2876,
+          3023,
+          3184,
+          3321
+        ],
+        "scarce.To": [
+          1116
+        ],
+        "illustrate": [
+          1117
+        ],
+        "how": [
+          1118,
+          1230,
+          1297,
+          1727,
+          2312
+        ],
+        "ChatGPT-4": [
+          1119,
+          1164,
+          1281
+        ],
+        "function": [
+          1121
+        ],
+        "context,": [
+          1125
+        ],
+        "consider": [
+          1126
+        ],
+        "following": [
+          1128
+        ],
+        "scenario": [
+          1130
+        ],
+        "involving": [
+          1131
+        ],
+        "individual": [
+          1133,
+          1738,
+          2587
+        ],
+        "seeking": [
+          1134,
+          2022
+        ],
+        "from": [
+          1136,
+          1500,
+          1835,
+          2185,
+          2246
+        ],
+        "platform.Alex": [
+          1139
+        ],
+        "experiencing": [
+          1141,
+          1248
+        ],
+        "related": [
+          1145,
+          2921,
+          3213
+        ],
+        "stress.": [
+          1148
+        ],
+        "Unable": [
+          1149
+        ],
+        "access": [
+          1151,
+          1310,
+          1408,
+          1569,
+          2873,
+          3034,
+          3187,
+          3339
+        ],
+        "immediate": [
+          1152,
+          1302
+        ],
+        "professional": [
+          1153,
+          1626,
+          1660,
+          2693
+        ],
+        "help,": [
+          1154
+        ],
+        "Alex": [
+          1155
+        ],
+        "turns": [
+          1156
+        ],
+        "app": [
+          1161
+        ],
+        "powered": [
+          1162
+        ],
+        "support.Alex:": [
+          1166
+        ],
+        "\"I've": [
+          1167
+        ],
+        "feeling": [
+          1169,
+          1192
+        ],
+        "really": [
+          1170
+        ],
+        "overwhelmed": [
+          1171
+        ],
+        "lately.": [
+          1174
+        ],
+        "Deadlines": [
+          1175
+        ],
+        "piling": [
+          1177
+        ],
+        "up,": [
+          1178
+        ],
+        "I": [
+          1180,
+          1232
+        ],
+        "can't": [
+          1181
+        ],
+        "seem": [
+          1182
+        ],
+        "catch": [
+          1184
+        ],
+        "up.\"ChatGPT-4:": [
+          1185
+        ],
+        "\"I'm": [
+          1186
+        ],
+        "sorry": [
+          1187
+        ],
+        "hear": [
+          1189
+        ],
+        "you're": [
+          1191,
+          1198,
+          1247
+        ],
+        "way.": [
+          1194
+        ],
+        "It": [
+          1195
+        ],
+        "sounds": [
+          1196
+        ],
+        "under": [
+          1199
+        ],
+        "lot": [
+          1201
+        ],
+        "pressure.Would": [
+          1203
+        ],
+        "you": [
+          1204
+        ],
+        "talk": [
+          1207
+        ],
+        "what's": [
+          1210
+        ],
+        "causing": [
+          1211
+        ],
+        "feelings,": [
+          1213,
+          1287
+        ],
+        "perhaps": [
+          1215
+        ],
+        "explore": [
+          1216,
+          1291
+        ],
+        "strategies": [
+          1218,
+          2416,
+          2538
+        ],
+        "manage": [
+          1220,
+          1487
+        ],
+        "your": [
+          1221,
+          1263
+        ],
+        "stress?\"": [
+          1222
+        ],
+        "Alex:": [
+          1223
+        ],
+        "\"I": [
+          1224
+        ],
+        "just": [
+          1225
+        ],
+        "feel": [
+          1226
+        ],
+        "matter": [
+          1229
+        ],
+        "much": [
+          1231
+        ],
+        "never": [
+          1235
+        ],
+        "enough.": [
+          1236
+        ],
+        "I'm": [
+          1237,
+          1239
+        ],
+        "worried": [
+          1238
+        ],
+        "going": [
+          1240
+        ],
+        "let": [
+          1242
+        ],
+        "everyone": [
+          1243
+        ],
+        "down.\"ChatGPT-4:": [
+          1244
+        ],
+        "\"It": [
+          1245
+        ],
+        "seems": [
+          1246
+        ],
+        "fear": [
+          1250
+        ],
+        "disappointing": [
+          1252
+        ],
+        "others,": [
+          1253
+        ],
+        "quite": [
+          1257
+        ],
+        "stressful.Remember,": [
+          1258
+        ],
+        "acknowledge": [
+          1262
+        ],
+        "efforts.": [
+          1264
+        ],
+        "Would": [
+          1265
+        ],
+        "discussing": [
+          1266
+        ],
+        "management": [
+          1269
+        ],
+        "techniques": [
+          1270
+        ],
+        "ways": [
+          1272
+        ],
+        "set": [
+          1274,
+          2592
+        ],
+        "realistic": [
+          1275
+        ],
+        "expectations": [
+          1276
+        ],
+        "helpful?\"In": [
+          1278
+        ],
+        "interaction,": [
+          1280,
+          2072
+        ],
+        "provides": [
+          1282
+        ],
+        "empathetic": [
+          1283,
+          1365
+        ],
+        "validates": [
+          1285
+        ],
+        "Alex's": [
+          1286
+        ],
+        "coping": [
+          1292
+        ],
+        "strategies.": [
+          1293
+        ],
+        "example": [
+          1295
+        ],
+        "demonstrates": [
+          1296,
+          1352
+        ],
+        "AI-driven": [
+          1298,
+          1905,
+          2062,
+          2372,
+          3161
+        ],
+        "offer": [
+          1301,
+          1813,
+          2034,
+          2887
+        ],
+        "assistance,": [
+          1303
+        ],
+        "especially": [
+          1304,
+          1782
+        ],
+        "individuals": [
+          1306,
+          1963,
+          2259,
+          3031
+        ],
+        "who": [
+          1307,
+          2411
+        ],
+        "prefer": [
+          1316
+        ],
+        "anonymity": [
+          1318
+        ],
+        "convenience": [
+          1320
+        ],
+        "platform.The": [
+          1324
+        ],
+        "promises": [
+          1332,
+          3127
+        ],
+        "transformative": [
+          1333
+        ],
+        "each": [
+          1339,
+          1737
+        ],
+        "highlighted": [
+          1340,
+          2240
+        ],
+        "research.": [
+          1343
+        ],
+        "Cunzhou": [
+          1344
+        ],
+        "Ran's": [
+          1345
+        ],
+        "using": [
+          1350
+        ],
+        "communication,": [
+          1360,
+          2734
+        ],
+        "indicating": [
+          1361
+        ],
+        "(34).": [
+          1369
+        ],
+        "Graham": [
+          1370
+        ],
+        "explores": [
+          1371
+        ],
+        "use": [
+          1373,
+          2475,
+          2659
+        ],
+        "diagnosing": [
+          1375
+        ],
+        "treating": [
+          1377
+        ],
+        "disorders,": [
+          1383
+        ],
+        "suggesting": [
+          1384
+        ],
+        "enhanced": [
+          1385
+        ],
+        "accuracy": [
+          1386,
+          1840
+        ],
+        "plans": [
+          1391,
+          2807
+        ],
+        "(35).": [
+          1392
+        ],
+        "Saadia": [
+          1393
+        ],
+        "Gabriel's": [
+          1394
+        ],
+        "examination": [
+          1395
+        ],
+        "Large": [
+          1397
+        ],
+        "Language": [
+          1398
+        ],
+        "Models": [
+          1399
+        ],
+        "settings": [
+          1402
+        ],
+        "reveals": [
+          1403
+        ],
+        "broaden": [
+          1407
+        ],
+        "(36),": [
+          1413
+        ],
+        "emphasizes": [
+          1416
+        ],
+        "stringent": [
+          1420
+        ],
+        "standards.Lastly,": [
+          1422
+        ],
+        "Gilmar": [
+          1423
+        ],
+        "Gutierrez's": [
+          1424
+        ],
+        "review": [
+          1425
+        ],
+        "online": [
+          1427
+        ],
+        "underscores": [
+          1430
+        ],
+        "adherence": [
+          1436
+        ],
+        "engagement": [
+          1439,
+          2031
+        ],
+        "continuous": [
+          1441,
+          2159,
+          2449
+        ],
+        "(37).": [
+          1445
+        ],
+        "Collectively,": [
+          1446
+        ],
+        "significantly": [
+          1454,
+          1853
+        ],
+        "augment": [
+          1455
+        ],
+        "psychotherapeutic": [
+          1456
+        ],
+        "practice,": [
+          1457,
+          1471
+        ],
+        "careful": [
+          1458,
+          2550
+        ],
+        "consideration": [
+          1459
+        ],
+        "implications": [
+          1462
+        ],
+        "essential.Human": [
+          1464
+        ],
+        "committed": [
+          1468
+        ],
+        "face": [
+          1472,
+          1723,
+          2130
+        ],
+        "constraints": [
+          1474,
+          1746
+        ],
+        "terms": [
+          1476
+        ],
+        "physical": [
+          1480,
+          1869
+        ],
+        "resources": [
+          1481,
+          1546
+        ],
+        "impact": [
+          1483
+        ],
+        "large": [
+          1488
+        ],
+        "caseloads.": [
+          1489
+        ],
+        "model": [
+          1492
+        ],
+        "psychotherapy,": [
+          1494,
+          2198,
+          2862
+        ],
+        "involves": [
+          1496,
+          1593
+        ],
+        "one-on-one": [
+          1497
+        ],
+        "sessions": [
+          1498
+        ],
+        "lasting": [
+          1499
+        ],
+        "thirty": [
+          1501
+        ],
+        "minutes": [
+          1502
+        ],
+        "hour,": [
+          1505
+        ],
+        "inherently": [
+          1506
+        ],
+        "limits": [
+          1507,
+          2153,
+          3186
+        ],
+        "number": [
+          1509,
+          1539
+        ],
+        "therapist": [
+          1513
+        ],
+        "see": [
+          1515
+        ],
+        "daily.": [
+          1516
+        ],
+        "limitation": [
+          1518,
+          2169,
+          2444
+        ],
+        "becomes": [
+          1519,
+          2904
+        ],
+        "acute": [
+          1521
+        ],
+        "regions": [
+          1523,
+          1897
+        ],
+        "Can": [
+          1524
+        ],
+        "Replace": [
+          1526
+        ],
+        "Psychotherapists?": [
+          1527
+        ],
+        "high": [
+          1530
+        ],
+        "demand": [
+          1531
+        ],
+        "but": [
+          1536,
+          1656,
+          2014,
+          2459,
+          2999,
+          3153,
+          3297
+        ],
+        "professionals.": [
+          1542
+        ],
+        "scarcity": [
+          1544,
+          3181
+        ],
+        "lead": [
+          1548,
+          1623,
+          1690,
+          1985,
+          2555
+        ],
+        "increased": [
+          1550,
+          1947
+        ],
+        "wait": [
+          1551,
+          1565
+        ],
+        "times": [
+          1552,
+          1566
+        ],
+        "patients,": [
+          1554
+        ],
+        "delaying": [
+          1556
+        ],
+        "critical": [
+          1557,
+          2228,
+          2631,
+          2974,
+          3165,
+          3273
+        ],
+        "exacerbating": [
+          1560
+        ],
+        "conditions.": [
+          1563
+        ],
+        "Extended": [
+          1564
+        ],
+        "result": [
+          1574,
+          1666
+        ],
+        "deterioration": [
+          1576
+        ],
+        "conditions,": [
+          1579
+        ],
+        "poses": [
+          1581
+        ],
+        "serious": [
+          1582
+        ],
+        "challenges": [
+          1583,
+          2132,
+          3212
+        ],
+        "globally": [
+          1588,
+          1885
+        ],
+        "(38,39).The": [
+          1589
+        ],
+        "psychotherapists": [
+          1592,
+          1632
+        ],
+        "intense": [
+          1594
+        ],
+        "labor": [
+          1596
+        ],
+        "routinely": [
+          1599
+        ],
+        "engage": [
+          1600
+        ],
+        "distress": [
+          1606
+        ],
+        "clients.": [
+          1609
+        ],
+        "constant": [
+          1611
+        ],
+        "high-stress": [
+          1614
+        ],
+        "situations": [
+          1615,
+          2702
+        ],
+        "requires": [
+          1616,
+          1868
+        ],
+        "substantial": [
+          1618,
+          3143
+        ],
+        "investment": [
+          1620
+        ],
+        "burnout.": [
+          1627
+        ],
+        "Symptoms": [
+          1628
+        ],
+        "burnout": [
+          1630
+        ],
+        "among": [
+          1631,
+          1695
+        ],
+        "manifest": [
+          1634
+        ],
+        "exhaustion,": [
+          1637
+        ],
+        "depersonalization,": [
+          1638
+        ],
+        "reduced": [
+          1641,
+          1668
+        ],
+        "sense": [
+          1642
+        ],
+        "personal": [
+          1644,
+          1651,
+          2060
+        ],
+        "accomplishment,": [
+          1645
+        ],
+        "only": [
+          1648,
+          2009
+        ],
+        "impacts": [
+          1649
+        ],
+        "job": [
+          1654
+        ],
+        "satisfaction": [
+          1655
+        ],
+        "also": [
+          1657,
+          2015
+        ],
+        "affects": [
+          1658
+        ],
+        "performance.": [
+          1661
+        ],
+        "Over": [
+          1662
+        ],
+        "time,": [
+          1663,
+          2151,
+          2377
+        ],
+        "empathy": [
+          1669,
+          2646
+        ],
+        "attentiveness-key": [
+          1671
+        ],
+        "therapy-thereby": [
+          1675
+        ],
+        "negatively": [
+          1676
+        ],
+        "impacting": [
+          1677,
+          1704
+        ],
+        "satisfaction.": [
+          1682
+        ],
+        "toll": [
+          1685
+        ],
+        "thus": [
+          1689,
+          2028,
+          2267
+        ],
+        "higher": [
+          1693
+        ],
+        "turnover": [
+          1694
+        ],
+        "professionals,": [
+          1698
+        ],
+        "straining": [
+          1700
+        ],
+        "system": [
+          1702
+        ],
+        "provided": [
+          1709,
+          2340
+        ],
+        "(40,41,42).Personalization": [
+          1712
+        ],
+        "effectiveness,": [
+          1719
+        ],
+        "yet": [
+          1720
+        ],
+        "inherent": [
+          1724,
+          2325
+        ],
+        "extensively": [
+          1728
+        ],
+        "accurately": [
+          1730
+        ],
+        "tailor": [
+          1733,
+          2584,
+          2775
+        ],
+        "approaches": [
+          1735,
+          2319,
+          2777
+        ],
+        "patient.": [
+          1739
+        ],
+        "Despite": [
+          1740,
+          2276
+        ],
+        "best": [
+          1742
+        ],
+        "efforts,": [
+          1743
+        ],
+        "memory": [
+          1745,
+          2126,
+          2135,
+          2471,
+          2923,
+          3215
+        ],
+        "affect": [
+          1751,
+          2171
+        ],
+        "therapist's": [
+          1753
+        ],
+        "consistently": [
+          1756
+        ],
+        "integrate": [
+          1757,
+          2183,
+          2204
+        ],
+        "recall": [
+          1759,
+          1833,
+          2202
+        ],
+        "detailed": [
+          1760
+        ],
+        "histories": [
+          1762
+        ],
+        "subtle": [
+          1764,
+          2707
+        ],
+        "periods.These": [
+          1770
+        ],
+        "hinder": [
+          1773
+        ],
+        "fully": [
+          1777,
+          2789
+        ],
+        "personalize": [
+          1778
+        ],
+        "complex,": [
+          1787
+        ],
+        "co-morbid": [
+          1788
+        ],
+        "require": [
+          1791,
+          2142
+        ],
+        "approach.": [
+          1795,
+          2936,
+          3228
+        ],
+        "contrast,": [
+          1797
+        ],
+        "remember": [
+          1806
+        ],
+        "vast": [
+          1807
+        ],
+        "amounts": [
+          1808
+        ],
+        "information": [
+          1810,
+          1970,
+          2184,
+          2206,
+          2313
+        ],
+        "without": [
+          1811,
+          1889,
+          2164
+        ],
+        "prospects": [
+          1815
+        ],
+        "supporting": [
+          1817,
+          2861
+        ],
+        "precise": [
+          1821
+        ],
+        "interventions.": [
+          1824,
+          3084
+        ],
+        "handle": [
+          1827
+        ],
+        "datasets,": [
+          1829
+        ],
+        "identify": [
+          1830
+        ],
+        "patterns,": [
+          1831
+        ],
+        "details": [
+          1834
+        ],
+        "greater": [
+          1839,
+          3033
+        ],
+        "therapists,": [
+          1843,
+          2410
+        ],
+        "improved": [
+          1847
+        ],
+        "planning": [
+          1849
+        ],
+        "(43,44,45).AI": [
+          1852
+        ],
+        "enhances": [
+          1854
+        ],
+        "scalability": [
+          1856
+        ],
+        "services.": [
+          1862,
+          2853,
+          3011,
+          3135,
+          3309
+        ],
+        "Unlike": [
+          1863,
+          2408
+        ],
+        "presence": [
+          1870
+        ],
+        "geographic": [
+          1876
+        ],
+        "resource": [
+          1878
+        ],
+        "constraints,": [
+          1879
+        ],
+        "operate": [
+          1887
+        ],
+        "continuously": [
+          1888
+        ],
+        "fatigue.": [
+          1890
+        ],
+        "crucial,": [
+          1894,
+          2208
+        ],
+        "scarce": [
+          1903
+        ],
+        "(46,47).Additionally,": [
+          1904
+        ],
+        "costs,": [
+          1910
+        ],
+        "affordable": [
+          1916
+        ],
+        "accessible.": [
+          1918
+        ],
+        "economic": [
+          1920,
+          3336
+        ],
+        "operational": [
+          1922
+        ],
+        "reach": [
+          1929,
+          3007,
+          3305
+        ],
+        "well-documented(48).One": [
+          1935
+        ],
+        "unique": [
+          1938
+        ],
+        "advantages": [
+          1939
+        ],
+        "candidness": [
+          1948
+        ],
+        "openness": [
+          1950
+        ],
+        "exhibit": [
+          1954,
+          2123
+        ],
+        "interacting": [
+          1956
+        ],
+        "machines.": [
+          1958
+        ],
+        "Studies": [
+          1959,
+          2364
+        ],
+        "sometimesmore": [
+          1965
+        ],
+        "willing": [
+          1966
+        ],
+        "disclose": [
+          1968
+        ],
+        "sensitive": [
+          1969,
+          2508
+        ],
+        "due": [
+          1974,
+          2052,
+          2286,
+          2387,
+          2719
+        ],
+        "perceived": [
+          1976,
+          2006
+        ],
+        "non-judgmental": [
+          1977
+        ],
+        "nature": [
+          1978,
+          2399
+        ],
+        "(49,50).": [
+          1981
+        ],
+        "phenomenon": [
+          1983
+        ],
+        "honest": [
+          1988,
+          2012
+        ],
+        "exchanges": [
+          1989
+        ],
+        "during": [
+          1990,
+          2291
+        ],
+        "sessions,": [
+          1992,
+          2187
+        ],
+        "allowing": [
+          1993
+        ],
+        "accurate": [
+          1996
+        ],
+        "assessments": [
+          1997
+        ],
+        "treatment.": [
+          2002
+        ],
+        "absence": [
+          2004
+        ],
+        "judgment": [
+          2007,
+          2697
+        ],
+        "encourages": [
+          2010
+        ],
+        "disclosures": [
+          2013
+        ],
+        "stigma": [
+          2019
+        ],
+        "associated": [
+          2020
+        ],
+        "(21).AI": [
+          2032
+        ],
+        "consistency": [
+          2038,
+          3235
+        ],
+        "practitioners": [
+          2046
+        ],
+        "find": [
+          2048
+        ],
+        "challenging": [
+          2049
+        ],
+        "achieve": [
+          2051
+        ],
+        "variations": [
+          2055
+        ],
+        "mood,": [
+          2057
+        ],
+        "fatigue,": [
+          2058
+        ],
+        "bias.": [
+          2061
+        ],
+        "apply": [
+          2064
+        ],
+        "same": [
+          2066,
+          2078,
+          2824
+        ],
+        "standards": [
+          2067
+        ],
+        "protocols": [
+          2069
+        ],
+        "every": [
+          2071,
+          3329
+        ],
+        "ensuring": [
+          2073
+        ],
+        "all": [
+          2074
+        ],
+        "receive": [
+          2076
+        ],
+        "(51,52).": [
+          2082
+        ],
+        "Furthermore,": [
+          2083
+        ],
+        "influence": [
+          2093,
+          2300
+        ],
+        "judgment.": [
+          2095
+        ],
+        "programmed": [
+          2100
+        ],
+        "ignore": [
+          2102
+        ],
+        "irrelevant": [
+          2103
+        ],
+        "factors": [
+          2104
+        ],
+        "race,": [
+          2107,
+          2262
+        ],
+        "gender,": [
+          2108,
+          2263
+        ],
+        "socio-economic": [
+          2110
+        ],
+        "status,": [
+          2111,
+          2266,
+          3337
+        ],
+        "promoting": [
+          2112
+        ],
+        "equitable": [
+          2115
+        ],
+        "environment": [
+          2117
+        ],
+        "(53).While": [
+          2118
+        ],
+        "strong": [
+          2124
+        ],
+        "capabilities,": [
+          2127
+        ],
+        "still": [
+          2129
+        ],
+        "retention": [
+          2136
+        ],
+        "integration.": [
+          2138
+        ],
+        "Current": [
+          2139
+        ],
+        "external": [
+          2143
+        ],
+        "processes": [
+          2144
+        ],
+        "summarize": [
+          2146
+        ],
+        "track": [
+          2148
+        ],
+        "maintain": [
+          2157,
+          2436,
+          2545
+        ],
+        "coherent": [
+          2161
+        ],
+        "relationship": [
+          2163,
+          2568
+        ],
+        "oversight": [
+          2166,
+          2451,
+          2605
+        ],
+        "(54,55,56).": [
+          2167
+        ],
+        "continuity": [
+          2173,
+          2801
+        ],
+        "struggle": [
+          2179,
+          2819
+        ],
+        "retain": [
+          2181
+        ],
+        "past": [
+          2186,
+          2205
+        ],
+        "fragmented": [
+          2191
+        ],
+        "inconsistent": [
+          2193
+        ],
+        "interactions.": [
+          2195
+        ],
+        "remains": [
+          2211,
+          2362
+        ],
+        "currently": [
+          2218
+        ],
+        "advantage": [
+          2221
+        ],
+        "systems.Algorithmic": [
+          2224
+        ],
+        "bias": [
+          2225
+        ],
+        "concern": [
+          2229
+        ],
+        "application": [
+          2232
+        ],
+        "Akter,": [
+          2242
+        ],
+        "arise": [
+          2245
+        ],
+        "train": [
+          2251
+        ],
+        "unequal": [
+          2256
+        ],
+        "socioeconomic": [
+          2265
+        ],
+        "perpetuating": [
+          2268
+        ],
+        "existing": [
+          2269
+        ],
+        "(57).": [
+          2275
+        ],
+        "efforts": [
+          2277
+        ],
+        "minimize": [
+          2279
+        ],
+        "biases,": [
+          2281
+        ],
+        "unavoidable": [
+          2285
+        ],
+        "decisions": [
+          2289
+        ],
+        "made": [
+          2290
+        ],
+        "systems.": [
+          2296
+        ],
+        "settings,": [
+          2310
+        ],
+        "presented": [
+          2315
+        ],
+        "what": [
+          2317
+        ],
+        "emphasized.": [
+          2321
+        ],
+        "reflects": [
+          2323
+        ],
+        "priorities": [
+          2328
+        ],
+        "developers,": [
+          2331
+        ],
+        "unintended": [
+          2335,
+          2557
+        ],
+        "consequences": [
+          2336,
+          2558
+        ],
+        "patients.While": [
+          2342
+        ],
+        "AI-based": [
+          2343
+        ],
+        "therapies": [
+          2344
+        ],
+        "reducing": [
+          2349
+        ],
+        "short": [
+          2357,
+          2636
+        ],
+        "questionable.": [
+          2363
+        ],
+        "indicated": [
+          2366
+        ],
+        "diminish": [
+          2375
+        ],
+        "improvements": [
+          2382
+        ],
+        "observed(?).": [
+          2383
+        ],
+        "inability": [
+          2391
+        ],
+        "adapt": [
+          2393,
+          2710
+        ],
+        "needs": [
+          2404
+        ],
+        "periods.": [
+          2407
+        ],
+        "adjust": [
+          2413
+        ],
+        "ongoing": [
+          2419
+        ],
+        "deeper": [
+          2422,
+          2743
+        ],
+        "patient's": [
+          2426,
+          2747,
+          2782,
+          2815
+        ],
+        "history,": [
+          2427
+        ],
+        "flexibility": [
+          2433
+        ],
+        "term.": [
+          2442
+        ],
+        "highlights": [
+          2445
+        ],
+        "hybrid": [
+          2454
+        ],
+        "supports": [
+          2458
+        ],
+        "replace": [
+          2462,
+          2972,
+          3271
+        ],
+        "element": [
+          2465
+        ],
+        "psychotherapy.Beyond": [
+          2467
+        ],
+        "technical": [
+          2468
+        ],
+        "raises": [
+          2482
+        ],
+        "questions": [
+          2485
+        ],
+        "regarding": [
+          2486
+        ],
+        "privacy,": [
+          2487
+        ],
+        "autonomy,": [
+          2488
+        ],
+        "stigmatization": [
+          2492
+        ],
+        "patients.": [
+          2494,
+          2656
+        ],
+        "noted": [
+          2496
+        ],
+        "Walsh,": [
+          2498
+        ],
+        "systems,": [
+          2500,
+          2751
+        ],
+        "utilize": [
+          2504
+        ],
+        "biomarkers": [
+          2505
+        ],
+        "other": [
+          2507
+        ],
+        "data,": [
+          2509
+        ],
+        "navigate": [
+          2511,
+          2699
+        ],
+        "balance": [
+          2514
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 48
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 46
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-09-21T07:43:02.447757",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  },
+  "pdf_file": "057_can-ai-replace-psychotherapists-exploring-the-future-of-ment.pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1444382/pdf",
+  "pdf_verified": true
+}
