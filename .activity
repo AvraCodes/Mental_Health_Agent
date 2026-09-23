@@ -5508,3 +5508,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-09-23T11:58:22Z | docs: update comments
 2026-09-23T11:58:23Z | docs: add inline docs
 2026-09-23T11:58:24Z | fix: boundary condition
+2026-09-23T11:58:25Z | refactor: reduce nesting
