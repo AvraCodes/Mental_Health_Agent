@@ -5515,3 +5515,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-09-23T11:58:29Z | style: fix formatting
 2026-09-23T11:58:30Z | chore: sync config
 2026-09-23T11:58:31Z | docs: update usage notes
+2026-09-23T11:58:32Z | refactor: reduce nesting
