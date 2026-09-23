@@ -88,4 +88,4 @@ uvicorn backend.main:app --reload --port 8000
 - **Memory** stores session history in-memory and long-term user facts in a separate ChromaDB collection.
 - **Safety** — crisis agent runs first on every message; system prompts prohibit diagnosis/medication advice.
 
-<!-- last-updated: 2026-09-22T11:56:49Z -->
+<!-- last-updated: 2026-09-23T11:58:11Z -->
