@@ -5499,3 +5499,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-09-23T11:58:13Z | fix: off-by-one error
 2026-09-23T11:58:14Z | chore: cleanup
 2026-09-23T11:58:15Z | chore: sync config
+2026-09-23T11:58:16Z | docs: fix broken link
