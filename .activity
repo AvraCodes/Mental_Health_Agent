@@ -5524,3 +5524,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-09-24T12:04:37Z | style: fix formatting
 2026-09-24T12:04:39Z | refactor: clean up unused imports
 2026-09-24T12:04:40Z | refactor: clean up unused imports
+2026-09-24T12:04:41Z | fix: null check
