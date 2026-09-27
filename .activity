@@ -5567,3 +5567,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-09-26T11:41:44Z | fix: edge case handling
 2026-09-27T12:19:23Z | chore: regenerate lockfile
 2026-09-27T12:19:24Z | docs: clarify readme
+2026-09-27T12:19:26Z | chore: bump version
