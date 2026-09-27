@@ -5580,3 +5580,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-09-27T12:19:36Z | fix: edge case handling
 2026-09-27T12:19:37Z | fix: edge case handling
 2026-09-27T12:19:38Z | style: lint fixes
+2026-09-27T12:19:39Z | refactor: extract helper
