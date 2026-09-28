@@ -1,0 +1,527 @@
+UNIVERSITY OF KALYANI
+DETS
+
+A PROJECT REPORT
+ON
+“SOFTWARE-BASED DIGITAL TWIN FOR REAL-TIME MONITORING AND PREDICTIVE FAULT DETECTION OF AN INDUSTRIAL MACHINE”
+Submitted in partial fulfilment of the requirements for the degree of
+BACHELOR OF TECHNOLOGY
+IN
+IT
+Prepared by:
+Abhinit Kumar
+Supriyo Ghoshal
+Suprovat Mandal
+Under the Guidance of:
+Dr. Srinka Basu
+DETS
+B.Tech in IT
+Academic Year: 2026
+Submission Date: ___________
+
+CERTIFICATE
+This is to certify that the project report titled “Software-Based Digital Twin for Real-Time Monitoring and Predictive Fault Detection of an Industrial Machine” has been carried out by Abhinit Kumar, Supriyo and Suprovat, students of B.Tech in Computer Science and Engineering, under my guidance and supervision, in partial fulfilment of the requirements for the award of the degree of Bachelor of Technology in Computer Science and Engineering from [College/University Name].
+This project work embodies the original work carried out by the students during the academic year 2026, and to the best of my knowledge, it has not been submitted elsewhere for the award of any other degree or diploma.
+It is further certified that the students have completed the work under my supervision and that the report is satisfactory for evaluation.
+Date: [To be filled]
+Place: [To be filled]
+___________________________	___________________________
+Dr. Srinka Basu	[Head of Department Name]
+Project Guide / Supervisor	Head of Department, CSE
+
+DECLARATION
+We, Abhinit Kumar, Supriyo and Suprovat, students of B.Tech in Computer Science and Engineering, hereby declare that the project report titled “Software-Based Digital Twin for Real-Time Monitoring and Predictive Fault Detection of an Industrial Machine” is an original record of the work carried out by us under the guidance of Dr. Srinka Basu.
+This report has been prepared solely for academic purposes as part of our B.Tech curriculum and has not been submitted, in full or in part, to any other institution or university for the award of any degree or diploma.
+We further declare that any material, data, or research referred to from external sources has been duly acknowledged and cited in the References section of this report.
+
+1. Abhinit Kumar     ___________________________     Roll No.: [To be filled]
+2. Supriyo               ___________________________     Roll No.: [To be filled]
+3. Suprovat             ___________________________     Roll No.: [To be filled]
+Date: [To be filled]
+Place: [To be filled]
+
+ACKNOWLEDGEMENT
+We would like to express our sincere gratitude to our project guide, Dr. Srinka Basu, for the constant guidance, encouragement, and valuable suggestions provided throughout the course of this project. Her feedback at every stage helped us understand the subject more clearly and shaped the direction of this work.
+We are also thankful to the Department of Computer Science and Engineering for providing us with the academic environment, resources, and support needed to carry out this project. We would also like to thank our faculty members and peers for their helpful discussions and suggestions during the development of this report.
+Finally, we would like to thank our families and friends for their continuous support and encouragement during the course of this project.
+Abhinit Kumar
+Supriyo
+Suprovat
+
+ABSTRACT
+A Digital Twin is a virtual representation of a physical object or system that is built to reflect the behaviour, state, and characteristics of its real-world counterpart. Instead of merely being a static 3D model, a Digital Twin is meant to stay connected to real (or, as in this project, simulated) data coming from the physical system, so that changes in the physical system are reflected in the virtual model in near real time. In industrial settings, Digital Twins are gaining attention because they allow engineers to monitor machines, test scenarios, and predict failures without having to interrupt or risk the actual physical equipment.
+This project addresses a common problem in industrial maintenance: faults in machines such as motors, robotic arms, or conveyor systems are often detected only after they cause a slowdown, breakdown, or safety issue, because most monitoring is either manual, periodic, or limited to a few basic indicators. Continuous, automated monitoring backed by intelligent fault detection can catch problems earlier, but building and testing such a system on real industrial hardware is expensive, difficult to access for a student project, and potentially risky if faults are deliberately introduced for testing.
+To work around this, the present project proposes a software-based Digital Twin, where the industrial machine itself is represented purely in software rather than as physical hardware. Simulated sensor data — such as temperature, vibration, motor speed, and current — is generated to imitate the behaviour of a real machine under both normal and faulty operating conditions. This simulated data is fed continuously into the Digital Twin model, which mirrors the state of the (virtual) machine and makes it possible to observe its behaviour over time on a dashboard, just as one would with a real machine.
+On top of this Digital Twin, an AI/ML-based anomaly detection approach, primarily an autoencoder trained on normal operating data, is proposed to automatically flag unusual behaviour. Because the autoencoder learns what "normal" sensor patterns look like, a rise in its reconstruction error when fed new data can be used as an anomaly score, which in turn can trigger a fault alert on the dashboard. This project is expected to demonstrate, at a conceptual and simulation level, how such a pipeline can support predictive maintenance — that is, catching a developing fault before it leads to a complete breakdown — even though it relies on simulated rather than physical machine data.
+
+TABLE OF CONTENTS
+Note: The page numbers below are based on this document's current layout. If any content is added or removed before submission, please update the numbers accordingly (or regenerate this list using Word's automatic Table of Contents feature).
+
+Abstract	5
+1. Introduction	7
+2. Problem Statement	8
+3. Motivation	9
+4. Objectives	10
+5. Literature Review	11
+6. Digital Twin Concept	14
+7. Proposed System	16
+8. System Architecture	17
+9. Machine Simulation	19
+10. Sensor Data Simulation	21
+11. AI/ML Fault Detection	23
+12. Technology Stack	25
+13. Implementation Methodology	26
+14. Workflow	27
+15. Experiment / Simulation Design	28
+16. Results and Discussion	29
+17. Advantages	30
+18. Limitations	31
+19. Applications	32
+20. Future Scope	33
+21. Conclusion	34
+22. Team Contribution	35
+23. References	36
+24. Appendix	37
+
+1. INTRODUCTION
+A Digital Twin is a software-based, continuously updated representation of a physical object, process, or system. The term is used across many industries today — manufacturing, aerospace, healthcare, and smart cities — but the underlying idea stays the same: instead of only looking at a machine directly, engineers build a virtual copy of it that receives data from the machine (through sensors) and uses that data to mirror the machine's current condition. Because the Digital Twin is kept in sync with the real system, it can be used to observe, simulate, and predict things that would otherwise require directly experimenting with the physical machine, which is often expensive, slow, or risky.
+This project studies and builds a simplified, software-only version of this idea, focused specifically on real-time monitoring and predictive fault detection for an industrial machine. The overall chain of thought behind the project can be summarised as follows: a Physical System (here, simulated in software rather than built as real hardware) produces continuous sensor readings; these readings are collected and processed as Data; this data feeds a Digital Twin, a virtual model that reflects the machine's current and past behaviour; on top of the Digital Twin, Analytics/AI techniques are applied to detect whether the observed behaviour is normal or abnormal; and finally, this analysis supports a Decision/Action, such as raising an alert for a possible fault or recommending maintenance.
+Physical System  →  Data / Sensors  →  Digital Twin  →  Analytics / AI  →  Decision / Action
+Because our project does not have access to a real industrial machine or physical sensors, the "Physical System" and "Data/Sensors" stages are both simulated in software. This does not defeat the purpose of the project; rather, it lets us focus on and demonstrate the later stages of the chain — the Digital Twin model, the AI-based fault detection, and the monitoring dashboard — which are the parts of the system that are genuinely new and interesting from a computer science point of view. The remainder of this report explains the problem this project addresses, the objectives we set out to achieve, the related research we studied, and the design and working of the proposed software-based Digital Twin system.
+2. PROBLEM STATEMENT
+Industrial machines such as motors, robotic arms, and conveyor systems are expected to run for long stretches of time with minimal interruption, but like any mechanical or electrical system, they are subject to wear, overheating, misalignment, and other faults. Traditional approaches to monitoring these machines suffer from several practical problems, which this project tries to address at a conceptual, software level.
+Manual monitoring: In many smaller industrial setups, machine health is still checked manually by a technician who periodically inspects the equipment, listens for unusual sounds, or reads gauges. This approach depends heavily on human attention and experience, and problems can easily be missed between inspection rounds.
+Delayed fault detection: Because monitoring is often periodic rather than continuous, a fault that develops gradually, such as a bearing slowly wearing out or a motor slowly overheating, may not be noticed until it has already caused a noticeable drop in performance or an outright failure.
+Lack of continuous monitoring: Continuous, automated monitoring of every relevant parameter (temperature, vibration, speed, current, and so on) requires sensors, data infrastructure, and software that many smaller organisations or academic settings do not have readily available.
+Difficulty in collecting fault data: Even where sensors are present, it is hard to collect a good dataset of actual fault conditions, because organisations understandably try to prevent faults from happening in the first place, and deliberately damaging a machine to generate fault data is neither practical nor safe.
+Cost and risk of physical experimentation: For a student project in particular, building or accessing a real industrial machine with a full sensor setup is expensive and, in some cases, unsafe, especially when the goal is to test how the system behaves under fault conditions.
+Given these constraints, this project asks a narrower and more achievable question: can a software-only Digital Twin, fed with realistic simulated sensor data, demonstrate the core ideas of continuous monitoring and AI-based predictive fault detection, even without a physical machine? The rest of this report works toward answering that question.
+3. MOTIVATION
+The motivation for choosing a software-based Digital Twin, rather than attempting to work with real hardware, comes directly from the constraints of a typical B.Tech project. As students, we do not have easy access to an actual industrial machine, the sensors needed to instrument it, or a safe environment in which to introduce faults for testing purposes. Building a physical setup would also require a budget and lab access that is usually outside the scope of an academic project of this kind.
+At the same time, the core ideas behind Digital Twin technology — connecting a virtual model to real-time data, applying AI to detect abnormal patterns, and visualising the results for a human operator — do not strictly require physical hardware to be demonstrated. By simulating an industrial machine and its sensors in software, we can generate as much data as needed, under both normal and faulty conditions, without any risk to real equipment. This also means we can experiment freely: for example, testing how the system reacts to a gradual temperature rise or a sudden vibration spike is as simple as changing a few parameters in the simulation, something that would be far more difficult and costly to arrange with a real machine.
+In this sense, a software-based Digital Twin is not just a workaround for a lack of hardware; it is also a genuinely useful way to learn and demonstrate the underlying concepts of predictive maintenance, sensor data processing, and AI-based anomaly detection, which are increasingly relevant across smart manufacturing and industrial automation.
+4. OBJECTIVES
+The following objectives were set for this project:
+	•	Develop a software representation (a Digital Twin) of an industrial machine, capturing its key operating parameters.
+	•	Simulate realistic machine operating conditions, including both normal behaviour and common fault scenarios.
+	•	Generate real-time, sensor-like data (temperature, vibration, RPM, current) that imitates what a real machine's sensors would report.
+	•	Visualize machine parameters on a web-based dashboard so that the machine's condition can be observed continuously.
+	•	Detect abnormal conditions in the simulated sensor data using an AI/ML-based anomaly detection approach.
+	•	Demonstrate the core concepts of predictive maintenance, i.e., identifying a developing problem before it becomes a full failure.
+	•	Provide a simple alerting mechanism, so that when the system detects an anomaly, it is clearly flagged for the user on the dashboard.
+These objectives are intentionally scoped to what is achievable within a software-only, simulation-based B.Tech project, while still covering the complete conceptual pipeline of a Digital Twin system — from data generation through to AI-based decision-making.
+5. LITERATURE REVIEW
+Before designing our own system, we studied a set of research papers related to Digital Twins, AI-based fault diagnosis, and autonomous systems, to understand what has already been achieved in this area and where our project fits in. This section summarises the papers most relevant to our work and clearly separates what these researchers actually did from what our own project proposes.
+5.1 Digital Twin-Based Fault Diagnosis on Real Hardware
+Ben Hnaien et al. [1] built a Digital Twin of a real Stäubli TX60 industrial robot arm and used it, together with deep autoencoders, to detect faults from joint-trajectory data. Their Digital Twin was calibrated using the robot's actual CAD specifications and real sensor data, and different autoencoder variants (feed-forward, LSTM, GRU) were trained only on healthy motion data so that a rise in reconstruction error could be used to flag a fault. Their system was tested on real experimental data and even deployed for real-time fault injection testing in Simulink.
+This is the single most relevant paper to our project, because it uses almost the same core technique we propose — an autoencoder trained on normal data, using reconstruction error as an anomaly signal. The key difference is that Ben Hnaien et al. worked with a real robot arm and real sensor data, whereas our project uses a simulated machine and simulated sensor data because we do not have access to physical hardware. Our project is best understood as a much smaller-scale, software-only demonstration of the same underlying idea, not a replacement for or an extension of their experimentally validated work.
+5.2 Digital Twins as a Source of Data for AI
+Liu and David [2] carried out a systematic survey of 22 studies that use Digital Twins to generate synthetic data for training and testing AI systems, an approach they call AI simulation. They found that this is becoming a recognised, structured pattern across the research community, especially for robotics and autonomous systems where collecting enough real-world data is difficult or unsafe, and they connected their findings to ISO 23247, the international reference standard for Digital Twins in manufacturing.
+This survey supports the basic premise of our project: that a Digital Twin can be a legitimate source of training data for AI models when real data is hard to obtain. However, our project does not attempt anything as broad as their reference framework; we simply apply the same general idea, on a much smaller scale, to generate simulated sensor data for a single virtual machine.
+5.3 Formal Approaches to Autonomous Agent Behaviour
+De Giacomo, Patrizi and Sardiña [3] studied the behavior composition problem — how to build a controller that combines several available, limited components to achieve a target behaviour that none of them can achieve alone — using formal, logic-based methods. Separately, De Giacomo et al. [4] developed IndiGolog, a high-level programming language that lets an agent sense its environment, reason, and act online rather than following a fixed offline plan.
+These two papers are more loosely connected to our project. We do not implement any formal agent-reasoning framework, but they are useful background for the idea, discussed later in our Future Scope chapter, that a more advanced version of this project could hand off decisions (such as whether to pause a machine or schedule maintenance) to a more autonomous, reasoning-based software agent rather than a simple threshold-based alert.
+5.4 Cyber-Physical Systems and Multi-Component Coordination
+Shakeri et al. [5] surveyed the design challenges of coordinating multiple UAVs (drones) within cyber-physical systems, covering issues such as tracking, coverage, navigation, and energy efficiency. Although this paper is about drones rather than factory machines, it is a useful reference point for understanding cyber-physical systems in general — systems where computing, networking, and physical processes are tightly linked — which is the broader category that Digital Twin-based industrial monitoring also belongs to.
+5.5 AI-Native Networking, Agentic Systems, and Federated Learning
+Three further papers are relevant mainly to the Future Scope of this project rather than its current design. Abo-eleneen et al. [6] studied how 6G networks can use reinforcement learning to manage network slices automatically, which is relevant to how a real, hardware-connected version of our system might eventually need fast, self-managing network infrastructure to move sensor data with minimal delay. Calvanese, De Giacomo, Dumas et al. [7] proposed a research manifesto for "Agentic Business Process Management", where AI agents are given "framed" autonomy to make decisions within limits, which is relevant to how future versions of our fault-alert system could evolve from simple threshold alerts into more autonomous decision-making. Zhang et al. [8] proposed a Knowledge Graph-based approach to select which clients should participate in federated fine-tuning of large language models, which is relevant to a future scenario where multiple factories each run their own Digital Twin and want to share learning without sharing raw data.
+5.6 Hardware Considerations for AI Workloads
+Xu, Banerjee and Gupta [9] surveyed hardware acceleration options for neural networks, pointing out that as AI models grow, the real bottleneck is often moving data quickly enough between memory and processing units, rather than raw computing power alone. This is relevant background for thinking about how a real deployment of our system, especially if the AI model needed to run on edge devices close to the machine rather than in the cloud, would need to consider hardware constraints that our current software-only prototype does not need to worry about.
+5.7 Summary: What Is New in This Project
+None of the papers reviewed above describe a fully software-simulated Digital Twin built specifically as a student project without any physical hardware. The closest work, Ben Hnaien et al. [1], is an experimentally validated system on a real robot, and Liu and David [2] is a survey rather than a specific implementation. What this project proposes is a much smaller-scale, purely software-based demonstration that borrows the same core pattern — simulate or collect normal data, train an autoencoder on it, and use reconstruction error to flag anomalies — and applies it to a simulated machine, so that the complete monitoring-and-detection pipeline can be built, tested, and shown end-to-end without needing real industrial hardware.
+6. DIGITAL TWIN CONCEPT
+To design our system properly, it helps to break the general idea of a Digital Twin down into its component parts, each of which our project addresses in some form.
+6.1 Physical Twin
+The Physical Twin is the real-world object or system being represented — in our chosen example, an industrial machine such as an induction motor. In a full industrial deployment, this would be actual hardware fitted with sensors. In our project, the Physical Twin is not built as real hardware; instead, its behaviour is imitated through a software simulation, as explained in Chapter 9 (Machine Simulation).
+6.2 Digital Twin
+The Digital Twin is the virtual counterpart that mirrors the state of the Physical Twin. It holds a representation of the machine's parameters (temperature, vibration, speed, current) and updates this representation continuously as new data arrives, so that at any moment, the Digital Twin reflects what the (simulated) physical machine is currently doing.
+6.3 Data Connection
+The Data Connection is the link that carries sensor readings from the Physical Twin to the Digital Twin. In a real system, this would involve actual sensors, communication protocols, and possibly edge devices. In our project, this connection is a simulated data feed: a software module generates sensor-like values at regular intervals and passes them to the backend, which then updates the Digital Twin model.
+6.4 Synchronization
+Synchronization refers to keeping the Digital Twin's internal state consistent with the Physical Twin's actual state, ideally with minimal delay. For our project, this means the dashboard and the underlying Digital Twin model should reflect the latest simulated sensor readings as closely to real time as the system design allows.
+6.5 Simulation
+Simulation, in the general Digital Twin sense, refers to the Digital Twin's ability to model "what if" scenarios — for example, simulating how a machine would behave under a certain load without actually running the real machine that way. In our project, simulation plays an even more central role, because it is also how the underlying "physical" behaviour itself is generated in the first place, since there is no real hardware to observe.
+6.6 Monitoring
+Monitoring is the ongoing observation of the Digital Twin's state, typically presented through a dashboard or similar interface, so that a human operator can see the current and recent condition of the machine at a glance.
+6.7 Prediction
+Prediction, in this context, means using the Digital Twin's data, often together with AI/ML techniques, to anticipate a future problem before it actually occurs — for instance, recognising the early signs of a developing fault rather than only reacting once the fault is already severe.
+6.8 Feedback / Decision Loop
+Finally, the feedback or decision loop closes the cycle: once the Digital Twin and its AI component detect something noteworthy (such as an anomaly), this information is fed back to a human operator (through an alert) or, in more advanced systems, to an automated decision-making component that could adjust the machine's operation. In our project, this loop ends with a dashboard alert intended for a human operator, since actually controlling a real machine is outside the scope of a software-only prototype.
+7. PROPOSED SYSTEM
+Based on the concepts discussed above, we propose a software-only Digital Twin system for an industrial machine, structured as the following chain of components:
+Industrial Machine (simulated)  →  Simulated Sensors  →  Backend / Data Processing  →  Digital Twin Model  →  AI/ML Anomaly Detection  →  Web Dashboard  →  Alert
+At the start of the chain, the Industrial Machine and its Simulated Sensors exist purely as software: a simulation module generates values for parameters such as temperature, vibration, RPM, and current, following patterns that resemble real machine behaviour under both normal and faulty conditions (see Chapter 15 and Chapter 16 for details). These simulated readings are passed to a Backend / Data Processing layer, which is responsible for receiving the data, doing any necessary cleaning or formatting, and updating the Digital Twin Model, the software object that holds the current and recent state of the virtual machine.
+From there, the AI/ML Anomaly Detection component (proposed as an autoencoder-based approach, discussed in Chapter 11) continuously checks whether the incoming sensor pattern looks normal or abnormal, based on what it learned from training on normal data. The results, along with the raw and processed sensor values, are shown on a Web Dashboard, giving a human user a way to observe the machine's condition. If the anomaly detection component flags a reading as unusual, an Alert is generated on the dashboard so that the issue is clearly visible rather than being buried among ordinary sensor charts.
+It is important to state clearly that this chapter describes the proposed design of the system. Chapter 18 (Technology Stack) and Chapter 19 (Implementation Methodology) describe how this design could be built in practice, but unless explicitly stated otherwise, this report should be read as a project design and simulation plan rather than a record of a fully deployed, production-ready system.
+8. SYSTEM ARCHITECTURE
+The architecture of the proposed system follows a layered structure, where each layer depends on the data produced by the layer below it and feeds processed information to the layer above it. Figure 8.1 shows this structure as a top-down diagram, along with a feedback path that represents the continuous stream of simulated sensor data flowing upward through the system over time.
+
+Figure 8.1: System Architecture of the Proposed Software-Based Digital Twin
+8.1 Description of Components
+Simulated Industrial Machine: The lowest layer of the architecture. This is a software module that models the behaviour of the chosen machine (an induction motor, in our case — see Chapter 9) and produces simulated sensor readings for its key parameters.
+Sensor Data Processing: This layer, implemented as a backend service, receives the raw simulated sensor values, performs basic checks or formatting, and passes the data onward, both to be stored and to be analysed.
+AI/ML Fault Detection: This layer holds the trained anomaly detection model (proposed as an autoencoder). It receives processed sensor data, computes an anomaly score for the current reading, and decides whether the reading should be treated as normal or flagged as a possible fault.
+Digital Twin Engine: This layer maintains the current and historical state of the virtual machine, combining the raw sensor values with the AI layer's anomaly assessments into a single, coherent representation of the machine's condition.
+Web Dashboard: This is the user-facing layer, responsible for visualising sensor readings (for example, as time-series charts), showing the machine's current status, and displaying any alerts raised by the AI/ML layer.
+User: At the top of the architecture is the human user (for example, a maintenance engineer or, in this project's context, the evaluators of the project), who observes the dashboard and would, in a full deployment, act on any alerts raised by the system.
+The dashed feedback arrow in Figure 8.1 represents the fact that the simulated machine continuously generates new sensor data over time, which keeps flowing upward through the pipeline, keeping the Digital Twin and dashboard updated rather than showing only a single, one-time snapshot.
+9. MACHINE SIMULATION
+For consistency throughout this report, we chose a single example machine to simulate: a three-phase induction motor, of the kind commonly used to drive pumps, fans, conveyors, and other industrial equipment. This choice was made because induction motors have a small, well-understood set of parameters (temperature, vibration, speed, current) that are commonly monitored in real industrial settings, which makes them a reasonable and relatable example for a monitoring and fault-detection project.
+9.1 Machine Parameters and Normal Operating Range
+Table 9.1 lists the parameters simulated for the motor, along with an assumed normal operating range and an illustrative fault threshold. These values are chosen to be realistic and representative of a small-to-medium industrial motor, but they are illustrative assumptions made for this project rather than measurements taken from a specific real motor or its datasheet.
+Parameter
+Unit
+Normal Range (assumed)
+Illustrative Fault Threshold
+Temperature
+°C
+40 – 65
+Above 80
+Vibration
+mm/s (RMS)
+0.5 – 2.5
+Above 4.5
+Motor Speed (RPM)
+RPM
+1420 – 1480
+Below 1300 or above 1550
+Current
+Amperes (A)
+4.5 – 6.0
+Above 8.0
+Table 9.1: Simulated Motor Parameters, Assumed Normal Ranges, and Illustrative Fault Thresholds
+9.2 Simulated Fault Conditions
+To make the Digital Twin's monitoring and fault-detection behaviour demonstrable, the simulation is designed to be able to produce a small set of fault conditions in addition to normal operation:
+	•	Overheating: temperature gradually rises above the normal range, simulating a cooling problem or overload.
+	•	Excessive vibration: vibration readings increase, simulating a bearing wear or misalignment issue.
+	•	Speed fluctuation: RPM becomes unstable or drifts outside the normal range, simulating a load or supply irregularity.
+	•	Combined fault: two or more parameters drift out of range at the same time, simulating a more serious developing problem.
+9.3 How the Digital Twin Responds
+When the simulated machine is in a normal state, the Digital Twin simply reflects the incoming values on the dashboard, and the AI/ML layer's anomaly score stays low. When a fault scenario is triggered (as described in Chapter 15, Experiment/Simulation Design), the simulated sensor values begin to drift outside their normal ranges, the autoencoder's reconstruction error rises, and once the resulting anomaly score crosses a chosen threshold, the Digital Twin marks the machine's state as abnormal and the dashboard displays an alert.
+10. SENSOR DATA SIMULATION
+This chapter presents example simulated sensor datasets for the induction motor described in Chapter 9. All values shown in this chapter and throughout this report are SIMULATED DATA, generated to resemble plausible sensor behaviour; they are not measurements taken from a real machine, and they should not be interpreted as experimental results.
+10.1 Simulated Parameters
+	•	Temperature (°C): simulated using a slowly varying baseline with small random noise, occasionally drifting upward to represent an overheating fault.
+	•	Vibration (mm/s, RMS): simulated with a low baseline and occasional spikes to represent bearing or alignment faults.
+	•	Motor Speed / RPM: simulated around a nominal speed with small fluctuations, and larger deviations to represent speed-related faults.
+	•	Current (A): simulated in proportion to load and correlated loosely with temperature and speed, since a real motor's current draw typically responds to the same stresses.
+	•	Pressure: not applicable to this project, since an induction motor does not have a standard pressure parameter; this parameter would be relevant if a different machine, such as an air compressor, were chosen instead.
+10.2 Example Dataset — Normal Operating Condition (Simulated)
+Timestamp
+Temp (°C)
+Vibration (mm/s)
+RPM
+Current (A)
+Status
+08:00:00
+52.3
+1.4
+1452
+5.1
+Normal
+08:00:05
+52.6
+1.5
+1449
+5.2
+Normal
+08:00:10
+53.0
+1.3
+1455
+5.0
+Normal
+08:00:15
+52.8
+1.6
+1451
+5.3
+Normal
+Table 10.1: Example Simulated Sensor Readings Under Normal Operating Condition
+10.3 Example Dataset — Developing Fault Condition (Simulated)
+Timestamp
+Temp (°C)
+Vibration (mm/s)
+RPM
+Current (A)
+Status
+09:15:00
+68.4
+2.1
+1448
+5.6
+Normal
+09:15:05
+72.1
+2.4
+1440
+5.9
+Watch
+09:15:10
+77.6
+3.0
+1435
+6.4
+Watch
+09:15:15
+83.2
+4.8
+1390
+8.3
+Fault (Overheating + Vibration)
+Table 10.2: Example Simulated Sensor Readings During a Developing Overheating and Vibration Fault
+As Table 10.2 illustrates, in a realistic fault scenario the parameters do not usually jump instantly from normal to faulty; instead, they typically drift gradually, which is exactly the pattern that a well-trained anomaly detection model should be able to catch before the fault becomes severe.
+11. AI/ML FAULT DETECTION
+For detecting faults from the simulated sensor data, this project proposes an autoencoder-based anomaly detection approach. This choice follows directly from the literature reviewed in Chapter 5, particularly Ben Hnaien et al. [1], whose Digital Twin fault-diagnosis pipeline for a real robot arm used the same core technique.
+11.1 Why an Autoencoder
+An autoencoder is a type of neural network trained to compress its input into a smaller internal representation and then reconstruct the original input from that compressed form. When an autoencoder is trained only on data representing normal machine behaviour, it becomes good at reconstructing normal patterns but comparatively poor at reconstructing patterns it has not seen before, such as those produced during a fault. This property makes autoencoders well suited to anomaly detection in situations, like ours, where labelled fault data is limited or, in our simulated case, needs to be deliberately generated rather than collected from real faults.
+11.2 Proposed Detection Pipeline
+Training on normal data: The autoencoder is proposed to be trained using only simulated sensor readings collected during normal operating conditions, so that it learns the typical relationships between temperature, vibration, RPM, and current.
+Reconstruction: For each new sensor reading (or short window of readings), the trained autoencoder attempts to reconstruct the input from its compressed internal representation.
+Reconstruction Error: The difference between the actual input and the reconstructed output is measured, typically using mean squared error:
+Reconstruction Error (RE) = (1/n) * Σ (x_i − x'_i)²
+ 
+where x_i is the i-th actual sensor value in the input window,
+and x'_i is the corresponding reconstructed value produced by the autoencoder.
+Anomaly Score: The reconstruction error is proposed to be used directly, or after simple normalisation, as an anomaly score for the current reading:
+Anomaly Score = Reconstruction Error (RE)
+ 
+Fault Alert is raised if: Anomaly Score > Threshold (T)
+ 
+where T is chosen based on the range of reconstruction errors observed
+during training on normal data (for example, mean + 3 × standard deviation).
+Fault Alert: If the anomaly score exceeds a chosen threshold, the reading is flagged as a possible fault, and this information is passed to the Digital Twin Engine and, from there, to the dashboard as an alert.
+11.3 Note on Implementation Status
+This chapter describes the proposed AI/ML approach and the reasoning behind it. Unless training and evaluation have actually been carried out at the time of submission, the specific threshold value, model architecture (number of layers and neurons), and any accuracy figures should be treated as design choices to be finalised during implementation, not as reported experimental results.
+12. TECHNOLOGY STACK
+Table 12.1 lists the technology stack proposed for implementing the system described in this report. Every entry is marked as "Proposed" because, unless a specific implementation has already been completed and verified at the time of submission, this report should be read as a system design rather than a record of a working, deployed application. Any of these choices could reasonably be substituted with an equivalent tool without changing the overall architecture described in Chapter 8.
+Layer
+Suggested Technology
+Status
+Purpose
+Frontend
+React / Next.js
+Proposed
+For building the web dashboard that displays sensor charts, machine status, and alerts.
+Backend
+Python (Flask / FastAPI) or Node.js
+Proposed
+For handling simulated sensor data, running the AI model, and serving data to the frontend.
+Database
+MongoDB / Firebase
+Proposed
+For storing historical sensor readings and detected anomaly events.
+Machine Learning
+Python, NumPy, Pandas, Scikit-learn / TensorFlow
+Proposed
+For building, training, and running the autoencoder-based anomaly detection model.
+Visualization
+Chart.js / Recharts
+Proposed
+For rendering real-time or near-real-time charts of sensor parameters on the dashboard.
+Digital Twin Simulation
+Python-based simulation script
+Proposed
+For generating the simulated machine behaviour and sensor readings described in Chapters 9 and 10.
+Table 12.1: Proposed Technology Stack for the Software-Based Digital Twin System
+13. IMPLEMENTATION METHODOLOGY
+The system described in this report is intended to be implemented in the step-by-step order shown in Table 13.1. This order was chosen so that each step produces something that the next step depends on — for example, the simulated data from Step 3 is needed before the Digital Twin model in Step 4 can be meaningfully tested, and the trained model from Step 6 is needed before anomaly scores can be calculated in Step 7.
+Step
+Task
+Description
+1
+Define the machine
+Select a single industrial machine to model consistently throughout the project (an induction motor, in our case) and identify the parameters relevant to its health.
+2
+Define machine parameters
+List the specific parameters to simulate and monitor (temperature, vibration, RPM, current) along with assumed normal ranges, as done in Chapter 9.
+3
+Generate simulated sensor data
+Build a simulation module that produces time-series values for each parameter, under both normal and fault conditions, as described in Chapter 10.
+4
+Create the Digital Twin model
+Implement the software object/model that holds the current and recent state of the virtual machine, combining incoming sensor values into a coherent picture.
+5
+Store / process data
+Set up a backend service and database to receive, validate, and store the simulated sensor readings for both real-time use and later analysis.
+6
+Train the anomaly detection model
+Train the proposed autoencoder using only the simulated "normal operation" dataset, so it learns what typical sensor behaviour looks like.
+7
+Calculate the anomaly score
+Pass new (simulated) sensor readings through the trained autoencoder and compute the reconstruction-error-based anomaly score, as explained in Chapter 11.
+8
+Display data on the dashboard
+Build the frontend dashboard to show live sensor charts, the current machine status, and the history of past readings.
+9
+Generate fault alerts
+Compare each anomaly score against the chosen threshold and raise a visible alert on the dashboard whenever the threshold is exceeded.
+10
+Evaluate the system
+Run the simulation scenarios described in Chapter 15 and observe whether the system behaves as expected, noting any adjustments needed to thresholds or simulation parameters.
+Table 13.1: Step-by-Step Implementation Methodology
+14. WORKFLOW
+Once implemented, the system is intended to operate as a continuous loop rather than a one-time process. The simulation module generates a new set of sensor values for the virtual machine at regular intervals (for example, every few seconds). Each new set of values is sent to the backend, which stores it and forwards it to the trained autoencoder model.
+The autoencoder computes a reconstruction of the incoming values and, from that, an anomaly score. This score, along with the raw sensor values, is used to update the Digital Twin model's internal state. The updated state is then pushed to the web dashboard, where charts and status indicators refresh to reflect the latest data. If the anomaly score for the current reading (or a short recent window of readings) crosses the chosen threshold, the dashboard additionally displays a fault alert, drawing the user's attention to the specific parameter or parameters that appear abnormal.
+This loop — simulate, process, detect, visualise, alert — repeats continuously for as long as the system is running, which is what allows it to demonstrate real-time monitoring rather than only a single, static analysis of one dataset.
+15. EXPERIMENT / SIMULATION DESIGN
+To test the proposed system in a structured way, five simulation scenarios are planned, summarised in Table 15.1. It is important to state clearly that these are simulation scenarios designed to exercise the software system, not real industrial experiments performed on physical equipment; the goal is to check whether the Digital Twin and AI/ML components behave sensibly under a range of plausible operating patterns.
+Scenario
+Name
+Description
+Scenario 1
+Normal Operating Condition
+All parameters (temperature, vibration, RPM, current) remain within their normal ranges throughout the run, with only small random fluctuations.
+Scenario 2
+Gradual Temperature Increase
+Temperature is made to rise steadily over a period of simulated time, while other parameters stay largely normal, to test whether the system catches a slow-developing thermal fault.
+Scenario 3
+Excessive Vibration
+Vibration values are increased beyond the normal range while other parameters remain close to normal, to test detection of a mechanical (e.g., bearing) type fault.
+Scenario 4
+Speed Fluctuation
+RPM is made to vary irregularly or drift outside its normal band, to test detection of load- or supply-related irregularities.
+Scenario 5
+Combined Abnormal Condition
+Two or more parameters (for example, temperature and vibration together, as in Table 10.2) drift out of range at the same time, to test detection of a more serious, compound fault.
+Table 15.1: Planned Simulation Scenarios
+Each scenario is intended to be run separately, with the resulting simulated sensor data passed through the full pipeline described in Chapter 14, so that the system's response (in terms of anomaly score and alert behaviour) can be observed and compared across scenarios.
+16. RESULTS AND DISCUSSION
+At the time of writing this report, this project is being presented primarily as a system design and simulation plan. Unless actual implementation, training, and testing have been completed and verified, no accuracy figures, precision/recall values, graphs of real anomaly scores, or other experimental results are reported here, since presenting such figures without having actually produced them would misrepresent the state of the work. Instead, this chapter describes the Expected Results / Simulation Observations that the system is designed to produce, based on how the individual components are intended to behave.
+16.1 Expected Behaviour Under Normal Conditions (Scenario 1)
+Under the normal-condition scenario, the dashboard is expected to show sensor readings staying within their defined normal ranges, and the anomaly score produced by the autoencoder is expected to remain low and stable, since this is the type of data the model was trained on. No fault alerts should be raised during this scenario.
+16.2 Expected Behaviour Under Fault Scenarios (Scenarios 2–5)
+For the gradual temperature increase, excessive vibration, speed fluctuation, and combined fault scenarios, the anomaly score is expected to rise as the relevant parameters drift further from the ranges seen during training. If the autoencoder and threshold are set up as intended, the anomaly score should cross the alert threshold before the affected parameter reaches its most extreme, clearly-faulty values, illustrating the basic idea of predictive maintenance: catching a developing problem a little before it becomes severe, rather than only after.
+16.3 What Would Count as a Meaningful Result
+If and when this system is actually implemented and tested, a meaningful result would be observing a clear difference between the anomaly scores produced during Scenario 1 (normal) and those produced during Scenarios 2 to 5 (faulty), along with the alert triggering at a reasonable point during the gradual drift rather than only at the very end. Any such results, once genuinely obtained from running the implemented system, should replace this chapter's expected-results discussion with actual figures, tables, and charts, clearly distinguished from this design-stage description.
+17. ADVANTAGES
+	•	No expensive hardware required: the entire system can be built and demonstrated using only software, without needing to purchase or access real industrial machines or sensors.
+	•	Safe fault simulation: fault conditions can be simulated freely, without any risk of damaging real equipment or endangering people.
+	•	Continuous monitoring: once running, the system can, in principle, observe the (simulated) machine's parameters continuously rather than only at scheduled inspection times.
+	•	Early anomaly detection: the autoencoder-based approach is specifically designed to catch developing patterns before they become extreme, supporting the goal of predictive maintenance.
+	•	Easy experimentation: simulation parameters can be changed quickly to test many different fault scenarios, which would be far more difficult and time-consuming with a real machine.
+	•	Scalable architecture: the layered design described in Chapter 8 could, in principle, be extended to monitor multiple simulated machines by adding more instances of the lower layers without redesigning the whole system.
+	•	Useful for predictive maintenance education and research: the project demonstrates the key ideas behind industrial predictive maintenance in a form that is accessible for academic learning and further exploration.
+18. LIMITATIONS
+Being transparent about the limitations of this project is important, since it clarifies exactly what has been demonstrated and what would still need to be addressed before a similar system could be used in a real industrial setting.
+	•	Simulation may not perfectly represent a real machine: the relationships between temperature, vibration, speed, and current in our simulation are simplified approximations and will not capture every nuance of how a real induction motor actually behaves.
+	•	Simulated sensor data may differ from real industrial sensor noise: real sensors have their own noise characteristics, calibration issues, and occasional missing or corrupted readings, which our simulation may not fully replicate.
+	•	Real Digital Twins require reliable real-time data: a genuine industrial deployment would depend on a stable, low-latency data pipeline from real sensors, which introduces engineering challenges (network reliability, sensor failure, time synchronisation) that this software-only project does not need to solve.
+	•	AI performance depends on training data: the autoencoder's ability to detect faults depends heavily on how representative the simulated "normal" training data is; if the simulation does not cover the full range of genuine normal behaviour, the model could raise false alarms or, conversely, miss real anomalies.
+	•	Hardware integration is not included: this project does not connect to or control any real industrial machine, sensor, or actuator; it is a conceptual and software demonstration only.
+19. APPLICATIONS
+Although this project is implemented purely in software, the underlying pattern of Digital Twin-based monitoring and AI-based fault detection has a number of real-world applications, which help explain why this is a worthwhile area to study.
+Smart manufacturing: Factories increasingly use Digital Twins to monitor production-line equipment continuously, aiming to reduce unplanned downtime and improve overall efficiency.
+Predictive maintenance: Across many industries, the core idea demonstrated in this project — catching a developing fault before it becomes a breakdown — is the basis of predictive maintenance programs that aim to schedule repairs proactively rather than reactively.
+Industrial robotics: As seen in Ben Hnaien et al. [1], Digital Twins combined with AI-based anomaly detection are already being applied to industrial robot arms to catch faults early and support more reliable automation.
+Factory monitoring: Beyond individual machines, Digital Twin concepts can be extended to monitor entire factory floors, tracking multiple machines and their interactions.
+Energy management: Monitoring parameters like current and load can also support energy-efficiency goals, by identifying when equipment is running inefficiently or drawing more power than expected.
+Process optimization: Data collected through continuous monitoring can, over time, be used to identify patterns that help optimise how a process or machine is operated, beyond just fault detection.
+20. FUTURE SCOPE
+This project, as designed, is a software-only, simulation-based demonstration, and there are several clear directions in which it could be extended, many of which connect directly to the research themes discussed in Chapter 5.
+Real IoT sensors: The most direct extension would be to replace the simulated sensor module with real IoT sensors (temperature, vibration, current sensors) attached to an actual small motor or machine, so that the Digital Twin reflects genuine physical data instead of simulated data.
+Edge computing: Rather than sending all raw sensor data to a central server, some processing (such as basic filtering or even part of the anomaly detection) could be moved closer to the machine itself, reducing delay and network load, an approach discussed in the hardware acceleration survey by Xu, Banerjee and Gupta [9].
+Cloud Digital Twins: The Digital Twin model and dashboard could be hosted on cloud infrastructure, allowing the system to be accessed remotely and potentially to monitor machines across multiple physical locations.
+5G/6G connectivity: For a factory with many machines and sensors, fast and reliable wireless connectivity becomes important for moving sensor data with minimal delay; the AI-native network slicing approach studied by Abo-eleneen et al. [6] is directly relevant to how such a system could manage its own network resources automatically.
+Federated learning: If this system were deployed across multiple factories or organisations, each with its own Digital Twin, federated learning approaches such as the knowledge-graph-based client selection method proposed by Zhang et al. [8] could allow the underlying anomaly detection models to improve using data from all sites without any one site having to share its raw sensor data with the others.
+More advanced AI agents: Instead of only raising a simple threshold-based alert, a future version of this system could hand off decisions to a more autonomous software agent, following the kind of "framed autonomy" described in the Agentic BPM manifesto [7] or the formal agent-reasoning approaches of De Giacomo et al. [3][4], so that actions like pausing a machine or scheduling maintenance could be taken with a documented, explainable reasoning process.
+Real industrial machine integration: Ultimately, the long-term extension of this project would be to integrate it with an actual industrial machine in a controlled lab setting, allowing the Digital Twin, AI detection model, and dashboard developed here to be validated against real fault conditions rather than only simulated ones.
+21. CONCLUSION
+This project set out to explore whether a software-only Digital Twin, without any physical industrial hardware, could meaningfully demonstrate the core ideas behind real-time monitoring and predictive fault detection. By choosing a single example machine (an induction motor), simulating its key sensor parameters under both normal and fault conditions, and proposing an autoencoder-based anomaly detection pipeline built on the same core idea used in real, experimentally validated research such as Ben Hnaien et al. [1], this project shows that the complete conceptual chain of a Digital Twin system — from data generation, through processing and AI-based analysis, to visualisation and alerting — can be built and reasoned about entirely in software.
+At the same time, this report has tried to be honest about what such a software-only system can and cannot claim. It cannot replace the validation that comes from testing on a real machine with real sensor noise and real fault behaviour, and any results obtained from it should be understood as simulation observations rather than experimental proof of real-world performance. What it can do, and what this project aims to demonstrate, is a clear, working design that captures the essential logic of Digital Twin-based predictive maintenance in an accessible, low-cost, and safe form, suitable for academic learning and as a foundation for future, more hardware-integrated work.
+Looking ahead, as discussed in Chapter 20, the ideas explored in this project connect naturally to a much larger and currently very active area of research — combining Digital Twins with AI agents, edge and 6G networking, and federated learning to build more complete, autonomous industrial monitoring systems. This project represents a small, deliberately scoped first step in that direction.
+22. TEAM CONTRIBUTION
+This project was carried out jointly by the three team members listed below. The specific division of work is summarised in Table 22.1; team members should replace the placeholders with the actual tasks each person handled before final submission.
+Team Member
+Area(s) of Contribution
+Abhinit Kumar
+[Contribution to be specified]
+Supriyo
+[Contribution to be specified]
+Suprovat
+[Contribution to be specified]
+Table 22.1: Division of Work Among Team Members
+All three team members were jointly involved in the overall planning, discussion, and review of the project report.
+23. REFERENCES
+The following references, listed in IEEE style, are drawn from the research material reviewed for this project (see Chapter 5, Literature Review). All bibliographic details are reproduced as provided in the source material used for this review; none of the details below have been invented.
+[1] I. Ben Hnaien, E. Gascard, Z. Simeu-Abazi, H. Dhouibi, and Q. B. Duong, "Unsupervised anomaly detection in robotic systems via high-fidelity Digital Twins and deep autoencoders," International Journal of Intelligent Robotics and Applications, vol. 10, no. 2, pp. 475–489, 2026. https://doi.org/10.1007/s41315-025-00509-4
+[2] X. Liu and I. David, "AI Simulation by Digital Twins: Systematic Survey of the State of the Art and a Reference Framework," in Proc. ACM/IEEE 27th Int. Conf. Model Driven Engineering Languages and Systems (MODELS Companion '24), 2024. https://doi.org/10.1145/3652620.3688253
+[3] G. De Giacomo, F. Patrizi, and S. Sardiña, "Automatic Behavior Composition Synthesis," Artificial Intelligence, vol. 196, pp. 106–142, 2013. https://doi.org/10.1016/j.artint.2012.12.001
+[4] G. De Giacomo, Y. Lespérance, H. J. Levesque, and S. Sardiña, "IndiGolog: A High-Level Programming Language for Embedded Reasoning Agents," in Multi-Agent Programming: Languages, Platforms and Applications, Springer, 2009, ch. 2, pp. 31–72.
+[5] R. Shakeri et al., "Design Challenges of Multi-UAV Systems in Cyber-Physical Applications: A Comprehensive Survey and Future Directions," IEEE Communications Surveys & Tutorials, vol. 21, no. 4, pp. 3340–3385, 2019.
+[6] A. Abo-eleneen, M. Helmy, A. A. Abdellatif, A. Erbad, A. Mohamed, and M. Abdallah, "Learn to Slice, Slice to Learn: Unveiling Online Optimization and Reinforcement Learning for Slicing AI Services," arXiv preprint arXiv:2411.03686, 2024.
+[7] D. Calvanese, A. Casciani, G. De Giacomo, M. Dumas et al., "Agentic Business Process Management: A Research Manifesto," Information Systems, vol. 140, art. 102738, 2026.
+[8] B. Zhang, D. Wang, Y. Zhu, and Z. Han, "Data Divergence-Aware Client Selection via Knowledge Graph for Federated LLM Fine-Tuning," IEEE Transactions on Mobile Computing, 2025.
+[9] B. Xu, A. Banerjee, and S. K. S. Gupta, "Hardware Acceleration for Neural Networks: A Comprehensive Survey," arXiv preprint arXiv:2512.23914, 2025.
+24. APPENDIX
+A.1 Sample Simulated Sensor Dataset
+The table below shows a short, illustrative sequence of simulated readings across five time steps as a machine drifts from normal operation into a combined overheating and vibration fault. As with all sensor data in this report, these values are simulated for demonstration purposes.
+Step
+Temp (°C)
+Vibration (mm/s)
+RPM
+Current (A)
+Status
+1
+51.8
+1.3
+1450
+5.0
+Normal
+2
+52.4
+1.5
+1453
+5.1
+Normal
+3
+58.9
+2.6
+1441
+5.8
+Watch
+4
+66.7
+3.4
+1425
+6.7
+Watch
+5
+79.5
+4.9
+1385
+8.5
+Fault
+Table A.1: Sample Simulated Sensor Dataset (Illustrative Fault Progression)
+A.2 Important Equations
+Reconstruction Error (RE) = (1/n) * Σ (x_i − x'_i)²
+Anomaly Score = RE   (or a normalised version of RE)
+Fault Alert condition: Anomaly Score > Threshold (T)
+Suggested T = mean(RE_normal) + 3 × std(RE_normal)
+A.3 Sample Pseudocode — Simulated Sensor Data Generation
+FUNCTION generate_reading(state):
+    temperature = normal_range(52, noise=1.0)
+    vibration   = normal_range(1.5, noise=0.3)
+    rpm         = normal_range(1450, noise=5)
+    current     = normal_range(5.2, noise=0.2)
+ 
+    IF state == "fault_overheating":
+        temperature += drift_factor * time_elapsed
+        vibration   += 0.5 * drift_factor * time_elapsed
+ 
+    RETURN {temperature, vibration, rpm, current, timestamp: now()}
+A.4 Sample Pseudocode — Anomaly Scoring
+FUNCTION check_for_fault(reading, autoencoder, threshold):
+    reconstructed = autoencoder.reconstruct(reading)
+    error = mean_squared_error(reading, reconstructed)
+ 
+    IF error > threshold:
+        RETURN "FAULT ALERT", error
+    ELSE:
+        RETURN "NORMAL", error
+A.5 Screenshot Placeholders
+[Placeholder: Screenshot of the Web Dashboard — Normal Operating View]
+[Placeholder: Screenshot of the Web Dashboard — Fault Alert View]
+[Placeholder: Screenshot of Sensor Data Charts / Time-Series View]
+A.6 Future Implementation Notes
+This space is reserved for notes made during actual implementation — for example, the final choice of autoencoder architecture, the specific threshold value used, any challenges faced while building the simulation or dashboard, and any deviations from the design described in this report. These notes should be filled in once implementation work begins or progresses further.
