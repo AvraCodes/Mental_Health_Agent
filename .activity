@@ -5600,3 +5600,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-09-28T14:20:12Z | fix: minor typo
 2026-09-28T14:20:13Z | chore: bump version
 2026-09-28T14:20:14Z | chore: cleanup
+2026-09-28T14:20:15Z | chore: regenerate lockfile
