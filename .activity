@@ -5620,3 +5620,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-09-29T13:13:17Z | style: lint fixes
 2026-09-29T13:13:18Z | fix: minor typo
 2026-09-29T13:13:19Z | docs: update usage notes
+2026-09-29T13:13:20Z | fix: boundary condition
