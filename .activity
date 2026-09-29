@@ -5613,3 +5613,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-09-29T13:13:10Z | chore: regenerate lockfile
 2026-09-29T13:13:11Z | chore: sync config
 2026-09-29T13:13:12Z | docs: fix broken link
+2026-09-29T13:13:13Z | docs: clarify readme
