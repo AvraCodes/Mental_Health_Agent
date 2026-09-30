@@ -5624,3 +5624,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-09-29T13:13:21Z | refactor: extract helper
 2026-09-30T12:53:47Z | fix: off-by-one error
 2026-09-30T12:53:49Z | fix: off-by-one error
+2026-09-30T12:53:50Z | docs: fix broken link
