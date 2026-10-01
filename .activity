@@ -5634,3 +5634,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-10-01T13:45:25Z | refactor: rename variable
 2026-10-01T13:45:26Z | style: adjust spacing
 2026-10-01T13:45:27Z | fix: edge case handling
+2026-10-01T13:45:28Z | docs: clarify readme
