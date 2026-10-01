@@ -5638,3 +5638,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-10-01T13:45:29Z | docs: clarify readme
 2026-10-01T13:45:30Z | chore: sync config
 2026-10-01T13:45:31Z | docs: add inline docs
+2026-10-01T13:45:32Z | refactor: reduce nesting
