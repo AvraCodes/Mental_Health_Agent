@@ -5656,3 +5656,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-10-03T11:54:36Z | refactor: extract helper
 2026-10-03T11:54:37Z | docs: add inline docs
 2026-10-03T11:54:39Z | style: whitespace
+2026-10-03T11:54:40Z | chore: bump version
