@@ -5654,3 +5654,4 @@ Sat Aug 29 12:20:54 IST 2026 | trigger cache invalidation
 2026-10-02T13:00:17Z | chore: cleanup
 2026-10-02T13:00:18Z | docs: clarify readme
 2026-10-03T11:54:36Z | refactor: extract helper
+2026-10-03T11:54:37Z | docs: add inline docs
